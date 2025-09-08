@@ -1,7 +1,6 @@
 import os
 import time
 import json
-import re
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
@@ -11,45 +10,55 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
 
-def _clean_currency(val: str) -> str:
-    """Normalize currency like '$12,345.67' -> '12345.67'; empty string if no digits."""
-    if val is None:
-        return ""
-    s = str(val).strip()
-    s = s.replace("$", "").replace(",", " ")
-    s = re.sub(r"\s+", "", s)
-    return s if re.search(r"\d", s) else ""
-
-
 class TitlequoteScanner:
     def __init__(self):
         self.EP_BASE_URL = "https://titlequote.stlmsd.com/#/"
-        self.json_file_path = "tq_data.json"  # Save in repo root
+        self.json_file_path = "tq_data.json"  # write in repo root
 
-        # Remove old JSON file
+        # remove any previous output so git sees a fresh change
         if os.path.exists(self.json_file_path):
             os.remove(self.json_file_path)
             print(f"Deleted existing file: {self.json_file_path}")
 
-        # Configure Chrome
+        # headless Chrome (CI-friendly)
         options = Options()
         options.add_argument("--no-sandbox")
         options.add_argument("--disable-dev-shm-usage")
         options.add_argument("--headless=new")
 
-        self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+        self.driver = webdriver.Chrome(
+            service=Service(ChromeDriverManager().install()), options=options
+        )
         self.wait = WebDriverWait(self.driver, 60)
+
         self.data = []
+
+        # exact headers from the site (order matters)
+        self.headers = [
+            "Seller Name",
+            "Service Address",
+            "Zip Code",
+            "Locator",
+            "Quote ID",
+            "Quote Amount",
+            "Closing Date",
+            "Stage",
+            "Submitted By",
+        ]
 
     def scrape(self):
         try:
             self.driver.get(self.EP_BASE_URL)
             self.driver.maximize_window()
+
             self.login()
             self.change_no_of_results()
 
+            # paginate and collect
             while True:
                 self.get_data()
+
+                # paginator label looks like "1 – 100 of 367"
                 range_el = self.driver.find_element(By.CLASS_NAME, "mat-mdc-paginator-range-label")
                 parts = range_el.text.strip().split()
                 current_max = int(parts[2]) if len(parts) >= 3 and parts[2].isdigit() else 0
@@ -68,9 +77,15 @@ class TitlequoteScanner:
             raise
         finally:
             self.driver.quit()
+
         return self.json_file_path
 
     def login(self):
+        """
+        Uses env vars TQ_USERNAME/TQ_PASSWORD if available.
+        If not set (local/manual), pauses 30s so you can log in by hand.
+        In GitHub Actions you should provide secrets for non-interactive login.
+        """
         username = os.environ.get("TQ_USERNAME")
         password = os.environ.get("TQ_PASSWORD")
 
@@ -82,62 +97,50 @@ class TitlequoteScanner:
         self.wait.until(EC.presence_of_element_located((By.ID, "username")))
         self.driver.find_element(By.ID, "username").send_keys(username)
         self.driver.find_element(By.ID, "password").send_keys(password)
+
+        # matches your earlier working approach
         self.driver.find_elements(By.CLASS_NAME, "ng-touched")[0].find_element(By.TAG_NAME, "button").click()
         print("Logged in.")
-        time.sleep(15)
+        time.sleep(15)  # give the SPA time to load
 
     def change_no_of_results(self):
+        """Increase page size to reduce pagination (best-effort; safe to skip if controls change)."""
         try:
             self.wait.until(EC.presence_of_element_located((By.ID, "mat-select-0")))
             self.driver.find_element(By.ID, "mat-select-0").click()
             time.sleep(1)
+
             options_div = self.driver.find_element(By.ID, "mat-select-0-panel")
             options = options_div.find_elements(By.TAG_NAME, "mat-option")
             if options:
-                options[-1].click()
+                options[-1].click()  # usually the largest page size
                 print("Changed page size to max.")
             time.sleep(3)
         except Exception as e:
             print(f"Could not change page size: {e}")
 
     def get_data(self):
+        """Scrape one page into records with the exact site headers as keys."""
         self.wait.until(EC.presence_of_element_located((By.TAG_NAME, "tbody")))
         tbody = self.driver.find_element(By.TAG_NAME, "tbody")
         rows = tbody.find_elements(By.TAG_NAME, "tr")
 
+        added = 0
         for row in rows:
             cells = row.find_elements(By.TAG_NAME, "td")
+            if len(cells) < len(self.headers):
+                continue  # skip incomplete rows (e.g., placeholders)
 
-            def cell_txt(idx):
-                return cells[idx].text.strip() if 0 <= idx < len(cells) else ""
+            record = {}
+            for idx, header in enumerate(self.headers):
+                record[header] = cells[idx].text.strip()
 
-            service_address = cell_txt(1)
-            zip_code = cell_txt(2)
-            locator = cell_txt(3)
-            quote_id = cell_txt(4)
-            quote_amount = cell_txt(5)
-            closing_date = cell_txt(6)
-            stage = cell_txt(7)
+            # store only meaningful rows (need an identifier)
+            if record.get("Quote ID") or record.get("Locator"):
+                self.data.append(record)
+                added += 1
 
-            rec = {
-                "Trustee": "TitleQuote",
-                "Sale_date": closing_date or "",
-                "Sale_time": "",
-                "FileNo": quote_id or locator or "",
-                "PropAddress": service_address or "",
-                "PropCity": "",
-                "PropZip": zip_code or "",
-                "County": "",
-                "OpeningBid": _clean_currency(quote_amount),
-                "vendor": "",
-                "status- DROP DOWN": stage or "",
-                "Foreclosure Status": "",
-            }
-
-            if rec["FileNo"]:
-                self.data.append(rec)
-
-        print(f"Scraped {len(rows)} rows from this page")
+        print(f"Scraped {len(rows)} rows from this page; added {added} records")
 
     def next_page(self):
         try:
