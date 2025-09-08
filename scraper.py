@@ -172,4 +172,5 @@ class TitlequoteScanner:
             if rec["FileNo"]:
                 self.data.append(rec)
 
-        print(f"Scraped {len(rows)} row
+       print(f"Scraped {len(rows)} rows from this page")
+
