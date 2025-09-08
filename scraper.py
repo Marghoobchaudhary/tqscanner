@@ -24,11 +24,9 @@ def _clean_currency(val: str) -> str:
 class TitlequoteScanner:
     def __init__(self):
         self.EP_BASE_URL = "https://titlequote.stlmsd.com/#/"
-        self.output_directory_name = "TitlequoteScanner-Output"
-        self.json_file_path = f"output/{self.output_directory_name}/tq_data.json"
-        os.makedirs(f"output/{self.output_directory_name}", exist_ok=True)
+        self.json_file_path = "tq_data.json"  # Save in repo root
 
-        # Clean old file
+        # Remove old JSON file
         if os.path.exists(self.json_file_path):
             os.remove(self.json_file_path)
             print(f"Deleted existing file: {self.json_file_path}")
@@ -63,7 +61,7 @@ class TitlequoteScanner:
                 else:
                     break
 
-            self.append_to_json()
+            self.write_json()
         except Exception as e:
             print(f"[ERROR] {e}")
             self.save_debug_artifacts()
@@ -148,24 +146,10 @@ class TitlequoteScanner:
         except Exception:
             print("Reached last page or couldn't click next.")
 
-    def append_to_json(self):
-        existing = []
-        if os.path.exists(self.json_file_path):
-            try:
-                with open(self.json_file_path, "r", encoding="utf-8") as f:
-                    existing = json.load(f)
-            except json.JSONDecodeError:
-                print("Existing JSON corrupt; starting fresh.")
-
-        seen = {item.get("FileNo", "") for item in existing if item.get("FileNo")}
-        for rec in self.data:
-            if rec.get("FileNo") and rec["FileNo"] not in seen:
-                existing.append(rec)
-                seen.add(rec["FileNo"])
-
+    def write_json(self):
         with open(self.json_file_path, "w", encoding="utf-8") as f:
-            json.dump(existing, f, indent=2, ensure_ascii=False)
-        print(f"Appended data to {self.json_file_path}, total records: {len(existing)}")
+            json.dump(self.data, f, indent=2, ensure_ascii=False)
+        print(f"Saved {len(self.data)} records to {self.json_file_path}")
 
     def save_debug_artifacts(self):
         os.makedirs("artifacts", exist_ok=True)
