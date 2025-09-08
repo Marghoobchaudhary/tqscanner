@@ -704,6 +704,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "BRANDONVIEW LLC",
+    "Service Address": "515 OLIVE ST",
+    "Zip Code": "63101",
+    "Locator": "01170001007",
+    "Quote ID": "515706",
+    "Quote Amount": "$5880.12",
+    "Closing Date": "09/25/2025",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "D&G HOMES LLC",
     "Service Address": "7806 UNDERHILL DR",
     "Zip Code": "63133",
@@ -732,6 +743,17 @@
     "Locator": "37590001900",
     "Quote ID": "515707",
     "Quote Amount": "$3174.37",
+    "Closing Date": "09/25/2025",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "KRISTINA AND MARK SULLIVAN",
+    "Service Address": "16747 HICKORY CREST DR",
+    "Zip Code": "63011",
+    "Locator": "23V521101",
+    "Quote ID": "515702",
+    "Quote Amount": "$7531.65",
     "Closing Date": "09/25/2025",
     "Stage": "Pending Close",
     "Submitted By": ""
@@ -832,28 +854,6 @@
     "Quote ID": "515592",
     "Quote Amount": "Pending",
     "Closing Date": "09/24/2025",
-    "Stage": "In Progress",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "BRANDONVIEW LLC",
-    "Service Address": "515 OLIVE ST",
-    "Zip Code": "63101",
-    "Locator": "01170001007",
-    "Quote ID": "515706",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/25/2025",
-    "Stage": "In Progress",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "KRISTINA AND MARK SULLIVAN",
-    "Service Address": "16747 HICKORY CREST DR",
-    "Zip Code": "63011",
-    "Locator": "23V521101",
-    "Quote ID": "515702",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/25/2025",
     "Stage": "In Progress",
     "Submitted By": ""
   },
