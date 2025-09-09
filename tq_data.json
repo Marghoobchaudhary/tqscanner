@@ -759,6 +759,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "KNOX MANAGEMENT LLC",
+    "Service Address": "2901 GRAVOIS AVE",
+    "Zip Code": "63118",
+    "Locator": "20620000800",
+    "Quote ID": "515701",
+    "Quote Amount": "$13317.30",
+    "Closing Date": "09/25/2025",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "ROBERTA L REESE",
     "Service Address": "3543 LOUISIANA AVE",
     "Zip Code": "63118",
@@ -858,17 +869,6 @@
     "Submitted By": ""
   },
   {
-    "Seller Name": "KNOX MANAGEMENT LLC",
-    "Service Address": "2901 GRAVOIS AVE",
-    "Zip Code": "63118",
-    "Locator": "20620000800",
-    "Quote ID": "515701",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/25/2025",
-    "Stage": "In Progress",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "SHIRLEY MORRISON",
     "Service Address": "5926 ARENDES DR",
     "Zip Code": "63116",
@@ -876,6 +876,17 @@
     "Quote ID": "515699",
     "Quote Amount": "Pending",
     "Closing Date": "09/25/2025",
+    "Stage": "In Progress",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "JASON HAGAN",
+    "Service Address": "7736 W RANKEN AVE",
+    "Zip Code": "63117",
+    "Locator": "20J140093",
+    "Quote ID": "515808",
+    "Quote Amount": "Pending",
+    "Closing Date": "09/29/2025",
     "Stage": "In Progress",
     "Submitted By": ""
   }
