@@ -88,6 +88,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "KNOX MANAGEMENT LLC",
+    "Service Address": "13 BARTO DR",
+    "Zip Code": "63135",
+    "Locator": "10J541363",
+    "Quote ID": "514398",
+    "Quote Amount": "$2311.34",
+    "Closing Date": "09/11/2025",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "GARY WELLS JR",
     "Service Address": "2379 LA CUESTA DR",
     "Zip Code": "63031",
@@ -319,6 +330,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "TYLER KENNY",
+    "Service Address": "8714 WINDOM AVE",
+    "Zip Code": "63114",
+    "Locator": "14K230231",
+    "Quote ID": "515121",
+    "Quote Amount": "$1218.19",
+    "Closing Date": "09/18/2025",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "CONSTANCE M GRAY",
     "Service Address": "1610 PRENDERGAST LN",
     "Zip Code": "63138",
@@ -413,6 +435,17 @@
     "Locator": "24R230943",
     "Quote ID": "515481",
     "Quote Amount": "$2195.73",
+    "Closing Date": "09/22/2025",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "LARRY D BASS",
+    "Service Address": "5957 MCARTHUR AVE",
+    "Zip Code": "63120",
+    "Locator": "57230000200",
+    "Quote ID": "515986",
+    "Quote Amount": "$1185.43",
     "Closing Date": "09/22/2025",
     "Stage": "Pending Close",
     "Submitted By": ""
@@ -523,6 +556,17 @@
     "Locator": "24J520048",
     "Quote ID": "515594",
     "Quote Amount": "$4909.83",
+    "Closing Date": "09/24/2025",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "MELISSA R & DAVID L WILLIAMS",
+    "Service Address": "3370 W TENNYSON AVE",
+    "Zip Code": "63114",
+    "Locator": "13L220274",
+    "Quote ID": "515593",
+    "Quote Amount": "$381.94",
     "Closing Date": "09/24/2025",
     "Stage": "Pending Close",
     "Submitted By": ""
@@ -671,6 +715,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "DANIEL MOLINA",
+    "Service Address": "9926 MACKENZIE RD",
+    "Zip Code": "63123",
+    "Locator": "27J530941",
+    "Quote ID": "516021",
+    "Quote Amount": "$1530.68",
+    "Closing Date": "09/29/2025",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "JAMES ALLMAN",
     "Service Address": "1033 HAMPTON PARK DR",
     "Zip Code": "63117",
@@ -678,6 +733,17 @@
     "Quote ID": "515873",
     "Quote Amount": "$258.12",
     "Closing Date": "09/29/2025",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "RONALD AND KAREN BENDER",
+    "Service Address": "4212 STANMOOR DR",
+    "Zip Code": "63129",
+    "Locator": "31K141015",
+    "Quote ID": "516022",
+    "Quote Amount": "$212.28",
+    "Closing Date": "09/30/2025",
     "Stage": "Pending Close",
     "Submitted By": ""
   },
@@ -690,39 +756,6 @@
     "Quote Amount": "$1528.75",
     "Closing Date": "09/30/2025",
     "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "KNOX MANAGEMENT LLC",
-    "Service Address": "13 BARTO DR",
-    "Zip Code": "63135",
-    "Locator": "10J541363",
-    "Quote ID": "514398",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/11/2025",
-    "Stage": "In Progress",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "TYLER KENNY",
-    "Service Address": "8714 WINDOM AVE",
-    "Zip Code": "63114",
-    "Locator": "14K230231",
-    "Quote ID": "515121",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/18/2025",
-    "Stage": "In Progress",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "MELISSA R & DAVID L WILLIAMS",
-    "Service Address": "3370 W TENNYSON AVE",
-    "Zip Code": "63114",
-    "Locator": "13L220274",
-    "Quote ID": "515593",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/24/2025",
-    "Stage": "In Progress",
     "Submitted By": ""
   },
   {
@@ -744,6 +777,17 @@
     "Quote ID": "515699",
     "Quote Amount": "Pending",
     "Closing Date": "09/25/2025",
+    "Stage": "In Progress",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "US BANK NA",
+    "Service Address": "5066 DAVISON AVE",
+    "Zip Code": "63120",
+    "Locator": "51390001000",
+    "Quote ID": "516020",
+    "Quote Amount": "Pending",
+    "Closing Date": "09/30/2025",
     "Stage": "In Progress",
     "Submitted By": ""
   }
