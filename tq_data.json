@@ -1,60 +1,5 @@
 [
   {
-    "Seller Name": "KIMBERLY MITCHELL",
-    "Service Address": "12100 ARAGON AVE",
-    "Zip Code": "63138",
-    "Locator": "08D230355",
-    "Quote ID": "514232",
-    "Quote Amount": "$997.97",
-    "Closing Date": "09/10/2025",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "FOX FINANCIAL REALTY LLC",
-    "Service Address": "106 HORN AVE",
-    "Zip Code": "63125",
-    "Locator": "27G530044",
-    "Quote ID": "514231",
-    "Quote Amount": "$1878.89",
-    "Closing Date": "09/10/2025",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "FOX FINANCIAL REALTY LLC",
-    "Service Address": "104 HORN AVE",
-    "Zip Code": "63125",
-    "Locator": "27G530044",
-    "Quote ID": "514230",
-    "Quote Amount": "$1729.01",
-    "Closing Date": "09/10/2025",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "CHARLESA BUSH",
-    "Service Address": "4659 TENNESSEE AVE",
-    "Zip Code": "63111",
-    "Locator": "27680000900",
-    "Quote ID": "514228",
-    "Quote Amount": "$1483.75",
-    "Closing Date": "09/10/2025",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "FOX FINANCIAL REALTY LLC",
-    "Service Address": "3614 IOWA AVE",
-    "Zip Code": "63118",
-    "Locator": "16420001300",
-    "Quote ID": "514067",
-    "Quote Amount": "$889.75",
-    "Closing Date": "09/10/2025",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "JOHN AND BRANDI MAUPIN",
     "Service Address": "9604 GENTRY AVE",
     "Zip Code": "63125",
@@ -572,6 +517,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "LARRY & ANITA FUTRELL",
+    "Service Address": "6953 CLAREMORE DR",
+    "Zip Code": "63121",
+    "Locator": "15H240161",
+    "Quote ID": "515592",
+    "Quote Amount": "$2038.28",
+    "Closing Date": "09/24/2025",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "BRENDA DELOACH",
     "Service Address": "13533 PADDOCK RIDGE CT",
     "Zip Code": "63033",
@@ -748,12 +704,45 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "ALICE LEWIS",
+    "Service Address": "7069 IDLEWILD AVE",
+    "Zip Code": "63136",
+    "Locator": "14G510651",
+    "Quote ID": "516181",
+    "Quote Amount": "$158.89",
+    "Closing Date": "09/30/2025",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "RAMONA WILLIAMS COLLINS",
+    "Service Address": "210 VISTAOAK CT",
+    "Zip Code": "63021",
+    "Locator": "24R120622",
+    "Quote ID": "516180",
+    "Quote Amount": "$104.72",
+    "Closing Date": "09/30/2025",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "RONALD AND KAREN BENDER",
     "Service Address": "4212 STANMOOR DR",
     "Zip Code": "63129",
     "Locator": "31K141015",
     "Quote ID": "516022",
     "Quote Amount": "$212.28",
+    "Closing Date": "09/30/2025",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "US BANK NA",
+    "Service Address": "5066 DAVISON AVE",
+    "Zip Code": "63120",
+    "Locator": "51390001000",
+    "Quote ID": "516020",
+    "Quote Amount": "$3888.06",
     "Closing Date": "09/30/2025",
     "Stage": "Pending Close",
     "Submitted By": ""
@@ -770,22 +759,11 @@
     "Submitted By": ""
   },
   {
-    "Seller Name": "LARRY & ANITA FUTRELL",
-    "Service Address": "6953 CLAREMORE DR",
-    "Zip Code": "63121",
-    "Locator": "15H240161",
-    "Quote ID": "515592",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/24/2025",
-    "Stage": "In Progress",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "US BANK NA",
-    "Service Address": "5066 DAVISON AVE",
-    "Zip Code": "63120",
-    "Locator": "51390001000",
-    "Quote ID": "516020",
+    "Seller Name": "SUSAN GAGE",
+    "Service Address": "3222 COUNTRY HOLLOW DR",
+    "Zip Code": "63129",
+    "Locator": "31J440461",
+    "Quote ID": "516182",
     "Quote Amount": "Pending",
     "Closing Date": "09/30/2025",
     "Stage": "In Progress",
