@@ -770,6 +770,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "PATRICK JOHNSON",
+    "Service Address": "7020 CLAREMORE DR",
+    "Zip Code": "63121",
+    "Locator": "15H230061",
+    "Quote ID": "516506",
+    "Quote Amount": "$1260.02",
+    "Closing Date": "10/02/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "LINDA MOSES",
     "Service Address": "6701 ST OLAF DR",
     "Zip Code": "63134",
@@ -777,17 +788,6 @@
     "Quote ID": "516505",
     "Quote Amount": "$2473.54",
     "Closing Date": "10/02/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ALEXIS COLLIER",
-    "Service Address": "2720 LAKEPORT DR",
-    "Zip Code": "63043",
-    "Locator": "13N410143",
-    "Quote ID": "516350",
-    "Quote Amount": "$2427.80",
-    "Closing Date": "10/08/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -836,13 +836,13 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "PATRICK JOHNSON",
-    "Service Address": "7020 CLAREMORE DR",
-    "Zip Code": "63121",
-    "Locator": "15H230061",
-    "Quote ID": "516506",
+    "Seller Name": "ALEXIS COLLIER",
+    "Service Address": "2720 LAKEPORT DR",
+    "Zip Code": "63043",
+    "Locator": "13N410143",
+    "Quote ID": "516350",
     "Quote Amount": "Pending",
-    "Closing Date": "10/02/2025",
+    "Closing Date": "10/08/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
