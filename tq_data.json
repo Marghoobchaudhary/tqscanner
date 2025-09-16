@@ -792,6 +792,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ALEXIS COLLIER",
+    "Service Address": "2720 LAKEPORT DR",
+    "Zip Code": "63043",
+    "Locator": "13N410143",
+    "Quote ID": "516350",
+    "Quote Amount": "$2456.30",
+    "Closing Date": "10/08/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "DALE FRANKENREITER",
     "Service Address": "5130 GREER AVE",
     "Zip Code": "63115",
@@ -832,17 +843,6 @@
     "Quote ID": "516351",
     "Quote Amount": "Pending",
     "Closing Date": "10/01/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ALEXIS COLLIER",
-    "Service Address": "2720 LAKEPORT DR",
-    "Zip Code": "63043",
-    "Locator": "13N410143",
-    "Quote ID": "516350",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/08/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
