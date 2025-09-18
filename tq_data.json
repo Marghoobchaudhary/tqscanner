@@ -682,6 +682,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MARGARET FLOYD",
+    "Service Address": "8729 GOODFELLOW BLVD-63147",
+    "Zip Code": "63136",
+    "Locator": "61350000400",
+    "Quote ID": "516975",
+    "Quote Amount": "$1230.61",
+    "Closing Date": "10/05/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "RANDY WADLEY",
     "Service Address": "2121 CHIPPEWA ST",
     "Zip Code": "63118",
@@ -700,6 +711,17 @@
     "Quote ID": "516827",
     "Quote Amount": "$863.53",
     "Closing Date": "10/05/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "IZEAR POLK",
+    "Service Address": "1435 E OBEAR AVE",
+    "Zip Code": "63107",
+    "Locator": "24710002400",
+    "Quote ID": "516973",
+    "Quote Amount": "$4957.62",
+    "Closing Date": "10/07/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -748,6 +770,39 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "RODZELL GRAVES",
+    "Service Address": "3943 ILLINOIS AVE",
+    "Zip Code": "63118",
+    "Locator": "25610003000",
+    "Quote ID": "516976",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/02/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BRANDONVIEW",
+    "Service Address": "720 OLIVE ST",
+    "Zip Code": "63101",
+    "Locator": "01820000107",
+    "Quote ID": "516979",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/06/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BRANDONVIEW",
+    "Service Address": "720 OLIVE ST",
+    "Zip Code": "63101",
+    "Locator": "01820000100",
+    "Quote ID": "516978",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/06/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "PHL413PTL LLC",
     "Service Address": "3018 TEXAS AVE",
     "Zip Code": "63118",
@@ -777,6 +832,17 @@
     "Quote ID": "516863",
     "Quote Amount": "Pending",
     "Closing Date": "10/06/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "AMY M WOLF",
+    "Service Address": "6817 MINNESOTA AVE",
+    "Zip Code": "63111",
+    "Locator": "30010000600",
+    "Quote ID": "516974",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/07/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
