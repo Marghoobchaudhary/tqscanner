@@ -473,6 +473,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JOSEPH HALL JR",
+    "Service Address": "11303 LARIMORE RD",
+    "Zip Code": "63138",
+    "Locator": "09E220884",
+    "Quote ID": "516206",
+    "Quote Amount": "$7468.84",
+    "Closing Date": "09/30/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "JILL K DAVIS",
     "Service Address": "522 BEACON POINT LN",
     "Zip Code": "63040",
@@ -605,6 +616,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "NYKEBA JONES",
+    "Service Address": "4651 MINNESOTA AVE",
+    "Zip Code": "63111",
+    "Locator": "27460003300",
+    "Quote ID": "516352",
+    "Quote Amount": "$5309.66",
+    "Closing Date": "10/01/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ADRIENE WALLS",
+    "Service Address": "1543 HOGAN ST-63106",
+    "Zip Code": "63106",
+    "Locator": "23100000200",
+    "Quote ID": "516351",
+    "Quote Amount": "$10141.55",
+    "Closing Date": "10/01/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "SUSAN C BOND",
     "Service Address": "500 ARBORWOOD DR",
     "Zip Code": "63021",
@@ -671,6 +704,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "SADEK SHEETAH",
+    "Service Address": "4045 WALSH ST-63116",
+    "Zip Code": "63116",
+    "Locator": "56570003100",
+    "Quote ID": "516971",
+    "Quote Amount": "$1288.62",
+    "Closing Date": "10/07/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KEITH DANIELS",
+    "Service Address": "3446 HENRIETTA ST",
+    "Zip Code": "63104",
+    "Locator": "12880000200",
+    "Quote ID": "516970",
+    "Quote Amount": "$193.47",
+    "Closing Date": "10/07/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "REGINALD C JOHNSON",
     "Service Address": "1007 HUTTON PL",
     "Zip Code": "63135",
@@ -690,39 +745,6 @@
     "Quote Amount": "$711.72",
     "Closing Date": "10/07/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JOSEPH HALL JR",
-    "Service Address": "11303 LARIMORE RD",
-    "Zip Code": "63138",
-    "Locator": "09E220884",
-    "Quote ID": "516206",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/30/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "NYKEBA JONES",
-    "Service Address": "4651 MINNESOTA AVE",
-    "Zip Code": "63111",
-    "Locator": "27460003300",
-    "Quote ID": "516352",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/01/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ADRIENE WALLS",
-    "Service Address": "1543 HOGAN ST-63106",
-    "Zip Code": "63106",
-    "Locator": "23100000200",
-    "Quote ID": "516351",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/01/2025",
-    "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
   {
@@ -755,6 +777,17 @@
     "Quote ID": "516863",
     "Quote Amount": "Pending",
     "Closing Date": "10/06/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LEVI CALMESE",
+    "Service Address": "18 CYNTHIANA CT",
+    "Zip Code": "63031",
+    "Locator": "07L510635",
+    "Quote ID": "516918",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/08/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
