@@ -1,49 +1,5 @@
 [
   {
-    "Seller Name": "MARK MULLENS",
-    "Service Address": "4502 1/2 SEIBERT AVE",
-    "Zip Code": "63123",
-    "Locator": "25H220427",
-    "Quote ID": "515122",
-    "Quote Amount": "$390.47",
-    "Closing Date": "09/18/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TYLER KENNY",
-    "Service Address": "8714 WINDOM AVE",
-    "Zip Code": "63114",
-    "Locator": "14K230231",
-    "Quote ID": "515121",
-    "Quote Amount": "$1218.19",
-    "Closing Date": "09/18/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CONSTANCE M GRAY",
-    "Service Address": "1610 PRENDERGAST LN",
-    "Zip Code": "63138",
-    "Locator": "09E510514",
-    "Quote ID": "514872",
-    "Quote Amount": "$105.30",
-    "Closing Date": "09/18/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DARRYL M EASLEY",
-    "Service Address": "321 CAITHNESS RD",
-    "Zip Code": "63137",
-    "Locator": "11E620955",
-    "Quote ID": "514871",
-    "Quote Amount": "$1563.28",
-    "Closing Date": "09/18/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "ALAN GRAHAM",
     "Service Address": "521 FASSEN ST",
     "Zip Code": "63111",
@@ -726,6 +682,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "AMY M WOLF",
+    "Service Address": "6817 MINNESOTA AVE",
+    "Zip Code": "63111",
+    "Locator": "30010000600",
+    "Quote ID": "516974",
+    "Quote Amount": "$2812.89",
+    "Closing Date": "10/07/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "IZEAR POLK",
     "Service Address": "1435 E OBEAR AVE",
     "Zip Code": "63107",
@@ -781,6 +748,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "LEVI CALMESE",
+    "Service Address": "18 CYNTHIANA CT",
+    "Zip Code": "63031",
+    "Locator": "07L510635",
+    "Quote ID": "516918",
+    "Quote Amount": "$3656.74",
+    "Closing Date": "10/08/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "RODZELL GRAVES",
     "Service Address": "3943 ILLINOIS AVE",
     "Zip Code": "63118",
@@ -825,22 +803,33 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "AMY M WOLF",
-    "Service Address": "6817 MINNESOTA AVE",
-    "Zip Code": "63111",
-    "Locator": "30010000600",
-    "Quote ID": "516974",
+    "Seller Name": "SONJA CURETON",
+    "Service Address": "4969 WABADA AVE",
+    "Zip Code": "63113",
+    "Locator": "44910103200",
+    "Quote ID": "517105",
     "Quote Amount": "Pending",
-    "Closing Date": "10/07/2025",
+    "Closing Date": "10/08/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "LEVI CALMESE",
-    "Service Address": "18 CYNTHIANA CT",
-    "Zip Code": "63031",
-    "Locator": "07L510635",
-    "Quote ID": "516918",
+    "Seller Name": "PATRICIA IVY",
+    "Service Address": "4873 SAN FRANCISCO AVE",
+    "Zip Code": "63115",
+    "Locator": "43880504900",
+    "Quote ID": "517104",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/08/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "HUDSON & MCKEE REALESTTE LLC",
+    "Service Address": "762 BAYARD AVE",
+    "Zip Code": "63108",
+    "Locator": "37620501000",
+    "Quote ID": "517103",
     "Quote Amount": "Pending",
     "Closing Date": "10/08/2025",
     "Stage": "In Progress",
