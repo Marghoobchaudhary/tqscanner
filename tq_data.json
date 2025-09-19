@@ -605,6 +605,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "RODZELL GRAVES",
+    "Service Address": "3943 ILLINOIS AVE",
+    "Zip Code": "63118",
+    "Locator": "25610003000",
+    "Quote ID": "516976",
+    "Quote Amount": "$5072.84",
+    "Closing Date": "10/02/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ALFRED J GREEN",
     "Service Address": "9606 LIFFORD CT",
     "Zip Code": "63136",
@@ -677,6 +688,17 @@
     "Locator": "01820000107",
     "Quote ID": "516979",
     "Quote Amount": "$20796.82",
+    "Closing Date": "10/06/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PHL413PTL LLC",
+    "Service Address": "3018 TEXAS AVE",
+    "Zip Code": "63118",
+    "Locator": "19810000300",
+    "Quote ID": "516869",
+    "Quote Amount": "$5147.44",
     "Closing Date": "10/06/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -781,6 +803,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "THOMAS L DAVIS",
+    "Service Address": "6804 MURRAY ST",
+    "Zip Code": "63121",
+    "Locator": "14G111773",
+    "Quote ID": "517113",
+    "Quote Amount": "$4314.42",
+    "Closing Date": "10/08/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "JAMES E DEVINE",
     "Service Address": "7008 GARESCHE AVE",
     "Zip Code": "63136",
@@ -803,6 +836,39 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "KNOX MANAGEMENT LLC",
+    "Service Address": "309 NEWELL DR",
+    "Zip Code": "63135",
+    "Locator": "11J241305",
+    "Quote ID": "517110",
+    "Quote Amount": "$-85.50",
+    "Closing Date": "10/08/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KNOX MANAGEMENT LLC",
+    "Service Address": "7124 WILLOW WOOD DR",
+    "Zip Code": "63121",
+    "Locator": "14H330757",
+    "Quote ID": "517109",
+    "Quote Amount": "$1648.40",
+    "Closing Date": "10/08/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KNOX MANAGEMENT LLC",
+    "Service Address": "10098 GROSVENOR DR",
+    "Zip Code": "63137",
+    "Locator": "11D130547",
+    "Quote ID": "517108",
+    "Quote Amount": "$0.00",
+    "Closing Date": "10/08/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "VINSON REALTY LLC",
     "Service Address": "223 N DELLWOOD AVE",
     "Zip Code": "63135",
@@ -814,25 +880,14 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "RODZELL GRAVES",
-    "Service Address": "3943 ILLINOIS AVE",
-    "Zip Code": "63118",
-    "Locator": "25610003000",
-    "Quote ID": "516976",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/02/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PHL413PTL LLC",
-    "Service Address": "3018 TEXAS AVE",
-    "Zip Code": "63118",
-    "Locator": "19810000300",
-    "Quote ID": "516869",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/06/2025",
-    "Stage": "In Progress",
+    "Seller Name": "PATRICIA IVY",
+    "Service Address": "4873 SAN FRANCISCO AVE",
+    "Zip Code": "63115",
+    "Locator": "43880504900",
+    "Quote ID": "517104",
+    "Quote Amount": "$2161.50",
+    "Closing Date": "10/08/2025",
+    "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
   {
@@ -858,50 +913,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "THOMAS L DAVIS",
-    "Service Address": "6804 MURRAY ST",
-    "Zip Code": "63121",
-    "Locator": "14G111773",
-    "Quote ID": "517113",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/08/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KNOX MANAGEMENT LLC",
-    "Service Address": "309 NEWELL DR",
-    "Zip Code": "63135",
-    "Locator": "11J241305",
-    "Quote ID": "517110",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/08/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KNOX MANAGEMENT LLC",
-    "Service Address": "7124 WILLOW WOOD DR",
-    "Zip Code": "63121",
-    "Locator": "14H330757",
-    "Quote ID": "517109",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/08/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KNOX MANAGEMENT LLC",
-    "Service Address": "10098 GROSVENOR DR",
-    "Zip Code": "63137",
-    "Locator": "11D130547",
-    "Quote ID": "517108",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/08/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "SCOTT A BARTHELMASS",
     "Service Address": "806 W WOODBINE AVE",
     "Zip Code": "63122",
@@ -918,17 +929,6 @@
     "Zip Code": "63113",
     "Locator": "44910103200",
     "Quote ID": "517105",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/08/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PATRICIA IVY",
-    "Service Address": "4873 SAN FRANCISCO AVE",
-    "Zip Code": "63115",
-    "Locator": "43880504900",
-    "Quote ID": "517104",
     "Quote Amount": "Pending",
     "Closing Date": "10/08/2025",
     "Stage": "In Progress",
