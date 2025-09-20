@@ -891,6 +891,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MELANIE MOHLMAN",
+    "Service Address": "2726 WYNNCREST MANOR DR",
+    "Zip Code": "63005",
+    "Locator": "21U220216",
+    "Quote ID": "517177",
+    "Quote Amount": "$89.76",
+    "Closing Date": "10/10/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LUDWIG HEINZ",
+    "Service Address": "10027 HILLTOP DR",
+    "Zip Code": "63128",
+    "Locator": "28M620392",
+    "Quote ID": "517175",
+    "Quote Amount": "$182.02",
+    "Closing Date": "10/10/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ELEANOR & EDWARD PRPTY LLC",
     "Service Address": "10711 ST HENRY LN",
     "Zip Code": "63074",
@@ -942,6 +964,17 @@
     "Quote ID": "517103",
     "Quote Amount": "Pending",
     "Closing Date": "10/08/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LARHONDA GARRETT",
+    "Service Address": "4400 NORFOLK AVE",
+    "Zip Code": "63110",
+    "Locator": "39800002510",
+    "Quote ID": "517224",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/12/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
