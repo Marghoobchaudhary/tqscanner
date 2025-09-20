@@ -891,6 +891,39 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MOISES TAVAREZ",
+    "Service Address": "2461 OAKLAND AVE",
+    "Zip Code": "63114",
+    "Locator": "15K530565",
+    "Quote ID": "517229",
+    "Quote Amount": "$488.54",
+    "Closing Date": "10/09/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DENISE DELAWTER",
+    "Service Address": "56 BUCKLEY MEADOWS DR",
+    "Zip Code": "63125",
+    "Locator": "28H111131",
+    "Quote ID": "517228",
+    "Quote Amount": "$248.52",
+    "Closing Date": "10/09/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "G3 REALTY LLC",
+    "Service Address": "4356 COLLEGE AVE",
+    "Zip Code": "63107",
+    "Locator": "33940002000",
+    "Quote ID": "517226",
+    "Quote Amount": "$2054.02",
+    "Closing Date": "10/09/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MELANIE MOHLMAN",
     "Service Address": "2726 WYNNCREST MANOR DR",
     "Zip Code": "63005",
@@ -909,6 +942,17 @@
     "Quote ID": "517175",
     "Quote Amount": "$182.02",
     "Closing Date": "10/10/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LARHONDA GARRETT",
+    "Service Address": "4400 NORFOLK AVE",
+    "Zip Code": "63110",
+    "Locator": "39800002510",
+    "Quote ID": "517224",
+    "Quote Amount": "$1582.85",
+    "Closing Date": "10/12/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -964,17 +1008,6 @@
     "Quote ID": "517103",
     "Quote Amount": "Pending",
     "Closing Date": "10/08/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LARHONDA GARRETT",
-    "Service Address": "4400 NORFOLK AVE",
-    "Zip Code": "63110",
-    "Locator": "39800002510",
-    "Quote ID": "517224",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/12/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
