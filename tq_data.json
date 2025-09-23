@@ -1,126 +1,5 @@
 [
   {
-    "Seller Name": "RONALD F PFEIFFER",
-    "Service Address": "972 SAN SEBASTIAN DR",
-    "Zip Code": "63026",
-    "Locator": "27P310297",
-    "Quote ID": "515487",
-    "Quote Amount": "$822.32",
-    "Closing Date": "09/22/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ELIZABETH COLEMAN",
-    "Service Address": "217 ANISTASIA DR",
-    "Zip Code": "63135",
-    "Locator": "10J510024",
-    "Quote ID": "515486",
-    "Quote Amount": "$31.98",
-    "Closing Date": "09/22/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DOUGLAS CLARK",
-    "Service Address": "5640 CHALET HILL DR",
-    "Zip Code": "63129",
-    "Locator": "32J631057",
-    "Quote ID": "515484",
-    "Quote Amount": "$784.37",
-    "Closing Date": "09/22/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LORENZO GORDON",
-    "Service Address": "630 LAMPLIGHT LN",
-    "Zip Code": "63042",
-    "Locator": "08L310898",
-    "Quote ID": "515483",
-    "Quote Amount": "$1579.14",
-    "Closing Date": "09/22/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BARBARA L MARTIN KERRY L",
-    "Service Address": "808 CATANIA DR",
-    "Zip Code": "63021",
-    "Locator": "24R230943",
-    "Quote ID": "515481",
-    "Quote Amount": "$2195.73",
-    "Closing Date": "09/22/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LARRY D BASS",
-    "Service Address": "5957 MCARTHUR AVE",
-    "Zip Code": "63120",
-    "Locator": "57230000200",
-    "Quote ID": "515986",
-    "Quote Amount": "$1185.43",
-    "Closing Date": "09/22/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GENE STAMPS",
-    "Service Address": "12450 SHORESIDE DR",
-    "Zip Code": "63033",
-    "Locator": "07F340011",
-    "Quote ID": "515479",
-    "Quote Amount": "$132.37",
-    "Closing Date": "09/23/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JENNIFER HAYLES",
-    "Service Address": "1027 GERINGER CT",
-    "Zip Code": "63135",
-    "Locator": "11H630371",
-    "Quote ID": "515432",
-    "Quote Amount": "$3579.54",
-    "Closing Date": "09/23/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ROSIE VANCE",
-    "Service Address": "7025 WOODY CT-63042",
-    "Zip Code": "63042",
-    "Locator": "10J410917",
-    "Quote ID": "515431",
-    "Quote Amount": "$741.29",
-    "Closing Date": "09/23/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "W L & LILLIE LEWIS",
-    "Service Address": "9219 ELLISON DR",
-    "Zip Code": "63136",
-    "Locator": "12G130219",
-    "Quote ID": "515430",
-    "Quote Amount": "$0.00",
-    "Closing Date": "09/23/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LAREECIA D JOHNSON REID",
-    "Service Address": "1632 RUDELLE DR",
-    "Zip Code": "63031",
-    "Locator": "04J220036",
-    "Quote ID": "514869",
-    "Quote Amount": "$2313.00",
-    "Closing Date": "09/23/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "GARLAND CONDO ASSOCIATE",
     "Service Address": "322 S HANLEY RD APT 1S",
     "Zip Code": "63105",
@@ -181,7 +60,7 @@
     "Zip Code": "63114",
     "Locator": "13L220274",
     "Quote ID": "515593",
-    "Quote Amount": "$381.94",
+    "Quote Amount": "$435.94",
     "Closing Date": "09/24/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -836,12 +715,45 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "SCOTT A BARTHELMASS",
+    "Service Address": "806 W WOODBINE AVE",
+    "Zip Code": "63122",
+    "Locator": "24N520202",
+    "Quote ID": "517106",
+    "Quote Amount": "$2329.88",
+    "Closing Date": "10/08/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SONJA CURETON",
+    "Service Address": "4969 WABADA AVE",
+    "Zip Code": "63113",
+    "Locator": "44910103200",
+    "Quote ID": "517105",
+    "Quote Amount": "$19482.88",
+    "Closing Date": "10/08/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "PATRICIA IVY",
     "Service Address": "4873 SAN FRANCISCO AVE",
     "Zip Code": "63115",
     "Locator": "43880504900",
     "Quote ID": "517104",
     "Quote Amount": "$2161.50",
+    "Closing Date": "10/08/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "HUDSON & MCKEE REALESTTE LLC",
+    "Service Address": "762 BAYARD AVE",
+    "Zip Code": "63108",
+    "Locator": "37620501000",
+    "Quote ID": "517103",
+    "Quote Amount": "$12530.80",
     "Closing Date": "10/08/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -931,39 +843,6 @@
     "Quote ID": "516863",
     "Quote Amount": "Pending",
     "Closing Date": "10/06/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SCOTT A BARTHELMASS",
-    "Service Address": "806 W WOODBINE AVE",
-    "Zip Code": "63122",
-    "Locator": "24N520202",
-    "Quote ID": "517106",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/08/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SONJA CURETON",
-    "Service Address": "4969 WABADA AVE",
-    "Zip Code": "63113",
-    "Locator": "44910103200",
-    "Quote ID": "517105",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/08/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "HUDSON & MCKEE REALESTTE LLC",
-    "Service Address": "762 BAYARD AVE",
-    "Zip Code": "63108",
-    "Locator": "37620501000",
-    "Quote ID": "517103",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/08/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
