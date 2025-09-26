@@ -1,16 +1,5 @@
 [
   {
-    "Seller Name": "CECIL GRANBERRY",
-    "Service Address": "5357 N EUCLID AVE",
-    "Zip Code": "63115",
-    "Locator": "52620004930",
-    "Quote ID": "515704",
-    "Quote Amount": "$3736.41",
-    "Closing Date": "09/26/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "AMERICAN ESTATE & TRUST",
     "Service Address": "515 DORNOCH DR",
     "Zip Code": "63137",
@@ -770,6 +759,61 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ALEX AND NATASHA PEEBLES",
+    "Service Address": "815 HANNA RD-63021",
+    "Zip Code": "63021",
+    "Locator": "24Q420462",
+    "Quote ID": "517849",
+    "Quote Amount": "$147.53",
+    "Closing Date": "10/15/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "AMANDA OSBORN",
+    "Service Address": "612 HORN AVE",
+    "Zip Code": "63125",
+    "Locator": "26G110140",
+    "Quote ID": "517848",
+    "Quote Amount": "$571.40",
+    "Closing Date": "10/15/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MIRANDA CRAWFORD-PRINCE",
+    "Service Address": "9204 KIT DR",
+    "Zip Code": "63123",
+    "Locator": "26J630952",
+    "Quote ID": "517847",
+    "Quote Amount": "$322.67",
+    "Closing Date": "10/15/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LISA WILKE",
+    "Service Address": "19 ESTES PKY",
+    "Zip Code": "63125",
+    "Locator": "29H140774",
+    "Quote ID": "517846",
+    "Quote Amount": "$180.78",
+    "Closing Date": "10/15/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "STAY POSITIVE INVESTMENTS LLC",
+    "Service Address": "3801 FANNIE AVE",
+    "Zip Code": "63125",
+    "Locator": "26G131334",
+    "Quote ID": "517844",
+    "Quote Amount": "$2670.23",
+    "Closing Date": "10/15/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "FREEMAN TEABERRY JR",
     "Service Address": "5273 GENEVIEVE AVE",
     "Zip Code": "63120",
@@ -843,6 +887,17 @@
     "Quote ID": "517840",
     "Quote Amount": "Pending",
     "Closing Date": "10/14/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ELEANOR & EDWARD PROPERTIESLLC",
+    "Service Address": "13935 OLD HALLS FERRY RD",
+    "Zip Code": "63034",
+    "Locator": "07G430201",
+    "Quote ID": "517845",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/15/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
