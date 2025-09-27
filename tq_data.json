@@ -858,6 +858,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "LILLIE ROBINSON",
+    "Service Address": "9103 EDWARD DR",
+    "Zip Code": "63132",
+    "Locator": "16L310411",
+    "Quote ID": "517991",
+    "Quote Amount": "$1491.17",
+    "Closing Date": "10/16/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JESSE E JR ANNIE L THOMPSON",
+    "Service Address": "5125 WALLINGFORD DR",
+    "Zip Code": "63121",
+    "Locator": "13J630389",
+    "Quote ID": "517989",
+    "Quote Amount": "$253.48",
+    "Closing Date": "10/16/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "FRANKLIN KLINE",
     "Service Address": "6907 WINCHESTER DR",
     "Zip Code": "63121",
@@ -920,6 +942,28 @@
     "Quote ID": "517845",
     "Quote Amount": "Pending",
     "Closing Date": "10/15/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DARROW WHITE",
+    "Service Address": "1201 DUENKE DR",
+    "Zip Code": "63137",
+    "Locator": "13F630551",
+    "Quote ID": "517992",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/16/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ANDREW B & PATRICIA BENDER",
+    "Service Address": "437 ALGONQUIN PL",
+    "Zip Code": "63119",
+    "Locator": "23L330592",
+    "Quote ID": "517990",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/16/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
