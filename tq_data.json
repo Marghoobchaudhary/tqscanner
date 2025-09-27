@@ -682,6 +682,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "KENDRIX MATHIS",
+    "Service Address": "331 ST LOUIS AVE",
+    "Zip Code": "63135",
+    "Locator": "12H420784",
+    "Quote ID": "517840",
+    "Quote Amount": "$1214.26",
+    "Closing Date": "10/14/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "LATRELL GERMANY",
     "Service Address": "1940 HUDSON RD",
     "Zip Code": "63136",
@@ -755,6 +766,17 @@
     "Quote ID": "517709",
     "Quote Amount": "$1161.69",
     "Closing Date": "10/14/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DARNELL A WATKINS",
+    "Service Address": "1109 BIDDLE ST-63101",
+    "Zip Code": "63106",
+    "Locator": "05620002700",
+    "Quote ID": "517988",
+    "Quote Amount": "$711.32",
+    "Closing Date": "10/15/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -836,6 +858,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "FRANKLIN KLINE",
+    "Service Address": "6907 WINCHESTER DR",
+    "Zip Code": "63121",
+    "Locator": "14H320572",
+    "Quote ID": "517987",
+    "Quote Amount": "$275.06",
+    "Closing Date": "10/19/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "BRIAN & STACEY GELDMACHER",
     "Service Address": "5844 BRIDLEFORD LN",
     "Zip Code": "63129",
@@ -876,17 +909,6 @@
     "Quote ID": "516863",
     "Quote Amount": "Pending",
     "Closing Date": "10/06/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KENDRIX MATHIS",
-    "Service Address": "331 ST LOUIS AVE",
-    "Zip Code": "63135",
-    "Locator": "12H420784",
-    "Quote ID": "517840",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/14/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
