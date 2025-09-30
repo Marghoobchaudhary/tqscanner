@@ -1,148 +1,5 @@
 [
   {
-    "Seller Name": "JASMINE LEWIS",
-    "Service Address": "2155 HUNTINGTON DR",
-    "Zip Code": "63033",
-    "Locator": "06J310195",
-    "Quote ID": "516211",
-    "Quote Amount": "$449.10",
-    "Closing Date": "09/29/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GLENDA WARREN",
-    "Service Address": "8413 JANUARY AVE",
-    "Zip Code": "63134",
-    "Locator": "11J431045",
-    "Quote ID": "516209",
-    "Quote Amount": "$237.97",
-    "Closing Date": "09/29/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DANIEL MOLINA",
-    "Service Address": "9926 MACKENZIE RD",
-    "Zip Code": "63123",
-    "Locator": "27J530941",
-    "Quote ID": "516021",
-    "Quote Amount": "$1530.68",
-    "Closing Date": "09/29/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JAMES ALLMAN",
-    "Service Address": "1033 HAMPTON PARK DR",
-    "Zip Code": "63117",
-    "Locator": "19K320535",
-    "Quote ID": "515873",
-    "Quote Amount": "$258.12",
-    "Closing Date": "09/29/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DALE FRANKENREITER",
-    "Service Address": "5130 GREER AVE",
-    "Zip Code": "63115",
-    "Locator": "52300400100",
-    "Quote ID": "516507",
-    "Quote Amount": "$0.00",
-    "Closing Date": "09/30/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JOSEPH HALL JR",
-    "Service Address": "11303 LARIMORE RD",
-    "Zip Code": "63138",
-    "Locator": "09E220884",
-    "Quote ID": "516206",
-    "Quote Amount": "$7468.84",
-    "Closing Date": "09/30/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JILL K DAVIS",
-    "Service Address": "522 BEACON POINT LN",
-    "Zip Code": "63040",
-    "Locator": "24U540098",
-    "Quote ID": "516203",
-    "Quote Amount": "$1521.85",
-    "Closing Date": "09/30/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SUSAN GAGE",
-    "Service Address": "3222 COUNTRY HOLLOW DR",
-    "Zip Code": "63129",
-    "Locator": "31J440461",
-    "Quote ID": "516182",
-    "Quote Amount": "$700.64",
-    "Closing Date": "09/30/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ALICE LEWIS",
-    "Service Address": "7069 IDLEWILD AVE",
-    "Zip Code": "63136",
-    "Locator": "14G510651",
-    "Quote ID": "516181",
-    "Quote Amount": "$158.89",
-    "Closing Date": "09/30/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RAMONA WILLIAMS COLLINS",
-    "Service Address": "210 VISTAOAK CT",
-    "Zip Code": "63021",
-    "Locator": "24R120622",
-    "Quote ID": "516180",
-    "Quote Amount": "$104.72",
-    "Closing Date": "09/30/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RONALD AND KAREN BENDER",
-    "Service Address": "4212 STANMOOR DR",
-    "Zip Code": "63129",
-    "Locator": "31K141015",
-    "Quote ID": "516022",
-    "Quote Amount": "$212.28",
-    "Closing Date": "09/30/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "US BANK NA",
-    "Service Address": "5066 DAVISON AVE",
-    "Zip Code": "63120",
-    "Locator": "51390001000",
-    "Quote ID": "516020",
-    "Quote Amount": "$3888.06",
-    "Closing Date": "09/30/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JULIENNE I MICHAEL D JACOBS",
-    "Service Address": "3624 WOODPATH DR",
-    "Zip Code": "63031",
-    "Locator": "05J520722",
-    "Quote ID": "515600",
-    "Quote Amount": "$1528.75",
-    "Closing Date": "09/30/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "MONREALE CONDOMINIUM ASSN",
     "Service Address": "4219 MANSARD DR",
     "Zip Code": "63125",
@@ -325,6 +182,17 @@
     "Locator": "19810000300",
     "Quote ID": "516869",
     "Quote Amount": "$5147.44",
+    "Closing Date": "10/06/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ELEANOR & EDWARD PRPTY LLC",
+    "Service Address": "10711 ST HENRY LN",
+    "Zip Code": "63074",
+    "Locator": "13M610081",
+    "Quote ID": "516867",
+    "Quote Amount": "$20299.20",
     "Closing Date": "10/06/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -913,6 +781,50 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JAMES THOMAS",
+    "Service Address": "710 BABLER DR",
+    "Zip Code": "63031",
+    "Locator": "07K340543",
+    "Quote ID": "518134",
+    "Quote Amount": "$1990.86",
+    "Closing Date": "10/19/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MEAGAN WEAVER",
+    "Service Address": "246 W RIPA AVE",
+    "Zip Code": "63125",
+    "Locator": "28H641641",
+    "Quote ID": "518133",
+    "Quote Amount": "$3117.32",
+    "Closing Date": "10/19/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KATHLEEN MCNEAL",
+    "Service Address": "15310 GOLDEN RAIN DR",
+    "Zip Code": "63017",
+    "Locator": "20S510286",
+    "Quote ID": "518132",
+    "Quote Amount": "$340.86",
+    "Closing Date": "10/19/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "NATIONAL RECRUITING & STAFFING",
+    "Service Address": "7730 MINNESOTA AVE",
+    "Zip Code": "63111",
+    "Locator": "31150000600",
+    "Quote ID": "518131",
+    "Quote Amount": "$29.50",
+    "Closing Date": "10/19/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "FRANKLIN KLINE",
     "Service Address": "6907 WINCHESTER DR",
     "Zip Code": "63121",
@@ -943,17 +855,6 @@
     "Quote Amount": "$1064.41",
     "Closing Date": "10/23/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ELEANOR & EDWARD PRPTY LLC",
-    "Service Address": "10711 ST HENRY LN",
-    "Zip Code": "63074",
-    "Locator": "13M610081",
-    "Quote ID": "516867",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/06/2025",
-    "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
   {
