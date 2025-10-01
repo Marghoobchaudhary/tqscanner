@@ -759,6 +759,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "BARBARA L MARTIN KERRY L",
+    "Service Address": "808 CATANIA DR",
+    "Zip Code": "63021",
+    "Locator": "24R230943",
+    "Quote ID": "518319",
+    "Quote Amount": "$2225.98",
+    "Closing Date": "10/20/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "JAMES ROSS SR",
     "Service Address": "2015 NORTH POINTE LN",
     "Zip Code": "63031",
@@ -766,6 +777,17 @@
     "Quote ID": "518273",
     "Quote Amount": "$838.01",
     "Closing Date": "10/20/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "NORTHSIDE PROPERTIES LLC",
+    "Service Address": "3539 LAWN AVE",
+    "Zip Code": "63139",
+    "Locator": "60690003200",
+    "Quote ID": "518325",
+    "Quote Amount": "$268.11",
+    "Closing Date": "10/22/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -819,6 +841,17 @@
     "Zip Code": "63137",
     "Locator": "10D120684",
     "Quote ID": "518125",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/20/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CASSANDRA TANNER",
+    "Service Address": "7364 COACHMAN LN",
+    "Zip Code": "63042",
+    "Locator": "08L320590",
+    "Quote ID": "518320",
     "Quote Amount": "Pending",
     "Closing Date": "10/20/2025",
     "Stage": "In Progress",
