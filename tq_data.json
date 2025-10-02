@@ -671,6 +671,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "DARROW WHITE",
+    "Service Address": "1201 DUENKE DR",
+    "Zip Code": "63137",
+    "Locator": "13F630551",
+    "Quote ID": "517992",
+    "Quote Amount": "$6628.31",
+    "Closing Date": "10/16/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "LILLIE ROBINSON",
     "Service Address": "9103 EDWARD DR",
     "Zip Code": "63132",
@@ -759,6 +770,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "CASSANDRA TANNER",
+    "Service Address": "7364 COACHMAN LN",
+    "Zip Code": "63042",
+    "Locator": "08L320590",
+    "Quote ID": "518320",
+    "Quote Amount": "$1323.11",
+    "Closing Date": "10/20/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "BARBARA L MARTIN KERRY L",
     "Service Address": "808 CATANIA DR",
     "Zip Code": "63021",
@@ -825,33 +847,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "DARROW WHITE",
-    "Service Address": "1201 DUENKE DR",
-    "Zip Code": "63137",
-    "Locator": "13F630551",
-    "Quote ID": "517992",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/16/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "DANIELLE JOHNSON",
     "Service Address": "265 RODERICK DR",
     "Zip Code": "63137",
     "Locator": "10D120684",
     "Quote ID": "518125",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/20/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CASSANDRA TANNER",
-    "Service Address": "7364 COACHMAN LN",
-    "Zip Code": "63042",
-    "Locator": "08L320590",
-    "Quote ID": "518320",
     "Quote Amount": "Pending",
     "Closing Date": "10/20/2025",
     "Stage": "In Progress",
