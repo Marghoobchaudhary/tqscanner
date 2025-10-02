@@ -583,6 +583,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ELEANOR & EDWARD PROPERTIESLLC",
+    "Service Address": "13935 OLD HALLS FERRY RD",
+    "Zip Code": "63034",
+    "Locator": "07G430201",
+    "Quote ID": "517845",
+    "Quote Amount": "$20272.72",
+    "Closing Date": "10/15/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "STAY POSITIVE INVESTMENTS LLC",
     "Service Address": "3801 FANNIE AVE",
     "Zip Code": "63125",
@@ -759,6 +770,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "REMISHA KING",
+    "Service Address": "7504 TRENTON AVE",
+    "Zip Code": "63130",
+    "Locator": "16J130541",
+    "Quote ID": "518421",
+    "Quote Amount": "$2240.38",
+    "Closing Date": "10/21/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "NANETTE TAYLOR",
+    "Service Address": "315 S DELLWOOD DR",
+    "Zip Code": "63135",
+    "Locator": "12H620746",
+    "Quote ID": "518419",
+    "Quote Amount": "$4184.47",
+    "Closing Date": "10/21/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "THOMAS TUSSEY",
     "Service Address": "8 LISA DR",
     "Zip Code": "63132",
@@ -770,12 +803,45 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "PAUL RUTLEDGE",
+    "Service Address": "8475 MACKENZIE RD",
+    "Zip Code": "63123",
+    "Locator": "25J230935",
+    "Quote ID": "518417",
+    "Quote Amount": "$1923.35",
+    "Closing Date": "10/21/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CARL V GARRETT",
+    "Service Address": "10361 NASHUA DR",
+    "Zip Code": "63136",
+    "Locator": "10G121448",
+    "Quote ID": "518416",
+    "Quote Amount": "$1387.28",
+    "Closing Date": "10/21/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MARIAN HARRIS",
     "Service Address": "11388 FOX HALL LN",
     "Zip Code": "63136",
     "Locator": "09F540851",
     "Quote ID": "518415",
     "Quote Amount": "$1705.46",
+    "Closing Date": "10/21/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MICHAEL FAYNE",
+    "Service Address": "4525 CHOUTEAU AVE",
+    "Zip Code": "63110",
+    "Locator": "52330001300",
+    "Quote ID": "518412",
+    "Quote Amount": "$1235.52",
     "Closing Date": "10/21/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -814,17 +880,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "ELEANOR & EDWARD PROPERTIESLLC",
-    "Service Address": "13935 OLD HALLS FERRY RD",
-    "Zip Code": "63034",
-    "Locator": "07G430201",
-    "Quote ID": "517845",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/15/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "DANIELLE JOHNSON",
     "Service Address": "265 RODERICK DR",
     "Zip Code": "63137",
@@ -832,39 +887,6 @@
     "Quote ID": "518125",
     "Quote Amount": "Pending",
     "Closing Date": "10/20/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "NANETTE TAYLOR",
-    "Service Address": "315 S DELLWOOD DR",
-    "Zip Code": "63135",
-    "Locator": "12H620746",
-    "Quote ID": "518419",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/21/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PAUL RUTLEDGE",
-    "Service Address": "8475 MACKENZIE RD",
-    "Zip Code": "63123",
-    "Locator": "25J230935",
-    "Quote ID": "518417",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/21/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CARL V GARRETT",
-    "Service Address": "10361 NASHUA DR",
-    "Zip Code": "63136",
-    "Locator": "10G121448",
-    "Quote ID": "518416",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/21/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
@@ -885,17 +907,6 @@
     "Zip Code": "63139",
     "Locator": "56070003500",
     "Quote ID": "518413",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/21/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MICHAEL FAYNE",
-    "Service Address": "4525 CHOUTEAU AVE",
-    "Zip Code": "63110",
-    "Locator": "52330001300",
-    "Quote ID": "518412",
     "Quote Amount": "Pending",
     "Closing Date": "10/21/2025",
     "Stage": "In Progress",
