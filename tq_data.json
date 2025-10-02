@@ -1,49 +1,5 @@
 [
   {
-    "Seller Name": "RODZELL GRAVES",
-    "Service Address": "3943 ILLINOIS AVE",
-    "Zip Code": "63118",
-    "Locator": "25610003000",
-    "Quote ID": "516976",
-    "Quote Amount": "$5072.84",
-    "Closing Date": "10/02/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ALFRED J GREEN",
-    "Service Address": "9606 LIFFORD CT",
-    "Zip Code": "63136",
-    "Locator": "12G540261",
-    "Quote ID": "516510",
-    "Quote Amount": "$1107.87",
-    "Closing Date": "10/02/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PATRICK JOHNSON",
-    "Service Address": "7020 CLAREMORE DR",
-    "Zip Code": "63121",
-    "Locator": "15H230061",
-    "Quote ID": "516506",
-    "Quote Amount": "$1260.02",
-    "Closing Date": "10/02/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LINDA MOSES",
-    "Service Address": "6701 ST OLAF DR",
-    "Zip Code": "63134",
-    "Locator": "10K320204",
-    "Quote ID": "516505",
-    "Quote Amount": "$2473.54",
-    "Closing Date": "10/02/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "MARGARET FLOYD",
     "Service Address": "8729 GOODFELLOW BLVD-63147",
     "Zip Code": "63136",
@@ -803,6 +759,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "THOMAS TUSSEY",
+    "Service Address": "8 LISA DR",
+    "Zip Code": "63132",
+    "Locator": "17M310257",
+    "Quote ID": "518418",
+    "Quote Amount": "$1215.50",
+    "Closing Date": "10/21/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MARIAN HARRIS",
+    "Service Address": "11388 FOX HALL LN",
+    "Zip Code": "63136",
+    "Locator": "09F540851",
+    "Quote ID": "518415",
+    "Quote Amount": "$1705.46",
+    "Closing Date": "10/21/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "NORTHSIDE PROPERTIES LLC",
     "Service Address": "3539 LAWN AVE",
     "Zip Code": "63139",
@@ -854,6 +832,72 @@
     "Quote ID": "518125",
     "Quote Amount": "Pending",
     "Closing Date": "10/20/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "NANETTE TAYLOR",
+    "Service Address": "315 S DELLWOOD DR",
+    "Zip Code": "63135",
+    "Locator": "12H620746",
+    "Quote ID": "518419",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/21/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PAUL RUTLEDGE",
+    "Service Address": "8475 MACKENZIE RD",
+    "Zip Code": "63123",
+    "Locator": "25J230935",
+    "Quote ID": "518417",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/21/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CARL V GARRETT",
+    "Service Address": "10361 NASHUA DR",
+    "Zip Code": "63136",
+    "Locator": "10G121448",
+    "Quote ID": "518416",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/21/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CAREY COLQUITT",
+    "Service Address": "1 LENOX PL",
+    "Zip Code": "63108",
+    "Locator": "52080002000",
+    "Quote ID": "518414",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/21/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JAMES S DOOLEY",
+    "Service Address": "6743 W PARK AVE",
+    "Zip Code": "63139",
+    "Locator": "56070003500",
+    "Quote ID": "518413",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/21/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MICHAEL FAYNE",
+    "Service Address": "4525 CHOUTEAU AVE",
+    "Zip Code": "63110",
+    "Locator": "52330001300",
+    "Quote ID": "518412",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/21/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
