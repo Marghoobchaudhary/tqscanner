@@ -726,6 +726,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "DANIELLE JOHNSON",
+    "Service Address": "265 RODERICK DR",
+    "Zip Code": "63137",
+    "Locator": "10D120684",
+    "Quote ID": "518125",
+    "Quote Amount": "$6559.83",
+    "Closing Date": "10/20/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "CASSANDRA TANNER",
     "Service Address": "7364 COACHMAN LN",
     "Zip Code": "63042",
@@ -755,6 +766,17 @@
     "Quote ID": "518273",
     "Quote Amount": "$838.01",
     "Closing Date": "10/20/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DELANTY PROPERTIES",
+    "Service Address": "600 S HOLMES AVE STE 1",
+    "Zip Code": "63122",
+    "Locator": "24M330262",
+    "Quote ID": "518566",
+    "Quote Amount": "$5117.89",
+    "Closing Date": "10/21/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -825,6 +847,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "CAREY COLQUITT",
+    "Service Address": "1 LENOX PL",
+    "Zip Code": "63108",
+    "Locator": "52080002000",
+    "Quote ID": "518414",
+    "Quote Amount": "$6174.11",
+    "Closing Date": "10/21/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JAMES S DOOLEY",
+    "Service Address": "6743 W PARK AVE",
+    "Zip Code": "63139",
+    "Locator": "56070003500",
+    "Quote ID": "518413",
+    "Quote Amount": "$8509.68",
+    "Closing Date": "10/21/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MICHAEL FAYNE",
     "Service Address": "4525 CHOUTEAU AVE",
     "Zip Code": "63110",
@@ -832,6 +876,28 @@
     "Quote ID": "518412",
     "Quote Amount": "$1235.52",
     "Closing Date": "10/21/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PROPERTY SOLUTIONS PLUS LLC",
+    "Service Address": "306 ST LOUIS AVE",
+    "Zip Code": "63135",
+    "Locator": "12H421114",
+    "Quote ID": "518579",
+    "Quote Amount": "$28.50",
+    "Closing Date": "10/22/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PROPERTY SOLUTIONS PLUS LLC",
+    "Service Address": "5381 BERMUDA DR",
+    "Zip Code": "63121",
+    "Locator": "13H210986",
+    "Quote ID": "518578",
+    "Quote Amount": "$831.94",
+    "Closing Date": "10/22/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -902,50 +968,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "DANIELLE JOHNSON",
-    "Service Address": "265 RODERICK DR",
-    "Zip Code": "63137",
-    "Locator": "10D120684",
-    "Quote ID": "518125",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/20/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DELANTY PROPERTIES",
-    "Service Address": "600 S HOLMES AVE STE 1",
-    "Zip Code": "63122",
-    "Locator": "24M330262",
-    "Quote ID": "518566",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/21/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CAREY COLQUITT",
-    "Service Address": "1 LENOX PL",
-    "Zip Code": "63108",
-    "Locator": "52080002000",
-    "Quote ID": "518414",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/21/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JAMES S DOOLEY",
-    "Service Address": "6743 W PARK AVE",
-    "Zip Code": "63139",
-    "Locator": "56070003500",
-    "Quote ID": "518413",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/21/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "COTINA NELSON",
     "Service Address": "1312 S 13TH ST",
     "Zip Code": "63104",
@@ -953,6 +975,17 @@
     "Quote ID": "518549",
     "Quote Amount": "Pending",
     "Closing Date": "10/23/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SIRO PROP OAKWOOD LLC",
+    "Service Address": "5341 BERMUDA DR",
+    "Zip Code": "63121",
+    "Locator": "13H210959",
+    "Quote ID": "518572",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/30/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
