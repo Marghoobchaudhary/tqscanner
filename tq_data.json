@@ -561,17 +561,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "MIRANDA CRAWFORD-PRINCE",
-    "Service Address": "9204 KIT DR",
-    "Zip Code": "63123",
-    "Locator": "26J630952",
-    "Quote ID": "517847",
-    "Quote Amount": "$322.67",
-    "Closing Date": "10/15/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "LISA WILKE",
     "Service Address": "19 ESTES PKY",
     "Zip Code": "63125",
@@ -847,6 +836,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "CLARICE FLANIGAN",
+    "Service Address": "8139 BLANCHARD DR",
+    "Zip Code": "63134",
+    "Locator": "11J211386",
+    "Quote ID": "518569",
+    "Quote Amount": "$916.06",
+    "Closing Date": "10/22/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "NORTHSIDE PROPERTIES LLC",
     "Service Address": "3539 LAWN AVE",
     "Zip Code": "63139",
@@ -891,6 +891,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "DELANTY PROPERTIES",
+    "Service Address": "600 S HOLMES AVE STE 1",
+    "Zip Code": "63122",
+    "Locator": "24M330262",
+    "Quote ID": "518566",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/21/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "CAREY COLQUITT",
     "Service Address": "1 LENOX PL",
     "Zip Code": "63108",
@@ -909,6 +920,17 @@
     "Quote ID": "518413",
     "Quote Amount": "Pending",
     "Closing Date": "10/21/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "COTINA NELSON",
+    "Service Address": "1312 S 13TH ST",
+    "Zip Code": "63104",
+    "Locator": "04750001640",
+    "Quote ID": "518549",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/23/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
