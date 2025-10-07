@@ -1,71 +1,5 @@
 [
   {
-    "Seller Name": "AMY M WOLF",
-    "Service Address": "6817 MINNESOTA AVE",
-    "Zip Code": "63111",
-    "Locator": "30010000600",
-    "Quote ID": "516974",
-    "Quote Amount": "$2812.89",
-    "Closing Date": "10/07/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "IZEAR POLK",
-    "Service Address": "1435 E OBEAR AVE",
-    "Zip Code": "63107",
-    "Locator": "24710002400",
-    "Quote ID": "516973",
-    "Quote Amount": "$4957.62",
-    "Closing Date": "10/07/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SADEK SHEETAH",
-    "Service Address": "4045 WALSH ST-63116",
-    "Zip Code": "63116",
-    "Locator": "56570003100",
-    "Quote ID": "516971",
-    "Quote Amount": "$1288.62",
-    "Closing Date": "10/07/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KEITH DANIELS",
-    "Service Address": "3446 HENRIETTA ST",
-    "Zip Code": "63104",
-    "Locator": "12880000200",
-    "Quote ID": "516970",
-    "Quote Amount": "$193.47",
-    "Closing Date": "10/07/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "REGINALD C JOHNSON",
-    "Service Address": "1007 HUTTON PL",
-    "Zip Code": "63135",
-    "Locator": "11H521141",
-    "Quote ID": "516826",
-    "Quote Amount": "$1710.99",
-    "Closing Date": "10/07/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "J A WINSTON",
-    "Service Address": "2410 NETHERWOOD DR",
-    "Zip Code": "63136",
-    "Locator": "12F510065",
-    "Quote ID": "516825",
-    "Quote Amount": "$711.72",
-    "Closing Date": "10/07/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "LEVI CALMESE",
     "Service Address": "18 CYNTHIANA CT",
     "Zip Code": "63031",
@@ -872,6 +806,17 @@
     "Seller Name": "MICHAEL BENNETT SR",
     "Service Address": "3550 ST CHRISTOPHER LN",
     "Zip Code": "63074",
+    "Locator": "13L131581",
+    "Quote ID": "518871",
+    "Quote Amount": "$1273.90",
+    "Closing Date": "10/23/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MICHAEL BENNETT SR",
+    "Service Address": "3550 ST CHRISTOPHER LN",
+    "Zip Code": "63074",
     "Locator": "13L131482",
     "Quote ID": "518690",
     "Quote Amount": "$1273.90",
@@ -931,6 +876,17 @@
     "Quote ID": "517596",
     "Quote Amount": "$1064.41",
     "Closing Date": "10/23/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DR. MILDRED ANDERSON",
+    "Service Address": "3 NOB HILL LN",
+    "Zip Code": "63130",
+    "Locator": "17K520250",
+    "Quote ID": "518869",
+    "Quote Amount": "$374.01",
+    "Closing Date": "10/27/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
