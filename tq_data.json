@@ -1,49 +1,5 @@
 [
   {
-    "Seller Name": "BRANDONVIEW",
-    "Service Address": "720 OLIVE ST",
-    "Zip Code": "63101",
-    "Locator": "01820000107",
-    "Quote ID": "516979",
-    "Quote Amount": "$20796.82",
-    "Closing Date": "10/06/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PHL413PTL LLC",
-    "Service Address": "3018 TEXAS AVE",
-    "Zip Code": "63118",
-    "Locator": "19810000300",
-    "Quote ID": "516869",
-    "Quote Amount": "$5147.44",
-    "Closing Date": "10/06/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ELEANOR & EDWARD PRPTY LLC",
-    "Service Address": "10711 ST HENRY LN",
-    "Zip Code": "63074",
-    "Locator": "13M610081",
-    "Quote ID": "516867",
-    "Quote Amount": "$20299.20",
-    "Closing Date": "10/06/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ELEANOR AND EDWARD PROP LLC",
-    "Service Address": "3231 EDMUNDSON RD",
-    "Zip Code": "63114",
-    "Locator": "14L630498",
-    "Quote ID": "516863",
-    "Quote Amount": "$20289.89",
-    "Closing Date": "10/06/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "AMY M WOLF",
     "Service Address": "6817 MINNESOTA AVE",
     "Zip Code": "63111",
@@ -689,17 +645,6 @@
     "Quote ID": "517987",
     "Quote Amount": "$275.06",
     "Closing Date": "10/19/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DANIELLE JOHNSON",
-    "Service Address": "265 RODERICK DR",
-    "Zip Code": "63137",
-    "Locator": "10D120684",
-    "Quote ID": "518125",
-    "Quote Amount": "$6559.83",
-    "Closing Date": "10/20/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
