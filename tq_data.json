@@ -1,159 +1,5 @@
 [
   {
-    "Seller Name": "LEVI CALMESE",
-    "Service Address": "18 CYNTHIANA CT",
-    "Zip Code": "63031",
-    "Locator": "07L510635",
-    "Quote ID": "516918",
-    "Quote Amount": "$3656.74",
-    "Closing Date": "10/08/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MAGPIE INVESTMENTS LLC",
-    "Service Address": "3518 MAYWOOD AVE",
-    "Zip Code": "63121",
-    "Locator": "15H331618",
-    "Quote ID": "517115",
-    "Quote Amount": "$883.45",
-    "Closing Date": "10/08/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DONNA J AMATO",
-    "Service Address": "4439 LINDSCOTT AVE",
-    "Zip Code": "63134",
-    "Locator": "12K120086",
-    "Quote ID": "517114",
-    "Quote Amount": "$3627.34",
-    "Closing Date": "10/08/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "THOMAS L DAVIS",
-    "Service Address": "6804 MURRAY ST",
-    "Zip Code": "63121",
-    "Locator": "14G111773",
-    "Quote ID": "517113",
-    "Quote Amount": "$4314.42",
-    "Closing Date": "10/08/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JAMES E DEVINE",
-    "Service Address": "7008 GARESCHE AVE",
-    "Zip Code": "63136",
-    "Locator": "14G230977",
-    "Quote ID": "517112",
-    "Quote Amount": "$180.92",
-    "Closing Date": "10/08/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RA REVOCABLE LIVING TRUST THE",
-    "Service Address": "11344 FIVE OAKS PKY",
-    "Zip Code": "63128",
-    "Locator": "28K510460",
-    "Quote ID": "517111",
-    "Quote Amount": "$1060.75",
-    "Closing Date": "10/08/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KNOX MANAGEMENT LLC",
-    "Service Address": "309 NEWELL DR",
-    "Zip Code": "63135",
-    "Locator": "11J241305",
-    "Quote ID": "517110",
-    "Quote Amount": "$-85.50",
-    "Closing Date": "10/08/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KNOX MANAGEMENT LLC",
-    "Service Address": "7124 WILLOW WOOD DR",
-    "Zip Code": "63121",
-    "Locator": "14H330757",
-    "Quote ID": "517109",
-    "Quote Amount": "$1648.40",
-    "Closing Date": "10/08/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KNOX MANAGEMENT LLC",
-    "Service Address": "10098 GROSVENOR DR",
-    "Zip Code": "63137",
-    "Locator": "11D130547",
-    "Quote ID": "517108",
-    "Quote Amount": "$0.00",
-    "Closing Date": "10/08/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "VINSON REALTY LLC",
-    "Service Address": "223 N DELLWOOD AVE",
-    "Zip Code": "63135",
-    "Locator": "11H340632",
-    "Quote ID": "517107",
-    "Quote Amount": "$883.50",
-    "Closing Date": "10/08/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SCOTT A BARTHELMASS",
-    "Service Address": "806 W WOODBINE AVE",
-    "Zip Code": "63122",
-    "Locator": "24N520202",
-    "Quote ID": "517106",
-    "Quote Amount": "$2329.88",
-    "Closing Date": "10/08/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SONJA CURETON",
-    "Service Address": "4969 WABADA AVE",
-    "Zip Code": "63113",
-    "Locator": "44910103200",
-    "Quote ID": "517105",
-    "Quote Amount": "$19482.88",
-    "Closing Date": "10/08/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PATRICIA IVY",
-    "Service Address": "4873 SAN FRANCISCO AVE",
-    "Zip Code": "63115",
-    "Locator": "43880504900",
-    "Quote ID": "517104",
-    "Quote Amount": "$2161.50",
-    "Closing Date": "10/08/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "HUDSON & MCKEE REALESTTE LLC",
-    "Service Address": "762 BAYARD AVE",
-    "Zip Code": "63108",
-    "Locator": "37620501000",
-    "Quote ID": "517103",
-    "Quote Amount": "$12530.80",
-    "Closing Date": "10/08/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "MOISES TAVAREZ",
     "Service Address": "2461 OAKLAND AVE",
     "Zip Code": "63114",
@@ -880,6 +726,50 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "BILL & KAREN ROWLAND",
+    "Service Address": "2766 BRANDENBERG LN",
+    "Zip Code": "63129",
+    "Locator": "32J240073",
+    "Quote ID": "519042",
+    "Quote Amount": "$466.44",
+    "Closing Date": "10/27/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MARGARET ROTHE",
+    "Service Address": "4627 SIENNA HILLS PL",
+    "Zip Code": "63128",
+    "Locator": "32L510253",
+    "Quote ID": "519041",
+    "Quote Amount": "$624.72",
+    "Closing Date": "10/27/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PETER G HAYS",
+    "Service Address": "1137 N HARRISON AVE",
+    "Zip Code": "63122",
+    "Locator": "22M410032",
+    "Quote ID": "519040",
+    "Quote Amount": "$1879.70",
+    "Closing Date": "10/27/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LEVEL 19 HOMES LLC",
+    "Service Address": "2715 OSAGE ST",
+    "Zip Code": "63118",
+    "Locator": "25660003900",
+    "Quote ID": "519038",
+    "Quote Amount": "$1334.78",
+    "Closing Date": "10/27/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "DR. MILDRED ANDERSON",
     "Service Address": "3 NOB HILL LN",
     "Zip Code": "63130",
@@ -898,6 +788,17 @@
     "Quote ID": "518686",
     "Quote Amount": "Pending",
     "Closing Date": "10/23/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ROCHELLE PRITCHETT",
+    "Service Address": "6949 THOLOZAN AVE",
+    "Zip Code": "63109",
+    "Locator": "49750001500",
+    "Quote ID": "519039",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/27/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
