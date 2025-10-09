@@ -770,6 +770,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "PIERRE HARRIS ETAL",
+    "Service Address": "7109 WOODROW AVE",
+    "Zip Code": "63121",
+    "Locator": "15H230867",
+    "Quote ID": "519221",
+    "Quote Amount": "$28.50",
+    "Closing Date": "10/28/2025",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "JILL LOFTIN",
     "Service Address": "5751 CLEMENS AVE",
     "Zip Code": "63112",
@@ -898,6 +909,17 @@
     "Quote ID": "519218",
     "Quote Amount": "Pending",
     "Closing Date": "10/22/2025",
+    "Stage": "In Progress",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "NICHOLAS WALLING",
+    "Service Address": "2328 URBANDALE DR",
+    "Zip Code": "63031",
+    "Locator": "06K341136",
+    "Quote ID": "519222",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/28/2025",
     "Stage": "In Progress",
     "Submitted By": ""
   },
