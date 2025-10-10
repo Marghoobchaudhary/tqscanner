@@ -1,27 +1,5 @@
 [
   {
-    "Seller Name": "MELANIE MOHLMAN",
-    "Service Address": "2726 WYNNCREST MANOR DR",
-    "Zip Code": "63005",
-    "Locator": "21U220216",
-    "Quote ID": "517177",
-    "Quote Amount": "$89.76",
-    "Closing Date": "10/10/2025",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "LUDWIG HEINZ",
-    "Service Address": "10027 HILLTOP DR",
-    "Zip Code": "63128",
-    "Locator": "28M620392",
-    "Quote ID": "517175",
-    "Quote Amount": "$182.02",
-    "Closing Date": "10/10/2025",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "LARHONDA GARRETT",
     "Service Address": "4400 NORFOLK AVE",
     "Zip Code": "63110",
@@ -781,6 +759,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "NICHOLAS WALLING",
+    "Service Address": "2328 URBANDALE DR",
+    "Zip Code": "63031",
+    "Locator": "06K341136",
+    "Quote ID": "519222",
+    "Quote Amount": "$5884.73",
+    "Closing Date": "10/28/2025",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "PIERRE HARRIS ETAL",
     "Service Address": "7109 WOODROW AVE",
     "Zip Code": "63121",
@@ -820,6 +809,17 @@
     "Locator": "52840001000",
     "Quote ID": "519216",
     "Quote Amount": "$1430.77",
+    "Closing Date": "10/28/2025",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "EULA & INELL JOYNER",
+    "Service Address": "5869 JULIAN AVE",
+    "Zip Code": "63112",
+    "Locator": "38240004900",
+    "Quote ID": "519215",
+    "Quote Amount": "$3503.47",
     "Closing Date": "10/28/2025",
     "Stage": "Pending Close",
     "Submitted By": ""
@@ -891,6 +891,28 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "KNOX MANAGEMENT LLC",
+    "Service Address": "9952 NOBLE LN",
+    "Zip Code": "63136",
+    "Locator": "11F230438",
+    "Quote ID": "519033",
+    "Quote Amount": "$0.00",
+    "Closing Date": "10/28/2025",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "KNOX MANAGEMENT LLC",
+    "Service Address": "7752 MALLARD DR",
+    "Zip Code": "63133",
+    "Locator": "16J141631",
+    "Quote ID": "519032",
+    "Quote Amount": "$1338.14",
+    "Closing Date": "10/28/2025",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "KNOX MANAGMENT LLC",
     "Service Address": "340 HOLIDAY HL",
     "Zip Code": "63033",
@@ -909,6 +931,28 @@
     "Quote ID": "519028",
     "Quote Amount": "$1666.01",
     "Closing Date": "10/28/2025",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "ABRA MCFIELD",
+    "Service Address": "1226 VICTOR ST",
+    "Zip Code": "63104",
+    "Locator": "08781800300",
+    "Quote ID": "519432",
+    "Quote Amount": "$2580.73",
+    "Closing Date": "10/29/2025",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "CAROL A HUMPHREY",
+    "Service Address": "532 S HARRISON AVE",
+    "Zip Code": "63122",
+    "Locator": "24M130967",
+    "Quote ID": "519417",
+    "Quote Amount": "$1325.64",
+    "Closing Date": "10/29/2025",
     "Stage": "Pending Close",
     "Submitted By": ""
   },
@@ -954,7 +998,40 @@
     "Quote Amount": "$1058.20",
     "Closing Date": "10/29/2025",
     "Stage": "Pending Close",
-    "Submitted By": ""
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WILBERT HAINES",
+    "Service Address": "5942 LOTUS AVE",
+    "Zip Code": "63112",
+    "Locator": "49980001500",
+    "Quote ID": "519407",
+    "Quote Amount": "$1367.47",
+    "Closing Date": "10/29/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "URBAN OASIS PROPERTIES LLC",
+    "Service Address": "3646 IOWA AVE",
+    "Zip Code": "63118",
+    "Locator": "16420000100",
+    "Quote ID": "519406",
+    "Quote Amount": "$2100.77",
+    "Closing Date": "10/29/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "RAVIN LIPSCOMB",
+    "Service Address": "2827 ABNER PL-63120",
+    "Zip Code": "63120",
+    "Locator": "45170501700",
+    "Quote ID": "519405",
+    "Quote Amount": "$3363.62",
+    "Closing Date": "10/29/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "GEORGE PORTER SR",
@@ -965,7 +1042,7 @@
     "Quote Amount": "$1182.10",
     "Closing Date": "10/30/2025",
     "Stage": "Pending Close",
-    "Submitted By": ""
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "ANDREW PARKER",
@@ -976,50 +1053,6 @@
     "Quote Amount": "$574.22",
     "Closing Date": "11/08/2025",
     "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "NICHOLAS WALLING",
-    "Service Address": "2328 URBANDALE DR",
-    "Zip Code": "63031",
-    "Locator": "06K341136",
-    "Quote ID": "519222",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/28/2025",
-    "Stage": "In Progress",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "EULA & INELL JOYNER",
-    "Service Address": "5869 JULIAN AVE",
-    "Zip Code": "63112",
-    "Locator": "38240004900",
-    "Quote ID": "519215",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/28/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KNOX MANAGEMENT LLC",
-    "Service Address": "9952 NOBLE LN",
-    "Zip Code": "63136",
-    "Locator": "11F230438",
-    "Quote ID": "519033",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/28/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KNOX MANAGEMENT LLC",
-    "Service Address": "7752 MALLARD DR",
-    "Zip Code": "63133",
-    "Locator": "16J141631",
-    "Quote ID": "519032",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/28/2025",
-    "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
   {
@@ -1030,17 +1063,6 @@
     "Quote ID": "519029",
     "Quote Amount": "Pending",
     "Closing Date": "10/28/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CAROL A HUMPHREY",
-    "Service Address": "532 S HARRISON AVE",
-    "Zip Code": "63122",
-    "Locator": "24M130967",
-    "Quote ID": "519417",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/29/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
@@ -1061,39 +1083,6 @@
     "Zip Code": "63033",
     "Locator": "09H620182",
     "Quote ID": "519408",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/29/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "WILBERT HAINES",
-    "Service Address": "5942 LOTUS AVE",
-    "Zip Code": "63112",
-    "Locator": "49980001500",
-    "Quote ID": "519407",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/29/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "URBAN OASIS PROPERTIES LLC",
-    "Service Address": "3646 IOWA AVE",
-    "Zip Code": "63118",
-    "Locator": "16420000100",
-    "Quote ID": "519406",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/29/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RAVIN LIPSCOMB",
-    "Service Address": "2827 ABNER PL-63120",
-    "Zip Code": "63120",
-    "Locator": "45170501700",
-    "Quote ID": "519405",
     "Quote Amount": "Pending",
     "Closing Date": "10/29/2025",
     "Stage": "In Progress",
