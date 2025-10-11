@@ -1056,6 +1056,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "EDWARDS CHRISTOPHER DOUGLAS SR",
+    "Service Address": "5717 ACME AVE",
+    "Zip Code": "63136",
+    "Locator": "14G620413",
+    "Quote ID": "519569",
+    "Quote Amount": "$702.86",
+    "Closing Date": "10/30/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "FREDERICK & VALENA GRANDBERRY",
+    "Service Address": "4524 TARLTON DR",
+    "Zip Code": "63128",
+    "Locator": "30K420131",
+    "Quote ID": "519568",
+    "Quote Amount": "$118.02",
+    "Closing Date": "10/30/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ANDREW PARKER",
     "Service Address": "1102 GARDEN VILLAGE DR",
     "Zip Code": "63031",
@@ -1118,6 +1140,17 @@
     "Quote ID": "519403",
     "Quote Amount": "Pending",
     "Closing Date": "10/29/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "VON E NEBBITT SR",
+    "Service Address": "5140 CATES AVE",
+    "Zip Code": "63108",
+    "Locator": "48420001300",
+    "Quote ID": "519570",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/30/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
