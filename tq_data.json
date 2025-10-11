@@ -924,6 +924,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "KNOX MANAGEMENT LLC",
+    "Service Address": "2214 IBIS CT",
+    "Zip Code": "63136",
+    "Locator": "10G320483",
+    "Quote ID": "519029",
+    "Quote Amount": "$2278.08",
+    "Closing Date": "10/28/2025",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "SANDERS WRIGHT",
     "Service Address": "3436 TENNESSEE AVE",
     "Zip Code": "63118",
@@ -987,7 +998,7 @@
     "Quote Amount": "$4293.35",
     "Closing Date": "10/29/2025",
     "Stage": "Pending Close",
-    "Submitted By": ""
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "FRANK THOMPSON",
@@ -1056,14 +1067,14 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "KNOX MANAGEMENT LLC",
-    "Service Address": "2214 IBIS CT",
-    "Zip Code": "63136",
-    "Locator": "10G320483",
-    "Quote ID": "519029",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/28/2025",
-    "Stage": "In Progress",
+    "Seller Name": "MARK JOHNSON",
+    "Service Address": "6945 NORMANDALE DR",
+    "Zip Code": "63121",
+    "Locator": "15H220619",
+    "Quote ID": "519412",
+    "Quote Amount": "$2260.10",
+    "Closing Date": "11/08/2025",
+    "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
   {
@@ -1129,17 +1140,6 @@
     "Quote ID": "519418",
     "Quote Amount": "Pending",
     "Closing Date": "10/31/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MARK JOHNSON",
-    "Service Address": "6945 NORMANDALE DR",
-    "Zip Code": "63121",
-    "Locator": "15H220619",
-    "Quote ID": "519412",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/08/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
