@@ -1012,6 +1012,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ELEANOR & EDWARD PRPTY LLC",
+    "Service Address": "6738 VERNON AVE",
+    "Zip Code": "63130",
+    "Locator": "18J641461",
+    "Quote ID": "519409",
+    "Quote Amount": "$-10.76",
+    "Closing Date": "10/29/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ELEANOR & EDWARD PRPTY LLC",
+    "Service Address": "11830 SEVEN HILLS DR",
+    "Zip Code": "63033",
+    "Locator": "09H620182",
+    "Quote ID": "519408",
+    "Quote Amount": "$4833.50",
+    "Closing Date": "10/29/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "WILBERT HAINES",
     "Service Address": "5942 LOTUS AVE",
     "Zip Code": "63112",
@@ -1040,6 +1062,28 @@
     "Locator": "45170501700",
     "Quote ID": "519405",
     "Quote Amount": "$3363.62",
+    "Closing Date": "10/29/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JAMES MULLIGAN",
+    "Service Address": "6418 WEST CT",
+    "Zip Code": "63116",
+    "Locator": "61750000500",
+    "Quote ID": "519404",
+    "Quote Amount": "$8719.10",
+    "Closing Date": "10/29/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GWENDOLYN SPICER",
+    "Service Address": "3511 LOUISIANA AVE",
+    "Zip Code": "63118",
+    "Locator": "15870002200",
+    "Quote ID": "519403",
+    "Quote Amount": "$6492.93",
     "Closing Date": "10/29/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1078,6 +1122,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "SIRO PROP ROYAL OAK LLC",
+    "Service Address": "4942 LACLEDE AVE",
+    "Zip Code": "63108",
+    "Locator": "38850000200",
+    "Quote ID": "519418",
+    "Quote Amount": "$44761.18",
+    "Closing Date": "10/31/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ANDREW PARKER",
     "Service Address": "1102 GARDEN VILLAGE DR",
     "Zip Code": "63031",
@@ -1100,50 +1155,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "ELEANOR & EDWARD PRPTY LLC",
-    "Service Address": "6738 VERNON AVE",
-    "Zip Code": "63130",
-    "Locator": "18J641461",
-    "Quote ID": "519409",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/29/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ELEANOR & EDWARD PRPTY LLC",
-    "Service Address": "11830 SEVEN HILLS DR",
-    "Zip Code": "63033",
-    "Locator": "09H620182",
-    "Quote ID": "519408",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/29/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JAMES MULLIGAN",
-    "Service Address": "6418 WEST CT",
-    "Zip Code": "63116",
-    "Locator": "61750000500",
-    "Quote ID": "519404",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/29/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GWENDOLYN SPICER",
-    "Service Address": "3511 LOUISIANA AVE",
-    "Zip Code": "63118",
-    "Locator": "15870002200",
-    "Quote ID": "519403",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/29/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "VON E NEBBITT SR",
     "Service Address": "5140 CATES AVE",
     "Zip Code": "63108",
@@ -1162,17 +1173,6 @@
     "Quote ID": "518572",
     "Quote Amount": "Pending",
     "Closing Date": "10/30/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SIRO PROP ROYAL OAK LLC",
-    "Service Address": "4942 LACLEDE AVE",
-    "Zip Code": "63108",
-    "Locator": "38850000200",
-    "Quote ID": "519418",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/31/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
