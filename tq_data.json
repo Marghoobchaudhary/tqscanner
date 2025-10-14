@@ -1,49 +1,5 @@
 [
   {
-    "Seller Name": "LARHONDA GARRETT",
-    "Service Address": "4400 NORFOLK AVE",
-    "Zip Code": "63110",
-    "Locator": "39800002510",
-    "Quote ID": "517224",
-    "Quote Amount": "$1582.85",
-    "Closing Date": "10/12/2025",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "KESHAWN BUCHANNON",
-    "Service Address": "12907 FOX HAVEN DR",
-    "Zip Code": "63033",
-    "Locator": "07F640058",
-    "Quote ID": "517746",
-    "Quote Amount": "$1183.05",
-    "Closing Date": "10/13/2025",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "9INE ELEVEN INVESTMENTS LLC",
-    "Service Address": "541 EILER ST",
-    "Zip Code": "63111",
-    "Locator": "28400500700",
-    "Quote ID": "517599",
-    "Quote Amount": "$0.00",
-    "Closing Date": "10/13/2025",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "HOLSTEN HOMES PROPERTIES LLC",
-    "Service Address": "8467 LACKLAND RD",
-    "Zip Code": "63114",
-    "Locator": "15K630599",
-    "Quote ID": "517598",
-    "Quote Amount": "$535.81",
-    "Closing Date": "10/13/2025",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "LAUTHER G KYLES",
     "Service Address": "7456 MARILLAC DR",
     "Zip Code": "63121",
@@ -998,7 +954,7 @@
     "Quote Amount": "$4293.35",
     "Closing Date": "10/29/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "FRANK THOMPSON",
@@ -1009,7 +965,7 @@
     "Quote Amount": "$1058.20",
     "Closing Date": "10/29/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "ELEANOR & EDWARD PRPTY LLC",
@@ -1020,7 +976,7 @@
     "Quote Amount": "$-10.76",
     "Closing Date": "10/29/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "ELEANOR & EDWARD PRPTY LLC",
@@ -1031,7 +987,7 @@
     "Quote Amount": "$4833.50",
     "Closing Date": "10/29/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "WILBERT HAINES",
@@ -1100,6 +1056,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "VON E NEBBITT SR",
+    "Service Address": "5140 CATES AVE",
+    "Zip Code": "63108",
+    "Locator": "48420001300",
+    "Quote ID": "519570",
+    "Quote Amount": "$4644.32",
+    "Closing Date": "10/30/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "EDWARDS CHRISTOPHER DOUGLAS SR",
     "Service Address": "5717 ACME AVE",
     "Zip Code": "63136",
@@ -1122,6 +1089,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "SIRO PROP OAKWOOD LLC",
+    "Service Address": "5341 BERMUDA DR",
+    "Zip Code": "63121",
+    "Locator": "13H210959",
+    "Quote ID": "518572",
+    "Quote Amount": "$0.00",
+    "Closing Date": "10/30/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "SIRO PROP ROYAL OAK LLC",
     "Service Address": "4942 LACLEDE AVE",
     "Zip Code": "63108",
@@ -1129,6 +1107,17 @@
     "Quote ID": "519418",
     "Quote Amount": "$44761.18",
     "Closing Date": "10/31/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "AUDREY L RAY",
+    "Service Address": "1129 ROCKMAN PL",
+    "Zip Code": "63119",
+    "Locator": "21L331306",
+    "Quote ID": "519624",
+    "Quote Amount": "$634.60",
+    "Closing Date": "11/02/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1155,24 +1144,13 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "VON E NEBBITT SR",
-    "Service Address": "5140 CATES AVE",
-    "Zip Code": "63108",
-    "Locator": "48420001300",
-    "Quote ID": "519570",
+    "Seller Name": "JAMES Z CALHOUN III",
+    "Service Address": "2758 RUTGER ST",
+    "Zip Code": "63104",
+    "Locator": "18180000400",
+    "Quote ID": "519623",
     "Quote Amount": "Pending",
-    "Closing Date": "10/30/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SIRO PROP OAKWOOD LLC",
-    "Service Address": "5341 BERMUDA DR",
-    "Zip Code": "63121",
-    "Locator": "13H210959",
-    "Quote ID": "518572",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/30/2025",
+    "Closing Date": "11/02/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
