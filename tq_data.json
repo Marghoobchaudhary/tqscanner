@@ -1,126 +1,5 @@
 [
   {
-    "Seller Name": "LAUTHER G KYLES",
-    "Service Address": "7456 MARILLAC DR",
-    "Zip Code": "63121",
-    "Locator": "15J331059",
-    "Quote ID": "517997",
-    "Quote Amount": "$832.79",
-    "Closing Date": "10/14/2025",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "JARED HOLSTER",
-    "Service Address": "2726 IRONDALE DR",
-    "Zip Code": "63129",
-    "Locator": "31J640836",
-    "Quote ID": "517842",
-    "Quote Amount": "$71.46",
-    "Closing Date": "10/14/2025",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "DENISE JOHANNINGMEIER",
-    "Service Address": "665 REDWING DR",
-    "Zip Code": "63031",
-    "Locator": "06J120147",
-    "Quote ID": "517841",
-    "Quote Amount": "$434.58",
-    "Closing Date": "10/14/2025",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "KENDRIX MATHIS",
-    "Service Address": "331 ST LOUIS AVE",
-    "Zip Code": "63135",
-    "Locator": "12H420784",
-    "Quote ID": "517840",
-    "Quote Amount": "$1214.26",
-    "Closing Date": "10/14/2025",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "LATRELL GERMANY",
-    "Service Address": "1940 HUDSON RD",
-    "Zip Code": "63136",
-    "Locator": "10G221092",
-    "Quote ID": "517839",
-    "Quote Amount": "$191.71",
-    "Closing Date": "10/14/2025",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "ANNE KOEHLER",
-    "Service Address": "7239 LYNDOVER PL",
-    "Zip Code": "63143",
-    "Locator": "21J610564",
-    "Quote ID": "517750",
-    "Quote Amount": "$784.87",
-    "Closing Date": "10/14/2025",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "OPT PLUS LLC",
-    "Service Address": "5629 HOLBORN DR",
-    "Zip Code": "63121",
-    "Locator": "13H231244",
-    "Quote ID": "517748",
-    "Quote Amount": "$1660.58",
-    "Closing Date": "10/14/2025",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "ADAM CROUCH",
-    "Service Address": "761 RUPRECHT AVE",
-    "Zip Code": "63125",
-    "Locator": "26H311681",
-    "Quote ID": "517747",
-    "Quote Amount": "$641.43",
-    "Closing Date": "10/14/2025",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "STAY POSITIVE INVESTMENTS LLC",
-    "Service Address": "3236 OSCEOLA ST",
-    "Zip Code": "63111",
-    "Locator": "26990000100",
-    "Quote ID": "517711",
-    "Quote Amount": "$2810.63",
-    "Closing Date": "10/14/2025",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "CCB ELITE PROPERTY SERVICESLLC",
-    "Service Address": "3926 THOLOZAN AVE",
-    "Zip Code": "63116",
-    "Locator": "50130302500",
-    "Quote ID": "517710",
-    "Quote Amount": "$1294.53",
-    "Closing Date": "10/14/2025",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "GIST PROPERTIES LLC",
-    "Service Address": "5748 FLOY AVE",
-    "Zip Code": "63136",
-    "Locator": "55900001500",
-    "Quote ID": "517709",
-    "Quote Amount": "$1161.69",
-    "Closing Date": "10/14/2025",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "A BLESSED BEGINNING IHS LLC",
     "Service Address": "5615 THEODOSIA AVE",
     "Zip Code": "63112",
@@ -271,6 +150,17 @@
     "Quote ID": "517989",
     "Quote Amount": "$253.48",
     "Closing Date": "10/16/2025",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "ADAM SPIELBERG",
+    "Service Address": "7416 BLAND AVE",
+    "Zip Code": "63105",
+    "Locator": "19J441558",
+    "Quote ID": "519626",
+    "Quote Amount": "$5330.91",
+    "Closing Date": "10/17/2025",
     "Stage": "Pending Close",
     "Submitted By": ""
   },
@@ -998,7 +888,7 @@
     "Quote Amount": "$1367.47",
     "Closing Date": "10/29/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "URBAN OASIS PROPERTIES LLC",
@@ -1009,7 +899,7 @@
     "Quote Amount": "$2100.77",
     "Closing Date": "10/29/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "RAVIN LIPSCOMB",
@@ -1020,7 +910,7 @@
     "Quote Amount": "$3363.62",
     "Closing Date": "10/29/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "JAMES MULLIGAN",
@@ -1031,7 +921,7 @@
     "Quote Amount": "$8719.10",
     "Closing Date": "10/29/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "GWENDOLYN SPICER",
@@ -1042,7 +932,7 @@
     "Quote Amount": "$6492.93",
     "Closing Date": "10/29/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "GEORGE PORTER SR",
@@ -1053,7 +943,7 @@
     "Quote Amount": "$1182.10",
     "Closing Date": "10/30/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "VON E NEBBITT SR",
@@ -1064,7 +954,7 @@
     "Quote Amount": "$4644.32",
     "Closing Date": "10/30/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "EDWARDS CHRISTOPHER DOUGLAS SR",
@@ -1075,7 +965,7 @@
     "Quote Amount": "$702.86",
     "Closing Date": "10/30/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "FREDERICK & VALENA GRANDBERRY",
@@ -1086,7 +976,7 @@
     "Quote Amount": "$118.02",
     "Closing Date": "10/30/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "SIRO PROP OAKWOOD LLC",
@@ -1097,7 +987,7 @@
     "Quote Amount": "$0.00",
     "Closing Date": "10/30/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "SIRO PROP ROYAL OAK LLC",
@@ -1111,12 +1001,34 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "KINGDOM PROPERTY DEVELOPMENT",
+    "Service Address": "4253 WESTMINSTER PL",
+    "Zip Code": "63108",
+    "Locator": "39100502600",
+    "Quote ID": "519628",
+    "Quote Amount": "$1096.03",
+    "Closing Date": "11/02/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "AUDREY L RAY",
     "Service Address": "1129 ROCKMAN PL",
     "Zip Code": "63119",
     "Locator": "21L331306",
     "Quote ID": "519624",
     "Quote Amount": "$634.60",
+    "Closing Date": "11/02/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JAMES Z CALHOUN III",
+    "Service Address": "2758 RUTGER ST",
+    "Zip Code": "63104",
+    "Locator": "18180000400",
+    "Quote ID": "519623",
+    "Quote Amount": "$2995.32",
     "Closing Date": "11/02/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1144,22 +1056,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "ADAM SPIELBERG",
-    "Service Address": "7416 BLAND AVE",
-    "Zip Code": "63105",
-    "Locator": "19J441558",
-    "Quote ID": "519626",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/17/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JAMES Z CALHOUN III",
-    "Service Address": "2758 RUTGER ST",
-    "Zip Code": "63104",
-    "Locator": "18180000400",
-    "Quote ID": "519623",
+    "Seller Name": "CHARLES CLARK",
+    "Service Address": "4615 NEWPORT AVE",
+    "Zip Code": "63116",
+    "Locator": "53150002600",
+    "Quote ID": "519629",
     "Quote Amount": "Pending",
     "Closing Date": "11/02/2025",
     "Stage": "In Progress",
