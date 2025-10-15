@@ -1001,6 +1001,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "CHARLES CLARK",
+    "Service Address": "4615 NEWPORT AVE",
+    "Zip Code": "63116",
+    "Locator": "53150002600",
+    "Quote ID": "519629",
+    "Quote Amount": "$2354.64",
+    "Closing Date": "11/02/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "KINGDOM PROPERTY DEVELOPMENT",
     "Service Address": "4253 WESTMINSTER PL",
     "Zip Code": "63108",
@@ -1034,6 +1045,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "LARRY L HILL SR",
+    "Service Address": "5326 CLAXTON AVE",
+    "Zip Code": "63120",
+    "Locator": "50830000900",
+    "Quote ID": "519789",
+    "Quote Amount": "$43.13",
+    "Closing Date": "11/04/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KAREN BURNLEY",
+    "Service Address": "6908 IRA AVE",
+    "Zip Code": "63121",
+    "Locator": "15H630571",
+    "Quote ID": "519788",
+    "Quote Amount": "$2793.40",
+    "Closing Date": "11/04/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ANDREW PARKER",
     "Service Address": "1102 GARDEN VILLAGE DR",
     "Zip Code": "63031",
@@ -1053,17 +1086,6 @@
     "Quote Amount": "$2260.10",
     "Closing Date": "11/08/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CHARLES CLARK",
-    "Service Address": "4615 NEWPORT AVE",
-    "Zip Code": "63116",
-    "Locator": "53150002600",
-    "Quote ID": "519629",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/02/2025",
-    "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
 ]
