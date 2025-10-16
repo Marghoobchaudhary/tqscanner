@@ -1,60 +1,5 @@
 [
   {
-    "Seller Name": "MICHAEL DELONG",
-    "Service Address": "525 HOLLY HILLS AVE",
-    "Zip Code": "63111",
-    "Locator": "29530002500",
-    "Quote ID": "517996",
-    "Quote Amount": "$1276.08",
-    "Closing Date": "10/16/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DARROW WHITE",
-    "Service Address": "1201 DUENKE DR",
-    "Zip Code": "63137",
-    "Locator": "13F630551",
-    "Quote ID": "517992",
-    "Quote Amount": "$6628.31",
-    "Closing Date": "10/16/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LILLIE ROBINSON",
-    "Service Address": "9103 EDWARD DR",
-    "Zip Code": "63132",
-    "Locator": "16L310411",
-    "Quote ID": "517991",
-    "Quote Amount": "$1491.17",
-    "Closing Date": "10/16/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ANDREW B & PATRICIA BENDER",
-    "Service Address": "437 ALGONQUIN PL",
-    "Zip Code": "63119",
-    "Locator": "23L330592",
-    "Quote ID": "517990",
-    "Quote Amount": "$1797.06",
-    "Closing Date": "10/16/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JESSE E JR ANNIE L THOMPSON",
-    "Service Address": "5125 WALLINGFORD DR",
-    "Zip Code": "63121",
-    "Locator": "13J630389",
-    "Quote ID": "517989",
-    "Quote Amount": "$253.48",
-    "Closing Date": "10/16/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "ADAM SPIELBERG",
     "Service Address": "7416 BLAND AVE",
     "Zip Code": "63105",
@@ -979,6 +924,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "BILL & SUSAN MEANS",
+    "Service Address": "3635 WHISPERING RIDGE LN",
+    "Zip Code": "63129",
+    "Locator": "32K520594",
+    "Quote ID": "519835",
+    "Quote Amount": "$13568.49",
+    "Closing Date": "11/03/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "PATRICIA STRICKLAND",
     "Service Address": "4723 N HILLS LN",
     "Zip Code": "63121",
@@ -1001,12 +957,34 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "PATRICIA A HALEY",
+    "Service Address": "9954 DUKE DR",
+    "Zip Code": "63136",
+    "Locator": "11F230511",
+    "Quote ID": "519967",
+    "Quote Amount": "$1674.90",
+    "Closing Date": "11/04/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "BARBARA D. VAN DALSEN-JONES",
     "Service Address": "7530 WILLIAMS AVE",
     "Zip Code": "63143",
     "Locator": "20J210020",
     "Quote ID": "519965",
     "Quote Amount": "$116.77",
+    "Closing Date": "11/04/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "NAOMI GRAY",
+    "Service Address": "4105 BURGEN AVE",
+    "Zip Code": "63116",
+    "Locator": "55020005800",
+    "Quote ID": "519964",
+    "Quote Amount": "$2908.73",
     "Closing Date": "11/04/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1045,6 +1023,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "RONALD ANICKER",
+    "Service Address": "9501 KIRCHNER AVE",
+    "Zip Code": "63125",
+    "Locator": "27G410908",
+    "Quote ID": "519979",
+    "Quote Amount": "$274.18",
+    "Closing Date": "11/05/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "JOHN H & ADDIE STOKES",
     "Service Address": "7034 CORBITT AVE",
     "Zip Code": "63130",
@@ -1078,44 +1067,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "BILL & SUSAN MEANS",
-    "Service Address": "3635 WHISPERING RIDGE LN",
-    "Zip Code": "63129",
-    "Locator": "32K520594",
-    "Quote ID": "519835",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/03/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PATRICIA A HALEY",
-    "Service Address": "9954 DUKE DR",
-    "Zip Code": "63136",
-    "Locator": "11F230511",
-    "Quote ID": "519967",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/04/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "TARA HALL",
     "Service Address": "3815 THISTLEDOWN DR",
     "Zip Code": "63033",
     "Locator": "08H310288",
     "Quote ID": "519966",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/04/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "NAOMI GRAY",
-    "Service Address": "4105 BURGEN AVE",
-    "Zip Code": "63116",
-    "Locator": "55020005800",
-    "Quote ID": "519964",
     "Quote Amount": "Pending",
     "Closing Date": "11/04/2025",
     "Stage": "In Progress",
