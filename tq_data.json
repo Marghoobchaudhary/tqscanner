@@ -1056,6 +1056,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "APRIL MAYS",
+    "Service Address": "2248 KERWIN DR",
+    "Zip Code": "63136",
+    "Locator": "12F440454",
+    "Quote ID": "520131",
+    "Quote Amount": "$97.90",
+    "Closing Date": "11/05/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PRINCESS GATES",
+    "Service Address": "4218 EDGEWOOD BLVD",
+    "Zip Code": "63121",
+    "Locator": "15G411623",
+    "Quote ID": "520129",
+    "Quote Amount": "$658.71",
+    "Closing Date": "11/05/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "PATRICE JOHNSON",
     "Service Address": "930 DERHAKE RD",
     "Zip Code": "63033",
@@ -1097,6 +1119,17 @@
     "Quote Amount": "$3094.72",
     "Closing Date": "11/14/2025",
     "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ROMERO & KAPRIA FRANKLIN",
+    "Service Address": "1072 DRIFTWOOD TRAILS DR",
+    "Zip Code": "63031",
+    "Locator": "08L640722",
+    "Quote ID": "520130",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/05/2025",
+    "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
 ]
