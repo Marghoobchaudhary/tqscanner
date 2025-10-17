@@ -968,6 +968,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "TARA HALL",
+    "Service Address": "3815 THISTLEDOWN DR",
+    "Zip Code": "63033",
+    "Locator": "08H310288",
+    "Quote ID": "519966",
+    "Quote Amount": "$3165.40",
+    "Closing Date": "11/04/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "BARBARA D. VAN DALSEN-JONES",
     "Service Address": "7530 WILLIAMS AVE",
     "Zip Code": "63143",
@@ -1045,6 +1056,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "PATRICE JOHNSON",
+    "Service Address": "930 DERHAKE RD",
+    "Zip Code": "63033",
+    "Locator": "09H410653",
+    "Quote ID": "520126",
+    "Quote Amount": "$1561.53",
+    "Closing Date": "11/05/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ANDREW PARKER",
     "Service Address": "1102 GARDEN VILLAGE DR",
     "Zip Code": "63031",
@@ -1067,25 +1089,14 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "TARA HALL",
-    "Service Address": "3815 THISTLEDOWN DR",
-    "Zip Code": "63033",
-    "Locator": "08H310288",
-    "Quote ID": "519966",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/04/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "CURTIS CURRY",
     "Service Address": "230 ST EDWARD LN",
     "Zip Code": "63033",
     "Locator": "09J630254",
     "Quote ID": "519968",
-    "Quote Amount": "Pending",
+    "Quote Amount": "$3094.72",
     "Closing Date": "11/14/2025",
-    "Stage": "In Progress",
+    "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   }
 ]
