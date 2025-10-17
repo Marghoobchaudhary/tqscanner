@@ -1,16 +1,5 @@
 [
   {
-    "Seller Name": "ADAM SPIELBERG",
-    "Service Address": "7416 BLAND AVE",
-    "Zip Code": "63105",
-    "Locator": "19J441558",
-    "Quote ID": "519626",
-    "Quote Amount": "$5330.91",
-    "Closing Date": "10/17/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "JAMES THOMAS",
     "Service Address": "710 BABLER DR",
     "Zip Code": "63031",
@@ -924,17 +913,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "BILL & SUSAN MEANS",
-    "Service Address": "3635 WHISPERING RIDGE LN",
-    "Zip Code": "63129",
-    "Locator": "32K520594",
-    "Quote ID": "519835",
-    "Quote Amount": "$13568.49",
-    "Closing Date": "11/03/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "PATRICIA STRICKLAND",
     "Service Address": "4723 N HILLS LN",
     "Zip Code": "63121",
@@ -1051,6 +1029,17 @@
     "Locator": "17J240795",
     "Quote ID": "519955",
     "Quote Amount": "$150.85",
+    "Closing Date": "11/05/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ABDUL HASSAN",
+    "Service Address": "3638 BAMBERGER AVE",
+    "Zip Code": "63116",
+    "Locator": "56240001900",
+    "Quote ID": "520165",
+    "Quote Amount": "$566.68",
     "Closing Date": "11/05/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
