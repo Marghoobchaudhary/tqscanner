@@ -440,6 +440,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "RANDAL FORTNER",
+    "Service Address": "9857 LILAC DR-63137",
+    "Zip Code": "63137",
+    "Locator": "11E221150",
+    "Quote ID": "520268",
+    "Quote Amount": "$175.02",
+    "Closing Date": "10/28/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BETTY J BURRIS",
+    "Service Address": "1172 MARSH AVE-63011",
+    "Zip Code": "63011",
+    "Locator": "22T240142",
+    "Quote ID": "520267",
+    "Quote Amount": "$707.12",
+    "Closing Date": "10/28/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "NICHOLAS WALLING",
     "Service Address": "2328 URBANDALE DR",
     "Zip Code": "63031",
@@ -975,8 +997,8 @@
     "Quote ID": "519963",
     "Quote Amount": "$487.44",
     "Closing Date": "11/04/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "LARRY L HILL SR",
@@ -986,8 +1008,8 @@
     "Quote ID": "519789",
     "Quote Amount": "$43.13",
     "Closing Date": "11/04/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "KAREN BURNLEY",
@@ -1129,6 +1151,28 @@
     "Quote ID": "520130",
     "Quote Amount": "Pending",
     "Closing Date": "11/05/2025",
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "ALISA AND DAVID NISHIMURA",
+    "Service Address": "1828 STILL HOLLOW CT",
+    "Zip Code": "63017",
+    "Locator": "19S110325",
+    "Quote ID": "520270",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/06/2025",
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "ROSE ANN HEALY",
+    "Service Address": "13209 DAMASK CT",
+    "Zip Code": "63146",
+    "Locator": "16P410122",
+    "Quote ID": "520269",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/06/2025",
     "Stage": "",
     "Submitted By": ""
   },
