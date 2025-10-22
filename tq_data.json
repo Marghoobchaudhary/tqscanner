@@ -1,82 +1,5 @@
 [
   {
-    "Seller Name": "BRANDONVIEW LLC",
-    "Service Address": "515 OLIVE ST",
-    "Zip Code": "63101",
-    "Locator": "01170001000",
-    "Quote ID": "519218",
-    "Quote Amount": "$7376.94",
-    "Closing Date": "10/22/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PROPERTY SOLUTIONS PLUS LLC",
-    "Service Address": "306 ST LOUIS AVE",
-    "Zip Code": "63135",
-    "Locator": "12H421114",
-    "Quote ID": "518579",
-    "Quote Amount": "$28.50",
-    "Closing Date": "10/22/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PROPERTY SOLUTIONS PLUS LLC",
-    "Service Address": "5381 BERMUDA DR",
-    "Zip Code": "63121",
-    "Locator": "13H210986",
-    "Quote ID": "518578",
-    "Quote Amount": "$831.94",
-    "Closing Date": "10/22/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DEBRA C BUNCE",
-    "Service Address": "1763 REDCOAT DR",
-    "Zip Code": "63043",
-    "Locator": "14O140235",
-    "Quote ID": "518571",
-    "Quote Amount": "$4791.64",
-    "Closing Date": "10/22/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SHELBY PINKSTON",
-    "Service Address": "6003 HEEGE RD-63123",
-    "Zip Code": "63123",
-    "Locator": "25J541257",
-    "Quote ID": "518570",
-    "Quote Amount": "$161.74",
-    "Closing Date": "10/22/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CLARICE FLANIGAN",
-    "Service Address": "8139 BLANCHARD DR",
-    "Zip Code": "63134",
-    "Locator": "11J211386",
-    "Quote ID": "518569",
-    "Quote Amount": "$916.06",
-    "Closing Date": "10/22/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "NORTHSIDE PROPERTIES LLC",
-    "Service Address": "3539 LAWN AVE",
-    "Zip Code": "63139",
-    "Locator": "60690003200",
-    "Quote ID": "518325",
-    "Quote Amount": "$268.11",
-    "Closing Date": "10/22/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "COTINA NELSON",
     "Service Address": "1312 S 13TH ST",
     "Zip Code": "63104",
@@ -160,17 +83,6 @@
     "Locator": "32K440205",
     "Quote ID": "517597",
     "Quote Amount": "$4961.25",
-    "Closing Date": "10/23/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KANDI ZAPOLISKI",
-    "Service Address": "50 ST WALTER LN",
-    "Zip Code": "63031",
-    "Locator": "09K640559",
-    "Quote ID": "517596",
-    "Quote Amount": "$1064.41",
     "Closing Date": "10/23/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -924,6 +836,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "TEMEKA HOLLIAM",
+    "Service Address": "3 MULLANPHY CT",
+    "Zip Code": "63031",
+    "Locator": "07J130972",
+    "Quote ID": "520266",
+    "Quote Amount": "$12605.93",
+    "Closing Date": "11/06/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MAGGIE DURANT ETAL J/T",
     "Service Address": "7247 TEAL AVE",
     "Zip Code": "63133",
@@ -997,8 +920,8 @@
     "Quote ID": "520723",
     "Quote Amount": "$202.85",
     "Closing Date": "11/09/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "D&D CONSTRUCTION GROUP LLC",
@@ -1008,8 +931,8 @@
     "Quote ID": "520698",
     "Quote Amount": "$2102.11",
     "Closing Date": "11/09/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "AMY WILLERS",
@@ -1019,8 +942,8 @@
     "Quote ID": "520697",
     "Quote Amount": "$665.36",
     "Closing Date": "11/09/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "CIERA CROSSLAND",
@@ -1030,8 +953,30 @@
     "Quote ID": "520264",
     "Quote Amount": "$478.96",
     "Closing Date": "11/09/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WILLIAMS & PROPERTY GROUP LLC",
+    "Service Address": "2287 GADBURY DR",
+    "Zip Code": "63136",
+    "Locator": "10F410884",
+    "Quote ID": "520870",
+    "Quote Amount": "$475.31",
+    "Closing Date": "11/11/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "RENEE M JACKSON",
+    "Service Address": "5824 WESTMINSTER PL",
+    "Zip Code": "63112",
+    "Locator": "55170002600",
+    "Quote ID": "520869",
+    "Quote Amount": "$4917.99",
+    "Closing Date": "11/11/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "W OR RUTH S OR FRED M REED",
@@ -1040,6 +985,17 @@
     "Locator": "22L611465",
     "Quote ID": "520864",
     "Quote Amount": "$915.81",
+    "Closing Date": "11/12/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BRIAN & CYNTHIA STOCKMAN",
+    "Service Address": "5628 BRIARWOOD ESTATES DR",
+    "Zip Code": "63129",
+    "Locator": "32J641155",
+    "Quote ID": "520856",
+    "Quote Amount": "$2733.38",
     "Closing Date": "11/12/2025",
     "Stage": "",
     "Submitted By": ""
@@ -1052,17 +1008,6 @@
     "Quote ID": "519968",
     "Quote Amount": "$3094.72",
     "Closing Date": "11/14/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "TEMEKA HOLLIAM",
-    "Service Address": "3 MULLANPHY CT",
-    "Zip Code": "63031",
-    "Locator": "07J130972",
-    "Quote ID": "520266",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/06/2025",
     "Stage": "",
     "Submitted By": ""
   },
@@ -1083,17 +1028,6 @@
     "Zip Code": "63033",
     "Locator": "09H530366",
     "Quote ID": "520860",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/12/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "BRIAN & CYNTHIA STOCKMAN",
-    "Service Address": "5628 BRIARWOOD ESTATES DR",
-    "Zip Code": "63129",
-    "Locator": "32J641155",
-    "Quote ID": "520856",
     "Quote Amount": "Pending",
     "Closing Date": "11/12/2025",
     "Stage": "",
