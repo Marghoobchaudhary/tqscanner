@@ -957,6 +957,50 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "KATHLEEN MEACHAM",
+    "Service Address": "3630 ARSENAL ST",
+    "Zip Code": "63116",
+    "Locator": "21020001900",
+    "Quote ID": "521023",
+    "Quote Amount": "$311.45",
+    "Closing Date": "11/11/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DEVIN KRAMER",
+    "Service Address": "231 GEORGIA AVE",
+    "Zip Code": "63135",
+    "Locator": "12J621038",
+    "Quote ID": "521020",
+    "Quote Amount": "$938.62",
+    "Closing Date": "11/11/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CURT C BALLANC",
+    "Service Address": "5114 WEBER RD-63123",
+    "Zip Code": "63123",
+    "Locator": "25J322016",
+    "Quote ID": "521019",
+    "Quote Amount": "$707.26",
+    "Closing Date": "11/11/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "FRANK MOSS",
+    "Service Address": "14012 CROSS TRAILS DR",
+    "Zip Code": "63017",
+    "Locator": "18Q530100",
+    "Quote ID": "521018",
+    "Quote Amount": "$98.57",
+    "Closing Date": "11/11/2025",
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "WILLIAMS & PROPERTY GROUP LLC",
     "Service Address": "2287 GADBURY DR",
     "Zip Code": "63136",
@@ -964,8 +1008,8 @@
     "Quote ID": "520870",
     "Quote Amount": "$475.31",
     "Closing Date": "11/11/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "RENEE M JACKSON",
@@ -975,8 +1019,8 @@
     "Quote ID": "520869",
     "Quote Amount": "$4917.99",
     "Closing Date": "11/11/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "W OR RUTH S OR FRED M REED",
@@ -986,8 +1030,8 @@
     "Quote ID": "520864",
     "Quote Amount": "$915.81",
     "Closing Date": "11/12/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "AERIEL DIXON",
@@ -1019,6 +1063,50 @@
     "Quote ID": "519968",
     "Quote Amount": "$3094.72",
     "Closing Date": "11/14/2025",
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "YOLANDA CURLEE",
+    "Service Address": "4183 WEST BELLE PL",
+    "Zip Code": "63108",
+    "Locator": "45660002900",
+    "Quote ID": "521022",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/11/2025",
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "MARGARET SCHAEFER",
+    "Service Address": "4950 TYROLEAN AVE",
+    "Zip Code": "63109",
+    "Locator": "55630002000",
+    "Quote ID": "521021",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/11/2025",
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "RON GOTTSCHALK",
+    "Service Address": "1265 DEL REY DR",
+    "Zip Code": "63031",
+    "Locator": "07K511264",
+    "Quote ID": "521017",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/11/2025",
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "STANLEY WATSON",
+    "Service Address": "1724 MURIEL DR",
+    "Zip Code": "63138",
+    "Locator": "09E110170",
+    "Quote ID": "521016",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/11/2025",
     "Stage": "",
     "Submitted By": ""
   },
