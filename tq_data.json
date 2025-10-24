@@ -869,6 +869,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JERRY JONES",
+    "Service Address": "1719 IOWA AVE",
+    "Zip Code": "63104",
+    "Locator": "13160002000",
+    "Quote ID": "521024",
+    "Quote Amount": "$21842.80",
+    "Closing Date": "11/11/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "KATHLEEN MEACHAM",
     "Service Address": "3630 ARSENAL ST",
     "Zip Code": "63116",
@@ -946,6 +957,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JAMES GORCZYCA",
+    "Service Address": "1800 W ADAMS AVE-63122",
+    "Zip Code": "63122",
+    "Locator": "24N430406",
+    "Quote ID": "521134",
+    "Quote Amount": "$145.36",
+    "Closing Date": "11/12/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "W OR RUTH S OR FRED M REED",
     "Service Address": "521 BARCIA DR",
     "Zip Code": "63119",
@@ -975,8 +997,41 @@
     "Quote ID": "520856",
     "Quote Amount": "$2733.38",
     "Closing Date": "11/12/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "JAMES WILLIAMS",
+    "Service Address": "309 W ARLEE AVE-63125",
+    "Zip Code": "63125",
+    "Locator": "27H321197",
+    "Quote ID": "521144",
+    "Quote Amount": "$929.38",
+    "Closing Date": "11/13/2025",
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "DIANNE BORCHERDING",
+    "Service Address": "575 PINETREE LAKE CT",
+    "Zip Code": "63017",
+    "Locator": "19P410136",
+    "Quote ID": "521140",
+    "Quote Amount": "$113.19",
+    "Closing Date": "11/13/2025",
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "MONICA ZIDARU",
+    "Service Address": "7553 SHAFTESBURY AVE",
+    "Zip Code": "63130",
+    "Locator": "17K341411",
+    "Quote ID": "521150",
+    "Quote Amount": "$819.46",
+    "Closing Date": "11/14/2025",
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "CURTIS CURRY",
@@ -986,17 +1041,17 @@
     "Quote ID": "519968",
     "Quote Amount": "$3094.72",
     "Closing Date": "11/14/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
-    "Seller Name": "JERRY JONES",
-    "Service Address": "1719 IOWA AVE",
-    "Zip Code": "63104",
-    "Locator": "13160002000",
-    "Quote ID": "521024",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/11/2025",
+    "Seller Name": "K&T PROPERTIES OAKVILLECOMMONS",
+    "Service Address": "652 GREEN CLIFF DR",
+    "Zip Code": "63026",
+    "Locator": "28P320110",
+    "Quote ID": "520261",
+    "Quote Amount": "$2187.42",
+    "Closing Date": "11/16/2025",
     "Stage": "",
     "Submitted By": ""
   },
@@ -1034,6 +1089,28 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "CHRIS PITTMAN",
+    "Service Address": "717 WESLEY AVE",
+    "Zip Code": "63135",
+    "Locator": "12J630674",
+    "Quote ID": "521114",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/12/2025",
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "STEVIE & REBECCA BOWEN",
+    "Service Address": "5921 HELEN AVE-63134",
+    "Zip Code": "63134",
+    "Locator": "12K641398",
+    "Quote ID": "521111",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/12/2025",
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "HENRY JACOCKS",
     "Service Address": "12948 BROADRIDGE LN",
     "Zip Code": "63033",
@@ -1050,17 +1127,6 @@
     "Zip Code": "63123",
     "Locator": "25H510432",
     "Quote ID": "520263",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/16/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "K&T PROPERTIES OAKVILLECOMMONS",
-    "Service Address": "652 GREEN CLIFF DR",
-    "Zip Code": "63026",
-    "Locator": "28P320110",
-    "Quote ID": "520261",
     "Quote Amount": "Pending",
     "Closing Date": "11/16/2025",
     "Stage": "",
