@@ -891,6 +891,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "YOLANDA CURLEE",
+    "Service Address": "4183 WEST BELLE PL",
+    "Zip Code": "63108",
+    "Locator": "45660002900",
+    "Quote ID": "521022",
+    "Quote Amount": "$20283.21",
+    "Closing Date": "11/11/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MARGARET SCHAEFER",
+    "Service Address": "4950 TYROLEAN AVE",
+    "Zip Code": "63109",
+    "Locator": "55630002000",
+    "Quote ID": "521021",
+    "Quote Amount": "$0.00",
+    "Closing Date": "11/11/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "DEVIN KRAMER",
     "Service Address": "231 GEORGIA AVE",
     "Zip Code": "63135",
@@ -935,6 +957,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "STANLEY WATSON",
+    "Service Address": "1724 MURIEL DR",
+    "Zip Code": "63138",
+    "Locator": "09E110170",
+    "Quote ID": "521016",
+    "Quote Amount": "$6066.07",
+    "Closing Date": "11/11/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "WILLIAMS & PROPERTY GROUP LLC",
     "Service Address": "2287 GADBURY DR",
     "Zip Code": "63136",
@@ -964,8 +997,30 @@
     "Quote ID": "521134",
     "Quote Amount": "$145.36",
     "Closing Date": "11/12/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "CHRIS PITTMAN",
+    "Service Address": "717 WESLEY AVE",
+    "Zip Code": "63135",
+    "Locator": "12J630674",
+    "Quote ID": "521114",
+    "Quote Amount": "$709.48",
+    "Closing Date": "11/12/2025",
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "STEVIE & REBECCA BOWEN",
+    "Service Address": "5921 HELEN AVE-63134",
+    "Zip Code": "63134",
+    "Locator": "12K641398",
+    "Quote ID": "521111",
+    "Quote Amount": "$2014.86",
+    "Closing Date": "11/12/2025",
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "W OR RUTH S OR FRED M REED",
@@ -975,8 +1030,19 @@
     "Quote ID": "520864",
     "Quote Amount": "$915.81",
     "Closing Date": "11/12/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "HENRY JACOCKS",
+    "Service Address": "12948 BROADRIDGE LN",
+    "Zip Code": "63033",
+    "Locator": "07G310255",
+    "Quote ID": "520863",
+    "Quote Amount": "$0.00",
+    "Closing Date": "11/12/2025",
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "AERIEL DIXON",
@@ -986,8 +1052,8 @@
     "Quote ID": "520860",
     "Quote Amount": "$1714.92",
     "Closing Date": "11/12/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "BRIAN & CYNTHIA STOCKMAN",
@@ -1007,6 +1073,17 @@
     "Locator": "27450001200",
     "Quote ID": "521266",
     "Quote Amount": "$2774.01",
+    "Closing Date": "11/13/2025",
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "TIMOTHY & KAREN PREGON",
+    "Service Address": "563 APEX DR",
+    "Zip Code": "63126",
+    "Locator": "25M610730",
+    "Quote ID": "521243",
+    "Quote Amount": "$1186.32",
     "Closing Date": "11/13/2025",
     "Stage": "",
     "Submitted By": ""
@@ -1051,6 +1128,17 @@
     "Locator": "10G420015",
     "Quote ID": "521220",
     "Quote Amount": "$816.71",
+    "Closing Date": "11/13/2025",
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "SAMUEL JONES",
+    "Service Address": "3505 EAST PL",
+    "Zip Code": "63121",
+    "Locator": "15H610243",
+    "Quote ID": "521212",
+    "Quote Amount": "$5096.77",
     "Closing Date": "11/13/2025",
     "Stage": "",
     "Submitted By": ""
@@ -1232,72 +1320,6 @@
     "Submitted By": ""
   },
   {
-    "Seller Name": "YOLANDA CURLEE",
-    "Service Address": "4183 WEST BELLE PL",
-    "Zip Code": "63108",
-    "Locator": "45660002900",
-    "Quote ID": "521022",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/11/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "MARGARET SCHAEFER",
-    "Service Address": "4950 TYROLEAN AVE",
-    "Zip Code": "63109",
-    "Locator": "55630002000",
-    "Quote ID": "521021",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/11/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "STANLEY WATSON",
-    "Service Address": "1724 MURIEL DR",
-    "Zip Code": "63138",
-    "Locator": "09E110170",
-    "Quote ID": "521016",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/11/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "CHRIS PITTMAN",
-    "Service Address": "717 WESLEY AVE",
-    "Zip Code": "63135",
-    "Locator": "12J630674",
-    "Quote ID": "521114",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/12/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "STEVIE & REBECCA BOWEN",
-    "Service Address": "5921 HELEN AVE-63134",
-    "Zip Code": "63134",
-    "Locator": "12K641398",
-    "Quote ID": "521111",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/12/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "HENRY JACOCKS",
-    "Service Address": "12948 BROADRIDGE LN",
-    "Zip Code": "63033",
-    "Locator": "07G310255",
-    "Quote ID": "520863",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/12/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "VMG LLC",
     "Service Address": "412 WARFIELD AVE",
     "Zip Code": "63135",
@@ -1320,33 +1342,11 @@
     "Submitted By": ""
   },
   {
-    "Seller Name": "TIMOTHY & KAREN PREGON",
-    "Service Address": "563 APEX DR",
-    "Zip Code": "63126",
-    "Locator": "25M610730",
-    "Quote ID": "521243",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/13/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "VERA J JONES",
     "Service Address": "4350 TANGLEBROOK DR",
     "Zip Code": "63033",
     "Locator": "07G120296",
     "Quote ID": "521242",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/13/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "SAMUEL JONES",
-    "Service Address": "3505 EAST PL",
-    "Zip Code": "63121",
-    "Locator": "15H610243",
-    "Quote ID": "521212",
     "Quote Amount": "Pending",
     "Closing Date": "11/13/2025",
     "Stage": "",
