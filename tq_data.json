@@ -1045,17 +1045,6 @@
     "Submitted By": ""
   },
   {
-    "Seller Name": "AERIEL DIXON",
-    "Service Address": "290 PUEBLO DR",
-    "Zip Code": "63033",
-    "Locator": "09H530366",
-    "Quote ID": "520860",
-    "Quote Amount": "$1714.92",
-    "Closing Date": "11/12/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "BRIAN & CYNTHIA STOCKMAN",
     "Service Address": "5628 BRIARWOOD ESTATES DR",
     "Zip Code": "63129",
@@ -1095,6 +1084,17 @@
     "Locator": "25M610730",
     "Quote ID": "521243",
     "Quote Amount": "$1186.32",
+    "Closing Date": "11/13/2025",
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "VERA J JONES",
+    "Service Address": "4350 TANGLEBROOK DR",
+    "Zip Code": "63033",
+    "Locator": "07G120296",
+    "Quote ID": "521242",
+    "Quote Amount": "$11234.90",
     "Closing Date": "11/13/2025",
     "Stage": "",
     "Submitted By": ""
@@ -1243,6 +1243,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "HRD CAPITAL PARTNERS LLC",
+    "Service Address": "6535 BARTMER AVE",
+    "Zip Code": "63130",
+    "Locator": "17H111362",
+    "Quote ID": "521316",
+    "Quote Amount": "$2123.32",
+    "Closing Date": "11/13/2025",
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "SAFI ISLAM",
     "Service Address": "10165 COUNT DR",
     "Zip Code": "63136",
@@ -1320,6 +1331,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "K&T PROPERTIESOAKVILLECOMMONS",
+    "Service Address": "4759 OLDENBURG AVE",
+    "Zip Code": "63123",
+    "Locator": "25H510432",
+    "Quote ID": "520263",
+    "Quote Amount": "$4303.03",
+    "Closing Date": "11/16/2025",
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "K&T PROPERTIES OAKVILLECOMMONS",
     "Service Address": "652 GREEN CLIFF DR",
     "Zip Code": "63026",
@@ -1338,39 +1360,6 @@
     "Quote ID": "521303",
     "Quote Amount": "Pending",
     "Closing Date": "11/12/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "VERA J JONES",
-    "Service Address": "4350 TANGLEBROOK DR",
-    "Zip Code": "63033",
-    "Locator": "07G120296",
-    "Quote ID": "521242",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/13/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "HRD CAPITAL PARTNERS LLC",
-    "Service Address": "6535 BARTMER AVE",
-    "Zip Code": "63130",
-    "Locator": "17H111362",
-    "Quote ID": "521316",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/13/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "K&T PROPERTIESOAKVILLECOMMONS",
-    "Service Address": "4759 OLDENBURG AVE",
-    "Zip Code": "63123",
-    "Locator": "25H510432",
-    "Quote ID": "520263",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/16/2025",
     "Stage": "",
     "Submitted By": ""
   }
