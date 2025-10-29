@@ -1056,6 +1056,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "VMG LLC",
+    "Service Address": "412 WARFIELD AVE",
+    "Zip Code": "63135",
+    "Locator": "11J330991",
+    "Quote ID": "521303",
+    "Quote Amount": "$3418.73",
+    "Closing Date": "11/12/2025",
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "CO PROPERTY DEALS INVESTMENT",
     "Service Address": "4614 S COMPTON AVE",
     "Zip Code": "63111",
@@ -1349,17 +1360,6 @@
     "Quote ID": "520261",
     "Quote Amount": "$2187.42",
     "Closing Date": "11/16/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "VMG LLC",
-    "Service Address": "412 WARFIELD AVE",
-    "Zip Code": "63135",
-    "Locator": "11J330991",
-    "Quote ID": "521303",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/12/2025",
     "Stage": "",
     "Submitted By": ""
   }
