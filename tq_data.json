@@ -1,401 +1,5 @@
 [
   {
-    "Seller Name": "RANDAL FORTNER",
-    "Service Address": "9857 LILAC DR-63137",
-    "Zip Code": "63137",
-    "Locator": "11E221150",
-    "Quote ID": "520268",
-    "Quote Amount": "$175.02",
-    "Closing Date": "10/28/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BETTY J BURRIS",
-    "Service Address": "1172 MARSH AVE-63011",
-    "Zip Code": "63011",
-    "Locator": "22T240142",
-    "Quote ID": "520267",
-    "Quote Amount": "$707.12",
-    "Closing Date": "10/28/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "NICHOLAS WALLING",
-    "Service Address": "2328 URBANDALE DR",
-    "Zip Code": "63031",
-    "Locator": "06K341136",
-    "Quote ID": "519222",
-    "Quote Amount": "$5884.73",
-    "Closing Date": "10/28/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PIERRE HARRIS ETAL",
-    "Service Address": "7109 WOODROW AVE",
-    "Zip Code": "63121",
-    "Locator": "15H230867",
-    "Quote ID": "519221",
-    "Quote Amount": "$28.50",
-    "Closing Date": "10/28/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JILL LOFTIN",
-    "Service Address": "5751 CLEMENS AVE",
-    "Zip Code": "63112",
-    "Locator": "45460004650",
-    "Quote ID": "519219",
-    "Quote Amount": "$554.00",
-    "Closing Date": "10/28/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PATRICIA SCHNEIDER MICHAEL",
-    "Service Address": "4735 GOETHE AVE",
-    "Zip Code": "63116",
-    "Locator": "55370000700",
-    "Quote ID": "519217",
-    "Quote Amount": "$282.81",
-    "Closing Date": "10/28/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DAN COLBERT",
-    "Service Address": "5226 THEODOSIA AVE",
-    "Zip Code": "63113",
-    "Locator": "52840001000",
-    "Quote ID": "519216",
-    "Quote Amount": "$1430.77",
-    "Closing Date": "10/28/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "EULA & INELL JOYNER",
-    "Service Address": "5869 JULIAN AVE",
-    "Zip Code": "63112",
-    "Locator": "38240004900",
-    "Quote ID": "519215",
-    "Quote Amount": "$3503.47",
-    "Closing Date": "10/28/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "R MARK SPECKERT",
-    "Service Address": "166 S OLD ORCHARD AVE",
-    "Zip Code": "63119",
-    "Locator": "23K610048",
-    "Quote ID": "519214",
-    "Quote Amount": "$487.90",
-    "Closing Date": "10/28/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BRENDAN SCHILTZ",
-    "Service Address": "4980 HURSTBOROUGH CT",
-    "Zip Code": "63042",
-    "Locator": "09M141443",
-    "Quote ID": "519213",
-    "Quote Amount": "$697.42",
-    "Closing Date": "10/28/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SHONDALYNN COUCH THOMPSON",
-    "Service Address": "2740 MORRIS DR",
-    "Zip Code": "63031",
-    "Locator": "06J220171",
-    "Quote ID": "519212",
-    "Quote Amount": "$164.22",
-    "Closing Date": "10/28/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ARLEEN MITCHELL",
-    "Service Address": "2519 NETHERTON DR",
-    "Zip Code": "63136",
-    "Locator": "09G321257",
-    "Quote ID": "519211",
-    "Quote Amount": "$1323.36",
-    "Closing Date": "10/28/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KNOX MANAGEMENT LLC",
-    "Service Address": "10107 CASTLE DR",
-    "Zip Code": "63136",
-    "Locator": "11F511120",
-    "Quote ID": "519035",
-    "Quote Amount": "$1693.06",
-    "Closing Date": "10/28/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KNOX MANAGEMENT LLC",
-    "Service Address": "10272 IMPERIAL DR",
-    "Zip Code": "63136",
-    "Locator": "10G220383",
-    "Quote ID": "519034",
-    "Quote Amount": "$1717.98",
-    "Closing Date": "10/28/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KNOX MANAGEMENT LLC",
-    "Service Address": "9952 NOBLE LN",
-    "Zip Code": "63136",
-    "Locator": "11F230438",
-    "Quote ID": "519033",
-    "Quote Amount": "$0.00",
-    "Closing Date": "10/28/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KNOX MANAGEMENT LLC",
-    "Service Address": "7752 MALLARD DR",
-    "Zip Code": "63133",
-    "Locator": "16J141631",
-    "Quote ID": "519032",
-    "Quote Amount": "$1338.14",
-    "Closing Date": "10/28/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KNOX MANAGMENT LLC",
-    "Service Address": "340 HOLIDAY HL",
-    "Zip Code": "63033",
-    "Locator": "09H441332",
-    "Quote ID": "519031",
-    "Quote Amount": "$2455.04",
-    "Closing Date": "10/28/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KNOX MANAGEMENT LLC",
-    "Service Address": "2214 IBIS CT",
-    "Zip Code": "63136",
-    "Locator": "10G320483",
-    "Quote ID": "519029",
-    "Quote Amount": "$2278.08",
-    "Closing Date": "10/28/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SANDERS WRIGHT",
-    "Service Address": "3436 TENNESSEE AVE",
-    "Zip Code": "63118",
-    "Locator": "15860000800",
-    "Quote ID": "519028",
-    "Quote Amount": "$1666.01",
-    "Closing Date": "10/28/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ABRA MCFIELD",
-    "Service Address": "1226 VICTOR ST",
-    "Zip Code": "63104",
-    "Locator": "08781800300",
-    "Quote ID": "519432",
-    "Quote Amount": "$2580.73",
-    "Closing Date": "10/29/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CAROL A HUMPHREY",
-    "Service Address": "532 S HARRISON AVE",
-    "Zip Code": "63122",
-    "Locator": "24M130967",
-    "Quote ID": "519417",
-    "Quote Amount": "$1325.64",
-    "Closing Date": "10/29/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KEENA DAVIS",
-    "Service Address": "11031 LANDSEER DR",
-    "Zip Code": "63136",
-    "Locator": "09G320421",
-    "Quote ID": "519416",
-    "Quote Amount": "$3525.98",
-    "Closing Date": "10/29/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JESUS HERNANDEZ",
-    "Service Address": "9209 PAVIA AVE-63123",
-    "Zip Code": "63123",
-    "Locator": "25J221487",
-    "Quote ID": "519415",
-    "Quote Amount": "$854.00",
-    "Closing Date": "10/29/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "STEVE DODSON",
-    "Service Address": "152 W HOLDEN AVE",
-    "Zip Code": "63125",
-    "Locator": "27G130381",
-    "Quote ID": "519414",
-    "Quote Amount": "$4293.35",
-    "Closing Date": "10/29/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "FRANK THOMPSON",
-    "Service Address": "7 HAZELNUT CT",
-    "Zip Code": "63033",
-    "Locator": "09H630213",
-    "Quote ID": "519410",
-    "Quote Amount": "$1058.20",
-    "Closing Date": "10/29/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ELEANOR & EDWARD PRPTY LLC",
-    "Service Address": "6738 VERNON AVE",
-    "Zip Code": "63130",
-    "Locator": "18J641461",
-    "Quote ID": "519409",
-    "Quote Amount": "$-10.76",
-    "Closing Date": "10/29/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ELEANOR & EDWARD PRPTY LLC",
-    "Service Address": "11830 SEVEN HILLS DR",
-    "Zip Code": "63033",
-    "Locator": "09H620182",
-    "Quote ID": "519408",
-    "Quote Amount": "$4833.50",
-    "Closing Date": "10/29/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "WILBERT HAINES",
-    "Service Address": "5942 LOTUS AVE",
-    "Zip Code": "63112",
-    "Locator": "49980001500",
-    "Quote ID": "519407",
-    "Quote Amount": "$1367.47",
-    "Closing Date": "10/29/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RAVIN LIPSCOMB",
-    "Service Address": "2827 ABNER PL-63120",
-    "Zip Code": "63120",
-    "Locator": "45170501700",
-    "Quote ID": "519405",
-    "Quote Amount": "$3363.62",
-    "Closing Date": "10/29/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JAMES MULLIGAN",
-    "Service Address": "6418 WEST CT",
-    "Zip Code": "63116",
-    "Locator": "61750000500",
-    "Quote ID": "519404",
-    "Quote Amount": "$8719.10",
-    "Closing Date": "10/29/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GWENDOLYN SPICER",
-    "Service Address": "3511 LOUISIANA AVE",
-    "Zip Code": "63118",
-    "Locator": "15870002200",
-    "Quote ID": "519403",
-    "Quote Amount": "$6492.93",
-    "Closing Date": "10/29/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GEORGE PORTER SR",
-    "Service Address": "9231 ARGYLE AVE",
-    "Zip Code": "63114",
-    "Locator": "14K130054",
-    "Quote ID": "519411",
-    "Quote Amount": "$1182.10",
-    "Closing Date": "10/30/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "VON E NEBBITT SR",
-    "Service Address": "5140 CATES AVE",
-    "Zip Code": "63108",
-    "Locator": "48420001300",
-    "Quote ID": "519570",
-    "Quote Amount": "$4644.32",
-    "Closing Date": "10/30/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "EDWARDS CHRISTOPHER DOUGLAS SR",
-    "Service Address": "5717 ACME AVE",
-    "Zip Code": "63136",
-    "Locator": "14G620413",
-    "Quote ID": "519569",
-    "Quote Amount": "$702.86",
-    "Closing Date": "10/30/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "FREDERICK & VALENA GRANDBERRY",
-    "Service Address": "4524 TARLTON DR",
-    "Zip Code": "63128",
-    "Locator": "30K420131",
-    "Quote ID": "519568",
-    "Quote Amount": "$118.02",
-    "Closing Date": "10/30/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SIRO PROP OAKWOOD LLC",
-    "Service Address": "5341 BERMUDA DR",
-    "Zip Code": "63121",
-    "Locator": "13H210959",
-    "Quote ID": "518572",
-    "Quote Amount": "$0.00",
-    "Closing Date": "10/30/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "SIRO PROP ROYAL OAK LLC",
     "Service Address": "4942 LACLEDE AVE",
     "Zip Code": "63108",
@@ -403,8 +7,8 @@
     "Quote ID": "519418",
     "Quote Amount": "$44761.18",
     "Closing Date": "10/31/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "CHARLES CLARK",
@@ -414,8 +18,8 @@
     "Quote ID": "519629",
     "Quote Amount": "$2354.64",
     "Closing Date": "11/02/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "KINGDOM PROPERTY DEVELOPMENT",
@@ -425,8 +29,8 @@
     "Quote ID": "519628",
     "Quote Amount": "$1096.03",
     "Closing Date": "11/02/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "AUDREY L RAY",
@@ -436,8 +40,8 @@
     "Quote ID": "519624",
     "Quote Amount": "$634.60",
     "Closing Date": "11/02/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "JAMES Z CALHOUN III",
@@ -447,8 +51,8 @@
     "Quote ID": "519623",
     "Quote Amount": "$2995.32",
     "Closing Date": "11/02/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "DELMA PERRY",
@@ -458,8 +62,8 @@
     "Quote ID": "519840",
     "Quote Amount": "$363.60",
     "Closing Date": "11/03/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "BRETT HIMMEGER",
@@ -469,8 +73,8 @@
     "Quote ID": "519839",
     "Quote Amount": "$2104.50",
     "Closing Date": "11/03/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "BETTY J MORRIS",
@@ -480,8 +84,8 @@
     "Quote ID": "519838",
     "Quote Amount": "$1052.76",
     "Closing Date": "11/03/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "PATRICIA STRICKLAND",
@@ -491,8 +95,8 @@
     "Quote ID": "519833",
     "Quote Amount": "$410.38",
     "Closing Date": "11/03/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "MICHAEL HARRY",
@@ -502,8 +106,8 @@
     "Quote ID": "519826",
     "Quote Amount": "$1988.62",
     "Closing Date": "11/03/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "PATRICIA A HALEY",
@@ -513,8 +117,8 @@
     "Quote ID": "519967",
     "Quote Amount": "$1674.90",
     "Closing Date": "11/04/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "TARA HALL",
@@ -524,8 +128,8 @@
     "Quote ID": "519966",
     "Quote Amount": "$3165.40",
     "Closing Date": "11/04/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "BARBARA D. VAN DALSEN-JONES",
@@ -535,8 +139,8 @@
     "Quote ID": "519965",
     "Quote Amount": "$116.77",
     "Closing Date": "11/04/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "NAOMI GRAY",
@@ -546,8 +150,8 @@
     "Quote ID": "519964",
     "Quote Amount": "$2908.73",
     "Closing Date": "11/04/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "ANITA BLACKWELL",
@@ -557,8 +161,8 @@
     "Quote ID": "519963",
     "Quote Amount": "$487.44",
     "Closing Date": "11/04/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "LARRY L HILL SR",
@@ -568,8 +172,8 @@
     "Quote ID": "519789",
     "Quote Amount": "$43.13",
     "Closing Date": "11/04/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "KAREN BURNLEY",
@@ -579,8 +183,8 @@
     "Quote ID": "519788",
     "Quote Amount": "$2793.40",
     "Closing Date": "11/04/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "RONALD ANICKER",
@@ -590,8 +194,8 @@
     "Quote ID": "519979",
     "Quote Amount": "$274.18",
     "Closing Date": "11/05/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "JOHN H & ADDIE STOKES",
@@ -601,8 +205,8 @@
     "Quote ID": "519955",
     "Quote Amount": "$150.85",
     "Closing Date": "11/05/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "ABDUL HASSAN",
@@ -612,8 +216,8 @@
     "Quote ID": "520165",
     "Quote Amount": "$566.68",
     "Closing Date": "11/05/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "APRIL MAYS",
@@ -623,8 +227,8 @@
     "Quote ID": "520131",
     "Quote Amount": "$97.90",
     "Closing Date": "11/05/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "ROMERO & KAPRIA FRANKLIN",
@@ -634,8 +238,8 @@
     "Quote ID": "520130",
     "Quote Amount": "$4064.26",
     "Closing Date": "11/05/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "PRINCESS GATES",
@@ -645,8 +249,8 @@
     "Quote ID": "520129",
     "Quote Amount": "$658.71",
     "Closing Date": "11/05/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "PATRICE JOHNSON",
@@ -656,8 +260,8 @@
     "Quote ID": "520126",
     "Quote Amount": "$1561.53",
     "Closing Date": "11/05/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "ALISA AND DAVID NISHIMURA",
@@ -667,8 +271,8 @@
     "Quote ID": "520270",
     "Quote Amount": "$4918.00",
     "Closing Date": "11/06/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "ROSE ANN HEALY",
@@ -678,8 +282,8 @@
     "Quote ID": "520269",
     "Quote Amount": "$569.00",
     "Closing Date": "11/06/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "TEMEKA HOLLIAM",
@@ -689,8 +293,8 @@
     "Quote ID": "520266",
     "Quote Amount": "$12605.93",
     "Closing Date": "11/06/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "MAGGIE DURANT ETAL J/T",
@@ -700,8 +304,8 @@
     "Quote ID": "520265",
     "Quote Amount": "$451.28",
     "Closing Date": "11/06/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "MARION J EZELL",
@@ -711,8 +315,8 @@
     "Quote ID": "520262",
     "Quote Amount": "$5244.18",
     "Closing Date": "11/06/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "ANDREW PARKER",
@@ -722,8 +326,8 @@
     "Quote ID": "519413",
     "Quote Amount": "$574.22",
     "Closing Date": "11/08/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "MARK JOHNSON",
@@ -733,8 +337,8 @@
     "Quote ID": "519412",
     "Quote Amount": "$2260.10",
     "Closing Date": "11/08/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "SURMEIER HOLDINGS GREGAN LLC",
@@ -744,8 +348,8 @@
     "Quote ID": "520730",
     "Quote Amount": "$317.06",
     "Closing Date": "11/09/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "DEON YOUNG",
@@ -755,8 +359,8 @@
     "Quote ID": "520728",
     "Quote Amount": "$734.71",
     "Closing Date": "11/09/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "WILBERT JAMISON",
@@ -766,8 +370,8 @@
     "Quote ID": "520723",
     "Quote Amount": "$202.85",
     "Closing Date": "11/09/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "D&D CONSTRUCTION GROUP LLC",
@@ -777,8 +381,8 @@
     "Quote ID": "520698",
     "Quote Amount": "$2102.11",
     "Closing Date": "11/09/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "AMY WILLERS",
@@ -788,8 +392,8 @@
     "Quote ID": "520697",
     "Quote Amount": "$665.36",
     "Closing Date": "11/09/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "CIERA CROSSLAND",
@@ -799,8 +403,8 @@
     "Quote ID": "520264",
     "Quote Amount": "$478.96",
     "Closing Date": "11/09/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "JERRY JONES",
@@ -810,8 +414,8 @@
     "Quote ID": "521024",
     "Quote Amount": "$21842.80",
     "Closing Date": "11/11/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "KATHLEEN MEACHAM",
@@ -821,8 +425,8 @@
     "Quote ID": "521023",
     "Quote Amount": "$311.45",
     "Closing Date": "11/11/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "YOLANDA CURLEE",
@@ -832,8 +436,8 @@
     "Quote ID": "521022",
     "Quote Amount": "$20283.21",
     "Closing Date": "11/11/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "MARGARET SCHAEFER",
@@ -843,8 +447,8 @@
     "Quote ID": "521021",
     "Quote Amount": "$0.00",
     "Closing Date": "11/11/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "DEVIN KRAMER",
@@ -854,8 +458,8 @@
     "Quote ID": "521020",
     "Quote Amount": "$938.62",
     "Closing Date": "11/11/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "CURT C BALLANC",
@@ -865,8 +469,8 @@
     "Quote ID": "521019",
     "Quote Amount": "$707.26",
     "Closing Date": "11/11/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "FRANK MOSS",
@@ -876,8 +480,8 @@
     "Quote ID": "521018",
     "Quote Amount": "$98.57",
     "Closing Date": "11/11/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "RON GOTTSCHALK",
@@ -887,8 +491,8 @@
     "Quote ID": "521017",
     "Quote Amount": "$2540.64",
     "Closing Date": "11/11/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "STANLEY WATSON",
@@ -898,8 +502,8 @@
     "Quote ID": "521016",
     "Quote Amount": "$6066.07",
     "Closing Date": "11/11/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "WILLIAMS & PROPERTY GROUP LLC",
@@ -909,8 +513,8 @@
     "Quote ID": "520870",
     "Quote Amount": "$475.31",
     "Closing Date": "11/11/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "RENEE M JACKSON",
@@ -920,8 +524,8 @@
     "Quote ID": "520869",
     "Quote Amount": "$4917.99",
     "Closing Date": "11/11/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "JAMES GORCZYCA",
@@ -931,8 +535,8 @@
     "Quote ID": "521134",
     "Quote Amount": "$145.36",
     "Closing Date": "11/12/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "CHRIS PITTMAN",
@@ -942,8 +546,8 @@
     "Quote ID": "521114",
     "Quote Amount": "$709.48",
     "Closing Date": "11/12/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "STEVIE & REBECCA BOWEN",
@@ -953,8 +557,8 @@
     "Quote ID": "521111",
     "Quote Amount": "$2014.86",
     "Closing Date": "11/12/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "W OR RUTH S OR FRED M REED",
@@ -964,8 +568,8 @@
     "Quote ID": "520864",
     "Quote Amount": "$915.81",
     "Closing Date": "11/12/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "HENRY JACOCKS",
@@ -975,8 +579,8 @@
     "Quote ID": "520863",
     "Quote Amount": "$0.00",
     "Closing Date": "11/12/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "BRIAN & CYNTHIA STOCKMAN",
@@ -986,8 +590,8 @@
     "Quote ID": "520856",
     "Quote Amount": "$2733.38",
     "Closing Date": "11/12/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "VMG LLC",
@@ -1393,8 +997,8 @@
     "Quote ID": "521636",
     "Quote Amount": "$1368.62",
     "Closing Date": "11/17/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "GARDENIA PARKING LLC",
@@ -1404,8 +1008,8 @@
     "Quote ID": "521617",
     "Quote Amount": "$22.22",
     "Closing Date": "11/17/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "BLUESVILLE USA LLC",
@@ -1415,8 +1019,8 @@
     "Quote ID": "521616",
     "Quote Amount": "$106.55",
     "Closing Date": "11/17/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "BLUESVILLE USA LLC",
@@ -1426,8 +1030,8 @@
     "Quote ID": "521610",
     "Quote Amount": "$64.28",
     "Closing Date": "11/17/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "TERRY AND KIMBERLY PARKER",
@@ -1437,8 +1041,8 @@
     "Quote ID": "521644",
     "Quote Amount": "$6029.71",
     "Closing Date": "11/18/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "WESTMINSTER PLACE PHASE II",
@@ -1448,8 +1052,8 @@
     "Quote ID": "521760",
     "Quote Amount": "$0.00",
     "Closing Date": "11/19/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "FRED O HALE",
@@ -1459,8 +1063,8 @@
     "Quote ID": "521750",
     "Quote Amount": "$968.57",
     "Closing Date": "11/19/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "WELLS FARGO BANKS",
@@ -1470,8 +1074,8 @@
     "Quote ID": "521743",
     "Quote Amount": "$194.01",
     "Closing Date": "11/19/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "JAMES KAMAU",
@@ -1481,8 +1085,8 @@
     "Quote ID": "521734",
     "Quote Amount": "$3541.16",
     "Closing Date": "11/19/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "CHAROON DEDKHAD",
@@ -1492,8 +1096,8 @@
     "Quote ID": "521731",
     "Quote Amount": "$435.89",
     "Closing Date": "11/19/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "VELMA LAMBERT",
@@ -1503,8 +1107,8 @@
     "Quote ID": "521723",
     "Quote Amount": "$661.06",
     "Closing Date": "11/19/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "KENNETH R HEARST",
@@ -1514,8 +1118,8 @@
     "Quote ID": "521722",
     "Quote Amount": "$3046.45",
     "Closing Date": "11/19/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "JESSE WOOLEN",
@@ -1525,8 +1129,8 @@
     "Quote ID": "521704",
     "Quote Amount": "$67.32",
     "Closing Date": "11/19/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "DENISE JOHANNINGMEIER",
@@ -1536,8 +1140,8 @@
     "Quote ID": "521701",
     "Quote Amount": "$489.55",
     "Closing Date": "11/19/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "ANITA KELLY",
@@ -1547,8 +1151,8 @@
     "Quote ID": "521697",
     "Quote Amount": "$906.47",
     "Closing Date": "11/19/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "OLINDA MCEUEN",
@@ -1558,8 +1162,30 @@
     "Quote ID": "521692",
     "Quote Amount": "$0.00",
     "Closing Date": "11/19/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CLARICE FLANIGAN",
+    "Service Address": "8139 BLANCHARD DR",
+    "Zip Code": "63134",
+    "Locator": "11J211386",
+    "Quote ID": "521909",
+    "Quote Amount": "$966.52",
+    "Closing Date": "11/20/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DOROTHY L FULLER",
+    "Service Address": "12118 BECKFORD ESTATES DR",
+    "Zip Code": "63043",
+    "Locator": "12O140329",
+    "Quote ID": "521908",
+    "Quote Amount": "$507.74",
+    "Closing Date": "11/20/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "KRISTEN CARPENTER",
@@ -1569,8 +1195,8 @@
     "Quote ID": "521905",
     "Quote Amount": "$815.03",
     "Closing Date": "11/20/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "AMANDA OSBORN",
@@ -1580,8 +1206,8 @@
     "Quote ID": "521904",
     "Quote Amount": "$633.58",
     "Closing Date": "11/20/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "MARY MCGARITY",
@@ -1591,8 +1217,8 @@
     "Quote ID": "521903",
     "Quote Amount": "$230.21",
     "Closing Date": "11/20/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "SPRING HILL FARMS",
@@ -1602,8 +1228,8 @@
     "Quote ID": "521902",
     "Quote Amount": "$193.91",
     "Closing Date": "11/20/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "PEDRO C PUERTA",
@@ -1613,8 +1239,8 @@
     "Quote ID": "521901",
     "Quote Amount": "$107.46",
     "Closing Date": "11/20/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "LATRELL GERMANY",
@@ -1624,8 +1250,52 @@
     "Quote ID": "521716",
     "Quote Amount": "$226.15",
     "Closing Date": "11/20/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JAMES REKART",
+    "Service Address": "6952 WANDA CT-63116",
+    "Zip Code": "63116",
+    "Locator": "64090001500",
+    "Quote ID": "521918",
+    "Quote Amount": "$675.80",
+    "Closing Date": "11/20/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "RANDOLPH KRAMER",
+    "Service Address": "2017 LYNCH ST-63118",
+    "Zip Code": "63118",
+    "Locator": "18010000600",
+    "Quote ID": "521917",
+    "Quote Amount": "$1671.72",
+    "Closing Date": "11/20/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CROATIAN EMPIRE LLC",
+    "Service Address": "4121 HARRIS AVE",
+    "Zip Code": "63115",
+    "Locator": "44270002000",
+    "Quote ID": "521914",
+    "Quote Amount": "$1181.84",
+    "Closing Date": "11/20/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CHARLES DOWNS",
+    "Service Address": "7089 WINONA AVE",
+    "Zip Code": "63109",
+    "Locator": "49850004200",
+    "Quote ID": "521912",
+    "Quote Amount": "$618.84",
+    "Closing Date": "11/20/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "STELLA VOYLES",
@@ -1635,8 +1305,8 @@
     "Quote ID": "521609",
     "Quote Amount": "Pending",
     "Closing Date": "11/17/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "BLUESVILLE USA LLC",
@@ -1646,8 +1316,8 @@
     "Quote ID": "521620",
     "Quote Amount": "Pending",
     "Closing Date": "11/17/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "BLUESVILLE USA LLC",
@@ -1657,8 +1327,8 @@
     "Quote ID": "521619",
     "Quote Amount": "Pending",
     "Closing Date": "11/17/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "BLUESVILLE USA LLC",
@@ -1668,8 +1338,8 @@
     "Quote ID": "521618",
     "Quote Amount": "Pending",
     "Closing Date": "11/17/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "BLUESVILLEUSA LLC",
@@ -1679,8 +1349,8 @@
     "Quote ID": "521615",
     "Quote Amount": "Pending",
     "Closing Date": "11/17/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "BLUESVILLEUSA LLC",
@@ -1690,8 +1360,8 @@
     "Quote ID": "521614",
     "Quote Amount": "Pending",
     "Closing Date": "11/17/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "BLUESVILLEUSA LLC",
@@ -1701,8 +1371,8 @@
     "Quote ID": "521613",
     "Quote Amount": "Pending",
     "Closing Date": "11/17/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "BLUESVILLEUSA LLC",
@@ -1712,8 +1382,8 @@
     "Quote ID": "521612",
     "Quote Amount": "Pending",
     "Closing Date": "11/17/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "BLUESVILLE USA LLC",
@@ -1723,8 +1393,52 @@
     "Quote ID": "521611",
     "Quote Amount": "Pending",
     "Closing Date": "11/17/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LAVELL CARADINE JR",
+    "Service Address": "5125 DELCASTLE DR",
+    "Zip Code": "63034",
+    "Locator": "06G240911",
+    "Quote ID": "521916",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/20/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "STEVE FARROW",
+    "Service Address": "2922 WOOD POPPY DR",
+    "Zip Code": "63031",
+    "Locator": "05J130794",
+    "Quote ID": "521913",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/20/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GREGORY WORTHY",
+    "Service Address": "1519 REALE AVE-63138",
+    "Zip Code": "63138",
+    "Locator": "09E540467",
+    "Quote ID": "521910",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/20/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ROBERT LEE & BIRDIA CROSS",
+    "Service Address": "1600 PURDUE AVE",
+    "Zip Code": "63133",
+    "Locator": "16J211006",
+    "Quote ID": "521907",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/20/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "KARL HUDSON",
@@ -1734,8 +1448,8 @@
     "Quote ID": "521906",
     "Quote Amount": "Pending",
     "Closing Date": "11/20/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "JALLIAH JABER",
@@ -1745,7 +1459,40 @@
     "Quote ID": "521900",
     "Quote Amount": "Pending",
     "Closing Date": "11/20/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DAVID HYGRADE",
+    "Service Address": "1931 COLLEGE AVE",
+    "Zip Code": "63107",
+    "Locator": "33990004400",
+    "Quote ID": "521915",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/20/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "VICTOR DEWAN",
+    "Service Address": "5876 ITASKA ST",
+    "Zip Code": "63109",
+    "Locator": "57500000200",
+    "Quote ID": "521911",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/20/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "FLOYD LEWIS",
+    "Service Address": "5963 CLEMENS AVE",
+    "Zip Code": "63112",
+    "Locator": "45400004200",
+    "Quote ID": "521919",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/29/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
   }
 ]
