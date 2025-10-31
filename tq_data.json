@@ -154,17 +154,6 @@
     "Submitted By": ""
   },
   {
-    "Seller Name": "ANITA BLACKWELL",
-    "Service Address": "2918 GEYER AVE",
-    "Zip Code": "63104",
-    "Locator": "13070000900",
-    "Quote ID": "519963",
-    "Quote Amount": "$487.44",
-    "Closing Date": "11/04/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "LARRY L HILL SR",
     "Service Address": "5326 CLAXTON AVE",
     "Zip Code": "63120",
@@ -997,8 +986,8 @@
     "Quote ID": "521636",
     "Quote Amount": "$1368.62",
     "Closing Date": "11/17/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "GARDENIA PARKING LLC",
@@ -1166,6 +1155,39 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "LAVELL CARADINE JR",
+    "Service Address": "5125 DELCASTLE DR",
+    "Zip Code": "63034",
+    "Locator": "06G240911",
+    "Quote ID": "521916",
+    "Quote Amount": "$3779.72",
+    "Closing Date": "11/20/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "STEVE FARROW",
+    "Service Address": "2922 WOOD POPPY DR",
+    "Zip Code": "63031",
+    "Locator": "05J130794",
+    "Quote ID": "521913",
+    "Quote Amount": "$1741.77",
+    "Closing Date": "11/20/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GREGORY WORTHY",
+    "Service Address": "1519 REALE AVE-63138",
+    "Zip Code": "63138",
+    "Locator": "09E540467",
+    "Quote ID": "521910",
+    "Quote Amount": "$9350.65",
+    "Closing Date": "11/20/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "CLARICE FLANIGAN",
     "Service Address": "8139 BLANCHARD DR",
     "Zip Code": "63134",
@@ -1183,6 +1205,28 @@
     "Locator": "12O140329",
     "Quote ID": "521908",
     "Quote Amount": "$507.74",
+    "Closing Date": "11/20/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ROBERT LEE & BIRDIA CROSS",
+    "Service Address": "1600 PURDUE AVE",
+    "Zip Code": "63133",
+    "Locator": "16J211006",
+    "Quote ID": "521907",
+    "Quote Amount": "$4264.42",
+    "Closing Date": "11/20/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KARL HUDSON",
+    "Service Address": "15505 JOST MAIN ST",
+    "Zip Code": "63034",
+    "Locator": "06H430461",
+    "Quote ID": "521906",
+    "Quote Amount": "$1558.62",
     "Closing Date": "11/20/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1243,6 +1287,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JALLIAH JABER",
+    "Service Address": "206 PADDLEWHEEL DR",
+    "Zip Code": "63033",
+    "Locator": "09H531246",
+    "Quote ID": "521900",
+    "Quote Amount": "$2843.82",
+    "Closing Date": "11/20/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "LATRELL GERMANY",
     "Service Address": "1940 HUDSON RD",
     "Zip Code": "63136",
@@ -1298,6 +1353,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "VICTOR DEWAN",
+    "Service Address": "5876 ITASKA ST",
+    "Zip Code": "63109",
+    "Locator": "57500000200",
+    "Quote ID": "521911",
+    "Quote Amount": "$7455.54",
+    "Closing Date": "11/20/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "STELLA VOYLES",
     "Service Address": "5518 IDAHO AVE",
     "Zip Code": "63111",
@@ -1309,176 +1375,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "BLUESVILLE USA LLC",
-    "Service Address": "705 S BROADWAY",
-    "Zip Code": "63102",
-    "Locator": "01610001150",
-    "Quote ID": "521620",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/17/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BLUESVILLE USA LLC",
-    "Service Address": "711 S BROADWAY",
-    "Zip Code": "63102",
-    "Locator": "01610001700",
-    "Quote ID": "521619",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/17/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BLUESVILLE USA LLC",
-    "Service Address": "516 CERRE ST",
-    "Zip Code": "63102",
-    "Locator": "01610000710",
-    "Quote ID": "521618",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/17/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BLUESVILLEUSA LLC",
-    "Service Address": "729 S 4TH ST # A",
-    "Zip Code": "63102",
-    "Locator": "01600001500",
-    "Quote ID": "521615",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/17/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BLUESVILLEUSA LLC",
-    "Service Address": "817 S 6TH ST",
-    "Zip Code": "63102",
-    "Locator": "01490000900",
-    "Quote ID": "521614",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/17/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BLUESVILLEUSA LLC",
-    "Service Address": "809 S 6TH ST",
-    "Zip Code": "63102",
-    "Locator": "01490000800",
-    "Quote ID": "521613",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/17/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BLUESVILLEUSA LLC",
-    "Service Address": "733 S BROADWAY",
-    "Zip Code": "63102",
-    "Locator": "01610002150",
-    "Quote ID": "521612",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/17/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BLUESVILLE USA LLC",
-    "Service Address": "725 S BROADWAY",
-    "Zip Code": "63102",
-    "Locator": "01610002100",
-    "Quote ID": "521611",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/17/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LAVELL CARADINE JR",
-    "Service Address": "5125 DELCASTLE DR",
-    "Zip Code": "63034",
-    "Locator": "06G240911",
-    "Quote ID": "521916",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/20/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "STEVE FARROW",
-    "Service Address": "2922 WOOD POPPY DR",
-    "Zip Code": "63031",
-    "Locator": "05J130794",
-    "Quote ID": "521913",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/20/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GREGORY WORTHY",
-    "Service Address": "1519 REALE AVE-63138",
-    "Zip Code": "63138",
-    "Locator": "09E540467",
-    "Quote ID": "521910",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/20/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ROBERT LEE & BIRDIA CROSS",
-    "Service Address": "1600 PURDUE AVE",
-    "Zip Code": "63133",
-    "Locator": "16J211006",
-    "Quote ID": "521907",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/20/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KARL HUDSON",
-    "Service Address": "15505 JOST MAIN ST",
-    "Zip Code": "63034",
-    "Locator": "06H430461",
-    "Quote ID": "521906",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/20/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JALLIAH JABER",
-    "Service Address": "206 PADDLEWHEEL DR",
-    "Zip Code": "63033",
-    "Locator": "09H531246",
-    "Quote ID": "521900",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/20/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "DAVID HYGRADE",
     "Service Address": "1931 COLLEGE AVE",
     "Zip Code": "63107",
     "Locator": "33990004400",
     "Quote ID": "521915",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/20/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "VICTOR DEWAN",
-    "Service Address": "5876 ITASKA ST",
-    "Zip Code": "63109",
-    "Locator": "57500000200",
-    "Quote ID": "521911",
     "Quote Amount": "Pending",
     "Closing Date": "11/20/2025",
     "Stage": "In Progress",
