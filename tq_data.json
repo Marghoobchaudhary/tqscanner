@@ -1,71 +1,5 @@
 [
   {
-    "Seller Name": "BILL & KAREN ROWLAND",
-    "Service Address": "2766 BRANDENBERG LN",
-    "Zip Code": "63129",
-    "Locator": "32J240073",
-    "Quote ID": "519042",
-    "Quote Amount": "$466.44",
-    "Closing Date": "10/27/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MARGARET ROTHE",
-    "Service Address": "4627 SIENNA HILLS PL",
-    "Zip Code": "63128",
-    "Locator": "32L510253",
-    "Quote ID": "519041",
-    "Quote Amount": "$624.72",
-    "Closing Date": "10/27/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PETER G HAYS",
-    "Service Address": "1137 N HARRISON AVE",
-    "Zip Code": "63122",
-    "Locator": "22M410032",
-    "Quote ID": "519040",
-    "Quote Amount": "$1879.70",
-    "Closing Date": "10/27/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ROCHELLE PRITCHETT",
-    "Service Address": "6949 THOLOZAN AVE",
-    "Zip Code": "63109",
-    "Locator": "49750001500",
-    "Quote ID": "519039",
-    "Quote Amount": "$1929.38",
-    "Closing Date": "10/27/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LEVEL 19 HOMES LLC",
-    "Service Address": "2715 OSAGE ST",
-    "Zip Code": "63118",
-    "Locator": "25660003900",
-    "Quote ID": "519038",
-    "Quote Amount": "$1334.78",
-    "Closing Date": "10/27/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DR. MILDRED ANDERSON",
-    "Service Address": "3 NOB HILL LN",
-    "Zip Code": "63130",
-    "Locator": "17K520250",
-    "Quote ID": "518869",
-    "Quote Amount": "$374.01",
-    "Closing Date": "10/27/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "RANDAL FORTNER",
     "Service Address": "9857 LILAC DR-63137",
     "Zip Code": "63137",
@@ -997,8 +931,8 @@
     "Quote ID": "521134",
     "Quote Amount": "$145.36",
     "Closing Date": "11/12/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "CHRIS PITTMAN",
@@ -1008,8 +942,8 @@
     "Quote ID": "521114",
     "Quote Amount": "$709.48",
     "Closing Date": "11/12/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "STEVIE & REBECCA BOWEN",
@@ -1019,8 +953,8 @@
     "Quote ID": "521111",
     "Quote Amount": "$2014.86",
     "Closing Date": "11/12/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "W OR RUTH S OR FRED M REED",
@@ -1030,8 +964,8 @@
     "Quote ID": "520864",
     "Quote Amount": "$915.81",
     "Closing Date": "11/12/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "HENRY JACOCKS",
@@ -1041,8 +975,8 @@
     "Quote ID": "520863",
     "Quote Amount": "$0.00",
     "Closing Date": "11/12/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "BRIAN & CYNTHIA STOCKMAN",
@@ -1052,8 +986,8 @@
     "Quote ID": "520856",
     "Quote Amount": "$2733.38",
     "Closing Date": "11/12/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "VMG LLC",
@@ -1628,6 +1562,61 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "KRISTEN CARPENTER",
+    "Service Address": "8214 MATHILDA AVE",
+    "Zip Code": "63123",
+    "Locator": "25J621524",
+    "Quote ID": "521905",
+    "Quote Amount": "$815.03",
+    "Closing Date": "11/20/2025",
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "AMANDA OSBORN",
+    "Service Address": "612 HORN AVE",
+    "Zip Code": "63125",
+    "Locator": "26G110140",
+    "Quote ID": "521904",
+    "Quote Amount": "$633.58",
+    "Closing Date": "11/20/2025",
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "MARY MCGARITY",
+    "Service Address": "1317 BELRUE AVE",
+    "Zip Code": "63133",
+    "Locator": "17J641383",
+    "Quote ID": "521903",
+    "Quote Amount": "$230.21",
+    "Closing Date": "11/20/2025",
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "SPRING HILL FARMS",
+    "Service Address": "1468 WHISPERING CREEK DR",
+    "Zip Code": "63021",
+    "Locator": "25Q141832",
+    "Quote ID": "521902",
+    "Quote Amount": "$193.91",
+    "Closing Date": "11/20/2025",
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "PEDRO C PUERTA",
+    "Service Address": "9429 ROMAINE AVE",
+    "Zip Code": "63114",
+    "Locator": "16L630922",
+    "Quote ID": "521901",
+    "Quote Amount": "$107.46",
+    "Closing Date": "11/20/2025",
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "LATRELL GERMANY",
     "Service Address": "1940 HUDSON RD",
     "Zip Code": "63136",
@@ -1734,6 +1723,28 @@
     "Quote ID": "521611",
     "Quote Amount": "Pending",
     "Closing Date": "11/17/2025",
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "KARL HUDSON",
+    "Service Address": "15505 JOST MAIN ST",
+    "Zip Code": "63034",
+    "Locator": "06H430461",
+    "Quote ID": "521906",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/20/2025",
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "JALLIAH JABER",
+    "Service Address": "206 PADDLEWHEEL DR",
+    "Zip Code": "63033",
+    "Locator": "09H531246",
+    "Quote ID": "521900",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/20/2025",
     "Stage": "",
     "Submitted By": ""
   }
