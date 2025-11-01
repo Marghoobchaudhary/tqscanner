@@ -1023,17 +1023,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "TERRY AND KIMBERLY PARKER",
-    "Service Address": "9775 TWIN VISTA DR",
-    "Zip Code": "63126",
-    "Locator": "25L110880",
-    "Quote ID": "521644",
-    "Quote Amount": "$6029.71",
-    "Closing Date": "11/18/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "WESTMINSTER PLACE PHASE II",
     "Service Address": "4110 WESTMINSTER PL",
     "Zip Code": "63108",
@@ -1265,17 +1254,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "SPRING HILL FARMS",
-    "Service Address": "1468 WHISPERING CREEK DR",
-    "Zip Code": "63021",
-    "Locator": "25Q141832",
-    "Quote ID": "521902",
-    "Quote Amount": "$193.91",
-    "Closing Date": "11/20/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "PEDRO C PUERTA",
     "Service Address": "9429 ROMAINE AVE",
     "Zip Code": "63114",
@@ -1371,6 +1349,17 @@
     "Quote ID": "521609",
     "Quote Amount": "Pending",
     "Closing Date": "11/17/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DENISE MCGEE",
+    "Service Address": "2206 HOLLIS DR",
+    "Zip Code": "63136",
+    "Locator": "11F120557",
+    "Quote ID": "521987",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/20/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
