@@ -1,16 +1,5 @@
 [
   {
-    "Seller Name": "SIRO PROP ROYAL OAK LLC",
-    "Service Address": "4942 LACLEDE AVE",
-    "Zip Code": "63108",
-    "Locator": "38850000200",
-    "Quote ID": "519418",
-    "Quote Amount": "$44761.18",
-    "Closing Date": "10/31/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "CHARLES CLARK",
     "Service Address": "4615 NEWPORT AVE",
     "Zip Code": "63116",
@@ -997,8 +986,8 @@
     "Quote ID": "521617",
     "Quote Amount": "$22.22",
     "Closing Date": "11/17/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "BLUESVILLE USA LLC",
@@ -1287,6 +1276,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "UPON THIS ROCK HOLINESS CHURCH",
+    "Service Address": "2855 MERAMEC ST",
+    "Zip Code": "63118",
+    "Locator": "26260003200",
+    "Quote ID": "522037",
+    "Quote Amount": "$459.27",
+    "Closing Date": "11/20/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "JAMES REKART",
     "Service Address": "6952 WANDA CT-63116",
     "Zip Code": "63116",
@@ -1358,6 +1358,17 @@
     "Zip Code": "63136",
     "Locator": "11F120557",
     "Quote ID": "521987",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/20/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "STEPHEN SAMOLYK",
+    "Service Address": "2222 S 12TH ST",
+    "Zip Code": "63104",
+    "Locator": "07890000100",
+    "Quote ID": "522038",
     "Quote Amount": "Pending",
     "Closing Date": "11/20/2025",
     "Stage": "In Progress",
