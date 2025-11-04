@@ -165,6 +165,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "ANTHONY GRIFFIN",
+    "Service Address": "4660 PRIMM ST",
+    "Zip Code": "63116",
+    "Locator": "59960000900",
+    "Quote ID": "522061",
+    "Quote Amount": "$3112.47",
+    "Closing Date": "11/05/2025",
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "RONALD ANICKER",
     "Service Address": "9501 KIRCHNER AVE",
     "Zip Code": "63125",
@@ -924,6 +935,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "STELLA VOYLES",
+    "Service Address": "5518 IDAHO AVE",
+    "Zip Code": "63111",
+    "Locator": "28500000400",
+    "Quote ID": "521609",
+    "Quote Amount": "$4872.19",
+    "Closing Date": "11/17/2025",
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "DANIEL DOWD",
     "Service Address": "6915 HANCOCK AVE",
     "Zip Code": "63139",
@@ -975,8 +997,8 @@
     "Quote ID": "521636",
     "Quote Amount": "$1368.62",
     "Closing Date": "11/17/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "GARDENIA PARKING LLC",
@@ -986,8 +1008,8 @@
     "Quote ID": "521617",
     "Quote Amount": "$22.22",
     "Closing Date": "11/17/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "BLUESVILLE USA LLC",
@@ -1007,6 +1029,17 @@
     "Locator": "01610000950",
     "Quote ID": "521610",
     "Quote Amount": "$64.28",
+    "Closing Date": "11/17/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JENNIFER HOWARD",
+    "Service Address": "2910 WELLINGTON DR",
+    "Zip Code": "63033",
+    "Locator": "07J640901",
+    "Quote ID": "522040",
+    "Quote Amount": "$10844.13",
     "Closing Date": "11/17/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1129,6 +1162,17 @@
     "Quote ID": "521692",
     "Quote Amount": "$0.00",
     "Closing Date": "11/19/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DENISE MCGEE",
+    "Service Address": "2206 HOLLIS DR",
+    "Zip Code": "63136",
+    "Locator": "11F120557",
+    "Quote ID": "521987",
+    "Quote Amount": "$693.27",
+    "Closing Date": "11/20/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1276,6 +1320,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "STEPHEN SAMOLYK",
+    "Service Address": "2222 S 12TH ST",
+    "Zip Code": "63104",
+    "Locator": "07890000100",
+    "Quote ID": "522038",
+    "Quote Amount": "$8068.53",
+    "Closing Date": "11/20/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "UPON THIS ROCK HOLINESS CHURCH",
     "Service Address": "2855 MERAMEC ST",
     "Zip Code": "63118",
@@ -1304,6 +1359,17 @@
     "Locator": "18010000600",
     "Quote ID": "521917",
     "Quote Amount": "$1671.72",
+    "Closing Date": "11/20/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DAVID HYGRADE",
+    "Service Address": "1931 COLLEGE AVE",
+    "Zip Code": "63107",
+    "Locator": "33990004400",
+    "Quote ID": "521915",
+    "Quote Amount": "$7312.79",
     "Closing Date": "11/20/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1405,72 +1471,6 @@
     "Quote Amount": "$121.84",
     "Closing Date": "11/21/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ANTHONY GRIFFIN",
-    "Service Address": "4660 PRIMM ST",
-    "Zip Code": "63116",
-    "Locator": "59960000900",
-    "Quote ID": "522061",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/05/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "STELLA VOYLES",
-    "Service Address": "5518 IDAHO AVE",
-    "Zip Code": "63111",
-    "Locator": "28500000400",
-    "Quote ID": "521609",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/17/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JENNIFER HOWARD",
-    "Service Address": "2910 WELLINGTON DR",
-    "Zip Code": "63033",
-    "Locator": "07J640901",
-    "Quote ID": "522040",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/17/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DENISE MCGEE",
-    "Service Address": "2206 HOLLIS DR",
-    "Zip Code": "63136",
-    "Locator": "11F120557",
-    "Quote ID": "521987",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/20/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "STEPHEN SAMOLYK",
-    "Service Address": "2222 S 12TH ST",
-    "Zip Code": "63104",
-    "Locator": "07890000100",
-    "Quote ID": "522038",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/20/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DAVID HYGRADE",
-    "Service Address": "1931 COLLEGE AVE",
-    "Zip Code": "63107",
-    "Locator": "33990004400",
-    "Quote ID": "521915",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/20/2025",
-    "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
   {
