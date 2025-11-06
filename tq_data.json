@@ -1,60 +1,5 @@
 [
   {
-    "Seller Name": "ALISA AND DAVID NISHIMURA",
-    "Service Address": "1828 STILL HOLLOW CT",
-    "Zip Code": "63017",
-    "Locator": "19S110325",
-    "Quote ID": "520270",
-    "Quote Amount": "$4918.00",
-    "Closing Date": "11/06/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "ROSE ANN HEALY",
-    "Service Address": "13209 DAMASK CT",
-    "Zip Code": "63146",
-    "Locator": "16P410122",
-    "Quote ID": "520269",
-    "Quote Amount": "$569.00",
-    "Closing Date": "11/06/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "TEMEKA HOLLIAM",
-    "Service Address": "3 MULLANPHY CT",
-    "Zip Code": "63031",
-    "Locator": "07J130972",
-    "Quote ID": "520266",
-    "Quote Amount": "$12605.93",
-    "Closing Date": "11/06/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "MAGGIE DURANT ETAL J/T",
-    "Service Address": "7247 TEAL AVE",
-    "Zip Code": "63133",
-    "Locator": "16J330565",
-    "Quote ID": "520265",
-    "Quote Amount": "$451.28",
-    "Closing Date": "11/06/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "MARION J EZELL",
-    "Service Address": "9045 MATHILDA AVE",
-    "Zip Code": "63123",
-    "Locator": "25J311500",
-    "Quote ID": "520262",
-    "Quote Amount": "$5244.18",
-    "Closing Date": "11/06/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "ANDREW PARKER",
     "Service Address": "1102 GARDEN VILLAGE DR",
     "Zip Code": "63031",
@@ -997,8 +942,8 @@
     "Quote ID": "521905",
     "Quote Amount": "$815.03",
     "Closing Date": "11/20/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "AMANDA OSBORN",
@@ -1008,8 +953,8 @@
     "Quote ID": "521904",
     "Quote Amount": "$633.58",
     "Closing Date": "11/20/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "MARY MCGARITY",
@@ -1019,8 +964,8 @@
     "Quote ID": "521903",
     "Quote Amount": "$230.21",
     "Closing Date": "11/20/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "PEDRO C PUERTA",
@@ -1030,8 +975,8 @@
     "Quote ID": "521901",
     "Quote Amount": "$107.46",
     "Closing Date": "11/20/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "JALLIAH JABER",
@@ -1041,8 +986,8 @@
     "Quote ID": "521900",
     "Quote Amount": "$2843.82",
     "Closing Date": "11/20/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "LATRELL GERMANY",
@@ -1309,12 +1254,34 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "RUBY L MELTON",
+    "Service Address": "2181 ORBITT DR",
+    "Zip Code": "63136",
+    "Locator": "10F110135",
+    "Quote ID": "522419",
+    "Quote Amount": "$1957.66",
+    "Closing Date": "11/25/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "JOE L WATTS",
     "Service Address": "5550 WINCHELSEA DR",
     "Zip Code": "63121",
     "Locator": "13H230557",
     "Quote ID": "522418",
     "Quote Amount": "$3283.44",
+    "Closing Date": "11/25/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ALICIA HERNANDEZ",
+    "Service Address": "4428 NEOSHO ST",
+    "Zip Code": "63116",
+    "Locator": "55440001700",
+    "Quote ID": "522417",
+    "Quote Amount": "$2097.26",
     "Closing Date": "11/25/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1338,6 +1305,17 @@
     "Quote ID": "522372",
     "Quote Amount": "$1681.41",
     "Closing Date": "11/25/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SECOND STREET SANDWICHES INC",
+    "Service Address": "3150 S GRAND BLVD",
+    "Zip Code": "63118",
+    "Locator": "14630000650",
+    "Quote ID": "522585",
+    "Quote Amount": "$3545.48",
+    "Closing Date": "11/26/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1397,24 +1375,13 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "RUBY L MELTON",
-    "Service Address": "2181 ORBITT DR",
-    "Zip Code": "63136",
-    "Locator": "10F110135",
-    "Quote ID": "522419",
+    "Seller Name": "ERIC BARNES",
+    "Service Address": "10406 DRIVER AVE",
+    "Zip Code": "63114",
+    "Locator": "15M620345",
+    "Quote ID": "522582",
     "Quote Amount": "Pending",
-    "Closing Date": "11/25/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ALICIA HERNANDEZ",
-    "Service Address": "4428 NEOSHO ST",
-    "Zip Code": "63116",
-    "Locator": "55440001700",
-    "Quote ID": "522417",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/25/2025",
+    "Closing Date": "11/26/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
