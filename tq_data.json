@@ -726,17 +726,6 @@
     "Submitted By": ""
   },
   {
-    "Seller Name": "LINDA FAILLE",
-    "Service Address": "2646 VORTEX DR",
-    "Zip Code": "63129",
-    "Locator": "31J620861",
-    "Quote ID": "521638",
-    "Quote Amount": "$3563.96",
-    "Closing Date": "11/17/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "CASSANDRA TANNER",
     "Service Address": "7364 COACHMAN LN",
     "Zip Code": "63042",
@@ -997,8 +986,8 @@
     "Quote ID": "521906",
     "Quote Amount": "$1558.62",
     "Closing Date": "11/20/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "KRISTEN CARPENTER",
@@ -1232,6 +1221,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "BIG PROPERTIES LLC",
+    "Service Address": "6318 WITSELL AVE",
+    "Zip Code": "63134",
+    "Locator": "11J241185",
+    "Quote ID": "522400",
+    "Quote Amount": "$8035.77",
+    "Closing Date": "11/24/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "SHARELL COLLINS",
     "Service Address": "4420 TENNESSEE AVE",
     "Zip Code": "63111",
@@ -1342,6 +1342,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "PETER J BRENNAN",
+    "Service Address": "6135 IDAHO AVE",
+    "Zip Code": "63111",
+    "Locator": "29300002500",
+    "Quote ID": "522576",
+    "Quote Amount": "$1734.39",
+    "Closing Date": "11/26/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CARRIE GALLAGHER CROMPTON",
+    "Service Address": "1722 NICHOLSON PL",
+    "Zip Code": "63104",
+    "Locator": "13290001100",
+    "Quote ID": "522575",
+    "Quote Amount": "$133.89",
+    "Closing Date": "11/26/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "FLOYD LEWIS",
     "Service Address": "5963 CLEMENS AVE",
     "Zip Code": "63112",
@@ -1350,17 +1372,6 @@
     "Quote Amount": "$25253.29",
     "Closing Date": "11/29/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BIG PROPERTIES LLC",
-    "Service Address": "6318 WITSELL AVE",
-    "Zip Code": "63134",
-    "Locator": "11J241185",
-    "Quote ID": "522400",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/24/2025",
-    "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
   {
@@ -1404,6 +1415,17 @@
     "Quote ID": "522417",
     "Quote Amount": "Pending",
     "Closing Date": "11/25/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ANTHONY KEMP",
+    "Service Address": "4685 KOSSUTH AVE",
+    "Zip Code": "63115",
+    "Locator": "44061103300",
+    "Quote ID": "522577",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/26/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
