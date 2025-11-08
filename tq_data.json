@@ -1353,6 +1353,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "BRANDON PITTMAN",
+    "Service Address": "3155 MATLOCK DR",
+    "Zip Code": "63031",
+    "Locator": "05J420183",
+    "Quote ID": "522712",
+    "Quote Amount": "$3395.60",
+    "Closing Date": "12/03/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "PETER LABEAUME",
     "Service Address": "1326 FAIRMOUNT CT",
     "Zip Code": "63139",
@@ -1393,17 +1404,6 @@
     "Quote ID": "522577",
     "Quote Amount": "Pending",
     "Closing Date": "11/26/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BRANDON PITTMAN",
-    "Service Address": "3155 MATLOCK DR",
-    "Zip Code": "63031",
-    "Locator": "05J420183",
-    "Quote ID": "522712",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/03/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
