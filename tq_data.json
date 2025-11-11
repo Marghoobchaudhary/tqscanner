@@ -1,93 +1,5 @@
 [
   {
-    "Seller Name": "ANDREW PARKER",
-    "Service Address": "1102 GARDEN VILLAGE DR",
-    "Zip Code": "63031",
-    "Locator": "06J441590",
-    "Quote ID": "519413",
-    "Quote Amount": "$574.22",
-    "Closing Date": "11/08/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "MARK JOHNSON",
-    "Service Address": "6945 NORMANDALE DR",
-    "Zip Code": "63121",
-    "Locator": "15H220619",
-    "Quote ID": "519412",
-    "Quote Amount": "$2260.10",
-    "Closing Date": "11/08/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "SURMEIER HOLDINGS GREGAN LLC",
-    "Service Address": "1400 GREGAN PL",
-    "Zip Code": "63133",
-    "Locator": "16H111204",
-    "Quote ID": "520730",
-    "Quote Amount": "$317.06",
-    "Closing Date": "11/09/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "DEON YOUNG",
-    "Service Address": "8762 PARTRIDGE AVE",
-    "Zip Code": "63147",
-    "Locator": "61870001500",
-    "Quote ID": "520728",
-    "Quote Amount": "$734.71",
-    "Closing Date": "11/09/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "WILBERT JAMISON",
-    "Service Address": "4612 PENROSE ST",
-    "Zip Code": "63115",
-    "Locator": "44140402000",
-    "Quote ID": "520723",
-    "Quote Amount": "$202.85",
-    "Closing Date": "11/09/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "D&D CONSTRUCTION GROUP LLC",
-    "Service Address": "3915 MIAMI ST-63116",
-    "Zip Code": "63116",
-    "Locator": "41210002000",
-    "Quote ID": "520698",
-    "Quote Amount": "$2102.11",
-    "Closing Date": "11/09/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "AMY WILLERS",
-    "Service Address": "3616 SUSAN AVE",
-    "Zip Code": "63125",
-    "Locator": "27H640542",
-    "Quote ID": "520697",
-    "Quote Amount": "$665.36",
-    "Closing Date": "11/09/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "CIERA CROSSLAND",
-    "Service Address": "3130 PARKER RD",
-    "Zip Code": "63033",
-    "Locator": "08H510602",
-    "Quote ID": "520264",
-    "Quote Amount": "$478.96",
-    "Closing Date": "11/09/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "JERRY JONES",
     "Service Address": "1719 IOWA AVE",
     "Zip Code": "63104",
@@ -502,6 +414,17 @@
     "Quote ID": "521314",
     "Quote Amount": "$419.95",
     "Closing Date": "11/13/2025",
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "BEVERLY HOOVER",
+    "Service Address": "102 FROST AVE-63135",
+    "Zip Code": "63135",
+    "Locator": "10J310220",
+    "Quote ID": "523019",
+    "Quote Amount": "$420.22",
+    "Closing Date": "11/14/2025",
     "Stage": "",
     "Submitted By": ""
   },
@@ -997,8 +920,8 @@
     "Quote ID": "522038",
     "Quote Amount": "$8068.53",
     "Closing Date": "11/20/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "UPON THIS ROCK HOLINESS CHURCH",
@@ -1008,8 +931,8 @@
     "Quote ID": "522037",
     "Quote Amount": "$459.27",
     "Closing Date": "11/20/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "JAMES REKART",
@@ -1019,8 +942,8 @@
     "Quote ID": "521918",
     "Quote Amount": "$675.80",
     "Closing Date": "11/20/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "RANDOLPH KRAMER",
@@ -1030,8 +953,8 @@
     "Quote ID": "521917",
     "Quote Amount": "$1671.72",
     "Closing Date": "11/20/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "DAVID HYGRADE",
@@ -1041,8 +964,8 @@
     "Quote ID": "521915",
     "Quote Amount": "$7312.79",
     "Closing Date": "11/20/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "CROATIAN EMPIRE LLC",
@@ -1052,8 +975,8 @@
     "Quote ID": "521914",
     "Quote Amount": "$1181.84",
     "Closing Date": "11/20/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "CHARLES DOWNS",
@@ -1063,8 +986,8 @@
     "Quote ID": "521912",
     "Quote Amount": "$618.84",
     "Closing Date": "11/20/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "VICTOR DEWAN",
@@ -1331,6 +1254,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ANTHONY KEMP",
+    "Service Address": "4685 KOSSUTH AVE",
+    "Zip Code": "63115",
+    "Locator": "44061103300",
+    "Quote ID": "522577",
+    "Quote Amount": "$20475.98",
+    "Closing Date": "11/26/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "PETER J BRENNAN",
     "Service Address": "6135 IDAHO AVE",
     "Zip Code": "63111",
@@ -1364,6 +1298,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JASON ASRULA",
+    "Service Address": "3445 ITASKA ST",
+    "Zip Code": "63111",
+    "Locator": "27660002200",
+    "Quote ID": "523028",
+    "Quote Amount": "$162.13",
+    "Closing Date": "12/01/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "BRANDON PITTMAN",
     "Service Address": "3155 MATLOCK DR",
     "Zip Code": "63031",
@@ -1393,17 +1338,6 @@
     "Quote ID": "522229",
     "Quote Amount": "Pending",
     "Closing Date": "11/24/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ANTHONY KEMP",
-    "Service Address": "4685 KOSSUTH AVE",
-    "Zip Code": "63115",
-    "Locator": "44061103300",
-    "Quote ID": "522577",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/26/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
