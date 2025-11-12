@@ -1111,6 +1111,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ELEANOR & EDWARD PROPERTIESLLC",
+    "Service Address": "13935 OLD HALLS FERRY RD",
+    "Zip Code": "63034",
+    "Locator": "07G430201",
+    "Quote ID": "522229",
+    "Quote Amount": "$17589.98",
+    "Closing Date": "11/24/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "EDWARD AND ELEANOR PROP LLC",
     "Service Address": "2264 HUDSON DR",
     "Zip Code": "63136",
@@ -1298,6 +1309,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "GEAUNTRICI JOHNSON",
+    "Service Address": "10440 DUKE DR",
+    "Zip Code": "63136",
+    "Locator": "10F211500",
+    "Quote ID": "523114",
+    "Quote Amount": "$2569.07",
+    "Closing Date": "11/30/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "JOHN & GRACE BARRY",
     "Service Address": "3908 SCHILLER PL",
     "Zip Code": "63116",
@@ -1394,28 +1416,6 @@
     "Quote Amount": "$365.07",
     "Closing Date": "12/06/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ELEANOR & EDWARD PROPERTIESLLC",
-    "Service Address": "13935 OLD HALLS FERRY RD",
-    "Zip Code": "63034",
-    "Locator": "07G430201",
-    "Quote ID": "522229",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/24/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GEAUNTRICI JOHNSON",
-    "Service Address": "10440 DUKE DR",
-    "Zip Code": "63136",
-    "Locator": "10F211500",
-    "Quote ID": "523114",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/30/2025",
-    "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
 ]
