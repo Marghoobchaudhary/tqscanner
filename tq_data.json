@@ -1177,6 +1177,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JR, WALTER E RAY",
+    "Service Address": "379 PORCHESTER DR",
+    "Zip Code": "63125",
+    "Locator": "28H331111",
+    "Quote ID": "523468",
+    "Quote Amount": "$19752.25",
+    "Closing Date": "12/03/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "DION SOUFFLE",
     "Service Address": "8590 NORTH AVE-63114",
     "Zip Code": "63114",
@@ -1206,6 +1217,39 @@
     "Quote ID": "522712",
     "Quote Amount": "$3395.60",
     "Closing Date": "12/03/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "FAMILY AFFAIR DAYCARE LLC",
+    "Service Address": "2412 WIECK DR",
+    "Zip Code": "63136",
+    "Locator": "13G640645",
+    "Quote ID": "523524",
+    "Quote Amount": "$2435.38",
+    "Closing Date": "12/04/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PLACES AND PROPERTIES LLC",
+    "Service Address": "6620 DONALD ST",
+    "Zip Code": "63121",
+    "Locator": "15G430103",
+    "Quote ID": "523519",
+    "Quote Amount": "$1814.71",
+    "Closing Date": "12/04/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DALLAS J KING",
+    "Service Address": "1115 ODAY AVE",
+    "Zip Code": "63119",
+    "Locator": "21L210654",
+    "Quote ID": "523426",
+    "Quote Amount": "$5734.41",
+    "Closing Date": "12/04/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1265,6 +1309,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "GOLIATH HOMES",
+    "Service Address": "6703 ETZEL AVE-63130",
+    "Zip Code": "63130",
+    "Locator": "17H131021",
+    "Quote ID": "523448",
+    "Quote Amount": "$2267.50",
+    "Closing Date": "12/04/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "VIRGINIA CAGLE",
     "Service Address": "2684 CHATHAM DR",
     "Zip Code": "63043",
@@ -1293,6 +1348,17 @@
     "Locator": "11H240550",
     "Quote ID": "523442",
     "Quote Amount": "$1001.17",
+    "Closing Date": "12/04/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ROSALIND HURST MCCAIN",
+    "Service Address": "3709 MELBA PL-63121",
+    "Zip Code": "63121",
+    "Locator": "15H610584",
+    "Quote ID": "523440",
+    "Quote Amount": "$3475.33",
     "Closing Date": "12/04/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1364,6 +1430,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JIMMIE L WARREN",
+    "Service Address": "7454 CALVIN AVE",
+    "Zip Code": "63136",
+    "Locator": "13G141061",
+    "Quote ID": "523432",
+    "Quote Amount": "$2485.52",
+    "Closing Date": "12/04/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "STACY LOGGINS",
+    "Service Address": "6031 WASHINGTON AVE",
+    "Zip Code": "63134",
+    "Locator": "11J111231",
+    "Quote ID": "523431",
+    "Quote Amount": "$2777.78",
+    "Closing Date": "12/04/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "THOMAS CARDWELL",
     "Service Address": "2074 WEDGEWOOD DR",
     "Zip Code": "63136",
@@ -1397,6 +1485,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "BETTIE J FOWLER",
+    "Service Address": "2728 PASTEUR AVE",
+    "Zip Code": "63114",
+    "Locator": "14L340304",
+    "Quote ID": "523504",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/02/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "JUSTIN BURHNS",
     "Service Address": "5301 VILLE CECELIA LN",
     "Zip Code": "63042",
@@ -1408,22 +1507,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "JR, WALTER E RAY",
-    "Service Address": "379 PORCHESTER DR",
-    "Zip Code": "63125",
-    "Locator": "28H331111",
-    "Quote ID": "523468",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/03/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DALLAS J KING",
-    "Service Address": "1115 ODAY AVE",
-    "Zip Code": "63119",
-    "Locator": "21L210654",
-    "Quote ID": "523426",
+    "Seller Name": "FAMILY AFFAIR DAYCARE LLC.",
+    "Service Address": "2036 WEDGEWOOD DR",
+    "Zip Code": "63136",
+    "Locator": "13F141446",
+    "Quote ID": "523579",
     "Quote Amount": "Pending",
     "Closing Date": "12/04/2025",
     "Stage": "In Progress",
@@ -1435,6 +1523,17 @@
     "Zip Code": "63110",
     "Locator": "49250000100",
     "Quote ID": "523424",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/04/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PLACES AND PROPERTIES LLC",
+    "Service Address": "9116 ST CYR DR",
+    "Zip Code": "63136",
+    "Locator": "12F130043",
+    "Quote ID": "523599",
     "Quote Amount": "Pending",
     "Closing Date": "12/04/2025",
     "Stage": "In Progress",
@@ -1457,17 +1556,6 @@
     "Zip Code": "63120",
     "Locator": "43640001900",
     "Quote ID": "523451",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/04/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GOLIATH HOMES",
-    "Service Address": "6703 ETZEL AVE-63130",
-    "Zip Code": "63130",
-    "Locator": "17H131021",
-    "Quote ID": "523448",
     "Quote Amount": "Pending",
     "Closing Date": "12/04/2025",
     "Stage": "In Progress",
@@ -1518,44 +1606,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "ROSALIND HURST MCCAIN",
-    "Service Address": "3709 MELBA PL-63121",
-    "Zip Code": "63121",
-    "Locator": "15H610584",
-    "Quote ID": "523440",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/04/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "REHEMA COLLINS",
     "Service Address": "1400 BLACKHURST DR",
     "Zip Code": "63137",
     "Locator": "10F310041",
     "Quote ID": "523437",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/04/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JIMMIE L WARREN",
-    "Service Address": "7454 CALVIN AVE",
-    "Zip Code": "63136",
-    "Locator": "13G141061",
-    "Quote ID": "523432",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/04/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "STACY LOGGINS",
-    "Service Address": "6031 WASHINGTON AVE",
-    "Zip Code": "63134",
-    "Locator": "11J111231",
-    "Quote ID": "523431",
     "Quote Amount": "Pending",
     "Closing Date": "12/04/2025",
     "Stage": "In Progress",
