@@ -1221,6 +1221,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ANCESTOR HOLDINGS LLC",
+    "Service Address": "6336 WASHINGTON AVE",
+    "Zip Code": "63134",
+    "Locator": "11J411092",
+    "Quote ID": "523602",
+    "Quote Amount": "$399.82",
+    "Closing Date": "12/03/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "FAMILY AFFAIR DAYCARE LLC",
     "Service Address": "2412 WIECK DR",
     "Zip Code": "63136",
@@ -1503,6 +1514,28 @@
     "Quote ID": "523460",
     "Quote Amount": "Pending",
     "Closing Date": "12/02/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GOLIATH PROPERTIES LLC",
+    "Service Address": "217 W ARLEE AVE-63125",
+    "Zip Code": "63125",
+    "Locator": "27G111164",
+    "Quote ID": "523601",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/03/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LOWELL MISSOURI INVESTMENT LLC",
+    "Service Address": "8873 LOWELL ST",
+    "Zip Code": "63147",
+    "Locator": "91130000200",
+    "Quote ID": "523600",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/03/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
