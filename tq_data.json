@@ -616,17 +616,6 @@
     "Submitted By": ""
   },
   {
-    "Seller Name": "BIG PROPERTIES LLC",
-    "Service Address": "6318 WITSELL AVE",
-    "Zip Code": "63134",
-    "Locator": "11J241185",
-    "Quote ID": "522400",
-    "Quote Amount": "$8035.77",
-    "Closing Date": "11/24/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "SHARELL COLLINS",
     "Service Address": "4420 TENNESSEE AVE",
     "Zip Code": "63111",
@@ -721,17 +710,6 @@
     "Locator": "23P540193",
     "Quote ID": "522420",
     "Quote Amount": "$225.51",
-    "Closing Date": "11/25/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "RUBY L MELTON",
-    "Service Address": "2181 ORBITT DR",
-    "Zip Code": "63136",
-    "Locator": "10F110135",
-    "Quote ID": "522419",
-    "Quote Amount": "$1957.66",
     "Closing Date": "11/25/2025",
     "Stage": "",
     "Submitted By": ""
@@ -935,6 +913,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "BETTIE J FOWLER",
+    "Service Address": "2728 PASTEUR AVE",
+    "Zip Code": "63114",
+    "Locator": "14L340304",
+    "Quote ID": "523504",
+    "Quote Amount": "$597.92",
+    "Closing Date": "12/02/2025",
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "CORY GROGAN",
     "Service Address": "9023 WINDOM AVE",
     "Zip Code": "63114",
@@ -997,8 +986,8 @@
     "Quote ID": "523459",
     "Quote Amount": "$4072.21",
     "Closing Date": "12/02/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Stage": "",
+    "Submitted By": ""
   },
   {
     "Seller Name": "MATT DIBBLE",
@@ -1254,6 +1243,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "LOWELL MISSOURI INVESTMENT LLC",
+    "Service Address": "8873 LOWELL ST",
+    "Zip Code": "63147",
+    "Locator": "91130000200",
+    "Quote ID": "523600",
+    "Quote Amount": "$3196.27",
+    "Closing Date": "12/03/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "FAMILY AFFAIR DAYCARE LLC",
     "Service Address": "2412 WIECK DR",
     "Zip Code": "63136",
@@ -1287,6 +1287,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MARTHA MONICA OLORUNDA",
+    "Service Address": "4176 BOTANICAL AVE",
+    "Zip Code": "63110",
+    "Locator": "49250000100",
+    "Quote ID": "523424",
+    "Quote Amount": "$14617.08",
+    "Closing Date": "12/04/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "TOPSTONE INV STL 1 LLC",
     "Service Address": "4724 KOSSUTH AVE",
     "Zip Code": "63115",
@@ -1304,6 +1315,17 @@
     "Locator": "29650000600",
     "Quote ID": "523422",
     "Quote Amount": "$1560.98",
+    "Closing Date": "12/04/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LA DAWNYA LEE",
+    "Service Address": "4532 MINNESOTA AVE",
+    "Zip Code": "63111",
+    "Locator": "27200000400",
+    "Quote ID": "523455",
+    "Quote Amount": "$9317.94",
     "Closing Date": "12/04/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1342,12 +1364,34 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "WILMA WHITE",
+    "Service Address": "3442 BELT AVE",
+    "Zip Code": "63120",
+    "Locator": "43640001900",
+    "Quote ID": "523451",
+    "Quote Amount": "$12998.87",
+    "Closing Date": "12/04/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "GOLIATH HOMES",
     "Service Address": "6703 ETZEL AVE-63130",
     "Zip Code": "63130",
     "Locator": "17H131021",
     "Quote ID": "523448",
     "Quote Amount": "$2267.50",
+    "Closing Date": "12/04/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DAWN KNAPP",
+    "Service Address": "5362 VILLE ANGELA LN",
+    "Zip Code": "63042",
+    "Locator": "09M630262",
+    "Quote ID": "523447",
+    "Quote Amount": "$7933.80",
     "Closing Date": "12/04/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1370,6 +1414,17 @@
     "Locator": "05J110653",
     "Quote ID": "523445",
     "Quote Amount": "$1494.11",
+    "Closing Date": "12/04/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ANDREW BAKAI",
+    "Service Address": "2801 CALVERT AVE",
+    "Zip Code": "63114",
+    "Locator": "14L331331",
+    "Quote ID": "523444",
+    "Quote Amount": "$-0.68",
     "Closing Date": "12/04/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1584,28 +1639,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "BETTIE J FOWLER",
-    "Service Address": "2728 PASTEUR AVE",
-    "Zip Code": "63114",
-    "Locator": "14L340304",
-    "Quote ID": "523504",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/02/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LOWELL MISSOURI INVESTMENT LLC",
-    "Service Address": "8873 LOWELL ST",
-    "Zip Code": "63147",
-    "Locator": "91130000200",
-    "Quote ID": "523600",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/03/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "FAMILY AFFAIR DAYCARE LLC.",
     "Service Address": "2036 WEDGEWOOD DR",
     "Zip Code": "63136",
@@ -1617,66 +1650,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "MARTHA MONICA OLORUNDA",
-    "Service Address": "4176 BOTANICAL AVE",
-    "Zip Code": "63110",
-    "Locator": "49250000100",
-    "Quote ID": "523424",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/04/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "PLACES AND PROPERTIES LLC",
     "Service Address": "9116 ST CYR DR",
     "Zip Code": "63136",
     "Locator": "12F130043",
     "Quote ID": "523599",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/04/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LA DAWNYA LEE",
-    "Service Address": "4532 MINNESOTA AVE",
-    "Zip Code": "63111",
-    "Locator": "27200000400",
-    "Quote ID": "523455",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/04/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "WILMA WHITE",
-    "Service Address": "3442 BELT AVE",
-    "Zip Code": "63120",
-    "Locator": "43640001900",
-    "Quote ID": "523451",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/04/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DAWN KNAPP",
-    "Service Address": "5362 VILLE ANGELA LN",
-    "Zip Code": "63042",
-    "Locator": "09M630262",
-    "Quote ID": "523447",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/04/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ANDREW BAKAI",
-    "Service Address": "2801 CALVERT AVE",
-    "Zip Code": "63114",
-    "Locator": "14L331331",
-    "Quote ID": "523444",
     "Quote Amount": "Pending",
     "Closing Date": "12/04/2025",
     "Stage": "In Progress",
