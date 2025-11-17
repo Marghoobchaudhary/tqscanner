@@ -979,6 +979,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "JUSTIN BURHNS",
+    "Service Address": "5301 VILLE CECELIA LN",
+    "Zip Code": "63042",
+    "Locator": "09M540260",
+    "Quote ID": "523460",
+    "Quote Amount": "$4616.24",
+    "Closing Date": "12/02/2025",
+    "Stage": "",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "MICHAEL ET AL SANDERS",
     "Service Address": "720 MILLSTONE DR",
     "Zip Code": "63033",
@@ -986,8 +997,8 @@
     "Quote ID": "523459",
     "Quote Amount": "$4072.21",
     "Closing Date": "12/02/2025",
-    "Stage": "",
-    "Submitted By": ""
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "MATT DIBBLE",
@@ -1232,6 +1243,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "GOLIATH PROPERTIES LLC",
+    "Service Address": "217 W ARLEE AVE-63125",
+    "Zip Code": "63125",
+    "Locator": "27G111164",
+    "Quote ID": "523601",
+    "Quote Amount": "$4846.24",
+    "Closing Date": "12/03/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "FAMILY AFFAIR DAYCARE LLC",
     "Service Address": "2412 WIECK DR",
     "Zip Code": "63136",
@@ -1342,6 +1364,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "LAKISHA REECE",
+    "Service Address": "2913 RUSSET CT",
+    "Zip Code": "63031",
+    "Locator": "05J110653",
+    "Quote ID": "523445",
+    "Quote Amount": "$1494.11",
+    "Closing Date": "12/04/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "CLIFFORD BRAGGS",
     "Service Address": "9245 COZENS AVE",
     "Zip Code": "63136",
@@ -1359,6 +1392,17 @@
     "Locator": "11H240550",
     "Quote ID": "523442",
     "Quote Amount": "$1001.17",
+    "Closing Date": "12/04/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BAZ INVESTMENTS LLC",
+    "Service Address": "4213 COLONIAL AVE",
+    "Zip Code": "63121",
+    "Locator": "15H631264",
+    "Quote ID": "523441",
+    "Quote Amount": "$1886.45",
     "Closing Date": "12/04/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1392,6 +1436,17 @@
     "Locator": "11J231494",
     "Quote ID": "523438",
     "Quote Amount": "$295.24",
+    "Closing Date": "12/04/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "REHEMA COLLINS",
+    "Service Address": "1400 BLACKHURST DR",
+    "Zip Code": "63137",
+    "Locator": "10F310041",
+    "Quote ID": "523437",
+    "Quote Amount": "$2198.83",
     "Closing Date": "12/04/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1540,28 +1595,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "JUSTIN BURHNS",
-    "Service Address": "5301 VILLE CECELIA LN",
-    "Zip Code": "63042",
-    "Locator": "09M540260",
-    "Quote ID": "523460",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/02/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GOLIATH PROPERTIES LLC",
-    "Service Address": "217 W ARLEE AVE-63125",
-    "Zip Code": "63125",
-    "Locator": "27G111164",
-    "Quote ID": "523601",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/03/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "LOWELL MISSOURI INVESTMENT LLC",
     "Service Address": "8873 LOWELL ST",
     "Zip Code": "63147",
@@ -1639,44 +1672,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "LAKISHA REECE",
-    "Service Address": "2913 RUSSET CT",
-    "Zip Code": "63031",
-    "Locator": "05J110653",
-    "Quote ID": "523445",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/04/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "ANDREW BAKAI",
     "Service Address": "2801 CALVERT AVE",
     "Zip Code": "63114",
     "Locator": "14L331331",
     "Quote ID": "523444",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/04/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BAZ INVESTMENTS LLC",
-    "Service Address": "4213 COLONIAL AVE",
-    "Zip Code": "63121",
-    "Locator": "15H631264",
-    "Quote ID": "523441",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/04/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "REHEMA COLLINS",
-    "Service Address": "1400 BLACKHURST DR",
-    "Zip Code": "63137",
-    "Locator": "10F310041",
-    "Quote ID": "523437",
     "Quote Amount": "Pending",
     "Closing Date": "12/04/2025",
     "Stage": "In Progress",
