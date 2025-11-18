@@ -1,192 +1,5 @@
 [
   {
-    "Seller Name": "SHOWS AAEZ LLC",
-    "Service Address": "11030 LANDSEER DR",
-    "Zip Code": "63136",
-    "Locator": "09G320401",
-    "Quote ID": "521635",
-    "Quote Amount": "$200.06",
-    "Closing Date": "11/16/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "JOWCOL DOLBY",
-    "Service Address": "16335 BELLINGHAM DR",
-    "Zip Code": "63017",
-    "Locator": "19S431701",
-    "Quote ID": "521633",
-    "Quote Amount": "$1013.25",
-    "Closing Date": "11/16/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "MICHELE COUTS",
-    "Service Address": "8964 MAYFIELD CT",
-    "Zip Code": "63136",
-    "Locator": "13F421241",
-    "Quote ID": "521629",
-    "Quote Amount": "$807.28",
-    "Closing Date": "11/16/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "ALEXANDER KATZLER",
-    "Service Address": "2921 GALAXY PL",
-    "Zip Code": "63043",
-    "Locator": "13M130958",
-    "Quote ID": "521306",
-    "Quote Amount": "$648.46",
-    "Closing Date": "11/16/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "AUTUMN SHARP",
-    "Service Address": "2528 CREVE COEUR DR",
-    "Zip Code": "63144",
-    "Locator": "21L620253",
-    "Quote ID": "521305",
-    "Quote Amount": "$372.19",
-    "Closing Date": "11/16/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "KENNETH NOVAK",
-    "Service Address": "126 S BARAT AVE-63135",
-    "Zip Code": "63135",
-    "Locator": "12H541115",
-    "Quote ID": "521304",
-    "Quote Amount": "$650.84",
-    "Closing Date": "11/16/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "K&T PROPERTIESOAKVILLECOMMONS",
-    "Service Address": "4759 OLDENBURG AVE",
-    "Zip Code": "63123",
-    "Locator": "25H510432",
-    "Quote ID": "520263",
-    "Quote Amount": "$4303.03",
-    "Closing Date": "11/16/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "K&T PROPERTIES OAKVILLECOMMONS",
-    "Service Address": "652 GREEN CLIFF DR",
-    "Zip Code": "63026",
-    "Locator": "28P320110",
-    "Quote ID": "520261",
-    "Quote Amount": "$2187.42",
-    "Closing Date": "11/16/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "STELLA VOYLES",
-    "Service Address": "5518 IDAHO AVE",
-    "Zip Code": "63111",
-    "Locator": "28500000400",
-    "Quote ID": "521609",
-    "Quote Amount": "$4872.19",
-    "Closing Date": "11/17/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "DANIEL DOWD",
-    "Service Address": "6915 HANCOCK AVE",
-    "Zip Code": "63139",
-    "Locator": "47740001700",
-    "Quote ID": "521608",
-    "Quote Amount": "$1627.45",
-    "Closing Date": "11/17/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "JOSEPH DOBSCH",
-    "Service Address": "4346 VISTA AVE",
-    "Zip Code": "63110",
-    "Locator": "39820000620",
-    "Quote ID": "521607",
-    "Quote Amount": "$100.16",
-    "Closing Date": "11/17/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "TODD WOLFE",
-    "Service Address": "116 SUNNYSIDE CT",
-    "Zip Code": "63021",
-    "Locator": "23S640034",
-    "Quote ID": "521641",
-    "Quote Amount": "$117.52",
-    "Closing Date": "11/17/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "CASSANDRA TANNER",
-    "Service Address": "7364 COACHMAN LN",
-    "Zip Code": "63042",
-    "Locator": "08L320590",
-    "Quote ID": "521636",
-    "Quote Amount": "$1368.62",
-    "Closing Date": "11/17/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "GARDENIA PARKING LLC",
-    "Service Address": "515 GRATIOT ST",
-    "Zip Code": "63102",
-    "Locator": "01610000110",
-    "Quote ID": "521617",
-    "Quote Amount": "$22.22",
-    "Closing Date": "11/17/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "BLUESVILLE USA LLC",
-    "Service Address": "730 S BROADWAY",
-    "Zip Code": "63102",
-    "Locator": "01600000300",
-    "Quote ID": "521616",
-    "Quote Amount": "$106.55",
-    "Closing Date": "11/17/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "BLUESVILLE USA LLC",
-    "Service Address": "701 S BROADWAY",
-    "Zip Code": "63102",
-    "Locator": "01610000950",
-    "Quote ID": "521610",
-    "Quote Amount": "$64.28",
-    "Closing Date": "11/17/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "JENNIFER HOWARD",
-    "Service Address": "2910 WELLINGTON DR",
-    "Zip Code": "63033",
-    "Locator": "07J640901",
-    "Quote ID": "522040",
-    "Quote Amount": "$10844.13",
-    "Closing Date": "11/17/2025",
-    "Stage": "",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "WESTMINSTER PLACE PHASE II",
     "Service Address": "4110 WESTMINSTER PL",
     "Zip Code": "63108",
@@ -194,7 +7,7 @@
     "Quote ID": "521760",
     "Quote Amount": "$0.00",
     "Closing Date": "11/19/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -205,7 +18,7 @@
     "Quote ID": "521750",
     "Quote Amount": "$968.57",
     "Closing Date": "11/19/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -216,7 +29,7 @@
     "Quote ID": "521743",
     "Quote Amount": "$194.01",
     "Closing Date": "11/19/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -227,7 +40,7 @@
     "Quote ID": "521734",
     "Quote Amount": "$3541.16",
     "Closing Date": "11/19/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -238,7 +51,7 @@
     "Quote ID": "521731",
     "Quote Amount": "$435.89",
     "Closing Date": "11/19/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -249,7 +62,7 @@
     "Quote ID": "521723",
     "Quote Amount": "$661.06",
     "Closing Date": "11/19/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -260,7 +73,7 @@
     "Quote ID": "521722",
     "Quote Amount": "$3046.45",
     "Closing Date": "11/19/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -271,7 +84,7 @@
     "Quote ID": "521704",
     "Quote Amount": "$67.32",
     "Closing Date": "11/19/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -282,7 +95,7 @@
     "Quote ID": "521701",
     "Quote Amount": "$489.55",
     "Closing Date": "11/19/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -293,7 +106,7 @@
     "Quote ID": "521697",
     "Quote Amount": "$906.47",
     "Closing Date": "11/19/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -304,7 +117,7 @@
     "Quote ID": "521692",
     "Quote Amount": "$0.00",
     "Closing Date": "11/19/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -315,7 +128,7 @@
     "Quote ID": "521987",
     "Quote Amount": "$693.27",
     "Closing Date": "11/20/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -326,7 +139,7 @@
     "Quote ID": "521916",
     "Quote Amount": "$3779.72",
     "Closing Date": "11/20/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -337,7 +150,7 @@
     "Quote ID": "521913",
     "Quote Amount": "$1741.77",
     "Closing Date": "11/20/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -348,7 +161,7 @@
     "Quote ID": "521910",
     "Quote Amount": "$9350.65",
     "Closing Date": "11/20/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -359,7 +172,7 @@
     "Quote ID": "521909",
     "Quote Amount": "$966.52",
     "Closing Date": "11/20/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -370,7 +183,7 @@
     "Quote ID": "521908",
     "Quote Amount": "$507.74",
     "Closing Date": "11/20/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -381,7 +194,7 @@
     "Quote ID": "521906",
     "Quote Amount": "$1558.62",
     "Closing Date": "11/20/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -392,7 +205,7 @@
     "Quote ID": "521905",
     "Quote Amount": "$815.03",
     "Closing Date": "11/20/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -403,7 +216,7 @@
     "Quote ID": "521904",
     "Quote Amount": "$633.58",
     "Closing Date": "11/20/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -414,7 +227,7 @@
     "Quote ID": "521903",
     "Quote Amount": "$230.21",
     "Closing Date": "11/20/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -425,7 +238,7 @@
     "Quote ID": "521901",
     "Quote Amount": "$107.46",
     "Closing Date": "11/20/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -436,7 +249,7 @@
     "Quote ID": "521900",
     "Quote Amount": "$2843.82",
     "Closing Date": "11/20/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -447,7 +260,7 @@
     "Quote ID": "521716",
     "Quote Amount": "$226.15",
     "Closing Date": "11/20/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -458,7 +271,7 @@
     "Quote ID": "522038",
     "Quote Amount": "$8068.53",
     "Closing Date": "11/20/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -469,7 +282,7 @@
     "Quote ID": "522037",
     "Quote Amount": "$459.27",
     "Closing Date": "11/20/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -480,7 +293,7 @@
     "Quote ID": "521918",
     "Quote Amount": "$675.80",
     "Closing Date": "11/20/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -491,7 +304,7 @@
     "Quote ID": "521917",
     "Quote Amount": "$1671.72",
     "Closing Date": "11/20/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -502,7 +315,7 @@
     "Quote ID": "521915",
     "Quote Amount": "$7312.79",
     "Closing Date": "11/20/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -513,7 +326,7 @@
     "Quote ID": "521914",
     "Quote Amount": "$1181.84",
     "Closing Date": "11/20/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -524,7 +337,7 @@
     "Quote ID": "521912",
     "Quote Amount": "$618.84",
     "Closing Date": "11/20/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -535,7 +348,7 @@
     "Quote ID": "521911",
     "Quote Amount": "$7455.54",
     "Closing Date": "11/20/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -546,7 +359,7 @@
     "Quote ID": "522227",
     "Quote Amount": "$326.22",
     "Closing Date": "11/21/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -557,7 +370,7 @@
     "Quote ID": "522060",
     "Quote Amount": "$346.94",
     "Closing Date": "11/21/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -568,7 +381,7 @@
     "Quote ID": "522059",
     "Quote Amount": "$870.04",
     "Closing Date": "11/21/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -579,7 +392,7 @@
     "Quote ID": "522058",
     "Quote Amount": "$642.19",
     "Closing Date": "11/21/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -590,7 +403,7 @@
     "Quote ID": "522057",
     "Quote Amount": "$691.70",
     "Closing Date": "11/21/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -601,7 +414,7 @@
     "Quote ID": "522056",
     "Quote Amount": "$491.71",
     "Closing Date": "11/21/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -612,7 +425,7 @@
     "Quote ID": "522055",
     "Quote Amount": "$121.84",
     "Closing Date": "11/21/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -623,7 +436,7 @@
     "Quote ID": "522399",
     "Quote Amount": "$755.87",
     "Closing Date": "11/24/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -634,7 +447,7 @@
     "Quote ID": "522230",
     "Quote Amount": "$697.19",
     "Closing Date": "11/24/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -645,7 +458,7 @@
     "Quote ID": "522229",
     "Quote Amount": "$17589.98",
     "Closing Date": "11/24/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -656,7 +469,7 @@
     "Quote ID": "522228",
     "Quote Amount": "$315.34",
     "Closing Date": "11/24/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -667,7 +480,7 @@
     "Quote ID": "522231",
     "Quote Amount": "$1112.33",
     "Closing Date": "11/24/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -678,7 +491,7 @@
     "Quote ID": "522424",
     "Quote Amount": "$545.95",
     "Closing Date": "11/25/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -689,7 +502,7 @@
     "Quote ID": "522423",
     "Quote Amount": "$8090.89",
     "Closing Date": "11/25/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -700,7 +513,7 @@
     "Quote ID": "522422",
     "Quote Amount": "$491.22",
     "Closing Date": "11/25/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -711,7 +524,7 @@
     "Quote ID": "522420",
     "Quote Amount": "$225.51",
     "Closing Date": "11/25/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -722,7 +535,7 @@
     "Quote ID": "522418",
     "Quote Amount": "$3283.44",
     "Closing Date": "11/25/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -733,7 +546,7 @@
     "Quote ID": "522417",
     "Quote Amount": "$2097.26",
     "Closing Date": "11/25/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -744,7 +557,7 @@
     "Quote ID": "522415",
     "Quote Amount": "$4367.98",
     "Closing Date": "11/25/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -755,7 +568,7 @@
     "Quote ID": "522372",
     "Quote Amount": "$1681.41",
     "Closing Date": "11/25/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -766,7 +579,7 @@
     "Quote ID": "522585",
     "Quote Amount": "$3545.48",
     "Closing Date": "11/26/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -777,7 +590,7 @@
     "Quote ID": "522582",
     "Quote Amount": "$2805.18",
     "Closing Date": "11/26/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -788,7 +601,7 @@
     "Quote ID": "522577",
     "Quote Amount": "$20475.98",
     "Closing Date": "11/26/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -799,7 +612,7 @@
     "Quote ID": "522576",
     "Quote Amount": "$1734.39",
     "Closing Date": "11/26/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -810,7 +623,7 @@
     "Quote ID": "522575",
     "Quote Amount": "$133.89",
     "Closing Date": "11/26/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -821,7 +634,7 @@
     "Quote ID": "521919",
     "Quote Amount": "$25253.29",
     "Closing Date": "11/29/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -832,7 +645,7 @@
     "Quote ID": "523114",
     "Quote Amount": "$2569.07",
     "Closing Date": "11/30/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -843,7 +656,7 @@
     "Quote ID": "523113",
     "Quote Amount": "$445.59",
     "Closing Date": "11/30/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -854,7 +667,7 @@
     "Quote ID": "523112",
     "Quote Amount": "$228.39",
     "Closing Date": "11/30/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -865,7 +678,7 @@
     "Quote ID": "523115",
     "Quote Amount": "$144.62",
     "Closing Date": "12/01/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -876,7 +689,7 @@
     "Quote ID": "523111",
     "Quote Amount": "$631.01",
     "Closing Date": "12/01/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -887,7 +700,7 @@
     "Quote ID": "523110",
     "Quote Amount": "$200.64",
     "Closing Date": "12/01/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -898,7 +711,7 @@
     "Quote ID": "523028",
     "Quote Amount": "$162.13",
     "Closing Date": "12/01/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -909,7 +722,7 @@
     "Quote ID": "523116",
     "Quote Amount": "$873.95",
     "Closing Date": "12/01/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -920,7 +733,7 @@
     "Quote ID": "523504",
     "Quote Amount": "$597.92",
     "Closing Date": "12/02/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -931,7 +744,7 @@
     "Quote ID": "523464",
     "Quote Amount": "$230.20",
     "Closing Date": "12/02/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -942,7 +755,7 @@
     "Quote ID": "523463",
     "Quote Amount": "$79.77",
     "Closing Date": "12/02/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -953,7 +766,7 @@
     "Quote ID": "523462",
     "Quote Amount": "$0.00",
     "Closing Date": "12/02/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -964,7 +777,7 @@
     "Quote ID": "523461",
     "Quote Amount": "$729.77",
     "Closing Date": "12/02/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -975,7 +788,7 @@
     "Quote ID": "523460",
     "Quote Amount": "$4616.24",
     "Closing Date": "12/02/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -986,7 +799,7 @@
     "Quote ID": "523459",
     "Quote Amount": "$4072.21",
     "Closing Date": "12/02/2025",
-    "Stage": "",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -998,7 +811,7 @@
     "Quote Amount": "$145.16",
     "Closing Date": "12/02/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "JAMES ENOCHS",
@@ -1009,7 +822,7 @@
     "Quote Amount": "$689.08",
     "Closing Date": "12/02/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "RONALD HARTENBERGER",
@@ -1020,7 +833,7 @@
     "Quote Amount": "$385.12",
     "Closing Date": "12/02/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "SHIRLEY BRAZIEL",
@@ -1031,7 +844,7 @@
     "Quote Amount": "$7351.92",
     "Closing Date": "12/02/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "EDDIE WASHINGTON",
@@ -1042,7 +855,7 @@
     "Quote Amount": "$145.67",
     "Closing Date": "12/02/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "MINOAN CLOTHING LLC",
@@ -1053,7 +866,7 @@
     "Quote Amount": "$1745.08",
     "Closing Date": "12/02/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "TAYLOR BELL",
@@ -1064,7 +877,7 @@
     "Quote Amount": "$4521.56",
     "Closing Date": "12/02/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "JOHN E POUND",
@@ -1075,7 +888,7 @@
     "Quote Amount": "$137.24",
     "Closing Date": "12/02/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "CAROLE WILLEFORD",
@@ -1086,7 +899,7 @@
     "Quote Amount": "$194.41",
     "Closing Date": "12/02/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "CAROL BELL",
@@ -1097,7 +910,7 @@
     "Quote Amount": "$7752.45",
     "Closing Date": "12/02/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "JOHN HECHT",
@@ -1108,7 +921,7 @@
     "Quote Amount": "$2350.10",
     "Closing Date": "12/02/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "FRANKLIN WILLIAMS",
@@ -1119,7 +932,7 @@
     "Quote Amount": "$1488.34",
     "Closing Date": "12/02/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "LOUIS M & STEPHANIE R WILDER",
@@ -1130,7 +943,7 @@
     "Quote Amount": "$281.87",
     "Closing Date": "12/02/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "BRANDY WILLIAMS",
@@ -1141,7 +954,7 @@
     "Quote Amount": "$100.48",
     "Closing Date": "12/02/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "DANIEL BAUMHOFF LLC",
@@ -1152,7 +965,7 @@
     "Quote Amount": "$58.32",
     "Closing Date": "12/02/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "TONYA DAVIS MCGHEE",
@@ -1163,7 +976,7 @@
     "Quote Amount": "$6719.07",
     "Closing Date": "12/02/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "CARL V GARRETT",
@@ -1174,7 +987,7 @@
     "Quote Amount": "$1791.84",
     "Closing Date": "12/03/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "JR, WALTER E RAY",
@@ -1646,6 +1459,17 @@
     "Quote ID": "522713",
     "Quote Amount": "$365.07",
     "Closing Date": "12/06/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WILLIAM LEE HARPER JR",
+    "Service Address": "6523 MINNESOTA AVE",
+    "Zip Code": "63111",
+    "Locator": "29700001000",
+    "Quote ID": "523783",
+    "Quote Amount": "$1124.25",
+    "Closing Date": "12/08/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
