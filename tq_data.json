@@ -451,28 +451,6 @@
     "Submitted By": ""
   },
   {
-    "Seller Name": "ELEANOR & EDWARD PROPERTIESLLC",
-    "Service Address": "13935 OLD HALLS FERRY RD",
-    "Zip Code": "63034",
-    "Locator": "07G430201",
-    "Quote ID": "522229",
-    "Quote Amount": "$17589.98",
-    "Closing Date": "11/24/2025",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "EDWARD AND ELEANOR PROP LLC",
-    "Service Address": "2264 HUDSON DR",
-    "Zip Code": "63136",
-    "Locator": "10F110603",
-    "Quote ID": "522228",
-    "Quote Amount": "$315.34",
-    "Closing Date": "11/24/2025",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "ROBERT KAMADULSKI",
     "Service Address": "8212 PENNSYLVANIA AVE",
     "Zip Code": "63111",
@@ -998,7 +976,7 @@
     "Quote Amount": "$19752.25",
     "Closing Date": "12/03/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "DION SOUFFLE",
@@ -1009,7 +987,7 @@
     "Quote Amount": "$269.21",
     "Closing Date": "12/03/2025",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "MICHELLE ZELLERS",
@@ -1063,6 +1041,17 @@
     "Quote ID": "523600",
     "Quote Amount": "$3196.27",
     "Closing Date": "12/03/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CHERYL OCONNOR",
+    "Service Address": "2710 LEMP AVE",
+    "Zip Code": "63118",
+    "Locator": "08130003100",
+    "Quote ID": "523807",
+    "Quote Amount": "$215.73",
+    "Closing Date": "12/04/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1128,6 +1117,17 @@
     "Locator": "29650000600",
     "Quote ID": "523422",
     "Quote Amount": "$1560.98",
+    "Closing Date": "12/04/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PLACES AND PROPERTIES LLC",
+    "Service Address": "9116 ST CYR DR",
+    "Zip Code": "63136",
+    "Locator": "12F130043",
+    "Quote ID": "523599",
+    "Quote Amount": "$2818.35",
     "Closing Date": "12/04/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1441,12 +1441,34 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "DANIEL P ALUMBAUGH",
+    "Service Address": "980 BOULDER DR",
+    "Zip Code": "63031",
+    "Locator": "07K610297",
+    "Quote ID": "523607",
+    "Quote Amount": "$3082.06",
+    "Closing Date": "12/05/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "BONNIE T BLACKMON",
     "Service Address": "4319 ROSEWOOD AVE",
     "Zip Code": "63120",
     "Locator": "15G510991",
     "Quote ID": "523605",
     "Quote Amount": "$191.11",
+    "Closing Date": "12/05/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JIMMIE BROWN",
+    "Service Address": "4624 BEHLMANN ESTATES LN",
+    "Zip Code": "63034",
+    "Locator": "06G330919",
+    "Quote ID": "523604",
+    "Quote Amount": "$2404.18",
     "Closing Date": "12/05/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1474,6 +1496,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "LOIS ALEXANDER",
+    "Service Address": "7035 GLADES AVE",
+    "Zip Code": "63117",
+    "Locator": "48310002300",
+    "Quote ID": "523907",
+    "Quote Amount": "$728.27",
+    "Closing Date": "12/09/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "FAMILY AFFAIR DAYCARE LLC.",
     "Service Address": "2036 WEDGEWOOD DR",
     "Zip Code": "63136",
@@ -1485,44 +1518,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "PLACES AND PROPERTIES LLC",
-    "Service Address": "9116 ST CYR DR",
-    "Zip Code": "63136",
-    "Locator": "12F130043",
-    "Quote ID": "523599",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/04/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DANIEL P ALUMBAUGH",
-    "Service Address": "980 BOULDER DR",
-    "Zip Code": "63031",
-    "Locator": "07K610297",
-    "Quote ID": "523607",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/05/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "JEREMY PATTERSON",
     "Service Address": "10832 VORHOF DR",
     "Zip Code": "63136",
     "Locator": "10F430226",
     "Quote ID": "523606",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/05/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JIMMIE BROWN",
-    "Service Address": "4624 BEHLMANN ESTATES LN",
-    "Zip Code": "63034",
-    "Locator": "06G330919",
-    "Quote ID": "523604",
     "Quote Amount": "Pending",
     "Closing Date": "12/05/2025",
     "Stage": "In Progress",
