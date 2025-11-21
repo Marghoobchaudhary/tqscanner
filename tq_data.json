@@ -1386,6 +1386,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "WILLIE G WREEN",
+    "Service Address": "5742 PARK LN",
+    "Zip Code": "63147",
+    "Locator": "57990004600",
+    "Quote ID": "524318",
+    "Quote Amount": "$2737.89",
+    "Closing Date": "12/11/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JANICE DAVIS",
+    "Service Address": "4940 BERTHOLD AVE",
+    "Zip Code": "63110",
+    "Locator": "55920001800",
+    "Quote ID": "524317",
+    "Quote Amount": "$3681.66",
+    "Closing Date": "12/11/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "TOPSTONE INV STL 1 LLC",
     "Service Address": "1221 SULLIVAN AVE",
     "Zip Code": "63107",
@@ -1481,6 +1503,39 @@
     "Quote ID": "524111",
     "Quote Amount": "Pending",
     "Closing Date": "12/10/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JOANN MORRIS",
+    "Service Address": "4040 COOK AVE",
+    "Zip Code": "63113",
+    "Locator": "37420000820",
+    "Quote ID": "524316",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/11/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "NICHOLAS LOGRASSO",
+    "Service Address": "5706 BANCROFT AVE",
+    "Zip Code": "63109",
+    "Locator": "51600000900",
+    "Quote ID": "524313",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/11/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WILLIAM & TONYA ZAIGER",
+    "Service Address": "6039 ARTHUR AVE",
+    "Zip Code": "63139",
+    "Locator": "47632602800",
+    "Quote ID": "524300",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/11/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
