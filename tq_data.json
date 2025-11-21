@@ -1276,6 +1276,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "STACYE FORD",
+    "Service Address": "1152 KILGORE DR",
+    "Zip Code": "63137",
+    "Locator": "11F620671",
+    "Quote ID": "524088",
+    "Quote Amount": "$3357.59",
+    "Closing Date": "12/10/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "KATHERINE M DRENNEN",
     "Service Address": "230 KAYSER AVE",
     "Zip Code": "63125",
@@ -1298,6 +1309,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "RENARD THOMAS",
+    "Service Address": "2290 HERITAGE DR",
+    "Zip Code": "63136",
+    "Locator": "10F430291",
+    "Quote ID": "524082",
+    "Quote Amount": "$3582.62",
+    "Closing Date": "12/10/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MEGAN ACELAR",
     "Service Address": "53 ROLAND AVE",
     "Zip Code": "63021",
@@ -1315,6 +1337,17 @@
     "Locator": "28100002800",
     "Quote ID": "524027",
     "Quote Amount": "$3400.70",
+    "Closing Date": "12/10/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JOYCE A COLEMAN",
+    "Service Address": "715 THRUSH AVE",
+    "Zip Code": "63147",
+    "Locator": "52270001700",
+    "Quote ID": "524019",
+    "Quote Amount": "$1998.90",
     "Closing Date": "12/10/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1353,6 +1386,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "TOPSTONE INV STL 1 LLC",
+    "Service Address": "1221 SULLIVAN AVE",
+    "Zip Code": "63107",
+    "Locator": "11280001800",
+    "Quote ID": "524176",
+    "Quote Amount": "$0.00",
+    "Closing Date": "12/11/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JOSHUA JACKSON",
+    "Service Address": "4044 SHREVE AVE",
+    "Zip Code": "63115",
+    "Locator": "44050202300",
+    "Quote ID": "524175",
+    "Quote Amount": "$2562.81",
+    "Closing Date": "12/11/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "JEREMY PATTERSON",
     "Service Address": "10832 VORHOF DR",
     "Zip Code": "63136",
@@ -1371,17 +1426,6 @@
     "Quote ID": "523967",
     "Quote Amount": "Pending",
     "Closing Date": "12/09/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "STACYE FORD",
-    "Service Address": "1152 KILGORE DR",
-    "Zip Code": "63137",
-    "Locator": "11F620671",
-    "Quote ID": "524088",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/10/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
@@ -1408,33 +1452,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "RENARD THOMAS",
-    "Service Address": "2290 HERITAGE DR",
-    "Zip Code": "63136",
-    "Locator": "10F430291",
-    "Quote ID": "524082",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/10/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "PAUL QUINN",
     "Service Address": "1215 NEWPORT LANDING DR",
     "Zip Code": "63026",
     "Locator": "29Q641002",
     "Quote ID": "524081",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/10/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JOYCE A COLEMAN",
-    "Service Address": "715 THRUSH AVE",
-    "Zip Code": "63147",
-    "Locator": "52270001700",
-    "Quote ID": "524019",
     "Quote Amount": "Pending",
     "Closing Date": "12/10/2025",
     "Stage": "In Progress",
