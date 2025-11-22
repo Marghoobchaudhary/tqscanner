@@ -451,17 +451,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "RONALD HARTENBERGER",
-    "Service Address": "392 GENOA DR-63021",
-    "Zip Code": "63021",
-    "Locator": "24R530463",
-    "Quote ID": "523456",
-    "Quote Amount": "$385.12",
-    "Closing Date": "12/02/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "SHIRLEY BRAZIEL",
     "Service Address": "6344 WINDHAM AVE",
     "Zip Code": "63120",
@@ -1408,6 +1397,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "NICHOLAS LOGRASSO",
+    "Service Address": "5706 BANCROFT AVE",
+    "Zip Code": "63109",
+    "Locator": "51600000900",
+    "Quote ID": "524313",
+    "Quote Amount": "$2722.56",
+    "Closing Date": "12/11/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WILLIAM & TONYA ZAIGER",
+    "Service Address": "6039 ARTHUR AVE",
+    "Zip Code": "63139",
+    "Locator": "47632602800",
+    "Quote ID": "524300",
+    "Quote Amount": "$1334.13",
+    "Closing Date": "12/11/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "TOPSTONE INV STL 1 LLC",
     "Service Address": "1221 SULLIVAN AVE",
     "Zip Code": "63107",
@@ -1426,6 +1437,17 @@
     "Quote ID": "524175",
     "Quote Amount": "$2562.81",
     "Closing Date": "12/11/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "HELEN WEISS",
+    "Service Address": "1 WESTBURY DR",
+    "Zip Code": "63017",
+    "Locator": "16Q130720",
+    "Quote ID": "524324",
+    "Quote Amount": "$111.03",
+    "Closing Date": "12/12/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1512,28 +1534,6 @@
     "Zip Code": "63113",
     "Locator": "37420000820",
     "Quote ID": "524316",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/11/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "NICHOLAS LOGRASSO",
-    "Service Address": "5706 BANCROFT AVE",
-    "Zip Code": "63109",
-    "Locator": "51600000900",
-    "Quote ID": "524313",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/11/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "WILLIAM & TONYA ZAIGER",
-    "Service Address": "6039 ARTHUR AVE",
-    "Zip Code": "63139",
-    "Locator": "47632602800",
-    "Quote ID": "524300",
     "Quote Amount": "Pending",
     "Closing Date": "12/11/2025",
     "Stage": "In Progress",
