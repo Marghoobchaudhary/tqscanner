@@ -1111,17 +1111,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "LOUIS HALL",
-    "Service Address": "1978 ACORN TRAIL DR",
-    "Zip Code": "63031",
-    "Locator": "08K430216",
-    "Quote ID": "523967",
-    "Quote Amount": "$4949.82",
-    "Closing Date": "12/09/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "JOHNSON ENTERPRISE INVESTMENT",
     "Service Address": "10319 REBA DR",
     "Zip Code": "63136",
@@ -1221,6 +1210,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ROCHELLE NETTLES",
+    "Service Address": "9442 ALTONWOOD DR",
+    "Zip Code": "63136",
+    "Locator": "13F530819",
+    "Quote ID": "524087",
+    "Quote Amount": "$5114.21",
+    "Closing Date": "12/10/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "KATHERINE M DRENNEN",
     "Service Address": "230 KAYSER AVE",
     "Zip Code": "63125",
@@ -1254,6 +1254,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "PAUL QUINN",
+    "Service Address": "1215 NEWPORT LANDING DR",
+    "Zip Code": "63026",
+    "Locator": "29Q641002",
+    "Quote ID": "524081",
+    "Quote Amount": "$-27.15",
+    "Closing Date": "12/10/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MEGAN ACELAR",
     "Service Address": "53 ROLAND AVE",
     "Zip Code": "63021",
@@ -1282,6 +1293,17 @@
     "Locator": "52270001700",
     "Quote ID": "524019",
     "Quote Amount": "$1998.90",
+    "Closing Date": "12/10/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MIKE CONNORS",
+    "Service Address": "1122 ANGELICA ST",
+    "Zip Code": "63107",
+    "Locator": "24120000600",
+    "Quote ID": "524015",
+    "Quote Amount": "$10461.25",
     "Closing Date": "12/10/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1353,6 +1375,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JOANN MORRIS",
+    "Service Address": "4040 COOK AVE",
+    "Zip Code": "63113",
+    "Locator": "37420000820",
+    "Quote ID": "524316",
+    "Quote Amount": "$5332.82",
+    "Closing Date": "12/11/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "NICHOLAS LOGRASSO",
     "Service Address": "5706 BANCROFT AVE",
     "Zip Code": "63109",
@@ -1397,6 +1430,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "DEMETRIUS OWENS",
+    "Service Address": "6 SANDRINGHAM LN",
+    "Zip Code": "63135",
+    "Locator": "11H440613",
+    "Quote ID": "524464",
+    "Quote Amount": "$932.23",
+    "Closing Date": "12/12/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "HELEN WEISS",
     "Service Address": "1 WESTBURY DR",
     "Zip Code": "63017",
@@ -1430,17 +1474,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "ROCHELLE NETTLES",
-    "Service Address": "9442 ALTONWOOD DR",
-    "Zip Code": "63136",
-    "Locator": "13F530819",
-    "Quote ID": "524087",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/10/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "ANDREA HOLLINS",
     "Service Address": "3007 FIREWEED CT",
     "Zip Code": "63031",
@@ -1448,39 +1481,6 @@
     "Quote ID": "524084",
     "Quote Amount": "Pending",
     "Closing Date": "12/10/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PAUL QUINN",
-    "Service Address": "1215 NEWPORT LANDING DR",
-    "Zip Code": "63026",
-    "Locator": "29Q641002",
-    "Quote ID": "524081",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/10/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MIKE CONNORS",
-    "Service Address": "1122 ANGELICA ST",
-    "Zip Code": "63107",
-    "Locator": "24120000600",
-    "Quote ID": "524015",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/10/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JOANN MORRIS",
-    "Service Address": "4040 COOK AVE",
-    "Zip Code": "63113",
-    "Locator": "37420000820",
-    "Quote ID": "524316",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/11/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
