@@ -11,17 +11,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "KYLE NEWPORT",
-    "Service Address": "2575 LINDSAY LN",
-    "Zip Code": "63031",
-    "Locator": "06L321193",
-    "Quote ID": "522230",
-    "Quote Amount": "$697.19",
-    "Closing Date": "11/24/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "ROBERT KAMADULSKI",
     "Service Address": "8212 PENNSYLVANIA AVE",
     "Zip Code": "63111",
@@ -216,6 +205,17 @@
     "Quote ID": "523112",
     "Quote Amount": "$228.39",
     "Closing Date": "11/30/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KYLE NEWPORT",
+    "Service Address": "2575 LINDSAY LN",
+    "Zip Code": "63031",
+    "Locator": "06L321193",
+    "Quote ID": "524607",
+    "Quote Amount": "$703.67",
+    "Closing Date": "12/01/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1474,6 +1474,39 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "RAINA HARRINGTON",
+    "Service Address": "3715 SYLVAN PL",
+    "Zip Code": "63121",
+    "Locator": "15G132104",
+    "Quote ID": "524611",
+    "Quote Amount": "$984.91",
+    "Closing Date": "12/15/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DOAA ABDULWAHHAB AHMED",
+    "Service Address": "6325 DARLOW DR",
+    "Zip Code": "63123",
+    "Locator": "25J230353",
+    "Quote ID": "524610",
+    "Quote Amount": "$752.89",
+    "Closing Date": "12/15/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SHAWN FLETCHER",
+    "Service Address": "24 HARNEYWOLD DR",
+    "Zip Code": "63136",
+    "Locator": "10G420675",
+    "Quote ID": "524609",
+    "Quote Amount": "$504.66",
+    "Closing Date": "12/15/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ANDREA HOLLINS",
     "Service Address": "3007 FIREWEED CT",
     "Zip Code": "63031",
@@ -1481,6 +1514,39 @@
     "Quote ID": "524084",
     "Quote Amount": "Pending",
     "Closing Date": "12/10/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DEBRA C BUNCE",
+    "Service Address": "1763 REDCOAT DR",
+    "Zip Code": "63043",
+    "Locator": "14O140235",
+    "Quote ID": "524608",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/11/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CALVIN OR LOISTINE HOSKIN JR",
+    "Service Address": "4 HARNEYWOLD DR",
+    "Zip Code": "63136",
+    "Locator": "10G410252",
+    "Quote ID": "524613",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/14/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KNOX MANAGEMENT LLC",
+    "Service Address": "115 LAWRENCE AVE",
+    "Zip Code": "63135",
+    "Locator": "12J640277",
+    "Quote ID": "524612",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/15/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
