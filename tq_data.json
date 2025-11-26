@@ -1,60 +1,5 @@
 [
   {
-    "Seller Name": "SECOND STREET SANDWICHES INC",
-    "Service Address": "3150 S GRAND BLVD",
-    "Zip Code": "63118",
-    "Locator": "14630000650",
-    "Quote ID": "522585",
-    "Quote Amount": "$3545.48",
-    "Closing Date": "11/26/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ERIC BARNES",
-    "Service Address": "10406 DRIVER AVE",
-    "Zip Code": "63114",
-    "Locator": "15M620345",
-    "Quote ID": "522582",
-    "Quote Amount": "$2805.18",
-    "Closing Date": "11/26/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ANTHONY KEMP",
-    "Service Address": "4685 KOSSUTH AVE",
-    "Zip Code": "63115",
-    "Locator": "44061103300",
-    "Quote ID": "522577",
-    "Quote Amount": "$20475.98",
-    "Closing Date": "11/26/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PETER J BRENNAN",
-    "Service Address": "6135 IDAHO AVE",
-    "Zip Code": "63111",
-    "Locator": "29300002500",
-    "Quote ID": "522576",
-    "Quote Amount": "$1734.39",
-    "Closing Date": "11/26/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CARRIE GALLAGHER CROMPTON",
-    "Service Address": "1722 NICHOLSON PL",
-    "Zip Code": "63104",
-    "Locator": "13290001100",
-    "Quote ID": "522575",
-    "Quote Amount": "$133.89",
-    "Closing Date": "11/26/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "FLOYD LEWIS",
     "Service Address": "5963 CLEMENS AVE",
     "Zip Code": "63112",
@@ -1452,6 +1397,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JACQUELYN PAGE",
+    "Service Address": "5332 PRIORYBROOK RD",
+    "Zip Code": "63033",
+    "Locator": "09G640071",
+    "Quote ID": "524840",
+    "Quote Amount": "$99.39",
+    "Closing Date": "12/15/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LAJUAN MASON",
+    "Service Address": "4649 LEDUC ST",
+    "Zip Code": "63113",
+    "Locator": "44730000900",
+    "Quote ID": "524835",
+    "Quote Amount": "$2188.66",
+    "Closing Date": "12/15/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "BRANDON TAYLOR",
     "Service Address": "3466 LINDSCOTT AVE",
     "Zip Code": "63114",
@@ -1591,6 +1558,72 @@
     "Quote ID": "524084",
     "Quote Amount": "Pending",
     "Closing Date": "12/10/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LUELLA WOODS REVOC LVNG TRST",
+    "Service Address": "28 WATSON MILL CT",
+    "Zip Code": "63136",
+    "Locator": "12F211470",
+    "Quote ID": "524847",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/15/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "EARLENE LUSTER",
+    "Service Address": "6717 GLENMORE AVE",
+    "Zip Code": "63121",
+    "Locator": "15H330251",
+    "Quote ID": "524844",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/15/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ADAM BAGWELL JENNIFER &",
+    "Service Address": "12738 ALSWELL LN",
+    "Zip Code": "63128",
+    "Locator": "29M420380",
+    "Quote ID": "524843",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/15/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DARNETTE P NEAL",
+    "Service Address": "103 N ELIZABETH AVE",
+    "Zip Code": "63135",
+    "Locator": "11H120696",
+    "Quote ID": "524841",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/15/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "VANESSA BADGER",
+    "Service Address": "12571 BROADRIDGE LN",
+    "Zip Code": "63033",
+    "Locator": "08G520345",
+    "Quote ID": "524839",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/15/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TRACEY BLOCKTON",
+    "Service Address": "6818 CREST AVE",
+    "Zip Code": "63130",
+    "Locator": "17J340170",
+    "Quote ID": "524837",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/15/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
