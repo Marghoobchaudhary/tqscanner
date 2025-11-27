@@ -1639,6 +1639,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "CALLIE LOVE",
+    "Service Address": "2011 MARRISA DR",
+    "Zip Code": "63031",
+    "Locator": "07K440281",
+    "Quote ID": "524968",
+    "Quote Amount": "$429.16",
+    "Closing Date": "12/21/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "PAUL L COATES",
     "Service Address": "937 TWINING PL",
     "Zip Code": "63119",
@@ -1650,11 +1661,44 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "WILLIAM SMELSER",
+    "Service Address": "9970 LARK AVE",
+    "Zip Code": "63125",
+    "Locator": "28H642200",
+    "Quote ID": "524969",
+    "Quote Amount": "$115.68",
+    "Closing Date": "12/26/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ANDREA HOLLINS",
     "Service Address": "3007 FIREWEED CT",
     "Zip Code": "63031",
     "Locator": "05J130640",
     "Quote ID": "524084",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/10/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TOSHA RUSH",
+    "Service Address": "63 S DELLWOOD AVE",
+    "Zip Code": "63135",
+    "Locator": "11H320081",
+    "Quote ID": "524971",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/10/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MILLER GARDNER",
+    "Service Address": "32 WATSON MILL CT",
+    "Zip Code": "63136",
+    "Locator": "12F211481",
+    "Quote ID": "524970",
     "Quote Amount": "Pending",
     "Closing Date": "12/10/2025",
     "Stage": "In Progress",
@@ -1723,6 +1767,17 @@
     "Quote ID": "524821",
     "Quote Amount": "Pending",
     "Closing Date": "12/18/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WILLIE L RAINEY II",
+    "Service Address": "8215 BUCHANAN AVE",
+    "Zip Code": "63114",
+    "Locator": "15K320058",
+    "Quote ID": "524967",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/21/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
