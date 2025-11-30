@@ -1,16 +1,5 @@
 [
   {
-    "Seller Name": "FLOYD LEWIS",
-    "Service Address": "5963 CLEMENS AVE",
-    "Zip Code": "63112",
-    "Locator": "45400004200",
-    "Quote ID": "521919",
-    "Quote Amount": "$25253.29",
-    "Closing Date": "11/29/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "GEAUNTRICI JOHNSON",
     "Service Address": "10440 DUKE DR",
     "Zip Code": "63136",
@@ -1661,6 +1650,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "DELMA PERRY",
+    "Service Address": "6906 LEEDALE DR",
+    "Zip Code": "63121",
+    "Locator": "15H220518",
+    "Quote ID": "524986",
+    "Quote Amount": "$433.39",
+    "Closing Date": "12/18/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "LOUIS REED",
     "Service Address": "14561 OCEAN SIDE DR",
     "Zip Code": "63034",
@@ -1798,6 +1798,17 @@
     "Zip Code": "63138",
     "Locator": "07D430026",
     "Quote ID": "524821",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/18/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "FREDERICK I HARROLD",
+    "Service Address": "21 MEDITATION WAY CT",
+    "Zip Code": "63031",
+    "Locator": "07L330291",
+    "Quote ID": "524987",
     "Quote Amount": "Pending",
     "Closing Date": "12/18/2025",
     "Stage": "In Progress",
