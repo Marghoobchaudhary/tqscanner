@@ -1595,6 +1595,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MELVIN JOHNSON",
+    "Service Address": "39 WATSON MILL CT",
+    "Zip Code": "63136",
+    "Locator": "12F121261",
+    "Quote ID": "524965",
+    "Quote Amount": "$2289.31",
+    "Closing Date": "12/17/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "CARL ZEY",
     "Service Address": "804 SHERWICK TER",
     "Zip Code": "63021",
@@ -1645,6 +1656,17 @@
     "Locator": "50550001700",
     "Quote ID": "524810",
     "Quote Amount": "$180.37",
+    "Closing Date": "12/18/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "FREDERICK I HARROLD",
+    "Service Address": "21 MEDITATION WAY CT",
+    "Zip Code": "63031",
+    "Locator": "07L330291",
+    "Quote ID": "524987",
+    "Quote Amount": "$1366.98",
     "Closing Date": "12/18/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1738,6 +1760,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "GREEN STREET 2900 INVESTORS",
+    "Service Address": "500 PROSPECT AVE",
+    "Zip Code": "63110",
+    "Locator": "21960000250",
+    "Quote ID": "524991",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/15/2025",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "VANESSA BADGER",
     "Service Address": "12571 BROADRIDGE LN",
     "Zip Code": "63033",
@@ -1782,33 +1815,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "MELVIN JOHNSON",
-    "Service Address": "39 WATSON MILL CT",
-    "Zip Code": "63136",
-    "Locator": "12F121261",
-    "Quote ID": "524965",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/17/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "FARRAAD J JOHNSON",
     "Service Address": "1136 EDLOR DR-63138",
     "Zip Code": "63138",
     "Locator": "07D430026",
     "Quote ID": "524821",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/18/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "FREDERICK I HARROLD",
-    "Service Address": "21 MEDITATION WAY CT",
-    "Zip Code": "63031",
-    "Locator": "07L330291",
-    "Quote ID": "524987",
     "Quote Amount": "Pending",
     "Closing Date": "12/18/2025",
     "Stage": "In Progress",
