@@ -1177,6 +1177,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "TOSHA RUSH",
+    "Service Address": "63 S DELLWOOD AVE",
+    "Zip Code": "63135",
+    "Locator": "11H320081",
+    "Quote ID": "524971",
+    "Quote Amount": "$28.50",
+    "Closing Date": "12/10/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MILLER GARDNER",
+    "Service Address": "32 WATSON MILL CT",
+    "Zip Code": "63136",
+    "Locator": "12F211481",
+    "Quote ID": "524970",
+    "Quote Amount": "$3766.33",
+    "Closing Date": "12/10/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "RACHEL MUSGRAVE",
     "Service Address": "4708 MATTIS RD",
     "Zip Code": "63128",
@@ -1441,6 +1463,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "VANESSA BADGER",
+    "Service Address": "12571 BROADRIDGE LN",
+    "Zip Code": "63033",
+    "Locator": "08G520345",
+    "Quote ID": "524839",
+    "Quote Amount": "$16651.80",
+    "Closing Date": "12/15/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "TRACEY BLOCKTON",
     "Service Address": "6818 CREST AVE",
     "Zip Code": "63130",
@@ -1469,6 +1502,17 @@
     "Locator": "08H210311",
     "Quote ID": "524972",
     "Quote Amount": "$496.30",
+    "Closing Date": "12/16/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PAUL JOSEPH ET AL J/T",
+    "Service Address": "12830 DANUBE DR",
+    "Zip Code": "63033",
+    "Locator": "08G130506",
+    "Quote ID": "524813",
+    "Quote Amount": "$9341.39",
     "Closing Date": "12/16/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1551,6 +1595,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JAMES M GAHEN",
+    "Service Address": "416 BROOKTREE DR",
+    "Zip Code": "63011",
+    "Locator": "21R610225",
+    "Quote ID": "524816",
+    "Quote Amount": "$0.00",
+    "Closing Date": "12/17/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "PATSY A MILLER",
     "Service Address": "12501 EVENING SHADE DR",
     "Zip Code": "63033",
@@ -1612,6 +1667,17 @@
     "Locator": "24Q530141",
     "Quote ID": "524822",
     "Quote Amount": "$170.72",
+    "Closing Date": "12/18/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "FARRAAD J JOHNSON",
+    "Service Address": "1136 EDLOR DR-63138",
+    "Zip Code": "63138",
+    "Locator": "07D430026",
+    "Quote ID": "524821",
+    "Quote Amount": "$5389.13",
     "Closing Date": "12/18/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1694,12 +1760,34 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JASON T DAVIS",
+    "Service Address": "4318 RHINE DR-63033",
+    "Zip Code": "63033",
+    "Locator": "09G230111",
+    "Quote ID": "525113",
+    "Quote Amount": "$160.66",
+    "Closing Date": "12/21/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "CALLIE LOVE",
     "Service Address": "2011 MARRISA DR",
     "Zip Code": "63031",
     "Locator": "07K440281",
     "Quote ID": "524968",
     "Quote Amount": "$429.16",
+    "Closing Date": "12/21/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WILLIE L RAINEY II",
+    "Service Address": "8215 BUCHANAN AVE",
+    "Zip Code": "63114",
+    "Locator": "15K320058",
+    "Quote ID": "524967",
+    "Quote Amount": "$588.88",
     "Closing Date": "12/21/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1738,28 +1826,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "TOSHA RUSH",
-    "Service Address": "63 S DELLWOOD AVE",
-    "Zip Code": "63135",
-    "Locator": "11H320081",
-    "Quote ID": "524971",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/10/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MILLER GARDNER",
-    "Service Address": "32 WATSON MILL CT",
-    "Zip Code": "63136",
-    "Locator": "12F211481",
-    "Quote ID": "524970",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/10/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "GREEN STREET 2900 INVESTORS",
     "Service Address": "500 PROSPECT AVE",
     "Zip Code": "63110",
@@ -1767,39 +1833,6 @@
     "Quote ID": "524991",
     "Quote Amount": "Pending",
     "Closing Date": "12/15/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "VANESSA BADGER",
-    "Service Address": "12571 BROADRIDGE LN",
-    "Zip Code": "63033",
-    "Locator": "08G520345",
-    "Quote ID": "524839",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/15/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PAUL JOSEPH ET AL J/T",
-    "Service Address": "12830 DANUBE DR",
-    "Zip Code": "63033",
-    "Locator": "08G130506",
-    "Quote ID": "524813",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/16/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JAMES M GAHEN",
-    "Service Address": "416 BROOKTREE DR",
-    "Zip Code": "63011",
-    "Locator": "21R610225",
-    "Quote ID": "524816",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/17/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
@@ -1815,22 +1848,22 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "FARRAAD J JOHNSON",
-    "Service Address": "1136 EDLOR DR-63138",
-    "Zip Code": "63138",
-    "Locator": "07D430026",
-    "Quote ID": "524821",
+    "Seller Name": "MICHELLE CARR",
+    "Service Address": "1149 DAWN VALLEY DR",
+    "Zip Code": "63043",
+    "Locator": "15O540142",
+    "Quote ID": "525112",
     "Quote Amount": "Pending",
-    "Closing Date": "12/18/2025",
+    "Closing Date": "12/21/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "WILLIE L RAINEY II",
-    "Service Address": "8215 BUCHANAN AVE",
-    "Zip Code": "63114",
-    "Locator": "15K320058",
-    "Quote ID": "524967",
+    "Seller Name": "EUGENE FLOWERS",
+    "Service Address": "9701 WENDELL DR",
+    "Zip Code": "63136",
+    "Locator": "12F530324",
+    "Quote ID": "525111",
     "Quote Amount": "Pending",
     "Closing Date": "12/21/2025",
     "Stage": "In Progress",
