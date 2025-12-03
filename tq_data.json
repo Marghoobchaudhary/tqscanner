@@ -1,93 +1,5 @@
 [
   {
-    "Seller Name": "CARL V GARRETT",
-    "Service Address": "11645 CAROLVIEW DR",
-    "Zip Code": "63033",
-    "Locator": "09G540157",
-    "Quote ID": "523469",
-    "Quote Amount": "$1791.84",
-    "Closing Date": "12/03/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JR, WALTER E RAY",
-    "Service Address": "379 PORCHESTER DR",
-    "Zip Code": "63125",
-    "Locator": "28H331111",
-    "Quote ID": "523468",
-    "Quote Amount": "$19752.25",
-    "Closing Date": "12/03/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DION SOUFFLE",
-    "Service Address": "8590 NORTH AVE-63114",
-    "Zip Code": "63114",
-    "Locator": "13K310156",
-    "Quote ID": "523467",
-    "Quote Amount": "$269.21",
-    "Closing Date": "12/03/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MICHELLE ZELLERS",
-    "Service Address": "1902 WENGLER AVE",
-    "Zip Code": "63114",
-    "Locator": "16L630896",
-    "Quote ID": "523466",
-    "Quote Amount": "$327.92",
-    "Closing Date": "12/03/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BRANDON PITTMAN",
-    "Service Address": "3155 MATLOCK DR",
-    "Zip Code": "63031",
-    "Locator": "05J420183",
-    "Quote ID": "522712",
-    "Quote Amount": "$3395.60",
-    "Closing Date": "12/03/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ANCESTOR HOLDINGS LLC",
-    "Service Address": "6336 WASHINGTON AVE",
-    "Zip Code": "63134",
-    "Locator": "11J411092",
-    "Quote ID": "523602",
-    "Quote Amount": "$399.82",
-    "Closing Date": "12/03/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GOLIATH PROPERTIES LLC",
-    "Service Address": "217 W ARLEE AVE-63125",
-    "Zip Code": "63125",
-    "Locator": "27G111164",
-    "Quote ID": "523601",
-    "Quote Amount": "$4846.24",
-    "Closing Date": "12/03/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LOWELL MISSOURI INVESTMENT LLC",
-    "Service Address": "8873 LOWELL ST",
-    "Zip Code": "63147",
-    "Locator": "91130000200",
-    "Quote ID": "523600",
-    "Quote Amount": "$3196.27",
-    "Closing Date": "12/03/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "CHERYL OCONNOR",
     "Service Address": "2710 LEMP AVE",
     "Zip Code": "63118",
@@ -1023,6 +935,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "GREEN STREET 2900 INVESTORS",
+    "Service Address": "500 PROSPECT AVE",
+    "Zip Code": "63110",
+    "Locator": "21960000250",
+    "Quote ID": "524991",
+    "Quote Amount": "$12745.02",
+    "Closing Date": "12/15/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "KNOX MANAGEMENT LLC",
     "Service Address": "115 LAWRENCE AVE",
     "Zip Code": "63135",
@@ -1507,6 +1430,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "DOROTHY MILES",
+    "Service Address": "4436 MIAMI ST",
+    "Zip Code": "63116",
+    "Locator": "52690302200",
+    "Quote ID": "525312",
+    "Quote Amount": "$2244.59",
+    "Closing Date": "12/22/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ELOISE GRIMES",
+    "Service Address": "4441 MARGARETTA AVE",
+    "Zip Code": "63115",
+    "Locator": "44110202200",
+    "Quote ID": "525311",
+    "Quote Amount": "$1167.39",
+    "Closing Date": "12/22/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "WILLIAM SMELSER",
     "Service Address": "9970 LARK AVE",
     "Zip Code": "63125",
@@ -1536,17 +1481,6 @@
     "Quote ID": "524084",
     "Quote Amount": "Pending",
     "Closing Date": "12/10/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GREEN STREET 2900 INVESTORS",
-    "Service Address": "500 PROSPECT AVE",
-    "Zip Code": "63110",
-    "Locator": "21960000250",
-    "Quote ID": "524991",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/15/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
