@@ -1078,6 +1078,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ALLEN MCCARTER",
+    "Service Address": "11003 MODESTO DR",
+    "Zip Code": "63074",
+    "Locator": "13M230719",
+    "Quote ID": "525596",
+    "Quote Amount": "$1986.95",
+    "Closing Date": "12/23/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "PERCY SHEGOG",
     "Service Address": "12719 MEADOWDALE DR",
     "Zip Code": "63138",
@@ -1107,6 +1118,17 @@
     "Quote ID": "525117",
     "Quote Amount": "$433.97",
     "Closing Date": "12/31/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "FRANK J BUSALACCHI II",
+    "Service Address": "3017 MARCHBANKS PL",
+    "Zip Code": "63129",
+    "Locator": "33J530375",
+    "Quote ID": "525807",
+    "Quote Amount": "$231.15",
+    "Closing Date": "01/03/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1144,13 +1166,13 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "ALLEN MCCARTER",
-    "Service Address": "11003 MODESTO DR",
-    "Zip Code": "63074",
-    "Locator": "13M230719",
-    "Quote ID": "525596",
+    "Seller Name": "ADAM ZIGA",
+    "Service Address": "4630 HEEGE RD-63123",
+    "Zip Code": "63123",
+    "Locator": "25H210141",
+    "Quote ID": "525806",
     "Quote Amount": "Pending",
-    "Closing Date": "12/23/2025",
+    "Closing Date": "12/25/2025",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
