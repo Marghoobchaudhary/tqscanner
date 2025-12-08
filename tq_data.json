@@ -1,27 +1,5 @@
 [
   {
-    "Seller Name": "PETER LABEAUME",
-    "Service Address": "1326 FAIRMOUNT CT",
-    "Zip Code": "63139",
-    "Locator": "50650400300",
-    "Quote ID": "522713",
-    "Quote Amount": "$365.07",
-    "Closing Date": "12/06/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "WILLIAM LEE HARPER JR",
-    "Service Address": "6523 MINNESOTA AVE",
-    "Zip Code": "63111",
-    "Locator": "29700001000",
-    "Quote ID": "523783",
-    "Quote Amount": "$1124.25",
-    "Closing Date": "12/08/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "THOMAS WALKER",
     "Service Address": "4671 VENARDE DR",
     "Zip Code": "63128",
@@ -171,6 +149,17 @@
     "Locator": "19P440122",
     "Quote ID": "524085",
     "Quote Amount": "$832.96",
+    "Closing Date": "12/10/2025",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ANDREA HOLLINS",
+    "Service Address": "3007 FIREWEED CT",
+    "Zip Code": "63031",
+    "Locator": "05J130640",
+    "Quote ID": "524084",
+    "Quote Amount": "$2573.81",
     "Closing Date": "12/10/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1097,17 +1086,6 @@
     "Quote Amount": "$231.15",
     "Closing Date": "01/03/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ANDREA HOLLINS",
-    "Service Address": "3007 FIREWEED CT",
-    "Zip Code": "63031",
-    "Locator": "05J130640",
-    "Quote ID": "524084",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/10/2025",
-    "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
   {
