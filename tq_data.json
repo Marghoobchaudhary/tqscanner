@@ -1100,6 +1100,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ASHLEY WILLIAMS",
+    "Service Address": "3610 NEOSHO ST",
+    "Zip Code": "63116",
+    "Locator": "61120001600",
+    "Quote ID": "525943",
+    "Quote Amount": "$10059.39",
+    "Closing Date": "01/06/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "SHARMEL PROPERTIES INC",
     "Service Address": "3424 HARTFORD ST",
     "Zip Code": "63118",
@@ -1107,17 +1118,6 @@
     "Quote ID": "524809",
     "Quote Amount": "Pending",
     "Closing Date": "12/17/2025",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ASHLEY WILLIAMS",
-    "Service Address": "3610 NEOSHO ST",
-    "Zip Code": "63116",
-    "Locator": "61120001600",
-    "Quote ID": "525943",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/06/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
