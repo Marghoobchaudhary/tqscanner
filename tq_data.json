@@ -1,104 +1,5 @@
 [
   {
-    "Seller Name": "LE MOYNE & JOYCE BROWN",
-    "Service Address": "2419 HAZELTON LN",
-    "Zip Code": "63136",
-    "Locator": "12F510744",
-    "Quote ID": "524772",
-    "Quote Amount": "$3986.18",
-    "Closing Date": "12/17/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "WILLIAM DESLOGE II",
-    "Service Address": "422 BRASS LAMP DR",
-    "Zip Code": "63011",
-    "Locator": "22R630181",
-    "Quote ID": "524817",
-    "Quote Amount": "$547.85",
-    "Closing Date": "12/17/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JAMES M GAHEN",
-    "Service Address": "416 BROOKTREE DR",
-    "Zip Code": "63011",
-    "Locator": "21R610225",
-    "Quote ID": "524816",
-    "Quote Amount": "$0.00",
-    "Closing Date": "12/17/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PATSY A MILLER",
-    "Service Address": "12501 EVENING SHADE DR",
-    "Zip Code": "63033",
-    "Locator": "08G620711",
-    "Quote ID": "524815",
-    "Quote Amount": "$1852.52",
-    "Closing Date": "12/17/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CALISSA PAYNE",
-    "Service Address": "8321 CARL AVE",
-    "Zip Code": "63136",
-    "Locator": "13G230840",
-    "Quote ID": "524814",
-    "Quote Amount": "$1146.06",
-    "Closing Date": "12/17/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SHARMEL PROPERTIES INC",
-    "Service Address": "3424 HARTFORD ST",
-    "Zip Code": "63118",
-    "Locator": "14640001200",
-    "Quote ID": "524809",
-    "Quote Amount": "$2204.88",
-    "Closing Date": "12/17/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DENNIS TORRES",
-    "Service Address": "5414 S KINGSHIGHWAY BLVD",
-    "Zip Code": "63109",
-    "Locator": "53680002300",
-    "Quote ID": "524974",
-    "Quote Amount": "$1961.19",
-    "Closing Date": "12/17/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "IAN & CHRIS MA TIFFANY WILLIS",
-    "Service Address": "2118 NEBRASKA AVE",
-    "Zip Code": "63104",
-    "Locator": "13560000800",
-    "Quote ID": "524973",
-    "Quote Amount": "$1686.88",
-    "Closing Date": "12/17/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MELVIN JOHNSON",
-    "Service Address": "39 WATSON MILL CT",
-    "Zip Code": "63136",
-    "Locator": "12F121261",
-    "Quote ID": "524965",
-    "Quote Amount": "$2289.31",
-    "Closing Date": "12/17/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "CARL ZEY",
     "Service Address": "804 SHERWICK TER",
     "Zip Code": "63021",
@@ -226,17 +127,6 @@
     "Locator": "11E410231",
     "Quote ID": "525124",
     "Quote Amount": "$1402.62",
-    "Closing Date": "12/21/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "STANLEY G & BRENDA HULTS",
-    "Service Address": "4914 HEEGE RD-63123",
-    "Zip Code": "63123",
-    "Locator": "25H140044",
-    "Quote ID": "525116",
-    "Quote Amount": "$7280.32",
     "Closing Date": "12/21/2025",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -484,12 +374,45 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "LASHANDA DANIEL",
+    "Service Address": "10640 OLD HALLS FERRY RD",
+    "Zip Code": "63136",
+    "Locator": "10G610184",
+    "Quote ID": "526923",
+    "Quote Amount": "$2012.89",
+    "Closing Date": "01/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TRACEY BLOCKTON",
+    "Service Address": "6818 CREST AVE",
+    "Zip Code": "63130",
+    "Locator": "17J340170",
+    "Quote ID": "527105",
+    "Quote Amount": "$942.82",
+    "Closing Date": "01/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "JUANITA LEE",
     "Service Address": "5459 QUEENS AVE",
     "Zip Code": "63115",
     "Locator": "51430003200",
     "Quote ID": "527098",
     "Quote Amount": "$798.19",
+    "Closing Date": "01/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CHRISTY & OLLIE JEFFERSON-BEY",
+    "Service Address": "4482 SAN FRANCISCO AVE",
+    "Zip Code": "63115",
+    "Locator": "44090100200",
+    "Quote ID": "527097",
+    "Quote Amount": "$18073.78",
     "Closing Date": "01/05/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -502,6 +425,17 @@
     "Quote ID": "526929",
     "Quote Amount": "$3574.05",
     "Closing Date": "01/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "AL SHOMADE",
+    "Service Address": "1311 BOLY LN",
+    "Zip Code": "63021",
+    "Locator": "24Q212173",
+    "Quote ID": "527234",
+    "Quote Amount": "$495.24",
+    "Closing Date": "01/06/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -539,24 +473,13 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "LASHANDA DANIEL",
-    "Service Address": "10640 OLD HALLS FERRY RD",
-    "Zip Code": "63136",
-    "Locator": "10G610184",
-    "Quote ID": "526923",
+    "Seller Name": "RICHARD BAX",
+    "Service Address": "3412 ALBERTA ST",
+    "Zip Code": "63118",
+    "Locator": "25760001600",
+    "Quote ID": "527236",
     "Quote Amount": "Pending",
-    "Closing Date": "01/05/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CHRISTY & OLLIE JEFFERSON-BEY",
-    "Service Address": "4482 SAN FRANCISCO AVE",
-    "Zip Code": "63115",
-    "Locator": "44090100200",
-    "Quote ID": "527097",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/05/2026",
+    "Closing Date": "01/07/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
