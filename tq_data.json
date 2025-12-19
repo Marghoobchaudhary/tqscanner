@@ -1,16 +1,5 @@
 [
   {
-    "Seller Name": "LOUIS REED",
-    "Service Address": "14561 OCEAN SIDE DR",
-    "Zip Code": "63034",
-    "Locator": "06H620732",
-    "Quote ID": "524823",
-    "Quote Amount": "$1885.50",
-    "Closing Date": "12/19/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "ADAM WOLF",
     "Service Address": "453 SETON HALL CT",
     "Zip Code": "63088",
@@ -638,6 +627,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "DIRK JONES",
+    "Service Address": "7611 ALASKA AVE",
+    "Zip Code": "63111",
+    "Locator": "31040000400",
+    "Quote ID": "527440",
+    "Quote Amount": "$1145.58",
+    "Closing Date": "01/07/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WILLIAM WIDMANN",
+    "Service Address": "3932 SCHILLER PL",
+    "Zip Code": "63116",
+    "Locator": "57920000800",
+    "Quote ID": "527439",
+    "Quote Amount": "$29.50",
+    "Closing Date": "01/07/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ZERLINE TURNTINE",
     "Service Address": "8431 BRIDLE SPUR DR",
     "Zip Code": "63042",
@@ -832,6 +843,39 @@
     "Quote ID": "527248",
     "Quote Amount": "Pending",
     "Closing Date": "01/05/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PP1 LLC",
+    "Service Address": "5734 MAPLE AVE",
+    "Zip Code": "63112",
+    "Locator": "29910400600",
+    "Quote ID": "527441",
+    "Quote Amount": "Pending",
+    "Closing Date": "01/07/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "RONALD A SCHRAUT",
+    "Service Address": "4712 GRAVOIS AVE",
+    "Zip Code": "63116",
+    "Locator": "56460000600",
+    "Quote ID": "527438",
+    "Quote Amount": "Pending",
+    "Closing Date": "01/07/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PP1",
+    "Service Address": "6419 VERMONT AVE",
+    "Zip Code": "63111",
+    "Locator": "29670002100",
+    "Quote ID": "527437",
+    "Quote Amount": "Pending",
+    "Closing Date": "01/07/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
