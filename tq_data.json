@@ -319,6 +319,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "DEREK HOTZEL",
+    "Service Address": "228 AVENUE H ST",
+    "Zip Code": "63125",
+    "Locator": "26G430295",
+    "Quote ID": "527255",
+    "Quote Amount": "$1214.59",
+    "Closing Date": "01/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "CARLOS PORRAS",
     "Service Address": "10233 FLORINDA DR",
     "Zip Code": "63123",
@@ -380,6 +391,17 @@
     "Locator": "08K430216",
     "Quote ID": "527249",
     "Quote Amount": "$5138.32",
+    "Closing Date": "01/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MARILYN WILLIAMS",
+    "Service Address": "10627 LINNELL DR",
+    "Zip Code": "63136",
+    "Locator": "10G620141",
+    "Quote ID": "527248",
+    "Quote Amount": "$2676.51",
     "Closing Date": "01/05/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -627,6 +649,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "PP1 LLC",
+    "Service Address": "5734 MAPLE AVE",
+    "Zip Code": "63112",
+    "Locator": "29910400600",
+    "Quote ID": "527441",
+    "Quote Amount": "$3096.58",
+    "Closing Date": "01/07/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "DIRK JONES",
     "Service Address": "7611 ALASKA AVE",
     "Zip Code": "63111",
@@ -644,6 +677,28 @@
     "Locator": "57920000800",
     "Quote ID": "527439",
     "Quote Amount": "$29.50",
+    "Closing Date": "01/07/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "RONALD A SCHRAUT",
+    "Service Address": "4712 GRAVOIS AVE",
+    "Zip Code": "63116",
+    "Locator": "56460000600",
+    "Quote ID": "527438",
+    "Quote Amount": "$5853.87",
+    "Closing Date": "01/07/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PP1",
+    "Service Address": "6419 VERMONT AVE",
+    "Zip Code": "63111",
+    "Locator": "29670002100",
+    "Quote ID": "527437",
+    "Quote Amount": "$9695.32",
     "Closing Date": "01/07/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -737,6 +792,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "THELMA T GARDNER",
+    "Service Address": "2825 GAINSBORO CT",
+    "Zip Code": "63121",
+    "Locator": "15J530214",
+    "Quote ID": "527426",
+    "Quote Amount": "$2623.87",
+    "Closing Date": "01/07/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "NICHOLAS ALEXANDER",
     "Service Address": "925 MORRISON AVE",
     "Zip Code": "63104",
@@ -754,6 +820,17 @@
     "Locator": "46490202300",
     "Quote ID": "527423",
     "Quote Amount": "$1369.40",
+    "Closing Date": "01/07/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BENNIE & ROSEMARY HARRIS",
+    "Service Address": "5424 CLAXTON AVE",
+    "Zip Code": "63120",
+    "Locator": "50820000800",
+    "Quote ID": "527422",
+    "Quote Amount": "$2921.79",
     "Closing Date": "01/07/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -792,6 +869,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JOSEPH W WELLS",
+    "Service Address": "2 CONCORD CT",
+    "Zip Code": "63033",
+    "Locator": "06H140812",
+    "Quote ID": "527570",
+    "Quote Amount": "$1106.21",
+    "Closing Date": "01/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "DANA A WILLIAMS",
     "Service Address": "3916 JOST FARM WAY",
     "Zip Code": "63034",
@@ -825,79 +913,24 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "DEREK HOTZEL",
-    "Service Address": "228 AVENUE H ST",
-    "Zip Code": "63125",
-    "Locator": "26G430295",
-    "Quote ID": "527255",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/05/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MARILYN WILLIAMS",
-    "Service Address": "10627 LINNELL DR",
-    "Zip Code": "63136",
-    "Locator": "10G620141",
-    "Quote ID": "527248",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/05/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PP1 LLC",
-    "Service Address": "5734 MAPLE AVE",
-    "Zip Code": "63112",
-    "Locator": "29910400600",
-    "Quote ID": "527441",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/07/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RONALD A SCHRAUT",
-    "Service Address": "4712 GRAVOIS AVE",
+    "Seller Name": "DEREK WHEAT",
+    "Service Address": "4325 HAVEN ST-63116",
     "Zip Code": "63116",
-    "Locator": "56460000600",
-    "Quote ID": "527438",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/07/2026",
-    "Stage": "In Progress",
+    "Locator": "58460001400",
+    "Quote ID": "527568",
+    "Quote Amount": "$218.02",
+    "Closing Date": "01/14/2026",
+    "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "PP1",
-    "Service Address": "6419 VERMONT AVE",
-    "Zip Code": "63111",
-    "Locator": "29670002100",
-    "Quote ID": "527437",
+    "Seller Name": "CECELIA BONDS-JONES",
+    "Service Address": "8782 BOYCE PL-63136",
+    "Zip Code": "63136",
+    "Locator": "12G310811",
+    "Quote ID": "527569",
     "Quote Amount": "Pending",
-    "Closing Date": "01/07/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "THELMA T GARDNER",
-    "Service Address": "2825 GAINSBORO CT",
-    "Zip Code": "63121",
-    "Locator": "15J530214",
-    "Quote ID": "527426",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/07/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BENNIE & ROSEMARY HARRIS",
-    "Service Address": "5424 CLAXTON AVE",
-    "Zip Code": "63120",
-    "Locator": "50820000800",
-    "Quote ID": "527422",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/07/2026",
+    "Closing Date": "01/08/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
