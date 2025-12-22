@@ -781,6 +781,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MARK BERGER",
+    "Service Address": "342 PAGE AVE",
+    "Zip Code": "63119",
+    "Locator": "22K320717",
+    "Quote ID": "527580",
+    "Quote Amount": "$-621.24",
+    "Closing Date": "01/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "HONG VY",
     "Service Address": "4828 REAVIS BARRACKS RD",
     "Zip Code": "63123",
@@ -798,6 +809,28 @@
     "Locator": "09J520034",
     "Quote ID": "527578",
     "Quote Amount": "$1683.33",
+    "Closing Date": "01/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SHEENA MARIE SPANN",
+    "Service Address": "10822 HALLWOOD DR",
+    "Zip Code": "63136",
+    "Locator": "10F430093",
+    "Quote ID": "527577",
+    "Quote Amount": "$2138.71",
+    "Closing Date": "01/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CHARLIE WRIGHT JR",
+    "Service Address": "6031 SHULTE AVE",
+    "Zip Code": "63136",
+    "Locator": "53420001200",
+    "Quote ID": "527576",
+    "Quote Amount": "$2032.50",
     "Closing Date": "01/08/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -877,39 +910,6 @@
     "Quote Amount": "$218.02",
     "Closing Date": "01/14/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MARK BERGER",
-    "Service Address": "342 PAGE AVE",
-    "Zip Code": "63119",
-    "Locator": "22K320717",
-    "Quote ID": "527580",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/08/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SHEENA MARIE SPANN",
-    "Service Address": "10822 HALLWOOD DR",
-    "Zip Code": "63136",
-    "Locator": "10F430093",
-    "Quote ID": "527577",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/08/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CHARLIE WRIGHT JR",
-    "Service Address": "6031 SHULTE AVE",
-    "Zip Code": "63136",
-    "Locator": "53420001200",
-    "Quote ID": "527576",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/08/2026",
-    "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
   {
