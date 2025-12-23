@@ -858,6 +858,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "CECELIA BONDS-JONES",
+    "Service Address": "8782 BOYCE PL-63136",
+    "Zip Code": "63136",
+    "Locator": "12G310811",
+    "Quote ID": "527569",
+    "Quote Amount": "$7464.40",
+    "Closing Date": "01/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "BARLOUIS TWO LLC",
     "Service Address": "1371 BROADLAWNS LN",
     "Zip Code": "63138",
@@ -891,6 +902,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "KNOX MANAGEMENT LLC",
+    "Service Address": "4643 ALASKA AVE",
+    "Zip Code": "63111",
+    "Locator": "27380003000",
+    "Quote ID": "527582",
+    "Quote Amount": "$2163.62",
+    "Closing Date": "01/12/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "CARROLLTON VILLAGE APTS",
     "Service Address": "4163 GALLATIN LN",
     "Zip Code": "63044",
@@ -913,46 +935,35 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "CECELIA BONDS-JONES",
-    "Service Address": "8782 BOYCE PL-63136",
-    "Zip Code": "63136",
-    "Locator": "12G310811",
-    "Quote ID": "527569",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/08/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "FOLASADE AYINMODU",
-    "Service Address": "9620 ST GIRARD LN",
-    "Zip Code": "63134",
-    "Locator": "12L320212",
-    "Quote ID": "527435",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/11/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KNOX MANAGEMENT LLC",
-    "Service Address": "4643 ALASKA AVE",
+    "Seller Name": "CODY HAMMETT",
+    "Service Address": "4516 LOUISIANA AVE",
     "Zip Code": "63111",
-    "Locator": "27380003000",
-    "Quote ID": "527582",
+    "Locator": "27280000700",
+    "Quote ID": "527425",
+    "Quote Amount": "$0.00",
+    "Closing Date": "01/17/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KAREN MICH POWERS JOHN REEVES",
+    "Service Address": "5949 LOUGHBOROUGH AVE",
+    "Zip Code": "63109",
+    "Locator": "63930000800",
+    "Quote ID": "527724",
     "Quote Amount": "Pending",
     "Closing Date": "01/12/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "CODY HAMMETT",
-    "Service Address": "4516 LOUISIANA AVE",
-    "Zip Code": "63111",
-    "Locator": "27280000700",
-    "Quote ID": "527425",
+    "Seller Name": "LEE R OR ARCHIE M SMITH",
+    "Service Address": "1534 ORCHID AVE",
+    "Zip Code": "63147",
+    "Locator": "43190500400",
+    "Quote ID": "527723",
     "Quote Amount": "Pending",
-    "Closing Date": "01/17/2026",
+    "Closing Date": "01/12/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
