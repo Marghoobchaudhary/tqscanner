@@ -924,6 +924,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "CAROLINE THEUSCH",
+    "Service Address": "1653 AWARD DR-63021",
+    "Zip Code": "63021",
+    "Locator": "24P510542",
+    "Quote ID": "527727",
+    "Quote Amount": "$437.55",
+    "Closing Date": "01/14/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TONY NOBLES",
+    "Service Address": "2572 SEASCAPE CT",
+    "Zip Code": "63031",
+    "Locator": "05K230112",
+    "Quote ID": "527726",
+    "Quote Amount": "$134.23",
+    "Closing Date": "01/14/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "DEREK WHEAT",
     "Service Address": "4325 HAVEN ST-63116",
     "Zip Code": "63116",
@@ -964,6 +986,17 @@
     "Quote ID": "527723",
     "Quote Amount": "Pending",
     "Closing Date": "01/12/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "HANNA COLLEY",
+    "Service Address": "318 COVENTRY TRAIL LN",
+    "Zip Code": "63043",
+    "Locator": "14N640484",
+    "Quote ID": "527728",
+    "Quote Amount": "Pending",
+    "Closing Date": "01/14/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
