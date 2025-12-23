@@ -891,6 +891,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "TDB PROPERTIES LLC",
+    "Service Address": "1389 HAMILTON AVE",
+    "Zip Code": "63112",
+    "Locator": "38350502700",
+    "Quote ID": "527753",
+    "Quote Amount": "$1664.24",
+    "Closing Date": "01/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MICHAEL MORRIS",
     "Service Address": "3715 BOBRING AVE",
     "Zip Code": "63125",
@@ -920,6 +931,17 @@
     "Quote ID": "527436",
     "Quote Amount": "$192.99",
     "Closing Date": "01/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "HANNA COLLEY",
+    "Service Address": "318 COVENTRY TRAIL LN",
+    "Zip Code": "63043",
+    "Locator": "14N640484",
+    "Quote ID": "527728",
+    "Quote Amount": "$0.00",
+    "Closing Date": "01/14/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -975,28 +997,6 @@
     "Quote ID": "527724",
     "Quote Amount": "Pending",
     "Closing Date": "01/12/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LEE R OR ARCHIE M SMITH",
-    "Service Address": "1534 ORCHID AVE",
-    "Zip Code": "63147",
-    "Locator": "43190500400",
-    "Quote ID": "527723",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/12/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "HANNA COLLEY",
-    "Service Address": "318 COVENTRY TRAIL LN",
-    "Zip Code": "63043",
-    "Locator": "14N640484",
-    "Quote ID": "527728",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/14/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
