@@ -308,17 +308,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "T ROBERTSON",
-    "Service Address": "272 DEANE CT",
-    "Zip Code": "63127",
-    "Locator": "25M230394",
-    "Quote ID": "527247",
-    "Quote Amount": "$1297.83",
-    "Closing Date": "01/05/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "MELISSA WOODS",
     "Service Address": "1130 LEES LN",
     "Zip Code": "63031",
@@ -913,6 +902,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "KAREN MICH POWERS JOHN REEVES",
+    "Service Address": "5949 LOUGHBOROUGH AVE",
+    "Zip Code": "63109",
+    "Locator": "63930000800",
+    "Quote ID": "527724",
+    "Quote Amount": "$2868.21",
+    "Closing Date": "01/12/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "KNOX MANAGEMENT LLC",
     "Service Address": "4643 ALASKA AVE",
     "Zip Code": "63111",
@@ -987,17 +987,6 @@
     "Quote Amount": "$0.00",
     "Closing Date": "01/17/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KAREN MICH POWERS JOHN REEVES",
-    "Service Address": "5949 LOUGHBOROUGH AVE",
-    "Zip Code": "63109",
-    "Locator": "63930000800",
-    "Quote ID": "527724",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/12/2026",
-    "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
 ]
