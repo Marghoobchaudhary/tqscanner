@@ -1,16 +1,5 @@
 [
   {
-    "Seller Name": "ADAM ZIGA",
-    "Service Address": "4630 HEEGE RD-63123",
-    "Zip Code": "63123",
-    "Locator": "25H210141",
-    "Quote ID": "525806",
-    "Quote Amount": "$1369.65",
-    "Closing Date": "12/25/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "WILLIAM SMELSER",
     "Service Address": "9970 LARK AVE",
     "Zip Code": "63125",
@@ -924,6 +913,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ANNETTE BOND",
+    "Service Address": "5639 BARTMER AVE",
+    "Zip Code": "63112",
+    "Locator": "38130003300",
+    "Quote ID": "527952",
+    "Quote Amount": "$1963.58",
+    "Closing Date": "01/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MARLON GRIFFIN",
     "Service Address": "15638 93RD AVE",
     "Zip Code": "63034",
@@ -1195,6 +1195,17 @@
     "Quote ID": "527867",
     "Quote Amount": "Pending",
     "Closing Date": "01/12/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ASHLEY ELROD",
+    "Service Address": "3981 SCHILLER PL",
+    "Zip Code": "63116",
+    "Locator": "57930302800",
+    "Quote ID": "527951",
+    "Quote Amount": "Pending",
+    "Closing Date": "01/13/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
