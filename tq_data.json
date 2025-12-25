@@ -1133,6 +1133,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "DORRELL PHILLIPS",
+    "Service Address": "725 HUDSON RD",
+    "Zip Code": "63135",
+    "Locator": "10H231018",
+    "Quote ID": "527950",
+    "Quote Amount": "$263.28",
+    "Closing Date": "01/15/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "CODY HAMMETT",
     "Service Address": "4516 LOUISIANA AVE",
     "Zip Code": "63111",
@@ -1228,6 +1239,39 @@
     "Quote ID": "527859",
     "Quote Amount": "Pending",
     "Closing Date": "01/14/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LINDA DADE",
+    "Service Address": "38 RIVERMEADOWS DR",
+    "Zip Code": "63031",
+    "Locator": "07L330444",
+    "Quote ID": "527949",
+    "Quote Amount": "Pending",
+    "Closing Date": "01/15/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LOIS SAMPSON",
+    "Service Address": "1515 PARTRIDGE AVE",
+    "Zip Code": "63133",
+    "Locator": "16J220532",
+    "Quote ID": "527948",
+    "Quote Amount": "Pending",
+    "Closing Date": "01/15/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BERTHA L DOYLE",
+    "Service Address": "7144 GARESCHE AVE",
+    "Zip Code": "63136",
+    "Locator": "14G231893",
+    "Quote ID": "527947",
+    "Quote Amount": "Pending",
+    "Closing Date": "01/15/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
