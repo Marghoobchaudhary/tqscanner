@@ -1,16 +1,5 @@
 [
   {
-    "Seller Name": "WILLIAM SMELSER",
-    "Service Address": "9970 LARK AVE",
-    "Zip Code": "63125",
-    "Locator": "28H642200",
-    "Quote ID": "524969",
-    "Quote Amount": "$115.68",
-    "Closing Date": "12/26/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "MARK BARNABY",
     "Service Address": "121 RIVERWOOD PARK DR",
     "Zip Code": "63031",
@@ -946,6 +935,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "PAUL RUTLEDGE",
+    "Service Address": "8475 MACKENZIE RD",
+    "Zip Code": "63123",
+    "Locator": "25J230935",
+    "Quote ID": "527904",
+    "Quote Amount": "$2076.55",
+    "Closing Date": "01/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MARLON GRIFFIN",
     "Service Address": "15638 93RD AVE",
     "Zip Code": "63034",
@@ -1089,6 +1089,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ABRA MCFIELD",
+    "Service Address": "1226 VICTOR ST",
+    "Zip Code": "63104",
+    "Locator": "08781800300",
+    "Quote ID": "527955",
+    "Quote Amount": "$2997.61",
+    "Closing Date": "01/14/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "SANDRA BELL",
     "Service Address": "4917 HURSTBOROUGH CT",
     "Zip Code": "63042",
@@ -1166,6 +1177,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "LOIS SAMPSON",
+    "Service Address": "1515 PARTRIDGE AVE",
+    "Zip Code": "63133",
+    "Locator": "16J220532",
+    "Quote ID": "527948",
+    "Quote Amount": "$3063.17",
+    "Closing Date": "01/15/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "CODY HAMMETT",
     "Service Address": "4516 LOUISIANA AVE",
     "Zip Code": "63111",
@@ -1232,17 +1254,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "PAUL RUTLEDGE",
-    "Service Address": "8475 MACKENZIE RD",
-    "Zip Code": "63123",
-    "Locator": "25J230935",
-    "Quote ID": "527904",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/13/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "SHERRY COOK",
     "Service Address": "5 FLAMINGO DR",
     "Zip Code": "63042",
@@ -1281,17 +1292,6 @@
     "Zip Code": "63031",
     "Locator": "07L330444",
     "Quote ID": "527949",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/15/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LOIS SAMPSON",
-    "Service Address": "1515 PARTRIDGE AVE",
-    "Zip Code": "63133",
-    "Locator": "16J220532",
-    "Quote ID": "527948",
     "Quote Amount": "Pending",
     "Closing Date": "01/15/2026",
     "Stage": "In Progress",
