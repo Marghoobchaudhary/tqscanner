@@ -1001,6 +1001,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "AHMAD & RACHEL SMITH",
+    "Service Address": "14366 GILLON CT",
+    "Zip Code": "63034",
+    "Locator": "06H340063",
+    "Quote ID": "527896",
+    "Quote Amount": "$636.57",
+    "Closing Date": "01/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MICHELE MONTGOMERY",
     "Service Address": "10745 CATHY DR-63123",
     "Zip Code": "63123",
@@ -1144,6 +1155,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ADRIENE WALLS",
+    "Service Address": "1543 HOGAN ST",
+    "Zip Code": "63106",
+    "Locator": "23100000200",
+    "Quote ID": "527859",
+    "Quote Amount": "$10693.86",
+    "Closing Date": "01/14/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "TONY NOBLES",
     "Service Address": "2572 SEASCAPE CT",
     "Zip Code": "63031",
@@ -1261,28 +1283,6 @@
     "Quote ID": "527897",
     "Quote Amount": "Pending",
     "Closing Date": "01/13/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "AHMAD & RACHEL SMITH",
-    "Service Address": "14366 GILLON CT",
-    "Zip Code": "63034",
-    "Locator": "06H340063",
-    "Quote ID": "527896",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/13/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ADRIENE WALLS",
-    "Service Address": "1543 HOGAN ST",
-    "Zip Code": "63106",
-    "Locator": "23100000200",
-    "Quote ID": "527859",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/14/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
