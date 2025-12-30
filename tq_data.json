@@ -1254,6 +1254,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "DEANDRE MANLEY",
+    "Service Address": "3002 HICKORY ST",
+    "Zip Code": "63104",
+    "Locator": "12690001150",
+    "Quote ID": "528192",
+    "Quote Amount": "$683.81",
+    "Closing Date": "01/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "THOMAS H BURNS",
     "Service Address": "5919 WATERMAN BLVD",
     "Zip Code": "63112",
@@ -1261,6 +1272,17 @@
     "Quote ID": "527858",
     "Quote Amount": "$1214.08",
     "Closing Date": "01/20/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LAKISHA BOYLAND",
+    "Service Address": "2609 N SARAH ST",
+    "Zip Code": "63113",
+    "Locator": "36660003950",
+    "Quote ID": "528185",
+    "Quote Amount": "$4196.94",
+    "Closing Date": "01/21/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1294,17 +1316,6 @@
     "Quote ID": "528023",
     "Quote Amount": "Pending",
     "Closing Date": "01/15/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LAKISHA BOYLAND",
-    "Service Address": "2609 N SARAH ST",
-    "Zip Code": "63113",
-    "Locator": "36660003950",
-    "Quote ID": "528185",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/21/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
