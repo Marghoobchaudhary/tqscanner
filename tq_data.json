@@ -1,38 +1,5 @@
 [
   {
-    "Seller Name": "MARK BARNABY",
-    "Service Address": "121 RIVERWOOD PARK DR",
-    "Zip Code": "63031",
-    "Locator": "07L310336",
-    "Quote ID": "526207",
-    "Quote Amount": "$495.57",
-    "Closing Date": "12/28/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KNOX MANAGEMENT LLC",
-    "Service Address": "3408 AIRWAY AVE",
-    "Zip Code": "63114",
-    "Locator": "13L310302",
-    "Quote ID": "525935",
-    "Quote Amount": "$28.50",
-    "Closing Date": "12/28/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "FANNIE L BRATCHER",
-    "Service Address": "4528 ADELAIDE AVE",
-    "Zip Code": "63115",
-    "Locator": "35470001100",
-    "Quote ID": "526366",
-    "Quote Amount": "$2556.73",
-    "Closing Date": "12/29/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "VANNESSA MCCREA",
     "Service Address": "9943 GLOUCESTER DR",
     "Zip Code": "63137",
@@ -880,6 +847,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "EDIN SKELEDZIC",
+    "Service Address": "207 MARILYN ESTATES DR",
+    "Zip Code": "63123",
+    "Locator": "25H320031",
+    "Quote ID": "527871",
+    "Quote Amount": "$3983.86",
+    "Closing Date": "01/12/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "KALIEPI KOUTSCHILIS",
     "Service Address": "135 HEATHER RIDGE DR",
     "Zip Code": "63017",
@@ -908,6 +886,17 @@
     "Locator": "22Q610517",
     "Quote ID": "527868",
     "Quote Amount": "$1628.92",
+    "Closing Date": "01/12/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MARK J LANCASTER",
+    "Service Address": "444 ROYAL VILLAGE DR",
+    "Zip Code": "63011",
+    "Locator": "22R320282",
+    "Quote ID": "527867",
+    "Quote Amount": "$3593.69",
     "Closing Date": "01/12/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -996,6 +985,17 @@
     "Locator": "08J530405",
     "Quote ID": "527898",
     "Quote Amount": "$87.43",
+    "Closing Date": "01/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SHERRY COOK",
+    "Service Address": "5 FLAMINGO DR",
+    "Zip Code": "63042",
+    "Locator": "09K440612",
+    "Quote ID": "527897",
+    "Quote Amount": "$1752.64",
     "Closing Date": "01/13/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1210,12 +1210,34 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "LINDA DADE",
+    "Service Address": "38 RIVERMEADOWS DR",
+    "Zip Code": "63031",
+    "Locator": "07L330444",
+    "Quote ID": "527949",
+    "Quote Amount": "$881.14",
+    "Closing Date": "01/15/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "LOIS SAMPSON",
     "Service Address": "1515 PARTRIDGE AVE",
     "Zip Code": "63133",
     "Locator": "16J220532",
     "Quote ID": "527948",
     "Quote Amount": "$3063.17",
+    "Closing Date": "01/15/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BERTHA L DOYLE",
+    "Service Address": "7144 GARESCHE AVE",
+    "Zip Code": "63136",
+    "Locator": "14G231893",
+    "Quote ID": "527947",
+    "Quote Amount": "$2641.89",
     "Closing Date": "01/15/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1254,44 +1276,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "EDIN SKELEDZIC",
-    "Service Address": "207 MARILYN ESTATES DR",
-    "Zip Code": "63123",
-    "Locator": "25H320031",
-    "Quote ID": "527871",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/12/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MARK J LANCASTER",
-    "Service Address": "444 ROYAL VILLAGE DR",
-    "Zip Code": "63011",
-    "Locator": "22R320282",
-    "Quote ID": "527867",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/12/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "ASHLEY ELROD",
     "Service Address": "3981 SCHILLER PL",
     "Zip Code": "63116",
     "Locator": "57930302800",
     "Quote ID": "527951",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/13/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SHERRY COOK",
-    "Service Address": "5 FLAMINGO DR",
-    "Zip Code": "63042",
-    "Locator": "09K440612",
-    "Quote ID": "527897",
     "Quote Amount": "Pending",
     "Closing Date": "01/13/2026",
     "Stage": "In Progress",
@@ -1309,24 +1298,13 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "LINDA DADE",
-    "Service Address": "38 RIVERMEADOWS DR",
-    "Zip Code": "63031",
-    "Locator": "07L330444",
-    "Quote ID": "527949",
+    "Seller Name": "LAKISHA BOYLAND",
+    "Service Address": "2609 N SARAH ST",
+    "Zip Code": "63113",
+    "Locator": "36660003950",
+    "Quote ID": "528185",
     "Quote Amount": "Pending",
-    "Closing Date": "01/15/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BERTHA L DOYLE",
-    "Service Address": "7144 GARESCHE AVE",
-    "Zip Code": "63136",
-    "Locator": "14G231893",
-    "Quote ID": "527947",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/15/2026",
+    "Closing Date": "01/21/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
