@@ -770,17 +770,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "TDB PROPERTIES LLC",
-    "Service Address": "1389 HAMILTON AVE",
-    "Zip Code": "63112",
-    "Locator": "38350502700",
-    "Quote ID": "527753",
-    "Quote Amount": "$1664.24",
-    "Closing Date": "01/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "MICHAEL MORRIS",
     "Service Address": "3715 BOBRING AVE",
     "Zip Code": "63125",
@@ -1287,6 +1276,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "DARNETTE P NEAL",
+    "Service Address": "103 N ELIZABETH AVE",
+    "Zip Code": "63135",
+    "Locator": "11H120696",
+    "Quote ID": "528337",
+    "Quote Amount": "$3986.27",
+    "Closing Date": "01/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "AMANDA COBB",
     "Service Address": "963 WESTGLEN DR",
     "Zip Code": "63126",
@@ -1397,6 +1397,72 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "IRA MILLER",
+    "Service Address": "16312 HAMPDEN PL",
+    "Zip Code": "63034",
+    "Locator": "05J641162",
+    "Quote ID": "528450",
+    "Quote Amount": "$69.48",
+    "Closing Date": "01/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "THAD F FLOOD",
+    "Service Address": "7740 GENERAL SHERMAN LN",
+    "Zip Code": "63123",
+    "Locator": "25K530740",
+    "Quote ID": "528449",
+    "Quote Amount": "$122.68",
+    "Closing Date": "01/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MICHAEL R NACK",
+    "Service Address": "1065 TERRACE DR",
+    "Zip Code": "63117",
+    "Locator": "19K310118",
+    "Quote ID": "528447",
+    "Quote Amount": "$103.62",
+    "Closing Date": "01/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "HATTIE WARE-JONES",
+    "Service Address": "12360 DANUBE DR",
+    "Zip Code": "63033",
+    "Locator": "08G110331",
+    "Quote ID": "528445",
+    "Quote Amount": "$1259.82",
+    "Closing Date": "01/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "COREY A BURNS",
+    "Service Address": "117 LAWRENCE AVE",
+    "Zip Code": "63135",
+    "Locator": "12J640244",
+    "Quote ID": "528444",
+    "Quote Amount": "$1072.80",
+    "Closing Date": "01/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JOYCE & DAVID WATERS",
+    "Service Address": "9012 CORDOBA LN",
+    "Zip Code": "63126",
+    "Locator": "26L630884",
+    "Quote ID": "528443",
+    "Quote Amount": "$234.89",
+    "Closing Date": "01/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "JOHNSON ENTERPRISE",
     "Service Address": "4008 PORTLAND RIDGE DR",
     "Zip Code": "63034",
@@ -1430,14 +1496,14 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "DARNETTE P NEAL",
-    "Service Address": "103 N ELIZABETH AVE",
-    "Zip Code": "63135",
-    "Locator": "11H120696",
-    "Quote ID": "528337",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/19/2026",
-    "Stage": "In Progress",
+    "Seller Name": "JOSEPH EASON",
+    "Service Address": "7067 KENNEDY AVE",
+    "Zip Code": "63130",
+    "Locator": "17J240333",
+    "Quote ID": "528451",
+    "Quote Amount": "$2047.70",
+    "Closing Date": "01/26/2026",
+    "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
   {
@@ -1448,6 +1514,28 @@
     "Quote ID": "528342",
     "Quote Amount": "Pending",
     "Closing Date": "01/20/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MAKEBIA SHOTWELL",
+    "Service Address": "12988 OX BOW LN",
+    "Zip Code": "63138",
+    "Locator": "07E440156",
+    "Quote ID": "528448",
+    "Quote Amount": "Pending",
+    "Closing Date": "01/21/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PATRICIA TODD",
+    "Service Address": "1365 WILLOWBROOK DR",
+    "Zip Code": "63033",
+    "Locator": "08J630297",
+    "Quote ID": "528446",
+    "Quote Amount": "Pending",
+    "Closing Date": "01/21/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
