@@ -1,27 +1,5 @@
 [
   {
-    "Seller Name": "VANNESSA MCCREA",
-    "Service Address": "9943 GLOUCESTER DR",
-    "Zip Code": "63137",
-    "Locator": "11E210848",
-    "Quote ID": "525936",
-    "Quote Amount": "$267.05",
-    "Closing Date": "12/31/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ANNIE BOYD",
-    "Service Address": "3611 MARVIN AVE",
-    "Zip Code": "63114",
-    "Locator": "13L321861",
-    "Quote ID": "525117",
-    "Quote Amount": "$433.97",
-    "Closing Date": "12/31/2025",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "FRANK J BUSALACCHI II",
     "Service Address": "3017 MARCHBANKS PL",
     "Zip Code": "63129",
@@ -1338,6 +1316,17 @@
     "Quote ID": "528192",
     "Quote Amount": "$683.81",
     "Closing Date": "01/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CHRISTINE A PRATT",
+    "Service Address": "4363 MAGOFFIN TRAILS DR",
+    "Zip Code": "63129",
+    "Locator": "31H330330",
+    "Quote ID": "528452",
+    "Quote Amount": "$799.12",
+    "Closing Date": "01/20/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
