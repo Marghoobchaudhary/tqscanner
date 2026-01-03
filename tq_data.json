@@ -1,16 +1,5 @@
 [
   {
-    "Seller Name": "FRANK J BUSALACCHI II",
-    "Service Address": "3017 MARCHBANKS PL",
-    "Zip Code": "63129",
-    "Locator": "33J530375",
-    "Quote ID": "525807",
-    "Quote Amount": "$231.15",
-    "Closing Date": "01/03/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "AYRICA LOCKETT",
     "Service Address": "2934 HEBERT ST",
     "Zip Code": "63107",
@@ -1551,6 +1540,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ROBIN HILL",
+    "Service Address": "11055 WORCHESTER DR",
+    "Zip Code": "63136",
+    "Locator": "09F110290",
+    "Quote ID": "528581",
+    "Quote Amount": "$790.56",
+    "Closing Date": "01/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "JOSEPH EASON",
     "Service Address": "7067 KENNEDY AVE",
     "Zip Code": "63130",
@@ -1591,6 +1591,17 @@
     "Quote ID": "528329",
     "Quote Amount": "Pending",
     "Closing Date": "01/21/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BILL & SUSAN MEANS",
+    "Service Address": "3635 WHISPERING RIDGE LN",
+    "Zip Code": "63129",
+    "Locator": "32K520594",
+    "Quote ID": "528582",
+    "Quote Amount": "Pending",
+    "Closing Date": "01/22/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
