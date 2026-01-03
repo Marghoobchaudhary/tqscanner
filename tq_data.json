@@ -1430,12 +1430,34 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MAKEBIA SHOTWELL",
+    "Service Address": "12988 OX BOW LN",
+    "Zip Code": "63138",
+    "Locator": "07E440156",
+    "Quote ID": "528448",
+    "Quote Amount": "$7070.77",
+    "Closing Date": "01/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MICHAEL R NACK",
     "Service Address": "1065 TERRACE DR",
     "Zip Code": "63117",
     "Locator": "19K310118",
     "Quote ID": "528447",
     "Quote Amount": "$103.62",
+    "Closing Date": "01/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PATRICIA TODD",
+    "Service Address": "1365 WILLOWBROOK DR",
+    "Zip Code": "63033",
+    "Locator": "08J630297",
+    "Quote ID": "528446",
+    "Quote Amount": "$8039.56",
     "Closing Date": "01/21/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1480,6 +1502,28 @@
     "Locator": "06H620943",
     "Quote ID": "528344",
     "Quote Amount": "$349.14",
+    "Closing Date": "01/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "RHONADA HAMILTON",
+    "Service Address": "5218 RAYMOND AVE",
+    "Zip Code": "63113",
+    "Locator": "51440000900",
+    "Quote ID": "528332",
+    "Quote Amount": "$2399.94",
+    "Closing Date": "01/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TAMMY ROBINSON",
+    "Service Address": "7213 ARSENAL ST",
+    "Zip Code": "63143",
+    "Locator": "47860001300",
+    "Quote ID": "528331",
+    "Quote Amount": "$3473.27",
     "Closing Date": "01/21/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1534,50 +1578,6 @@
     "Zip Code": "63147",
     "Locator": "57370002900",
     "Quote ID": "528457",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/21/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MAKEBIA SHOTWELL",
-    "Service Address": "12988 OX BOW LN",
-    "Zip Code": "63138",
-    "Locator": "07E440156",
-    "Quote ID": "528448",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/21/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PATRICIA TODD",
-    "Service Address": "1365 WILLOWBROOK DR",
-    "Zip Code": "63033",
-    "Locator": "08J630297",
-    "Quote ID": "528446",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/21/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RHONADA HAMILTON",
-    "Service Address": "5218 RAYMOND AVE",
-    "Zip Code": "63113",
-    "Locator": "51440000900",
-    "Quote ID": "528332",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/21/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TAMMY ROBINSON",
-    "Service Address": "7213 ARSENAL ST",
-    "Zip Code": "63143",
-    "Locator": "47860001300",
-    "Quote ID": "528331",
     "Quote Amount": "Pending",
     "Closing Date": "01/21/2026",
     "Stage": "In Progress",
