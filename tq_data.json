@@ -121,17 +121,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "SUZANN BARRY",
-    "Service Address": "935 MURCIA ST",
-    "Zip Code": "63138",
-    "Locator": "08D142014",
-    "Quote ID": "527250",
-    "Quote Amount": "$-81.19",
-    "Closing Date": "01/05/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "LOUIS HALL",
     "Service Address": "1978 ACORN TRAIL DR",
     "Zip Code": "63031",
@@ -171,17 +160,6 @@
     "Locator": "09G620501",
     "Quote ID": "527245",
     "Quote Amount": "$5615.24",
-    "Closing Date": "01/05/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TRACEY BLOCKTON",
-    "Service Address": "6818 CREST AVE",
-    "Zip Code": "63130",
-    "Locator": "17J340170",
-    "Quote ID": "527105",
-    "Quote Amount": "$942.82",
     "Closing Date": "01/05/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1331,6 +1309,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "LINDA MOSES",
+    "Service Address": "6701 ST OLAF DR",
+    "Zip Code": "63134",
+    "Locator": "10K320204",
+    "Quote ID": "528342",
+    "Quote Amount": "$2200.50",
+    "Closing Date": "01/20/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "L B BUFFKINS",
     "Service Address": "2160 SPLENDOR DR",
     "Zip Code": "63031",
@@ -1381,6 +1370,17 @@
     "Locator": "62780003900",
     "Quote ID": "528458",
     "Quote Amount": "$5.67",
+    "Closing Date": "01/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TWYANIA COLE",
+    "Service Address": "5933 ERA AVE",
+    "Zip Code": "63147",
+    "Locator": "57370002900",
+    "Quote ID": "528457",
+    "Quote Amount": "$1832.40",
     "Closing Date": "01/21/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1529,6 +1529,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "THOMAS CUSICK",
+    "Service Address": "3318 S 9TH ST-63118",
+    "Zip Code": "63118",
+    "Locator": "17540000800",
+    "Quote ID": "528329",
+    "Quote Amount": "$2117.44",
+    "Closing Date": "01/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "LAKISHA BOYLAND",
     "Service Address": "2609 N SARAH ST",
     "Zip Code": "63113",
@@ -1570,39 +1581,6 @@
     "Quote Amount": "$2047.70",
     "Closing Date": "01/26/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LINDA MOSES",
-    "Service Address": "6701 ST OLAF DR",
-    "Zip Code": "63134",
-    "Locator": "10K320204",
-    "Quote ID": "528342",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/20/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TWYANIA COLE",
-    "Service Address": "5933 ERA AVE",
-    "Zip Code": "63147",
-    "Locator": "57370002900",
-    "Quote ID": "528457",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/21/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "THOMAS CUSICK",
-    "Service Address": "3318 S 9TH ST-63118",
-    "Zip Code": "63118",
-    "Locator": "17540000800",
-    "Quote ID": "528329",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/21/2026",
-    "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
 ]
