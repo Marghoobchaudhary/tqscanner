@@ -1,203 +1,5 @@
 [
   {
-    "Seller Name": "AYRICA LOCKETT",
-    "Service Address": "2934 HEBERT ST",
-    "Zip Code": "63107",
-    "Locator": "52190000300",
-    "Quote ID": "526931",
-    "Quote Amount": "$29.50",
-    "Closing Date": "01/04/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "AYRICA LOCKETT",
-    "Service Address": "2932 HEBERT ST",
-    "Zip Code": "63107",
-    "Locator": "52190000300",
-    "Quote ID": "526930",
-    "Quote Amount": "$99.49",
-    "Closing Date": "01/04/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LASHANDA DANIEL",
-    "Service Address": "10640 OLD HALLS FERRY RD",
-    "Zip Code": "63136",
-    "Locator": "10G610184",
-    "Quote ID": "526923",
-    "Quote Amount": "$2012.89",
-    "Closing Date": "01/05/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DOLORES TIERNEY",
-    "Service Address": "2428 SPENCER AVE",
-    "Zip Code": "63114",
-    "Locator": "15L541025",
-    "Quote ID": "527258",
-    "Quote Amount": "$3722.19",
-    "Closing Date": "01/05/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MARIE HILL",
-    "Service Address": "221 LITHIA AVE",
-    "Zip Code": "63119",
-    "Locator": "22L640120",
-    "Quote ID": "527257",
-    "Quote Amount": "$329.56",
-    "Closing Date": "01/05/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ALAN UHLMANSIEK",
-    "Service Address": "5137 LODE AVE",
-    "Zip Code": "63123",
-    "Locator": "25J620996",
-    "Quote ID": "527256",
-    "Quote Amount": "$780.38",
-    "Closing Date": "01/05/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DEREK HOTZEL",
-    "Service Address": "228 AVENUE H ST",
-    "Zip Code": "63125",
-    "Locator": "26G430295",
-    "Quote ID": "527255",
-    "Quote Amount": "$1214.59",
-    "Closing Date": "01/05/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CARLOS PORRAS",
-    "Service Address": "10233 FLORINDA DR",
-    "Zip Code": "63123",
-    "Locator": "27K520930",
-    "Quote ID": "527254",
-    "Quote Amount": "$940.62",
-    "Closing Date": "01/05/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "FRED A CROCKETT",
-    "Service Address": "7404 HILLSDALE DR",
-    "Zip Code": "63121",
-    "Locator": "15J340189",
-    "Quote ID": "527253",
-    "Quote Amount": "$3224.53",
-    "Closing Date": "01/05/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "FRANCINE WASHINGTON",
-    "Service Address": "6019 WASHINGTON AVE",
-    "Zip Code": "63134",
-    "Locator": "11J110928",
-    "Quote ID": "527252",
-    "Quote Amount": "$1934.44",
-    "Closing Date": "01/05/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RUBY ALLEN",
-    "Service Address": "7061 PLYMOUTH AVE",
-    "Zip Code": "63130",
-    "Locator": "17J520767",
-    "Quote ID": "527251",
-    "Quote Amount": "$124.55",
-    "Closing Date": "01/05/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LOUIS HALL",
-    "Service Address": "1978 ACORN TRAIL DR",
-    "Zip Code": "63031",
-    "Locator": "08K430216",
-    "Quote ID": "527249",
-    "Quote Amount": "$5138.32",
-    "Closing Date": "01/05/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MARILYN WILLIAMS",
-    "Service Address": "10627 LINNELL DR",
-    "Zip Code": "63136",
-    "Locator": "10G620141",
-    "Quote ID": "527248",
-    "Quote Amount": "$2676.51",
-    "Closing Date": "01/05/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MELISSA WOODS",
-    "Service Address": "1130 LEES LN",
-    "Zip Code": "63031",
-    "Locator": "06J130191",
-    "Quote ID": "527246",
-    "Quote Amount": "$2005.19",
-    "Closing Date": "01/05/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "FAYE MORRISON",
-    "Service Address": "5216 TOW PATH TRL",
-    "Zip Code": "63033",
-    "Locator": "09G620501",
-    "Quote ID": "527245",
-    "Quote Amount": "$5615.24",
-    "Closing Date": "01/05/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JUANITA LEE",
-    "Service Address": "5459 QUEENS AVE",
-    "Zip Code": "63115",
-    "Locator": "51430003200",
-    "Quote ID": "527098",
-    "Quote Amount": "$798.19",
-    "Closing Date": "01/05/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CHRISTY & OLLIE JEFFERSON-BEY",
-    "Service Address": "4482 SAN FRANCISCO AVE",
-    "Zip Code": "63115",
-    "Locator": "44090100200",
-    "Quote ID": "527097",
-    "Quote Amount": "$18073.78",
-    "Closing Date": "01/05/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PHL413PTL LLC",
-    "Service Address": "1082 FONTAINE PL",
-    "Zip Code": "63137",
-    "Locator": "12F320325",
-    "Quote ID": "526929",
-    "Quote Amount": "$3574.05",
-    "Closing Date": "01/05/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "AL SHOMADE",
     "Service Address": "1311 BOLY LN",
     "Zip Code": "63021",
@@ -1581,6 +1383,28 @@
     "Quote Amount": "$2047.70",
     "Closing Date": "01/26/2026",
     "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ANGIE HALE",
+    "Service Address": "4423 BIG CHIEF DR",
+    "Zip Code": "63123",
+    "Locator": "26H420163",
+    "Quote ID": "528720",
+    "Quote Amount": "Pending",
+    "Closing Date": "01/25/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BOBBY PEEBLES",
+    "Service Address": "2265 COTTONTAIL DR",
+    "Zip Code": "63033",
+    "Locator": "07J611309",
+    "Quote ID": "528719",
+    "Quote Amount": "Pending",
+    "Closing Date": "01/25/2026",
+    "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
 ]
