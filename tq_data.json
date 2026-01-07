@@ -506,17 +506,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "MARK J LANCASTER",
-    "Service Address": "444 ROYAL VILLAGE DR",
-    "Zip Code": "63011",
-    "Locator": "22R320282",
-    "Quote ID": "527867",
-    "Quote Amount": "$3593.69",
-    "Closing Date": "01/12/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "VIRGINIA, & ELTON BAR BARRETT",
     "Service Address": "921 S FILLMORE AVE",
     "Zip Code": "63122",
@@ -1276,6 +1265,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "RONALD JONES",
+    "Service Address": "1958 CATHEDRAL HILL DR",
+    "Zip Code": "63138",
+    "Locator": "07E410269",
+    "Quote ID": "528836",
+    "Quote Amount": "$1060.84",
+    "Closing Date": "01/26/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "JOSEPH EASON",
     "Service Address": "7067 KENNEDY AVE",
     "Zip Code": "63130",
@@ -1284,6 +1284,17 @@
     "Quote Amount": "$2047.70",
     "Closing Date": "01/26/2026",
     "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MARK J LANCASTER",
+    "Service Address": "444 ROYAL VILLAGE DR",
+    "Zip Code": "63011",
+    "Locator": "22R320282",
+    "Quote ID": "527867",
+    "Quote Amount": "Pending",
+    "Closing Date": "01/12/2026",
+    "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
 ]
