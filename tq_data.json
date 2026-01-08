@@ -253,6 +253,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "AL SHOMADE",
+    "Service Address": "1311 BOLY LN",
+    "Zip Code": "63021",
+    "Locator": "24Q212173",
+    "Quote ID": "528978",
+    "Quote Amount": "$583.46",
+    "Closing Date": "01/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "VIRGINIA, & ELTON BAR BARRETT",
     "Service Address": "921 S FILLMORE AVE",
     "Zip Code": "63122",
@@ -726,17 +737,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "L B BUFFKINS",
-    "Service Address": "2160 SPLENDOR DR",
-    "Zip Code": "63031",
-    "Locator": "06K330752",
-    "Quote ID": "528341",
-    "Quote Amount": "$817.64",
-    "Closing Date": "01/20/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "SHIRLEY J KEUNE",
     "Service Address": "2120 ARGO DR",
     "Zip Code": "63031",
@@ -1078,24 +1078,24 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "MARK J LANCASTER",
-    "Service Address": "444 ROYAL VILLAGE DR",
-    "Zip Code": "63011",
-    "Locator": "22R320282",
-    "Quote ID": "527867",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/12/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "JAMES ROBERSON",
     "Service Address": "5207 PATTISON AVE",
     "Zip Code": "63110",
     "Locator": "40780001700",
     "Quote ID": "528837",
-    "Quote Amount": "Pending",
+    "Quote Amount": "$4181.56",
     "Closing Date": "01/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KNOX MANAGEMENT LLC",
+    "Service Address": "2901 GRAVOIS AVE",
+    "Zip Code": "63118",
+    "Locator": "20620000800",
+    "Quote ID": "528977",
+    "Quote Amount": "Pending",
+    "Closing Date": "01/28/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
