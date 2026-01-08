@@ -1,104 +1,5 @@
 [
   {
-    "Seller Name": "ROBERT FEIN",
-    "Service Address": "34 AUTUMN VIEW TRAIL CT",
-    "Zip Code": "63044",
-    "Locator": "12N413079",
-    "Quote ID": "527420",
-    "Quote Amount": "$43.64",
-    "Closing Date": "01/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MARK BERGER",
-    "Service Address": "342 PAGE AVE",
-    "Zip Code": "63119",
-    "Locator": "22K320717",
-    "Quote ID": "527580",
-    "Quote Amount": "$-621.24",
-    "Closing Date": "01/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "HONG VY",
-    "Service Address": "4828 REAVIS BARRACKS RD",
-    "Zip Code": "63123",
-    "Locator": "27J631976",
-    "Quote ID": "527579",
-    "Quote Amount": "$1147.65",
-    "Closing Date": "01/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SHERI DOWLING",
-    "Service Address": "225 ST GREGORY DR",
-    "Zip Code": "63031",
-    "Locator": "09J520034",
-    "Quote ID": "527578",
-    "Quote Amount": "$1683.33",
-    "Closing Date": "01/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SHEENA MARIE SPANN",
-    "Service Address": "10822 HALLWOOD DR",
-    "Zip Code": "63136",
-    "Locator": "10F430093",
-    "Quote ID": "527577",
-    "Quote Amount": "$2138.71",
-    "Closing Date": "01/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CHARLIE WRIGHT JR",
-    "Service Address": "6031 SHULTE AVE",
-    "Zip Code": "63136",
-    "Locator": "53420001200",
-    "Quote ID": "527576",
-    "Quote Amount": "$2032.50",
-    "Closing Date": "01/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CDE REALTY LLC",
-    "Service Address": "4473 DELMAR BLVD",
-    "Zip Code": "63108",
-    "Locator": "45730004100",
-    "Quote ID": "527575",
-    "Quote Amount": "$2168.48",
-    "Closing Date": "01/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JOSEPH W WELLS",
-    "Service Address": "2 CONCORD CT",
-    "Zip Code": "63033",
-    "Locator": "06H140812",
-    "Quote ID": "527570",
-    "Quote Amount": "$1106.21",
-    "Closing Date": "01/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CECELIA BONDS-JONES",
-    "Service Address": "8782 BOYCE PL-63136",
-    "Zip Code": "63136",
-    "Locator": "12G310811",
-    "Quote ID": "527569",
-    "Quote Amount": "$7464.40",
-    "Closing Date": "01/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "BARLOUIS TWO LLC",
     "Service Address": "1371 BROADLAWNS LN",
     "Zip Code": "63138",
@@ -1078,12 +979,67 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "SALAH GAYAR",
+    "Service Address": "9109 MAUREEN LN",
+    "Zip Code": "63123",
+    "Locator": "26J630479",
+    "Quote ID": "528987",
+    "Quote Amount": "$4787.46",
+    "Closing Date": "01/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GEORGIA CARADONNA",
+    "Service Address": "1035 CANISIUS LN",
+    "Zip Code": "63031",
+    "Locator": "08K420019",
+    "Quote ID": "528985",
+    "Quote Amount": "$417.75",
+    "Closing Date": "01/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GENE STAMPS",
+    "Service Address": "12450 SHORESIDE DR",
+    "Zip Code": "63033",
+    "Locator": "07F340011",
+    "Quote ID": "528984",
+    "Quote Amount": "$89.68",
+    "Closing Date": "01/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KAROL A WEBER",
+    "Service Address": "9121 E MILTON AVE",
+    "Zip Code": "63114",
+    "Locator": "14K110584",
+    "Quote ID": "528981",
+    "Quote Amount": "$-275.04",
+    "Closing Date": "01/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "SHERRI CULLEN",
     "Service Address": "2366 ADDIE AVE-63114",
     "Zip Code": "63114",
     "Locator": "15L620931",
     "Quote ID": "528980",
     "Quote Amount": "$173.79",
+    "Closing Date": "01/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MICHAEL FAYNE",
+    "Service Address": "4525 CHOUTEAU AVE",
+    "Zip Code": "63110",
+    "Locator": "52330001300",
+    "Quote ID": "528979",
+    "Quote Amount": "$1429.98",
     "Closing Date": "01/27/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1097,6 +1053,28 @@
     "Quote Amount": "$4181.56",
     "Closing Date": "01/27/2026",
     "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KNOX MANAGEMENT LLC",
+    "Service Address": "2901 GRAVOIS AVE",
+    "Zip Code": "63118",
+    "Locator": "20620000800",
+    "Quote ID": "528977",
+    "Quote Amount": "$13959.02",
+    "Closing Date": "01/28/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SALAH GAYAR",
+    "Service Address": "8523 WATSON RD",
+    "Zip Code": "63119",
+    "Locator": "25K440742",
+    "Quote ID": "528986",
+    "Quote Amount": "Pending",
+    "Closing Date": "01/27/2026",
+    "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
   {
@@ -1118,39 +1096,6 @@
     "Quote ID": "528982",
     "Quote Amount": "Pending",
     "Closing Date": "01/27/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KAROL A WEBER",
-    "Service Address": "9121 E MILTON AVE",
-    "Zip Code": "63114",
-    "Locator": "14K110584",
-    "Quote ID": "528981",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/27/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MICHAEL FAYNE",
-    "Service Address": "4525 CHOUTEAU AVE",
-    "Zip Code": "63110",
-    "Locator": "52330001300",
-    "Quote ID": "528979",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/27/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KNOX MANAGEMENT LLC",
-    "Service Address": "2901 GRAVOIS AVE",
-    "Zip Code": "63118",
-    "Locator": "20620000800",
-    "Quote ID": "528977",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/28/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
