@@ -990,6 +990,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "SALAH GAYAR",
+    "Service Address": "8523 WATSON RD",
+    "Zip Code": "63119",
+    "Locator": "25K440742",
+    "Quote ID": "528986",
+    "Quote Amount": "$3456.24",
+    "Closing Date": "01/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "GEORGIA CARADONNA",
     "Service Address": "1035 CANISIUS LN",
     "Zip Code": "63031",
@@ -1067,14 +1078,25 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "SALAH GAYAR",
-    "Service Address": "8523 WATSON RD",
-    "Zip Code": "63119",
-    "Locator": "25K440742",
-    "Quote ID": "528986",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/27/2026",
-    "Stage": "In Progress",
+    "Seller Name": "GARY KOPP",
+    "Service Address": "34 MIDPARK LN",
+    "Zip Code": "63124",
+    "Locator": "19M320302",
+    "Quote ID": "529115",
+    "Quote Amount": "$130.24",
+    "Closing Date": "01/28/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JEROME BRADFORD",
+    "Service Address": "500 MOULE DR-63031",
+    "Zip Code": "63031",
+    "Locator": "07J531449",
+    "Quote ID": "529113",
+    "Quote Amount": "$267.11",
+    "Closing Date": "01/29/2026",
+    "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
   {
@@ -1096,6 +1118,17 @@
     "Quote ID": "528982",
     "Quote Amount": "Pending",
     "Closing Date": "01/27/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SAVANNA DAVIS",
+    "Service Address": "12912 BELLERIVE ESTATES DR",
+    "Zip Code": "63141",
+    "Locator": "17P520211",
+    "Quote ID": "529114",
+    "Quote Amount": "Pending",
+    "Closing Date": "01/28/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
