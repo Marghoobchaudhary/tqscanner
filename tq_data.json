@@ -1,16 +1,5 @@
 [
   {
-    "Seller Name": "DANA A WILLIAMS",
-    "Service Address": "3916 JOST FARM WAY",
-    "Zip Code": "63034",
-    "Locator": "06H430593",
-    "Quote ID": "526601",
-    "Quote Amount": "$216.96",
-    "Closing Date": "01/10/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "FREDY GUIJOSA",
     "Service Address": "6321 VERMONT AVE",
     "Zip Code": "63111",
@@ -998,7 +987,7 @@
     "Quote Amount": "$89.68",
     "Closing Date": "01/27/2026",
     "Stage": "Pending Close",
-    "Submitted By": ""
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "CALISSA PAYNE",
@@ -1140,6 +1129,17 @@
     "Quote ID": "529114",
     "Quote Amount": "$8564.86",
     "Closing Date": "01/28/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "JAMES WILLIAMS",
+    "Service Address": "5211 JAMESTOWN BAY CT",
+    "Zip Code": "63034",
+    "Locator": "06G630233",
+    "Quote ID": "529237",
+    "Quote Amount": "$1248.65",
+    "Closing Date": "01/29/2026",
     "Stage": "Pending Close",
     "Submitted By": ""
   },
