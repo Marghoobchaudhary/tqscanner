@@ -998,7 +998,29 @@
     "Quote Amount": "$89.68",
     "Closing Date": "01/27/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "CALISSA PAYNE",
+    "Service Address": "8321 CARL AVE",
+    "Zip Code": "63136",
+    "Locator": "13G230840",
+    "Quote ID": "528983",
+    "Quote Amount": "$1242.83",
+    "Closing Date": "01/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "MAURNICE TIPTON",
+    "Service Address": "80 BELLERIVE ACRES ST",
+    "Zip Code": "63121",
+    "Locator": "14J240770",
+    "Quote ID": "528982",
+    "Quote Amount": "$14198.99",
+    "Closing Date": "01/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
   },
   {
     "Seller Name": "KAROL A WEBER",
@@ -1009,7 +1031,7 @@
     "Quote Amount": "$-275.04",
     "Closing Date": "01/27/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "SHERRI CULLEN",
@@ -1020,7 +1042,7 @@
     "Quote Amount": "$173.79",
     "Closing Date": "01/27/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "MICHAEL FAYNE",
@@ -1031,7 +1053,7 @@
     "Quote Amount": "$1429.98",
     "Closing Date": "01/27/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "JAMES ROBERSON",
@@ -1042,7 +1064,7 @@
     "Quote Amount": "$4181.56",
     "Closing Date": "01/27/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "KNOX MANAGEMENT LLC",
@@ -1053,7 +1075,18 @@
     "Quote Amount": "$13959.02",
     "Closing Date": "01/28/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "THE ELITE PRESTIGE GROUP LLC",
+    "Service Address": "736 BROTHERTON LN",
+    "Zip Code": "63135",
+    "Locator": "12J311025",
+    "Quote ID": "529154",
+    "Quote Amount": "$0.00",
+    "Closing Date": "01/28/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
   },
   {
     "Seller Name": "SENIEKA PARKER",
@@ -1064,7 +1097,18 @@
     "Quote Amount": "$3370.86",
     "Closing Date": "01/28/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "THOMAS HAMMONDS",
+    "Service Address": "35 COLUMBUS SQUARE",
+    "Zip Code": "63101",
+    "Locator": "02620003700",
+    "Quote ID": "529117",
+    "Quote Amount": "$4847.73",
+    "Closing Date": "01/28/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
   },
   {
     "Seller Name": "CCB ELITE PROPERTY SERVICES",
@@ -1075,7 +1119,7 @@
     "Quote Amount": "$1719.21",
     "Closing Date": "01/28/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "GARY KOPP",
@@ -1086,7 +1130,51 @@
     "Quote Amount": "$130.24",
     "Closing Date": "01/28/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "SAVANNA DAVIS",
+    "Service Address": "12912 BELLERIVE ESTATES DR",
+    "Zip Code": "63141",
+    "Locator": "17P520211",
+    "Quote ID": "529114",
+    "Quote Amount": "$8564.86",
+    "Closing Date": "01/28/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "KOUROSH DAWOODI",
+    "Service Address": "3112 CHIPPEWA ST",
+    "Zip Code": "63118",
+    "Locator": "16260001700",
+    "Quote ID": "529234",
+    "Quote Amount": "$298.71",
+    "Closing Date": "01/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "KAREN HWANG & LU",
+    "Service Address": "3850 LOUISIANA AVE",
+    "Zip Code": "63118",
+    "Locator": "16150000200",
+    "Quote ID": "529233",
+    "Quote Amount": "$592.03",
+    "Closing Date": "01/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "CCB ELITE PROPERTYSERVICES LLC",
+    "Service Address": "3744 ILLINOIS AVE",
+    "Zip Code": "63118",
+    "Locator": "16620000200",
+    "Quote ID": "529232",
+    "Quote Amount": "$352.45",
+    "Closing Date": "01/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
   },
   {
     "Seller Name": "JEROME BRADFORD",
@@ -1097,61 +1185,28 @@
     "Quote Amount": "$267.11",
     "Closing Date": "01/29/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
-    "Seller Name": "CALISSA PAYNE",
-    "Service Address": "8321 CARL AVE",
-    "Zip Code": "63136",
-    "Locator": "13G230840",
-    "Quote ID": "528983",
+    "Seller Name": "CDE REALTY LLC",
+    "Service Address": "3523 MIAMI ST",
+    "Zip Code": "63118",
+    "Locator": "15920002200",
+    "Quote ID": "529236",
     "Quote Amount": "Pending",
-    "Closing Date": "01/27/2026",
+    "Closing Date": "01/29/2026",
     "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
-    "Seller Name": "MAURNICE TIPTON",
-    "Service Address": "80 BELLERIVE ACRES ST",
-    "Zip Code": "63121",
-    "Locator": "14J240770",
-    "Quote ID": "528982",
+    "Seller Name": "ST LOUIS REDEVELOPMENT",
+    "Service Address": "7009 MICHIGAN AVE",
+    "Zip Code": "63111",
+    "Locator": "30190000200",
+    "Quote ID": "529235",
     "Quote Amount": "Pending",
-    "Closing Date": "01/27/2026",
+    "Closing Date": "01/29/2026",
     "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "THE ELITE PRESTIGE GROUP LLC",
-    "Service Address": "736 BROTHERTON LN",
-    "Zip Code": "63135",
-    "Locator": "12J311025",
-    "Quote ID": "529154",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/28/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "THOMAS HAMMONDS",
-    "Service Address": "35 COLUMBUS SQUARE",
-    "Zip Code": "63101",
-    "Locator": "02620003700",
-    "Quote ID": "529117",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/28/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SAVANNA DAVIS",
-    "Service Address": "12912 BELLERIVE ESTATES DR",
-    "Zip Code": "63141",
-    "Locator": "17P520211",
-    "Quote ID": "529114",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/28/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   }
 ]
