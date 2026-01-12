@@ -1144,6 +1144,28 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "CDE REALTY LLC",
+    "Service Address": "3523 MIAMI ST",
+    "Zip Code": "63118",
+    "Locator": "15920002200",
+    "Quote ID": "529236",
+    "Quote Amount": "$0.00",
+    "Closing Date": "01/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "ST LOUIS REDEVELOPMENT",
+    "Service Address": "7009 MICHIGAN AVE",
+    "Zip Code": "63111",
+    "Locator": "30190000200",
+    "Quote ID": "529235",
+    "Quote Amount": "$0.00",
+    "Closing Date": "01/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "KOUROSH DAWOODI",
     "Service Address": "3112 CHIPPEWA ST",
     "Zip Code": "63118",
@@ -1185,28 +1207,6 @@
     "Quote Amount": "$267.11",
     "Closing Date": "01/29/2026",
     "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "CDE REALTY LLC",
-    "Service Address": "3523 MIAMI ST",
-    "Zip Code": "63118",
-    "Locator": "15920002200",
-    "Quote ID": "529236",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/29/2026",
-    "Stage": "In Progress",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "ST LOUIS REDEVELOPMENT",
-    "Service Address": "7009 MICHIGAN AVE",
-    "Zip Code": "63111",
-    "Locator": "30190000200",
-    "Quote ID": "529235",
-    "Quote Amount": "Pending",
-    "Closing Date": "01/29/2026",
-    "Stage": "In Progress",
     "Submitted By": ""
   }
 ]
