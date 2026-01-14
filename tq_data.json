@@ -902,6 +902,28 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "SUNSET PARK CONDO",
+    "Service Address": "1901 HIGH SUN DR",
+    "Zip Code": "63031",
+    "Locator": "06K521350",
+    "Quote ID": "529479",
+    "Quote Amount": "$533.56",
+    "Closing Date": "02/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "DENEISE LEMONS",
+    "Service Address": "2060 AQUEDUCT DR",
+    "Zip Code": "63033",
+    "Locator": "07H240975",
+    "Quote ID": "529478",
+    "Quote Amount": "$409.76",
+    "Closing Date": "02/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "ENRIGHT III CONDOS",
     "Service Address": "724 N NEWSTEAD AVE",
     "Zip Code": "63108",
@@ -909,6 +931,28 @@
     "Quote ID": "529371",
     "Quote Amount": "Pending",
     "Closing Date": "02/01/2026",
+    "Stage": "In Progress",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "DOLORES TIERNEY",
+    "Service Address": "2428 SPENCER AVE",
+    "Zip Code": "63114",
+    "Locator": "15L541025",
+    "Quote ID": "529480",
+    "Quote Amount": "Pending",
+    "Closing Date": "02/02/2026",
+    "Stage": "In Progress",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "KNOX MANAGEMENT LLC",
+    "Service Address": "1100 LA ROUX CT",
+    "Zip Code": "63137",
+    "Locator": "11F321062",
+    "Quote ID": "529477",
+    "Quote Amount": "Pending",
+    "Closing Date": "02/02/2026",
     "Stage": "In Progress",
     "Submitted By": ""
   },
