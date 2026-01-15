@@ -715,6 +715,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "ENRIGHT III CONDOS",
+    "Service Address": "724 N NEWSTEAD AVE",
+    "Zip Code": "63108",
+    "Locator": "45720000120",
+    "Quote ID": "529371",
+    "Quote Amount": "$297.57",
+    "Closing Date": "02/01/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "ERIC SMELSER",
     "Service Address": "7122 VIRGINIA AVE",
     "Zip Code": "63111",
@@ -781,17 +792,6 @@
     "Submitted By": ""
   },
   {
-    "Seller Name": "SUNSET PARK CONDO",
-    "Service Address": "1901 HIGH SUN DR",
-    "Zip Code": "63031",
-    "Locator": "06K521350",
-    "Quote ID": "529479",
-    "Quote Amount": "$533.56",
-    "Closing Date": "02/02/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "DENEISE LEMONS",
     "Service Address": "2060 AQUEDUCT DR",
     "Zip Code": "63033",
@@ -799,6 +799,28 @@
     "Quote ID": "529478",
     "Quote Amount": "$409.76",
     "Closing Date": "02/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "KNOX MANAGEMENT LLC",
+    "Service Address": "1100 LA ROUX CT",
+    "Zip Code": "63137",
+    "Locator": "11F321062",
+    "Quote ID": "529477",
+    "Quote Amount": "$0.00",
+    "Closing Date": "02/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "DEBRA CHIARELLA",
+    "Service Address": "3729 HIRONDELLE LN",
+    "Zip Code": "63034",
+    "Locator": "06H520210",
+    "Quote ID": "529613",
+    "Quote Amount": "$511.67",
+    "Closing Date": "02/03/2026",
     "Stage": "Pending Close",
     "Submitted By": ""
   },
@@ -869,33 +891,11 @@
     "Submitted By": ""
   },
   {
-    "Seller Name": "ENRIGHT III CONDOS",
-    "Service Address": "724 N NEWSTEAD AVE",
-    "Zip Code": "63108",
-    "Locator": "45720000120",
-    "Quote ID": "529371",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/01/2026",
-    "Stage": "In Progress",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "KAREEM WISE",
     "Service Address": "11520 LARES DR-63033",
     "Zip Code": "63033",
     "Locator": "09G140142",
     "Quote ID": "529610",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/02/2026",
-    "Stage": "In Progress",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "KNOX MANAGEMENT LLC",
-    "Service Address": "1100 LA ROUX CT",
-    "Zip Code": "63137",
-    "Locator": "11F321062",
-    "Quote ID": "529477",
     "Quote Amount": "Pending",
     "Closing Date": "02/02/2026",
     "Stage": "In Progress",
@@ -909,6 +909,28 @@
     "Quote ID": "529360",
     "Quote Amount": "Pending",
     "Closing Date": "02/02/2026",
+    "Stage": "In Progress",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "GWENDOLYN & CAMERON WRICE",
+    "Service Address": "12451 NORMA LN-63138",
+    "Zip Code": "63138",
+    "Locator": "07E130022",
+    "Quote ID": "529615",
+    "Quote Amount": "Pending",
+    "Closing Date": "02/03/2026",
+    "Stage": "In Progress",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "DONALD D SCARBOROUGH",
+    "Service Address": "2338 RUCKERT AVE",
+    "Zip Code": "63114",
+    "Locator": "15M530288",
+    "Quote ID": "529614",
+    "Quote Amount": "Pending",
+    "Closing Date": "02/03/2026",
     "Stage": "In Progress",
     "Submitted By": ""
   },
