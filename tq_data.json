@@ -1,170 +1,5 @@
 [
   {
-    "Seller Name": "HANNA COLLEY",
-    "Service Address": "318 COVENTRY TRAIL LN",
-    "Zip Code": "63043",
-    "Locator": "14N640484",
-    "Quote ID": "527728",
-    "Quote Amount": "$0.00",
-    "Closing Date": "01/14/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "CAROLINE THEUSCH",
-    "Service Address": "1653 AWARD DR-63021",
-    "Zip Code": "63021",
-    "Locator": "24P510542",
-    "Quote ID": "527727",
-    "Quote Amount": "$437.55",
-    "Closing Date": "01/14/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "ABRA MCFIELD",
-    "Service Address": "1226 VICTOR ST",
-    "Zip Code": "63104",
-    "Locator": "08781800300",
-    "Quote ID": "527955",
-    "Quote Amount": "$2997.61",
-    "Closing Date": "01/14/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "SANDRA BELL",
-    "Service Address": "4917 HURSTBOROUGH CT",
-    "Zip Code": "63042",
-    "Locator": "09M110193",
-    "Quote ID": "527911",
-    "Quote Amount": "$300.14",
-    "Closing Date": "01/14/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "RODOLFO & MARIA GONZALEZ",
-    "Service Address": "945 RAYBURN AVE",
-    "Zip Code": "63126",
-    "Locator": "25M620621",
-    "Quote ID": "527910",
-    "Quote Amount": "$2062.22",
-    "Closing Date": "01/14/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "MONTANA MURPHY",
-    "Service Address": "2109 BROWN RD-63114",
-    "Zip Code": "63114",
-    "Locator": "15K130088",
-    "Quote ID": "527908",
-    "Quote Amount": "$196.21",
-    "Closing Date": "01/14/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "COLLEEN COUGHLIN",
-    "Service Address": "5681 PERNOD AVE",
-    "Zip Code": "63139",
-    "Locator": "62490004900",
-    "Quote ID": "527860",
-    "Quote Amount": "$190.91",
-    "Closing Date": "01/14/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "ADRIENE WALLS",
-    "Service Address": "1543 HOGAN ST",
-    "Zip Code": "63106",
-    "Locator": "23100000200",
-    "Quote ID": "527859",
-    "Quote Amount": "$10693.86",
-    "Closing Date": "01/14/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "TONY NOBLES",
-    "Service Address": "2572 SEASCAPE CT",
-    "Zip Code": "63031",
-    "Locator": "05K230112",
-    "Quote ID": "527726",
-    "Quote Amount": "$134.23",
-    "Closing Date": "01/14/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "DEREK WHEAT",
-    "Service Address": "4325 HAVEN ST-63116",
-    "Zip Code": "63116",
-    "Locator": "58460001400",
-    "Quote ID": "527568",
-    "Quote Amount": "$218.02",
-    "Closing Date": "01/14/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "MICHAEL ET AL SANDERS",
-    "Service Address": "720 MILLSTONE DR",
-    "Zip Code": "63033",
-    "Locator": "08H240581",
-    "Quote ID": "528024",
-    "Quote Amount": "$4210.02",
-    "Closing Date": "01/15/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "DORRELL PHILLIPS",
-    "Service Address": "725 HUDSON RD",
-    "Zip Code": "63135",
-    "Locator": "10H231018",
-    "Quote ID": "527950",
-    "Quote Amount": "$263.28",
-    "Closing Date": "01/15/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "LINDA DADE",
-    "Service Address": "38 RIVERMEADOWS DR",
-    "Zip Code": "63031",
-    "Locator": "07L330444",
-    "Quote ID": "527949",
-    "Quote Amount": "$881.14",
-    "Closing Date": "01/15/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "LOIS SAMPSON",
-    "Service Address": "1515 PARTRIDGE AVE",
-    "Zip Code": "63133",
-    "Locator": "16J220532",
-    "Quote ID": "527948",
-    "Quote Amount": "$3063.17",
-    "Closing Date": "01/15/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "BERTHA L DOYLE",
-    "Service Address": "7144 GARESCHE AVE",
-    "Zip Code": "63136",
-    "Locator": "14G231893",
-    "Quote ID": "527947",
-    "Quote Amount": "$2641.89",
-    "Closing Date": "01/15/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "CODY HAMMETT",
     "Service Address": "4516 LOUISIANA AVE",
     "Zip Code": "63111",
@@ -902,6 +737,39 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "MICHELLE DE LA ROCHE",
+    "Service Address": "3253 BRIDGERIDGE DR",
+    "Zip Code": "63125",
+    "Locator": "29H120075",
+    "Quote ID": "529612",
+    "Quote Amount": "$1248.55",
+    "Closing Date": "02/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "B JOHNSON",
+    "Service Address": "9238 RIVERWOOD DR",
+    "Zip Code": "63136",
+    "Locator": "13F510176",
+    "Quote ID": "529611",
+    "Quote Amount": "$79.77",
+    "Closing Date": "02/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "BETTY HALEY",
+    "Service Address": "2693 CREEKWOOD MANOR LN",
+    "Zip Code": "63125",
+    "Locator": "28H120966",
+    "Quote ID": "529607",
+    "Quote Amount": "$583.57",
+    "Closing Date": "02/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "DOLORES TIERNEY",
     "Service Address": "2428 SPENCER AVE",
     "Zip Code": "63114",
@@ -935,6 +803,72 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "HARVEY HARRELL",
+    "Service Address": "2310 FAIR ACRES RD",
+    "Zip Code": "63136",
+    "Locator": "09F530236",
+    "Quote ID": "529606",
+    "Quote Amount": "$47.68",
+    "Closing Date": "02/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "JEAN LUC DECOSTER",
+    "Service Address": "824 CUMBERLAND DR",
+    "Zip Code": "63125",
+    "Locator": "27H330764",
+    "Quote ID": "529604",
+    "Quote Amount": "$239.76",
+    "Closing Date": "02/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "LYNESHA JACKSON",
+    "Service Address": "2542 HACKMAN DR",
+    "Zip Code": "63136",
+    "Locator": "09G320805",
+    "Quote ID": "529603",
+    "Quote Amount": "$654.45",
+    "Closing Date": "02/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "DANIEL & ANGELA KELLY",
+    "Service Address": "1905 ST LOUIS ST",
+    "Zip Code": "63033",
+    "Locator": "08J330315",
+    "Quote ID": "529601",
+    "Quote Amount": "$128.99",
+    "Closing Date": "02/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "MARTIN SIMON",
+    "Service Address": "4467 WILCOX AVE",
+    "Zip Code": "63116",
+    "Locator": "55780004800",
+    "Quote ID": "529599",
+    "Quote Amount": "$859.51",
+    "Closing Date": "02/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "NINA T ALGEE",
+    "Service Address": "3030 WHITTIER ST",
+    "Zip Code": "63115",
+    "Locator": "36230000500",
+    "Quote ID": "529597",
+    "Quote Amount": "$269.00",
+    "Closing Date": "02/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "ENRIGHT III CONDOS",
     "Service Address": "724 N NEWSTEAD AVE",
     "Zip Code": "63108",
@@ -942,6 +876,17 @@
     "Quote ID": "529371",
     "Quote Amount": "Pending",
     "Closing Date": "02/01/2026",
+    "Stage": "In Progress",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "KAREEM WISE",
+    "Service Address": "11520 LARES DR-63033",
+    "Zip Code": "63033",
+    "Locator": "09G140142",
+    "Quote ID": "529610",
+    "Quote Amount": "Pending",
+    "Closing Date": "02/02/2026",
     "Stage": "In Progress",
     "Submitted By": ""
   },
@@ -964,6 +909,61 @@
     "Quote ID": "529360",
     "Quote Amount": "Pending",
     "Closing Date": "02/02/2026",
+    "Stage": "In Progress",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "MARTELLE ADAMS",
+    "Service Address": "5501 WINCHELSEA DR",
+    "Zip Code": "63121",
+    "Locator": "13H230016",
+    "Quote ID": "529605",
+    "Quote Amount": "Pending",
+    "Closing Date": "02/03/2026",
+    "Stage": "In Progress",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "TONYA DAVIS MCGHEE",
+    "Service Address": "1646 RYALL CT",
+    "Zip Code": "63031",
+    "Locator": "05J530930",
+    "Quote ID": "529602",
+    "Quote Amount": "Pending",
+    "Closing Date": "02/03/2026",
+    "Stage": "In Progress",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "MARIA JOHNSON",
+    "Service Address": "8803 ALVA AVE",
+    "Zip Code": "63121",
+    "Locator": "14J521314",
+    "Quote ID": "529600",
+    "Quote Amount": "Pending",
+    "Closing Date": "02/03/2026",
+    "Stage": "In Progress",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "NINA ALGEE",
+    "Service Address": "3030 WHITTIER ST",
+    "Zip Code": "63115",
+    "Locator": "36230000500",
+    "Quote ID": "529598",
+    "Quote Amount": "Pending",
+    "Closing Date": "02/03/2026",
+    "Stage": "In Progress",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "EDWARD MCFOWLAND",
+    "Service Address": "3036 WHITTIER ST",
+    "Zip Code": "63115",
+    "Locator": "36230000700",
+    "Quote ID": "529596",
+    "Quote Amount": "Pending",
+    "Closing Date": "02/03/2026",
     "Stage": "In Progress",
     "Submitted By": ""
   }
