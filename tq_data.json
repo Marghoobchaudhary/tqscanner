@@ -176,17 +176,6 @@
     "Submitted By": ""
   },
   {
-    "Seller Name": "RESALE ST LOUIS LLC",
-    "Service Address": "7246 STOLLE ST",
-    "Zip Code": "63116",
-    "Locator": "59910002200",
-    "Quote ID": "528456",
-    "Quote Amount": "$358.28",
-    "Closing Date": "01/21/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "IRA MILLER",
     "Service Address": "16312 HAMPDEN PL",
     "Zip Code": "63034",
@@ -204,17 +193,6 @@
     "Locator": "07E440156",
     "Quote ID": "528448",
     "Quote Amount": "$7070.77",
-    "Closing Date": "01/21/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "MICHAEL R NACK",
-    "Service Address": "1065 TERRACE DR",
-    "Zip Code": "63117",
-    "Locator": "19K310118",
-    "Quote ID": "528447",
-    "Quote Amount": "$103.62",
     "Closing Date": "01/21/2026",
     "Stage": "Pending Close",
     "Submitted By": ""
@@ -770,6 +748,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "KAREEM WISE",
+    "Service Address": "11520 LARES DR-63033",
+    "Zip Code": "63033",
+    "Locator": "09G140142",
+    "Quote ID": "529610",
+    "Quote Amount": "$6637.02",
+    "Closing Date": "02/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "BETTY HALEY",
     "Service Address": "2693 CREEKWOOD MANOR LN",
     "Zip Code": "63125",
@@ -810,6 +799,28 @@
     "Quote ID": "529477",
     "Quote Amount": "$0.00",
     "Closing Date": "02/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "PHL413PTL",
+    "Service Address": "1195 ST MARK DR",
+    "Zip Code": "63031",
+    "Locator": "09J240842",
+    "Quote ID": "529360",
+    "Quote Amount": "$3487.33",
+    "Closing Date": "02/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "GWENDOLYN & CAMERON WRICE",
+    "Service Address": "12451 NORMA LN-63138",
+    "Zip Code": "63138",
+    "Locator": "07E130022",
+    "Quote ID": "529615",
+    "Quote Amount": "$1379.50",
+    "Closing Date": "02/03/2026",
     "Stage": "Pending Close",
     "Submitted By": ""
   },
@@ -858,12 +869,34 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "TONYA DAVIS MCGHEE",
+    "Service Address": "1646 RYALL CT",
+    "Zip Code": "63031",
+    "Locator": "05J530930",
+    "Quote ID": "529602",
+    "Quote Amount": "$7287.27",
+    "Closing Date": "02/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "DANIEL & ANGELA KELLY",
     "Service Address": "1905 ST LOUIS ST",
     "Zip Code": "63033",
     "Locator": "08J330315",
     "Quote ID": "529601",
     "Quote Amount": "$128.99",
+    "Closing Date": "02/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "MARIA JOHNSON",
+    "Service Address": "8803 ALVA AVE",
+    "Zip Code": "63121",
+    "Locator": "14J521314",
+    "Quote ID": "529600",
+    "Quote Amount": "$474.25",
     "Closing Date": "02/03/2026",
     "Stage": "Pending Close",
     "Submitted By": ""
@@ -880,6 +913,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "NINA ALGEE",
+    "Service Address": "3030 WHITTIER ST",
+    "Zip Code": "63115",
+    "Locator": "36230000500",
+    "Quote ID": "529598",
+    "Quote Amount": "$0.00",
+    "Closing Date": "02/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "NINA T ALGEE",
     "Service Address": "3030 WHITTIER ST",
     "Zip Code": "63115",
@@ -891,36 +935,14 @@
     "Submitted By": ""
   },
   {
-    "Seller Name": "KAREEM WISE",
-    "Service Address": "11520 LARES DR-63033",
-    "Zip Code": "63033",
-    "Locator": "09G140142",
-    "Quote ID": "529610",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/02/2026",
-    "Stage": "In Progress",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "PHL413PTL",
-    "Service Address": "1195 ST MARK DR",
-    "Zip Code": "63031",
-    "Locator": "09J240842",
-    "Quote ID": "529360",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/02/2026",
-    "Stage": "In Progress",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "GWENDOLYN & CAMERON WRICE",
-    "Service Address": "12451 NORMA LN-63138",
-    "Zip Code": "63138",
-    "Locator": "07E130022",
-    "Quote ID": "529615",
-    "Quote Amount": "Pending",
+    "Seller Name": "EDWARD MCFOWLAND",
+    "Service Address": "3036 WHITTIER ST",
+    "Zip Code": "63115",
+    "Locator": "36230000700",
+    "Quote ID": "529596",
+    "Quote Amount": "$0.00",
     "Closing Date": "02/03/2026",
-    "Stage": "In Progress",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -940,50 +962,6 @@
     "Zip Code": "63121",
     "Locator": "13H230016",
     "Quote ID": "529605",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/03/2026",
-    "Stage": "In Progress",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "TONYA DAVIS MCGHEE",
-    "Service Address": "1646 RYALL CT",
-    "Zip Code": "63031",
-    "Locator": "05J530930",
-    "Quote ID": "529602",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/03/2026",
-    "Stage": "In Progress",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "MARIA JOHNSON",
-    "Service Address": "8803 ALVA AVE",
-    "Zip Code": "63121",
-    "Locator": "14J521314",
-    "Quote ID": "529600",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/03/2026",
-    "Stage": "In Progress",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "NINA ALGEE",
-    "Service Address": "3030 WHITTIER ST",
-    "Zip Code": "63115",
-    "Locator": "36230000500",
-    "Quote ID": "529598",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/03/2026",
-    "Stage": "In Progress",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "EDWARD MCFOWLAND",
-    "Service Address": "3036 WHITTIER ST",
-    "Zip Code": "63115",
-    "Locator": "36230000700",
-    "Quote ID": "529596",
     "Quote Amount": "Pending",
     "Closing Date": "02/03/2026",
     "Stage": "In Progress",
