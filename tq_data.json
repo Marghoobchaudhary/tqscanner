@@ -847,6 +847,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "MARTELLE ADAMS",
+    "Service Address": "5501 WINCHELSEA DR",
+    "Zip Code": "63121",
+    "Locator": "13H230016",
+    "Quote ID": "529605",
+    "Quote Amount": "$502.59",
+    "Closing Date": "02/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "JEAN LUC DECOSTER",
     "Service Address": "824 CUMBERLAND DR",
     "Zip Code": "63125",
@@ -946,12 +957,34 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "DEBORAH MITCHELL",
+    "Service Address": "6 ROBINSON CIRCLE DR",
+    "Zip Code": "63136",
+    "Locator": "12F121216",
+    "Quote ID": "529777",
+    "Quote Amount": "$4835.66",
+    "Closing Date": "02/04/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "ANITHA FORD",
     "Service Address": "8033 BUSIEK AVE",
     "Zip Code": "63134",
     "Locator": "11J231494",
     "Quote ID": "529776",
     "Quote Amount": "$611.17",
+    "Closing Date": "02/04/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "DAWN KNAPP",
+    "Service Address": "5362 VILLE ANGELA LN",
+    "Zip Code": "63042",
+    "Locator": "09M630262",
+    "Quote ID": "529774",
+    "Quote Amount": "$8064.06",
     "Closing Date": "02/04/2026",
     "Stage": "Pending Close",
     "Submitted By": ""
@@ -965,7 +998,7 @@
     "Quote Amount": "$13.36",
     "Closing Date": "02/04/2026",
     "Stage": "Pending Close",
-    "Submitted By": ""
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "PRINCESS GATES",
@@ -976,7 +1009,7 @@
     "Quote Amount": "$1036.95",
     "Closing Date": "02/04/2026",
     "Stage": "Pending Close",
-    "Submitted By": ""
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "KEVIN DILTHEY",
@@ -987,7 +1020,7 @@
     "Quote Amount": "$1081.78",
     "Closing Date": "02/04/2026",
     "Stage": "Pending Close",
-    "Submitted By": ""
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "TRACY L JOHNSON",
@@ -1012,6 +1045,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MARGARET SCHAEFER",
+    "Service Address": "4950 TYROLEAN AVE",
+    "Zip Code": "63109",
+    "Locator": "55630002000",
+    "Quote ID": "529766",
+    "Quote Amount": "$0.00",
+    "Closing Date": "02/04/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WALTER WHITE",
+    "Service Address": "4100 CABALLO CROSSING CT",
+    "Zip Code": "63034",
+    "Locator": "04H220282",
+    "Quote ID": "529768",
+    "Quote Amount": "$2448.96",
+    "Closing Date": "02/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "DONALD D SCARBOROUGH",
     "Service Address": "2338 RUCKERT AVE",
     "Zip Code": "63114",
@@ -1019,28 +1074,6 @@
     "Quote ID": "529614",
     "Quote Amount": "Pending",
     "Closing Date": "02/03/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MARTELLE ADAMS",
-    "Service Address": "5501 WINCHELSEA DR",
-    "Zip Code": "63121",
-    "Locator": "13H230016",
-    "Quote ID": "529605",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/03/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DEBORAH MITCHELL",
-    "Service Address": "6 ROBINSON CIRCLE DR",
-    "Zip Code": "63136",
-    "Locator": "12F121216",
-    "Quote ID": "529777",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/04/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
@@ -1056,17 +1089,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "DAWN KNAPP",
-    "Service Address": "5362 VILLE ANGELA LN",
-    "Zip Code": "63042",
-    "Locator": "09M630262",
-    "Quote ID": "529774",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/04/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "SHANNON ROBERTSON",
     "Service Address": "5415 OAKVILLA MANOR DR",
     "Zip Code": "63129",
@@ -1074,28 +1096,6 @@
     "Quote ID": "529770",
     "Quote Amount": "Pending",
     "Closing Date": "02/04/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MARGARET SCHAEFER",
-    "Service Address": "4950 TYROLEAN AVE",
-    "Zip Code": "63109",
-    "Locator": "55630002000",
-    "Quote ID": "529766",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/04/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "WALTER WHITE",
-    "Service Address": "4100 CABALLO CROSSING CT",
-    "Zip Code": "63034",
-    "Locator": "04H220282",
-    "Quote ID": "529768",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/11/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
