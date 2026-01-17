@@ -616,17 +616,6 @@
     "Submitted By": ""
   },
   {
-    "Seller Name": "JAMES WILLIAMS",
-    "Service Address": "5211 JAMESTOWN BAY CT",
-    "Zip Code": "63034",
-    "Locator": "06G630233",
-    "Quote ID": "529237",
-    "Quote Amount": "$1248.65",
-    "Closing Date": "01/29/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "CDE REALTY LLC",
     "Service Address": "3523 MIAMI ST",
     "Zip Code": "63118",
@@ -825,6 +814,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "DONALD D SCARBOROUGH",
+    "Service Address": "2338 RUCKERT AVE",
+    "Zip Code": "63114",
+    "Locator": "15M530288",
+    "Quote ID": "529614",
+    "Quote Amount": "$10244.06",
+    "Closing Date": "02/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "DEBRA CHIARELLA",
     "Service Address": "3729 HIRONDELLE LN",
     "Zip Code": "63034",
@@ -979,6 +979,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "MATTHEW GOODSON",
+    "Service Address": "3680 LEMAY WOODS DR",
+    "Zip Code": "63129",
+    "Locator": "31K210553",
+    "Quote ID": "529775",
+    "Quote Amount": "$3432.66",
+    "Closing Date": "02/04/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "DAWN KNAPP",
     "Service Address": "5362 VILLE ANGELA LN",
     "Zip Code": "63042",
@@ -987,7 +998,7 @@
     "Quote Amount": "$8064.06",
     "Closing Date": "02/04/2026",
     "Stage": "Pending Close",
-    "Submitted By": ""
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "INEZ BOCKHOFF",
@@ -1018,6 +1029,17 @@
     "Locator": "30K341519",
     "Quote ID": "529771",
     "Quote Amount": "$1081.78",
+    "Closing Date": "02/04/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SHANNON ROBERTSON",
+    "Service Address": "5415 OAKVILLA MANOR DR",
+    "Zip Code": "63129",
+    "Locator": "31J510302",
+    "Quote ID": "529770",
+    "Quote Amount": "$1081.69",
     "Closing Date": "02/04/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1064,39 +1086,6 @@
     "Quote Amount": "$2448.96",
     "Closing Date": "02/11/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DONALD D SCARBOROUGH",
-    "Service Address": "2338 RUCKERT AVE",
-    "Zip Code": "63114",
-    "Locator": "15M530288",
-    "Quote ID": "529614",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/03/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MATTHEW GOODSON",
-    "Service Address": "3680 LEMAY WOODS DR",
-    "Zip Code": "63129",
-    "Locator": "31K210553",
-    "Quote ID": "529775",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/04/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SHANNON ROBERTSON",
-    "Service Address": "5415 OAKVILLA MANOR DR",
-    "Zip Code": "63129",
-    "Locator": "31J510302",
-    "Quote ID": "529770",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/04/2026",
-    "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
 ]
