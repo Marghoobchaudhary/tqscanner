@@ -671,6 +671,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "MELISSA YOUNG",
+    "Service Address": "10417 EARL DR",
+    "Zip Code": "63136",
+    "Locator": "10F121092",
+    "Quote ID": "529866",
+    "Quote Amount": "$2731.26",
+    "Closing Date": "02/01/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "ENRIGHT III CONDOS",
     "Service Address": "724 N NEWSTEAD AVE",
     "Zip Code": "63108",
@@ -987,7 +998,7 @@
     "Quote Amount": "$8064.06",
     "Closing Date": "02/04/2026",
     "Stage": "Pending Close",
-    "Submitted By": ""
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "INEZ BOCKHOFF",
@@ -1067,6 +1078,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "EARLENE LUSTER",
+    "Service Address": "6717 GLENMORE AVE",
+    "Zip Code": "63121",
+    "Locator": "15H330251",
+    "Quote ID": "529868",
+    "Quote Amount": "$1517.04",
+    "Closing Date": "02/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MARK MCLEMORE",
     "Service Address": "1090 LINDSAY LN",
     "Zip Code": "63031",
@@ -1086,28 +1108,6 @@
     "Quote Amount": "$2448.96",
     "Closing Date": "02/11/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MELISSA YOUNG",
-    "Service Address": "10417 EARL DR",
-    "Zip Code": "63136",
-    "Locator": "10F121092",
-    "Quote ID": "529866",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/01/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "EARLENE LUSTER",
-    "Service Address": "6717 GLENMORE AVE",
-    "Zip Code": "63121",
-    "Locator": "15H330251",
-    "Quote ID": "529868",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/05/2026",
-    "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
   {
