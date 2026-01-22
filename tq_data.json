@@ -924,6 +924,28 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "NATHAN DIEBEL",
+    "Service Address": "266 PARDELLA AVE",
+    "Zip Code": "63125",
+    "Locator": "26G131105",
+    "Quote ID": "530117",
+    "Quote Amount": "$891.11",
+    "Closing Date": "02/10/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "ANTHONY GREEN",
+    "Service Address": "8732 SHIRLEY AVE",
+    "Zip Code": "63121",
+    "Locator": "14J530114",
+    "Quote ID": "530115",
+    "Quote Amount": "$1445.33",
+    "Closing Date": "02/10/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "JESSE WOOLEN",
     "Service Address": "12 ST MARTHA CT",
     "Zip Code": "63031",
@@ -968,6 +990,39 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "KNOX MANAGEMENT LLC",
+    "Service Address": "107 HABECKING DR",
+    "Zip Code": "63137",
+    "Locator": "11D130217",
+    "Quote ID": "530114",
+    "Quote Amount": "Pending",
+    "Closing Date": "02/09/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JOHN E MILNER",
+    "Service Address": "9874 RIVERMONT DR",
+    "Zip Code": "63137",
+    "Locator": "11E320655",
+    "Quote ID": "530116",
+    "Quote Amount": "Pending",
+    "Closing Date": "02/10/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "STANLEY WATSON",
+    "Service Address": "1724 MURIEL DR",
+    "Zip Code": "63138",
+    "Locator": "09E110170",
+    "Quote ID": "530113",
+    "Quote Amount": "Pending",
+    "Closing Date": "02/10/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "RALPH JAMES",
     "Service Address": "4409 VIRGINIA AVE",
     "Zip Code": "63111",
@@ -976,7 +1031,7 @@
     "Quote Amount": "Pending",
     "Closing Date": "02/10/2026",
     "Stage": "In Progress",
-    "Submitted By": ""
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "ANDREW OR LULU JOHNSON",
@@ -987,6 +1042,6 @@
     "Quote Amount": "Pending",
     "Closing Date": "02/10/2026",
     "Stage": "In Progress",
-    "Submitted By": ""
+    "Submitted By": "Cary Cary"
   }
 ]
