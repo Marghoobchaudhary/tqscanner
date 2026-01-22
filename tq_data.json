@@ -1,38 +1,5 @@
 [
   {
-    "Seller Name": "TRS, SHARDAY PLAIR",
-    "Service Address": "7246 STOLLE ST",
-    "Zip Code": "63116",
-    "Locator": "59910002200",
-    "Quote ID": "530064",
-    "Quote Amount": "$360.60",
-    "Closing Date": "01/22/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "BILL & SUSAN MEANS",
-    "Service Address": "3635 WHISPERING RIDGE LN",
-    "Zip Code": "63129",
-    "Locator": "32K520594",
-    "Quote ID": "528582",
-    "Quote Amount": "$13800.03",
-    "Closing Date": "01/22/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "ROBIN HILL",
-    "Service Address": "11055 WORCHESTER DR",
-    "Zip Code": "63136",
-    "Locator": "09F110290",
-    "Quote ID": "528581",
-    "Quote Amount": "$790.56",
-    "Closing Date": "01/22/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "JOHN RAYFORD",
     "Service Address": "3859 NEOSHO ST",
     "Zip Code": "63116",
@@ -902,6 +869,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "KNOX MANAGEMENT LLC",
+    "Service Address": "107 HABECKING DR",
+    "Zip Code": "63137",
+    "Locator": "11D130217",
+    "Quote ID": "530114",
+    "Quote Amount": "$1920.49",
+    "Closing Date": "02/09/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "JAMIE SOELL",
     "Service Address": "12216 RENWICK DR",
     "Zip Code": "63128",
@@ -924,12 +902,45 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "KENNETH MOORE",
+    "Service Address": "1207 GREGAN PL",
+    "Zip Code": "63133",
+    "Locator": "17H430212",
+    "Quote ID": "530120",
+    "Quote Amount": "$1524.41",
+    "Closing Date": "02/10/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "PAMELA FREEMAN",
+    "Service Address": "7 MERRI LN",
+    "Zip Code": "63031",
+    "Locator": "07K310162",
+    "Quote ID": "530119",
+    "Quote Amount": "$7315.93",
+    "Closing Date": "02/10/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "NATHAN DIEBEL",
     "Service Address": "266 PARDELLA AVE",
     "Zip Code": "63125",
     "Locator": "26G131105",
     "Quote ID": "530117",
     "Quote Amount": "$891.11",
+    "Closing Date": "02/10/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "JOHN E MILNER",
+    "Service Address": "9874 RIVERMONT DR",
+    "Zip Code": "63137",
+    "Locator": "11E320655",
+    "Quote ID": "530116",
+    "Quote Amount": "$0.00",
     "Closing Date": "02/10/2026",
     "Stage": "Pending Close",
     "Submitted By": ""
@@ -968,6 +979,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "RALPH JAMES",
+    "Service Address": "4409 VIRGINIA AVE",
+    "Zip Code": "63111",
+    "Locator": "26970001400",
+    "Quote ID": "530110",
+    "Quote Amount": "$6231.34",
+    "Closing Date": "02/10/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "GERALD ROBINSON",
     "Service Address": "2703 ABERDEEN DR",
     "Zip Code": "63033",
@@ -976,7 +998,18 @@
     "Quote Amount": "$404.56",
     "Closing Date": "02/10/2026",
     "Stage": "Pending Close",
-    "Submitted By": ""
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JUAN & JOSE CARLOS LEON REYES",
+    "Service Address": "4223 OSCEOLA ST",
+    "Zip Code": "63116",
+    "Locator": "39880001800",
+    "Quote ID": "530118",
+    "Quote Amount": "$1867.75",
+    "Closing Date": "02/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "WALTER WHITE",
@@ -987,28 +1020,6 @@
     "Quote Amount": "$2448.96",
     "Closing Date": "02/11/2026",
     "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "KNOX MANAGEMENT LLC",
-    "Service Address": "107 HABECKING DR",
-    "Zip Code": "63137",
-    "Locator": "11D130217",
-    "Quote ID": "530114",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/09/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JOHN E MILNER",
-    "Service Address": "9874 RIVERMONT DR",
-    "Zip Code": "63137",
-    "Locator": "11E320655",
-    "Quote ID": "530116",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/10/2026",
-    "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
   {
@@ -1017,17 +1028,6 @@
     "Zip Code": "63138",
     "Locator": "09E110170",
     "Quote ID": "530113",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/10/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RALPH JAMES",
-    "Service Address": "4409 VIRGINIA AVE",
-    "Zip Code": "63111",
-    "Locator": "26970001400",
-    "Quote ID": "530110",
     "Quote Amount": "Pending",
     "Closing Date": "02/10/2026",
     "Stage": "In Progress",
