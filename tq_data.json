@@ -957,6 +957,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "STANLEY WATSON",
+    "Service Address": "1724 MURIEL DR",
+    "Zip Code": "63138",
+    "Locator": "09E110170",
+    "Quote ID": "530113",
+    "Quote Amount": "$6232.18",
+    "Closing Date": "02/10/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "JESSE WOOLEN",
     "Service Address": "12 ST MARTHA CT",
     "Zip Code": "63031",
@@ -987,7 +998,7 @@
     "Quote Amount": "$6231.34",
     "Closing Date": "02/10/2026",
     "Stage": "Pending Close",
-    "Submitted By": ""
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "GERALD ROBINSON",
@@ -997,6 +1008,50 @@
     "Quote ID": "530028",
     "Quote Amount": "$404.56",
     "Closing Date": "02/10/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LEE STAMPER",
+    "Service Address": "10132 DELLRIDGE LN",
+    "Zip Code": "63136",
+    "Locator": "11G420490",
+    "Quote ID": "530229",
+    "Quote Amount": "$747.62",
+    "Closing Date": "02/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JIMMY DAVIS",
+    "Service Address": "941 MARIAS DR",
+    "Zip Code": "63137",
+    "Locator": "12E110545",
+    "Quote ID": "530228",
+    "Quote Amount": "$789.61",
+    "Closing Date": "02/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MARION WILLIAMS",
+    "Service Address": "1314 NORTH MARKET ST",
+    "Zip Code": "63106",
+    "Locator": "06330000610",
+    "Quote ID": "530226",
+    "Quote Amount": "$524.90",
+    "Closing Date": "02/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JOHN FOLLMER",
+    "Service Address": "6214 BRADLEY AVE",
+    "Zip Code": "63139",
+    "Locator": "60220001700",
+    "Quote ID": "530225",
+    "Quote Amount": "$97.11",
+    "Closing Date": "02/11/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1023,14 +1078,14 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "STANLEY WATSON",
-    "Service Address": "1724 MURIEL DR",
-    "Zip Code": "63138",
-    "Locator": "09E110170",
-    "Quote ID": "530113",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/10/2026",
-    "Stage": "In Progress",
+    "Seller Name": "ANISHA BONNER",
+    "Service Address": "11058 THOUSAND OAKS DR",
+    "Zip Code": "63136",
+    "Locator": "09F110832",
+    "Quote ID": "530227",
+    "Quote Amount": "$803.66",
+    "Closing Date": "02/18/2026",
+    "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
   {
