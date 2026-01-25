@@ -517,17 +517,6 @@
     "Submitted By": ""
   },
   {
-    "Seller Name": "HARVEY HARRELL",
-    "Service Address": "2310 FAIR ACRES RD",
-    "Zip Code": "63136",
-    "Locator": "09F530236",
-    "Quote ID": "529606",
-    "Quote Amount": "$47.68",
-    "Closing Date": "02/03/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "MARTELLE ADAMS",
     "Service Address": "5501 WINCHELSEA DR",
     "Zip Code": "63121",
@@ -998,6 +987,17 @@
     "Quote Amount": "$6231.34",
     "Closing Date": "02/10/2026",
     "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "ANDREW OR LULU JOHNSON",
+    "Service Address": "5012 EMERSON AVE",
+    "Zip Code": "63120",
+    "Locator": "55560000500",
+    "Quote ID": "530109",
+    "Quote Amount": "$12464.71",
+    "Closing Date": "02/10/2026",
+    "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
   {
@@ -1056,17 +1056,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "JUAN & JOSE CARLOS LEON REYES",
-    "Service Address": "4223 OSCEOLA ST",
-    "Zip Code": "63116",
-    "Locator": "39880001800",
-    "Quote ID": "530118",
-    "Quote Amount": "$1867.75",
-    "Closing Date": "02/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "WALTER WHITE",
     "Service Address": "4100 CABALLO CROSSING CT",
     "Zip Code": "63034",
@@ -1086,17 +1075,6 @@
     "Quote Amount": "$803.66",
     "Closing Date": "02/18/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ANDREW OR LULU JOHNSON",
-    "Service Address": "5012 EMERSON AVE",
-    "Zip Code": "63120",
-    "Locator": "55560000500",
-    "Quote ID": "530109",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/10/2026",
-    "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
 ]
