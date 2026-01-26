@@ -1,104 +1,5 @@
 [
   {
-    "Seller Name": "JOHN RAYFORD",
-    "Service Address": "3859 NEOSHO ST",
-    "Zip Code": "63116",
-    "Locator": "56850002900",
-    "Quote ID": "528746",
-    "Quote Amount": "$791.69",
-    "Closing Date": "01/25/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "ANGIE HALE",
-    "Service Address": "4423 BIG CHIEF DR",
-    "Zip Code": "63123",
-    "Locator": "26H420163",
-    "Quote ID": "528720",
-    "Quote Amount": "$1957.12",
-    "Closing Date": "01/25/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "BOBBY PEEBLES",
-    "Service Address": "2265 COTTONTAIL DR",
-    "Zip Code": "63033",
-    "Locator": "07J611309",
-    "Quote ID": "528719",
-    "Quote Amount": "$3973.33",
-    "Closing Date": "01/25/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "RICHELLA MASON",
-    "Service Address": "7126 THEODORE AVE",
-    "Zip Code": "63136",
-    "Locator": "14G230490",
-    "Quote ID": "528844",
-    "Quote Amount": "$4909.57",
-    "Closing Date": "01/26/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "ROY & ANNIE COGGINS",
-    "Service Address": "5216 HAMILTON AVE",
-    "Zip Code": "63136",
-    "Locator": "14G220095",
-    "Quote ID": "528843",
-    "Quote Amount": "$0.00",
-    "Closing Date": "01/26/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "SHONA WILLIAMS",
-    "Service Address": "2775 ROBERT DR",
-    "Zip Code": "63031",
-    "Locator": "06J230093",
-    "Quote ID": "528842",
-    "Quote Amount": "$1032.99",
-    "Closing Date": "01/26/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "ALEXIA REDOHL",
-    "Service Address": "9810 HUNTINGDON LN",
-    "Zip Code": "63123",
-    "Locator": "26J310016",
-    "Quote ID": "528841",
-    "Quote Amount": "$49.10",
-    "Closing Date": "01/26/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "RONALD JONES",
-    "Service Address": "1958 CATHEDRAL HILL DR",
-    "Zip Code": "63138",
-    "Locator": "07E410269",
-    "Quote ID": "528836",
-    "Quote Amount": "$1060.84",
-    "Closing Date": "01/26/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "JOSEPH EASON",
-    "Service Address": "7067 KENNEDY AVE",
-    "Zip Code": "63130",
-    "Locator": "17J240333",
-    "Quote ID": "528451",
-    "Quote Amount": "$2047.70",
-    "Closing Date": "01/26/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "SALAH GAYAR",
     "Service Address": "9109 MAUREEN LN",
     "Zip Code": "63123",
@@ -998,7 +899,7 @@
     "Quote Amount": "$12464.71",
     "Closing Date": "02/10/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "GERALD ROBINSON",
@@ -1009,7 +910,7 @@
     "Quote Amount": "$404.56",
     "Closing Date": "02/10/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "LEE STAMPER",
@@ -1020,7 +921,7 @@
     "Quote Amount": "$747.62",
     "Closing Date": "02/11/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "JIMMY DAVIS",
@@ -1031,7 +932,7 @@
     "Quote Amount": "$789.61",
     "Closing Date": "02/11/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "MARION WILLIAMS",
@@ -1042,7 +943,7 @@
     "Quote Amount": "$524.90",
     "Closing Date": "02/11/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "JOHN FOLLMER",
@@ -1053,7 +954,7 @@
     "Quote Amount": "$97.11",
     "Closing Date": "02/11/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "WALTER WHITE",
@@ -1064,7 +965,18 @@
     "Quote Amount": "$2448.96",
     "Closing Date": "02/11/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "ALEXANDER JONES",
+    "Service Address": "15616 92ND AVE",
+    "Zip Code": "63034",
+    "Locator": "05H210042",
+    "Quote ID": "530359",
+    "Quote Amount": "$106.30",
+    "Closing Date": "02/12/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
   },
   {
     "Seller Name": "ANISHA BONNER",
@@ -1075,6 +987,28 @@
     "Quote Amount": "$803.66",
     "Closing Date": "02/18/2026",
     "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "ROBERTA LAKE",
+    "Service Address": "7125 ROLAND BLVD",
+    "Zip Code": "63121",
+    "Locator": "14H330225",
+    "Quote ID": "530360",
+    "Quote Amount": "Pending",
+    "Closing Date": "02/12/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KATRINA R WILLIAMS",
+    "Service Address": "6 TERRY CT",
+    "Zip Code": "63031",
+    "Locator": "07K410305",
+    "Quote ID": "530358",
+    "Quote Amount": "Pending",
+    "Closing Date": "02/12/2026",
+    "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
 ]
