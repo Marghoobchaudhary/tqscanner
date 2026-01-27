@@ -1,115 +1,5 @@
 [
   {
-    "Seller Name": "SALAH GAYAR",
-    "Service Address": "9109 MAUREEN LN",
-    "Zip Code": "63123",
-    "Locator": "26J630479",
-    "Quote ID": "528987",
-    "Quote Amount": "$4787.46",
-    "Closing Date": "01/27/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "SALAH GAYAR",
-    "Service Address": "8523 WATSON RD",
-    "Zip Code": "63119",
-    "Locator": "25K440742",
-    "Quote ID": "528986",
-    "Quote Amount": "$3456.24",
-    "Closing Date": "01/27/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "GEORGIA CARADONNA",
-    "Service Address": "1035 CANISIUS LN",
-    "Zip Code": "63031",
-    "Locator": "08K420019",
-    "Quote ID": "528985",
-    "Quote Amount": "$417.75",
-    "Closing Date": "01/27/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "GENE STAMPS",
-    "Service Address": "12450 SHORESIDE DR",
-    "Zip Code": "63033",
-    "Locator": "07F340011",
-    "Quote ID": "528984",
-    "Quote Amount": "$89.68",
-    "Closing Date": "01/27/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "CALISSA PAYNE",
-    "Service Address": "8321 CARL AVE",
-    "Zip Code": "63136",
-    "Locator": "13G230840",
-    "Quote ID": "528983",
-    "Quote Amount": "$1242.83",
-    "Closing Date": "01/27/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "MAURNICE TIPTON",
-    "Service Address": "80 BELLERIVE ACRES ST",
-    "Zip Code": "63121",
-    "Locator": "14J240770",
-    "Quote ID": "528982",
-    "Quote Amount": "$14198.99",
-    "Closing Date": "01/27/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "KAROL A WEBER",
-    "Service Address": "9121 E MILTON AVE",
-    "Zip Code": "63114",
-    "Locator": "14K110584",
-    "Quote ID": "528981",
-    "Quote Amount": "$-275.04",
-    "Closing Date": "01/27/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "SHERRI CULLEN",
-    "Service Address": "2366 ADDIE AVE-63114",
-    "Zip Code": "63114",
-    "Locator": "15L620931",
-    "Quote ID": "528980",
-    "Quote Amount": "$173.79",
-    "Closing Date": "01/27/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "MICHAEL FAYNE",
-    "Service Address": "4525 CHOUTEAU AVE",
-    "Zip Code": "63110",
-    "Locator": "52330001300",
-    "Quote ID": "528979",
-    "Quote Amount": "$1429.98",
-    "Closing Date": "01/27/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "JAMES ROBERSON",
-    "Service Address": "5207 PATTISON AVE",
-    "Zip Code": "63110",
-    "Locator": "40780001700",
-    "Quote ID": "528837",
-    "Quote Amount": "$4181.56",
-    "Closing Date": "01/27/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "KNOX MANAGEMENT LLC",
     "Service Address": "2901 GRAVOIS AVE",
     "Zip Code": "63118",
@@ -957,6 +847,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "ROBERTA LAKE",
+    "Service Address": "7125 ROLAND BLVD",
+    "Zip Code": "63121",
+    "Locator": "14H330225",
+    "Quote ID": "530360",
+    "Quote Amount": "$994.99",
+    "Closing Date": "02/12/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "ALEXANDER JONES",
     "Service Address": "15616 92ND AVE",
     "Zip Code": "63034",
@@ -979,17 +880,6 @@
     "Submitted By": ""
   },
   {
-    "Seller Name": "ROBERTA LAKE",
-    "Service Address": "7125 ROLAND BLVD",
-    "Zip Code": "63121",
-    "Locator": "14H330225",
-    "Quote ID": "530360",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/12/2026",
-    "Stage": "In Progress",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "KATRINA R WILLIAMS",
     "Service Address": "6 TERRY CT",
     "Zip Code": "63031",
@@ -998,6 +888,17 @@
     "Quote Amount": "Pending",
     "Closing Date": "02/12/2026",
     "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "KURTIS COX",
+    "Service Address": "3428 ALBERTA ST",
+    "Zip Code": "63118",
+    "Locator": "25760001100",
+    "Quote ID": "530459",
+    "Quote Amount": "Pending",
+    "Closing Date": "02/16/2026",
+    "Stage": "In Progress",
+    "Submitted By": ""
   }
 ]
