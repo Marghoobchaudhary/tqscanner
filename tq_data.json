@@ -1,82 +1,5 @@
 [
   {
-    "Seller Name": "KNOX MANAGEMENT LLC",
-    "Service Address": "2901 GRAVOIS AVE",
-    "Zip Code": "63118",
-    "Locator": "20620000800",
-    "Quote ID": "528977",
-    "Quote Amount": "$13959.02",
-    "Closing Date": "01/28/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "THE ELITE PRESTIGE GROUP LLC",
-    "Service Address": "736 BROTHERTON LN",
-    "Zip Code": "63135",
-    "Locator": "12J311025",
-    "Quote ID": "529154",
-    "Quote Amount": "$0.00",
-    "Closing Date": "01/28/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "SENIEKA PARKER",
-    "Service Address": "4544 NEWBERRY TER",
-    "Zip Code": "63113",
-    "Locator": "45530602800",
-    "Quote ID": "529152",
-    "Quote Amount": "$3370.86",
-    "Closing Date": "01/28/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "THOMAS HAMMONDS",
-    "Service Address": "35 COLUMBUS SQUARE",
-    "Zip Code": "63101",
-    "Locator": "02620003700",
-    "Quote ID": "529117",
-    "Quote Amount": "$4847.73",
-    "Closing Date": "01/28/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "CCB ELITE PROPERTY SERVICES",
-    "Service Address": "3712 PHILLIPS PL",
-    "Zip Code": "63116",
-    "Locator": "41800000400",
-    "Quote ID": "529116",
-    "Quote Amount": "$1719.21",
-    "Closing Date": "01/28/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "GARY KOPP",
-    "Service Address": "34 MIDPARK LN",
-    "Zip Code": "63124",
-    "Locator": "19M320302",
-    "Quote ID": "529115",
-    "Quote Amount": "$130.24",
-    "Closing Date": "01/28/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "SAVANNA DAVIS",
-    "Service Address": "12912 BELLERIVE ESTATES DR",
-    "Zip Code": "63141",
-    "Locator": "17P520211",
-    "Quote ID": "529114",
-    "Quote Amount": "$8564.86",
-    "Closing Date": "01/28/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "CDE REALTY LLC",
     "Service Address": "3523 MIAMI ST",
     "Zip Code": "63118",
@@ -880,6 +803,50 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "BRANDON WALKER",
+    "Service Address": "2450 ASHLAND AVE",
+    "Zip Code": "63114",
+    "Locator": "15K530356",
+    "Quote ID": "530633",
+    "Quote Amount": "$571.46",
+    "Closing Date": "02/16/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "MONTAZE PAIDE",
+    "Service Address": "9849 DELHI DR-63137",
+    "Zip Code": "63137",
+    "Locator": "11F330024",
+    "Quote ID": "530632",
+    "Quote Amount": "$169.64",
+    "Closing Date": "02/16/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "SUGAR TREE HOMES ASSOC",
+    "Service Address": "2432 FOREST SHADOWS DR",
+    "Zip Code": "63136",
+    "Locator": "09F130661",
+    "Quote ID": "530630",
+    "Quote Amount": "$202.89",
+    "Closing Date": "02/16/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "PETER ELLIS",
+    "Service Address": "102 FIVE MEADOWS LN",
+    "Zip Code": "63011",
+    "Locator": "21R530109",
+    "Quote ID": "530629",
+    "Quote Amount": "$19.21",
+    "Closing Date": "02/16/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "BROWN DIAMOND EQUITY",
     "Service Address": "1347 SAN JACINTO CT",
     "Zip Code": "63139",
@@ -910,6 +877,17 @@
     "Quote Amount": "$803.66",
     "Closing Date": "02/18/2026",
     "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "MATTHEW & VANESSA ISAACS",
+    "Service Address": "1395 ST FRANCOIS ST",
+    "Zip Code": "63033",
+    "Locator": "08J240061",
+    "Quote ID": "530631",
+    "Quote Amount": "Pending",
+    "Closing Date": "02/16/2026",
+    "Stage": "In Progress",
     "Submitted By": ""
   }
 ]
