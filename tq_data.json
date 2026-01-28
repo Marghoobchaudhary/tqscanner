@@ -869,25 +869,25 @@
     "Submitted By": ""
   },
   {
-    "Seller Name": "ANISHA BONNER",
-    "Service Address": "11058 THOUSAND OAKS DR",
-    "Zip Code": "63136",
-    "Locator": "09F110832",
-    "Quote ID": "530227",
-    "Quote Amount": "$803.66",
-    "Closing Date": "02/18/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "KATRINA R WILLIAMS",
     "Service Address": "6 TERRY CT",
     "Zip Code": "63031",
     "Locator": "07K410305",
     "Quote ID": "530358",
-    "Quote Amount": "Pending",
+    "Quote Amount": "$8176.48",
     "Closing Date": "02/12/2026",
-    "Stage": "In Progress",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "BROWN DIAMOND EQUITY",
+    "Service Address": "1347 SAN JACINTO CT",
+    "Zip Code": "63139",
+    "Locator": "50640004000",
+    "Quote ID": "530627",
+    "Quote Amount": "$249.34",
+    "Closing Date": "02/16/2026",
+    "Stage": "Pending Close",
     "Submitted By": ""
   },
   {
@@ -896,9 +896,20 @@
     "Zip Code": "63118",
     "Locator": "25760001100",
     "Quote ID": "530459",
-    "Quote Amount": "Pending",
+    "Quote Amount": "$2713.18",
     "Closing Date": "02/16/2026",
-    "Stage": "In Progress",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "ANISHA BONNER",
+    "Service Address": "11058 THOUSAND OAKS DR",
+    "Zip Code": "63136",
+    "Locator": "09F110832",
+    "Quote ID": "530227",
+    "Quote Amount": "$803.66",
+    "Closing Date": "02/18/2026",
+    "Stage": "Pending Close",
     "Submitted By": ""
   }
 ]
