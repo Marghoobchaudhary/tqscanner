@@ -847,6 +847,83 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "TEKESHA KENT",
+    "Service Address": "2239 WISMER AVE",
+    "Zip Code": "63114",
+    "Locator": "15L510489",
+    "Quote ID": "530818",
+    "Quote Amount": "$240.74",
+    "Closing Date": "02/17/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "MILAN BLAGOJEVIC",
+    "Service Address": "3029 YAEGER RD",
+    "Zip Code": "63129",
+    "Locator": "31J510089",
+    "Quote ID": "530817",
+    "Quote Amount": "$1316.58",
+    "Closing Date": "02/17/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "MICHAEL KILGUS",
+    "Service Address": "12028 LARIMORE RD",
+    "Zip Code": "63138",
+    "Locator": "08D140034",
+    "Quote ID": "530815",
+    "Quote Amount": "$618.12",
+    "Closing Date": "02/17/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "LYNETTE ROBINSON",
+    "Service Address": "1223 CEDAR RIDGE DR",
+    "Zip Code": "63146",
+    "Locator": "16P610092",
+    "Quote ID": "530814",
+    "Quote Amount": "$589.79",
+    "Closing Date": "02/17/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "CARMILL MAPP",
+    "Service Address": "7344 HARNEY AVE",
+    "Zip Code": "63136",
+    "Locator": "13G120941",
+    "Quote ID": "530812",
+    "Quote Amount": "$688.32",
+    "Closing Date": "02/17/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "DELICIA DAVIS",
+    "Service Address": "5436 N KINGSHIGHWAY BLVD",
+    "Zip Code": "63115",
+    "Locator": "54660002300",
+    "Quote ID": "530810",
+    "Quote Amount": "$887.58",
+    "Closing Date": "02/17/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "OZELL ROBERTSON",
+    "Service Address": "5467 PLOVER AVE",
+    "Zip Code": "63120",
+    "Locator": "51250002600",
+    "Quote ID": "530808",
+    "Quote Amount": "$1231.72",
+    "Closing Date": "02/17/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "ANISHA BONNER",
     "Service Address": "11058 THOUSAND OAKS DR",
     "Zip Code": "63136",
@@ -858,6 +935,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "MICHAEL RUHL",
+    "Service Address": "2520 PALM DR",
+    "Zip Code": "63031",
+    "Locator": "06J131367",
+    "Quote ID": "530811",
+    "Quote Amount": "$337.88",
+    "Closing Date": "02/24/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "MATTHEW & VANESSA ISAACS",
     "Service Address": "1395 ST FRANCOIS ST",
     "Zip Code": "63033",
@@ -865,6 +953,39 @@
     "Quote ID": "530631",
     "Quote Amount": "Pending",
     "Closing Date": "02/16/2026",
+    "Stage": "In Progress",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "ARAM ISTEPHAN",
+    "Service Address": "2695 MCKELVEY RD",
+    "Zip Code": "63043",
+    "Locator": "12O310393",
+    "Quote ID": "530816",
+    "Quote Amount": "Pending",
+    "Closing Date": "02/17/2026",
+    "Stage": "In Progress",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "DANIEL L SMITH",
+    "Service Address": "3910 COUNCIL GROVE AVE",
+    "Zip Code": "63120",
+    "Locator": "15G121663",
+    "Quote ID": "530813",
+    "Quote Amount": "Pending",
+    "Closing Date": "02/17/2026",
+    "Stage": "In Progress",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "F STOCKMANN",
+    "Service Address": "5404 QUINCY ST",
+    "Zip Code": "63109",
+    "Locator": "53360001300",
+    "Quote ID": "530809",
+    "Quote Amount": "Pending",
+    "Closing Date": "02/17/2026",
     "Stage": "In Progress",
     "Submitted By": ""
   }
