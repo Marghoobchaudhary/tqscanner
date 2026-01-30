@@ -869,6 +869,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "F STOCKMANN",
+    "Service Address": "5404 QUINCY ST",
+    "Zip Code": "63109",
+    "Locator": "53360001300",
+    "Quote ID": "530809",
+    "Quote Amount": "$0.00",
+    "Closing Date": "02/17/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "OZELL ROBERTSON",
     "Service Address": "5467 PLOVER AVE",
     "Zip Code": "63120",
@@ -876,6 +887,17 @@
     "Quote ID": "530808",
     "Quote Amount": "$1231.72",
     "Closing Date": "02/17/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KERWIN STANLEY",
+    "Service Address": "2620 LAFAYETTE AVE",
+    "Zip Code": "63104",
+    "Locator": "13210000800",
+    "Quote ID": "530943",
+    "Quote Amount": "$1501.46",
+    "Closing Date": "02/18/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -979,6 +1001,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ADAM BAGWELL JENNIFER &",
+    "Service Address": "12738 ALSWELL LN",
+    "Zip Code": "63128",
+    "Locator": "29M420380",
+    "Quote ID": "530941",
+    "Quote Amount": "$803.36",
+    "Closing Date": "02/23/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MICHAEL RUHL",
     "Service Address": "2520 PALM DR",
     "Zip Code": "63031",
@@ -1008,39 +1041,6 @@
     "Quote ID": "530816",
     "Quote Amount": "Pending",
     "Closing Date": "02/17/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "F STOCKMANN",
-    "Service Address": "5404 QUINCY ST",
-    "Zip Code": "63109",
-    "Locator": "53360001300",
-    "Quote ID": "530809",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/17/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KERWIN STANLEY",
-    "Service Address": "2620 LAFAYETTE AVE",
-    "Zip Code": "63104",
-    "Locator": "13210000800",
-    "Quote ID": "530943",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/18/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ADAM BAGWELL JENNIFER &",
-    "Service Address": "12738 ALSWELL LN",
-    "Zip Code": "63128",
-    "Locator": "29M420380",
-    "Quote ID": "530941",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/23/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
