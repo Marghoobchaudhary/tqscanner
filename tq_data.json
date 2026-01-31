@@ -891,6 +891,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "TOSHA SIMMONS",
+    "Service Address": "2852 ARSENAL ST",
+    "Zip Code": "63118",
+    "Locator": "14720000800",
+    "Quote ID": "531066",
+    "Quote Amount": "$1458.82",
+    "Closing Date": "02/18/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KIG LLC",
+    "Service Address": "9609 DULUTH DR",
+    "Zip Code": "63137",
+    "Locator": "12F630284",
+    "Quote ID": "531063",
+    "Quote Amount": "$525.53",
+    "Closing Date": "02/18/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "KERWIN STANLEY",
     "Service Address": "2620 LAFAYETTE AVE",
     "Zip Code": "63104",
@@ -990,6 +1012,39 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MJO PROPERTIES LLC",
+    "Service Address": "306 RUE ST FRANCOIS ST",
+    "Zip Code": "63031",
+    "Locator": "08J410417",
+    "Quote ID": "531061",
+    "Quote Amount": "$1919.50",
+    "Closing Date": "02/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ELEANOR AND EDWARD PROP LLC",
+    "Service Address": "3231 EDMUNDSON RD",
+    "Zip Code": "63114",
+    "Locator": "14L630498",
+    "Quote ID": "531059",
+    "Quote Amount": "$426.70",
+    "Closing Date": "02/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GENTRY SAYAD",
+    "Service Address": "6627 PERSHING AVE",
+    "Zip Code": "63130",
+    "Locator": "18J320425",
+    "Quote ID": "531057",
+    "Quote Amount": "$1391.55",
+    "Closing Date": "02/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ROYAL PINES CONDO",
     "Service Address": "13133 ROYAL PINES DR UNIT 6",
     "Zip Code": "63146",
@@ -1041,6 +1096,83 @@
     "Quote ID": "530816",
     "Quote Amount": "Pending",
     "Closing Date": "02/17/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ROCKY PROPERTIES & INVESTMENTS",
+    "Service Address": "1737 MARCUS AVE",
+    "Zip Code": "63113",
+    "Locator": "37800003700",
+    "Quote ID": "531065",
+    "Quote Amount": "Pending",
+    "Closing Date": "02/18/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ROCKY PROPERTIES & INVESTMENTS",
+    "Service Address": "2242 DUCHESS DR",
+    "Zip Code": "63136",
+    "Locator": "11F441472",
+    "Quote ID": "531064",
+    "Quote Amount": "Pending",
+    "Closing Date": "02/18/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KENNETH OAKS",
+    "Service Address": "669 BELLSWORTH DR",
+    "Zip Code": "63125",
+    "Locator": "28H220819",
+    "Quote ID": "531062",
+    "Quote Amount": "Pending",
+    "Closing Date": "02/19/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MJO PROPERTIES LLC",
+    "Service Address": "6211 MADISON AVE",
+    "Zip Code": "63134",
+    "Locator": "11K340627",
+    "Quote ID": "531060",
+    "Quote Amount": "Pending",
+    "Closing Date": "02/19/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BARBARA A MITCHELL",
+    "Service Address": "4100 JENNINGS STATION RD",
+    "Zip Code": "63121",
+    "Locator": "15G141638",
+    "Quote ID": "531058",
+    "Quote Amount": "Pending",
+    "Closing Date": "02/19/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "REBECCA RANCH",
+    "Service Address": "680 CRABAPPLE LN",
+    "Zip Code": "63031",
+    "Locator": "07J440820",
+    "Quote ID": "531056",
+    "Quote Amount": "Pending",
+    "Closing Date": "02/19/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KAYLA RILEY",
+    "Service Address": "224 AVENUE H ST",
+    "Zip Code": "63125",
+    "Locator": "26G430314",
+    "Quote ID": "531055",
+    "Quote Amount": "Pending",
+    "Closing Date": "02/19/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
