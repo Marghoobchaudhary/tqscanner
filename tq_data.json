@@ -902,6 +902,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ROCKY PROPERTIES & INVESTMENTS",
+    "Service Address": "2242 DUCHESS DR",
+    "Zip Code": "63136",
+    "Locator": "11F441472",
+    "Quote ID": "531064",
+    "Quote Amount": "$3727.35",
+    "Closing Date": "02/18/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "KIG LLC",
     "Service Address": "9609 DULUTH DR",
     "Zip Code": "63137",
@@ -1012,6 +1023,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "KENNETH OAKS",
+    "Service Address": "669 BELLSWORTH DR",
+    "Zip Code": "63125",
+    "Locator": "28H220819",
+    "Quote ID": "531062",
+    "Quote Amount": "$0.00",
+    "Closing Date": "02/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MJO PROPERTIES LLC",
     "Service Address": "306 RUE ST FRANCOIS ST",
     "Zip Code": "63031",
@@ -1029,6 +1051,17 @@
     "Locator": "14L630498",
     "Quote ID": "531059",
     "Quote Amount": "$426.70",
+    "Closing Date": "02/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BARBARA A MITCHELL",
+    "Service Address": "4100 JENNINGS STATION RD",
+    "Zip Code": "63121",
+    "Locator": "15G141638",
+    "Quote ID": "531058",
+    "Quote Amount": "$0.00",
     "Closing Date": "02/19/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1111,44 +1144,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "ROCKY PROPERTIES & INVESTMENTS",
-    "Service Address": "2242 DUCHESS DR",
-    "Zip Code": "63136",
-    "Locator": "11F441472",
-    "Quote ID": "531064",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/18/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KENNETH OAKS",
-    "Service Address": "669 BELLSWORTH DR",
-    "Zip Code": "63125",
-    "Locator": "28H220819",
-    "Quote ID": "531062",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/19/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "MJO PROPERTIES LLC",
     "Service Address": "6211 MADISON AVE",
     "Zip Code": "63134",
     "Locator": "11K340627",
     "Quote ID": "531060",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/19/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BARBARA A MITCHELL",
-    "Service Address": "4100 JENNINGS STATION RD",
-    "Zip Code": "63121",
-    "Locator": "15G141638",
-    "Quote ID": "531058",
     "Quote Amount": "Pending",
     "Closing Date": "02/19/2026",
     "Stage": "In Progress",
