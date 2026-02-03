@@ -1,126 +1,5 @@
 [
   {
-    "Seller Name": "MELISSA YOUNG",
-    "Service Address": "10417 EARL DR",
-    "Zip Code": "63136",
-    "Locator": "10F121092",
-    "Quote ID": "529866",
-    "Quote Amount": "$2731.26",
-    "Closing Date": "02/01/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ENRIGHT III CONDOS",
-    "Service Address": "724 N NEWSTEAD AVE",
-    "Zip Code": "63108",
-    "Locator": "45720000120",
-    "Quote ID": "529371",
-    "Quote Amount": "$297.57",
-    "Closing Date": "02/01/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ERIC SMELSER",
-    "Service Address": "7122 VIRGINIA AVE",
-    "Zip Code": "63111",
-    "Locator": "30360000800",
-    "Quote ID": "529362",
-    "Quote Amount": "$1384.50",
-    "Closing Date": "02/01/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BESSIE HENRY",
-    "Service Address": "8514 MORA LN",
-    "Zip Code": "63147",
-    "Locator": "43340100500",
-    "Quote ID": "529361",
-    "Quote Amount": "$175.47",
-    "Closing Date": "02/01/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MICHELLE DE LA ROCHE",
-    "Service Address": "3253 BRIDGERIDGE DR",
-    "Zip Code": "63125",
-    "Locator": "29H120075",
-    "Quote ID": "529612",
-    "Quote Amount": "$1248.55",
-    "Closing Date": "02/02/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "B JOHNSON",
-    "Service Address": "9238 RIVERWOOD DR",
-    "Zip Code": "63136",
-    "Locator": "13F510176",
-    "Quote ID": "529611",
-    "Quote Amount": "$79.77",
-    "Closing Date": "02/02/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KAREEM WISE",
-    "Service Address": "11520 LARES DR-63033",
-    "Zip Code": "63033",
-    "Locator": "09G140142",
-    "Quote ID": "529610",
-    "Quote Amount": "$6637.02",
-    "Closing Date": "02/02/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BETTY HALEY",
-    "Service Address": "2693 CREEKWOOD MANOR LN",
-    "Zip Code": "63125",
-    "Locator": "28H120966",
-    "Quote ID": "529607",
-    "Quote Amount": "$583.57",
-    "Closing Date": "02/02/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DOLORES TIERNEY",
-    "Service Address": "2428 SPENCER AVE",
-    "Zip Code": "63114",
-    "Locator": "15L541025",
-    "Quote ID": "529480",
-    "Quote Amount": "$3764.11",
-    "Closing Date": "02/02/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KNOX MANAGEMENT LLC",
-    "Service Address": "1100 LA ROUX CT",
-    "Zip Code": "63137",
-    "Locator": "11F321062",
-    "Quote ID": "529477",
-    "Quote Amount": "$0.00",
-    "Closing Date": "02/02/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PHL413PTL",
-    "Service Address": "1195 ST MARK DR",
-    "Zip Code": "63031",
-    "Locator": "09J240842",
-    "Quote ID": "529360",
-    "Quote Amount": "$3487.33",
-    "Closing Date": "02/02/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "GWENDOLYN & CAMERON WRICE",
     "Service Address": "12451 NORMA LN-63138",
     "Zip Code": "63138",
@@ -1078,17 +957,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "ROYAL PINES CONDO",
-    "Service Address": "13133 ROYAL PINES DR UNIT 6",
-    "Zip Code": "63146",
-    "Locator": "14P240372",
-    "Quote ID": "530940",
-    "Quote Amount": "$303.31",
-    "Closing Date": "02/22/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "ADAM BAGWELL JENNIFER &",
     "Service Address": "12738 ALSWELL LN",
     "Zip Code": "63128",
@@ -1173,6 +1041,17 @@
     "Quote ID": "531055",
     "Quote Amount": "Pending",
     "Closing Date": "02/19/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SHIRLEY BRAZIEL",
+    "Service Address": "6344 WINDHAM AVE",
+    "Zip Code": "63120",
+    "Locator": "61170000200",
+    "Quote ID": "531267",
+    "Quote Amount": "Pending",
+    "Closing Date": "02/24/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
