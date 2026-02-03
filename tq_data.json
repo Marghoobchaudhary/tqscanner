@@ -814,6 +814,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "RICARDO SOLIS ARROYO",
+    "Service Address": "3928 PARKER AVE",
+    "Zip Code": "63116",
+    "Locator": "41380001200",
+    "Quote ID": "531271",
+    "Quote Amount": "$2449.88",
+    "Closing Date": "02/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SHIRLEY CARUTHERS",
+    "Service Address": "9866 EASTDELL DR",
+    "Zip Code": "63136",
+    "Locator": "11G130146",
+    "Quote ID": "531270",
+    "Quote Amount": "$3280.79",
+    "Closing Date": "02/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "CRYSTAL BOUNDS",
     "Service Address": "755 BORGIA LN",
     "Zip Code": "63031",
@@ -909,28 +931,6 @@
     "Quote ID": "531055",
     "Quote Amount": "Pending",
     "Closing Date": "02/19/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RICARDO SOLIS ARROYO",
-    "Service Address": "3928 PARKER AVE",
-    "Zip Code": "63116",
-    "Locator": "41380001200",
-    "Quote ID": "531271",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/22/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SHIRLEY CARUTHERS",
-    "Service Address": "9866 EASTDELL DR",
-    "Zip Code": "63136",
-    "Locator": "11G130146",
-    "Quote ID": "531270",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/22/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
