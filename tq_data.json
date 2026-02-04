@@ -1,115 +1,5 @@
 [
   {
-    "Seller Name": "DEBORAH MITCHELL",
-    "Service Address": "6 ROBINSON CIRCLE DR",
-    "Zip Code": "63136",
-    "Locator": "12F121216",
-    "Quote ID": "529777",
-    "Quote Amount": "$4835.66",
-    "Closing Date": "02/04/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ANITHA FORD",
-    "Service Address": "8033 BUSIEK AVE",
-    "Zip Code": "63134",
-    "Locator": "11J231494",
-    "Quote ID": "529776",
-    "Quote Amount": "$611.17",
-    "Closing Date": "02/04/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MATTHEW GOODSON",
-    "Service Address": "3680 LEMAY WOODS DR",
-    "Zip Code": "63129",
-    "Locator": "31K210553",
-    "Quote ID": "529775",
-    "Quote Amount": "$3432.66",
-    "Closing Date": "02/04/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "INEZ BOCKHOFF",
-    "Service Address": "1146 HAWKSTONE LN",
-    "Zip Code": "63125",
-    "Locator": "29J630757",
-    "Quote ID": "529773",
-    "Quote Amount": "$13.36",
-    "Closing Date": "02/04/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PRINCESS GATES",
-    "Service Address": "4218 EDGEWOOD BLVD",
-    "Zip Code": "63121",
-    "Locator": "15G411623",
-    "Quote ID": "529772",
-    "Quote Amount": "$1036.95",
-    "Closing Date": "02/04/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KEVIN DILTHEY",
-    "Service Address": "5027 LOWNDES DR",
-    "Zip Code": "63129",
-    "Locator": "30K341519",
-    "Quote ID": "529771",
-    "Quote Amount": "$1081.78",
-    "Closing Date": "02/04/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SHANNON ROBERTSON",
-    "Service Address": "5415 OAKVILLA MANOR DR",
-    "Zip Code": "63129",
-    "Locator": "31J510302",
-    "Quote ID": "529770",
-    "Quote Amount": "$1081.69",
-    "Closing Date": "02/04/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TRACY L JOHNSON",
-    "Service Address": "9706 GRIFFIN DR",
-    "Zip Code": "63137",
-    "Locator": "12F630781",
-    "Quote ID": "529769",
-    "Quote Amount": "$433.70",
-    "Closing Date": "02/04/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "VIBRANT BLUE REALTY LLC",
-    "Service Address": "4229 FAIR AVE",
-    "Zip Code": "63115",
-    "Locator": "35660001100",
-    "Quote ID": "529767",
-    "Quote Amount": "$693.04",
-    "Closing Date": "02/04/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MARGARET SCHAEFER",
-    "Service Address": "4950 TYROLEAN AVE",
-    "Zip Code": "63109",
-    "Locator": "55630002000",
-    "Quote ID": "529766",
-    "Quote Amount": "$0.00",
-    "Closing Date": "02/04/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "EARLENE LUSTER",
     "Service Address": "6717 GLENMORE AVE",
     "Zip Code": "63121",
@@ -854,6 +744,50 @@
     "Quote ID": "531269",
     "Quote Amount": "$1320.39",
     "Closing Date": "02/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BENEVA LEE",
+    "Service Address": "211 FROST AVE",
+    "Zip Code": "63135",
+    "Locator": "10J310413",
+    "Quote ID": "531409",
+    "Quote Amount": "$-14.20",
+    "Closing Date": "02/23/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "NORMA JANIK",
+    "Service Address": "1395 REDBIRD DR",
+    "Zip Code": "63031",
+    "Locator": "06K330411",
+    "Quote ID": "531408",
+    "Quote Amount": "$988.15",
+    "Closing Date": "02/23/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JESSICA MENZEL",
+    "Service Address": "5418 CRESTSIDE LN",
+    "Zip Code": "63128",
+    "Locator": "31L620164",
+    "Quote ID": "531407",
+    "Quote Amount": "$1181.74",
+    "Closing Date": "02/23/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ROY & ANNIE COGGINS",
+    "Service Address": "5216 HAMILTON AVE",
+    "Zip Code": "63136",
+    "Locator": "14G220095",
+    "Quote ID": "531406",
+    "Quote Amount": "$0.00",
+    "Closing Date": "02/23/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
