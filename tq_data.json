@@ -1,27 +1,5 @@
 [
   {
-    "Seller Name": "EARLENE LUSTER",
-    "Service Address": "6717 GLENMORE AVE",
-    "Zip Code": "63121",
-    "Locator": "15H330251",
-    "Quote ID": "529868",
-    "Quote Amount": "$1517.04",
-    "Closing Date": "02/05/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LOUIS HALL",
-    "Service Address": "1978 ACORN TRAIL DR",
-    "Zip Code": "63031",
-    "Locator": "08K430216",
-    "Quote ID": "529867",
-    "Quote Amount": "$5202.64",
-    "Closing Date": "02/05/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "MARK MCLEMORE",
     "Service Address": "1090 LINDSAY LN",
     "Zip Code": "63031",
@@ -836,6 +814,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "RACQUEL S BROWN",
+    "Service Address": "13029 KINSLEY HEIGHTS DR",
+    "Zip Code": "63033",
+    "Locator": "07G240543",
+    "Quote ID": "531545",
+    "Quote Amount": "$2299.87",
+    "Closing Date": "02/24/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "JOHNNIE SELVEY-LEE",
     "Service Address": "4124 WEST BELLE PL",
     "Zip Code": "63108",
@@ -946,22 +935,22 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "DAVID & LARONDA BRAXTON",
-    "Service Address": "102 S HARTNETT AVE",
-    "Zip Code": "63135",
-    "Locator": "12H541436",
-    "Quote ID": "531548",
+    "Seller Name": "DONALD GOODWIN",
+    "Service Address": "2480 BROOK DR-63033",
+    "Zip Code": "63033",
+    "Locator": "08J320262",
+    "Quote ID": "531550",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "RACQUEL S BROWN",
-    "Service Address": "13029 KINSLEY HEIGHTS DR",
-    "Zip Code": "63033",
-    "Locator": "07G240543",
-    "Quote ID": "531545",
+    "Seller Name": "DAVID & LARONDA BRAXTON",
+    "Service Address": "102 S HARTNETT AVE",
+    "Zip Code": "63135",
+    "Locator": "12H541436",
+    "Quote ID": "531548",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
     "Stage": "In Progress",
