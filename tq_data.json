@@ -803,6 +803,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MALINDA SAMPSON",
+    "Service Address": "2325 INDIANCUP DR",
+    "Zip Code": "63033",
+    "Locator": "07J620242",
+    "Quote ID": "531403",
+    "Quote Amount": "$1543.70",
+    "Closing Date": "02/23/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ADAM BAGWELL JENNIFER &",
     "Service Address": "12738 ALSWELL LN",
     "Zip Code": "63128",
@@ -810,6 +821,39 @@
     "Quote ID": "530941",
     "Quote Amount": "$803.36",
     "Closing Date": "02/23/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ROBERT JACKSON",
+    "Service Address": "2455 ORLEANS LN",
+    "Zip Code": "63031",
+    "Locator": "07J540580",
+    "Quote ID": "531547",
+    "Quote Amount": "$224.13",
+    "Closing Date": "02/24/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JOHNNIE SELVEY-LEE",
+    "Service Address": "4124 WEST BELLE PL",
+    "Zip Code": "63108",
+    "Locator": "48730001800",
+    "Quote ID": "531462",
+    "Quote Amount": "$2530.88",
+    "Closing Date": "02/24/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TOM & BRENDA SELLERS",
+    "Service Address": "4081 BURGEN AVE",
+    "Zip Code": "63116",
+    "Locator": "55020005200",
+    "Quote ID": "531460",
+    "Quote Amount": "$209.43",
+    "Closing Date": "02/24/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -880,6 +924,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JOSEPH EVANS",
+    "Service Address": "4524 THICKET DR",
+    "Zip Code": "63129",
+    "Locator": "31H420411",
+    "Quote ID": "531549",
+    "Quote Amount": "Pending",
+    "Closing Date": "02/23/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "WILLIE & FRANCINE EDWARDS",
     "Service Address": "1816 MINNEFORD DR",
     "Zip Code": "63136",
@@ -891,13 +946,24 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "MALINDA SAMPSON",
-    "Service Address": "2325 INDIANCUP DR",
-    "Zip Code": "63033",
-    "Locator": "07J620242",
-    "Quote ID": "531403",
+    "Seller Name": "DAVID & LARONDA BRAXTON",
+    "Service Address": "102 S HARTNETT AVE",
+    "Zip Code": "63135",
+    "Locator": "12H541436",
+    "Quote ID": "531548",
     "Quote Amount": "Pending",
-    "Closing Date": "02/23/2026",
+    "Closing Date": "02/24/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "RACQUEL S BROWN",
+    "Service Address": "13029 KINSLEY HEIGHTS DR",
+    "Zip Code": "63033",
+    "Locator": "07G240543",
+    "Quote ID": "531545",
+    "Quote Amount": "Pending",
+    "Closing Date": "02/24/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
