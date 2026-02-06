@@ -1,16 +1,5 @@
 [
   {
-    "Seller Name": "MARK MCLEMORE",
-    "Service Address": "1090 LINDSAY LN",
-    "Zip Code": "63031",
-    "Locator": "07K510120",
-    "Quote ID": "529871",
-    "Quote Amount": "$738.97",
-    "Closing Date": "02/06/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "MARY & DERRY SR BURNS",
     "Service Address": "2017 HORD AVE",
     "Zip Code": "63136",
@@ -715,6 +704,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JOSEPH EVANS",
+    "Service Address": "4524 THICKET DR",
+    "Zip Code": "63129",
+    "Locator": "31H420411",
+    "Quote ID": "531549",
+    "Quote Amount": "$5523.74",
+    "Closing Date": "02/23/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "BENEVA LEE",
     "Service Address": "211 FROST AVE",
     "Zip Code": "63135",
@@ -792,6 +792,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "DONALD GOODWIN",
+    "Service Address": "2480 BROOK DR-63033",
+    "Zip Code": "63033",
+    "Locator": "08J320262",
+    "Quote ID": "531550",
+    "Quote Amount": "$8111.15",
+    "Closing Date": "02/24/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DAVID & LARONDA BRAXTON",
+    "Service Address": "102 S HARTNETT AVE",
+    "Zip Code": "63135",
+    "Locator": "12H541436",
+    "Quote ID": "531548",
+    "Quote Amount": "$5525.15",
+    "Closing Date": "02/24/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ROBERT JACKSON",
     "Service Address": "2455 ORLEANS LN",
     "Zip Code": "63031",
@@ -843,6 +865,17 @@
     "Quote ID": "530811",
     "Quote Amount": "$337.88",
     "Closing Date": "02/24/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "HELEN COWIN",
+    "Service Address": "3689 MONTANA ST",
+    "Zip Code": "63116",
+    "Locator": "25870005400",
+    "Quote ID": "531693",
+    "Quote Amount": "$17452.75",
+    "Closing Date": "02/25/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -902,17 +935,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "JOSEPH EVANS",
-    "Service Address": "4524 THICKET DR",
-    "Zip Code": "63129",
-    "Locator": "31H420411",
-    "Quote ID": "531549",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/23/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "WILLIE & FRANCINE EDWARDS",
     "Service Address": "1816 MINNEFORD DR",
     "Zip Code": "63136",
@@ -924,28 +946,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "DONALD GOODWIN",
-    "Service Address": "2480 BROOK DR-63033",
-    "Zip Code": "63033",
-    "Locator": "08J320262",
-    "Quote ID": "531550",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DAVID & LARONDA BRAXTON",
-    "Service Address": "102 S HARTNETT AVE",
-    "Zip Code": "63135",
-    "Locator": "12H541436",
-    "Quote ID": "531548",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "SHIRLEY BRAZIEL",
     "Service Address": "6344 WINDHAM AVE",
     "Zip Code": "63120",
@@ -953,6 +953,17 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MICHELLE CRUTCHER",
+    "Service Address": "9832 VICKSBURG SIEGE CT",
+    "Zip Code": "63123",
+    "Locator": "26K230221",
+    "Quote ID": "531694",
+    "Quote Amount": "Pending",
+    "Closing Date": "02/25/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
