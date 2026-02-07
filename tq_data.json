@@ -902,6 +902,39 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ELIZABETH BUCKNER",
+    "Service Address": "12645 NORTHWINDS DR",
+    "Zip Code": "63146",
+    "Locator": "16O410732",
+    "Quote ID": "531869",
+    "Quote Amount": "$1353.68",
+    "Closing Date": "02/26/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JOSEPH GRAY",
+    "Service Address": "47 RIVERMEADOWS DR",
+    "Zip Code": "63031",
+    "Locator": "07L330499",
+    "Quote ID": "531868",
+    "Quote Amount": "$645.03",
+    "Closing Date": "02/26/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WILLIAM M REV TRUST CASH",
+    "Service Address": "113 GRETHER AVE",
+    "Zip Code": "63135",
+    "Locator": "10J241113",
+    "Quote ID": "531866",
+    "Quote Amount": "$3585.42",
+    "Closing Date": "02/26/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MATTHEW & VANESSA ISAACS",
     "Service Address": "1395 ST FRANCOIS ST",
     "Zip Code": "63033",
@@ -975,6 +1008,17 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SHIRLEY J LETT",
+    "Service Address": "2705 LYNDHURST AVE",
+    "Zip Code": "63114",
+    "Locator": "15J440267",
+    "Quote ID": "531867",
+    "Quote Amount": "Pending",
+    "Closing Date": "02/26/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
