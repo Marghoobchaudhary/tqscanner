@@ -1,82 +1,5 @@
 [
   {
-    "Seller Name": "MARY & DERRY SR BURNS",
-    "Service Address": "2017 HORD AVE",
-    "Zip Code": "63136",
-    "Locator": "13F130767",
-    "Quote ID": "529909",
-    "Quote Amount": "$9465.99",
-    "Closing Date": "02/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GHIA LEE",
-    "Service Address": "10310 DRIVER AVE",
-    "Zip Code": "63114",
-    "Locator": "15M620224",
-    "Quote ID": "529908",
-    "Quote Amount": "$2183.28",
-    "Closing Date": "02/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KELLY BETTON",
-    "Service Address": "2105 SPLENDOR DR",
-    "Zip Code": "63031",
-    "Locator": "06K330804",
-    "Quote ID": "529907",
-    "Quote Amount": "$180.94",
-    "Closing Date": "02/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TIMOTHY & BARBARA M CARPENTER",
-    "Service Address": "3419 WESTRIDGE LN",
-    "Zip Code": "63074",
-    "Locator": "13L121414",
-    "Quote ID": "529906",
-    "Quote Amount": "$1755.27",
-    "Closing Date": "02/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JANICE WASHINGTON",
-    "Service Address": "1492 SHERWOOD FOREST DR",
-    "Zip Code": "63031",
-    "Locator": "05J140122",
-    "Quote ID": "529905",
-    "Quote Amount": "$5166.83",
-    "Closing Date": "02/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ALICE ROACH",
-    "Service Address": "2500 LUCAS AND HUNT RD",
-    "Zip Code": "63121",
-    "Locator": "15H210371",
-    "Quote ID": "529904",
-    "Quote Amount": "$87.84",
-    "Closing Date": "02/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ELINOR FREDERICI",
-    "Service Address": "313 FILLMORE ST",
-    "Zip Code": "63111",
-    "Locator": "29140001600",
-    "Quote ID": "529903",
-    "Quote Amount": "$920.06",
-    "Closing Date": "02/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "KNOX MANAGEMENT LLC",
     "Service Address": "107 HABECKING DR",
     "Zip Code": "63137",
@@ -875,6 +798,17 @@
     "Locator": "59240002900",
     "Quote ID": "531865",
     "Quote Amount": "$162.73",
+    "Closing Date": "02/25/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WESTHILLS TOWN HOMES",
+    "Service Address": "1120 CANTINA DR",
+    "Zip Code": "63141",
+    "Locator": "16P130518",
+    "Quote ID": "531873",
+    "Quote Amount": "$286.60",
     "Closing Date": "02/25/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
