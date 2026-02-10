@@ -814,6 +814,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "WILLIAM & TONYA ZAIGER",
+    "Service Address": "6039 ARTHUR AVE",
+    "Zip Code": "63139",
+    "Locator": "47632602800",
+    "Quote ID": "532022",
+    "Quote Amount": "$1486.79",
+    "Closing Date": "03/01/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "T AND A AUTO PARTS LLC",
+    "Service Address": "247 ROYCE DR",
+    "Zip Code": "63135",
+    "Locator": "12H640281",
+    "Quote ID": "532018",
+    "Quote Amount": "$1923.86",
+    "Closing Date": "03/01/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "SARAH JORDAN",
     "Service Address": "11066 THOUSAND OAKS DR",
     "Zip Code": "63136",
@@ -913,17 +935,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "WILLIAM & TONYA ZAIGER",
-    "Service Address": "6039 ARTHUR AVE",
-    "Zip Code": "63139",
-    "Locator": "47632602800",
-    "Quote ID": "532022",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/01/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "PLATINUM PROTECTION SERVICES",
     "Service Address": "2522 HIGH RIDGE AVE",
     "Zip Code": "63136",
@@ -931,28 +942,6 @@
     "Quote ID": "532019",
     "Quote Amount": "Pending",
     "Closing Date": "03/01/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "T AND A AUTO PARTS LLC",
-    "Service Address": "247 ROYCE DR",
-    "Zip Code": "63135",
-    "Locator": "12H640281",
-    "Quote ID": "532018",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/01/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SUGAR TREE HOMES ASSOC",
-    "Service Address": "11160 WHISPERING OAKS DR",
-    "Zip Code": "63136",
-    "Locator": "09F120475",
-    "Quote ID": "531949",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/03/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
