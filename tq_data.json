@@ -1,60 +1,5 @@
 [
   {
-    "Seller Name": "LEE STAMPER",
-    "Service Address": "10132 DELLRIDGE LN",
-    "Zip Code": "63136",
-    "Locator": "11G420490",
-    "Quote ID": "530229",
-    "Quote Amount": "$747.62",
-    "Closing Date": "02/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JIMMY DAVIS",
-    "Service Address": "941 MARIAS DR",
-    "Zip Code": "63137",
-    "Locator": "12E110545",
-    "Quote ID": "530228",
-    "Quote Amount": "$789.61",
-    "Closing Date": "02/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MARION WILLIAMS",
-    "Service Address": "1314 NORTH MARKET ST",
-    "Zip Code": "63106",
-    "Locator": "06330000610",
-    "Quote ID": "530226",
-    "Quote Amount": "$524.90",
-    "Closing Date": "02/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JOHN FOLLMER",
-    "Service Address": "6214 BRADLEY AVE",
-    "Zip Code": "63139",
-    "Locator": "60220001700",
-    "Quote ID": "530225",
-    "Quote Amount": "$97.11",
-    "Closing Date": "02/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "WALTER WHITE",
-    "Service Address": "4100 CABALLO CROSSING CT",
-    "Zip Code": "63034",
-    "Locator": "04H220282",
-    "Quote ID": "529768",
-    "Quote Amount": "$2448.96",
-    "Closing Date": "02/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "ROBERTA LAKE",
     "Service Address": "7125 ROLAND BLVD",
     "Zip Code": "63121",
@@ -858,6 +803,50 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "DANIEL J CHERNASKEY",
+    "Service Address": "9015 S BROADWAY ST",
+    "Zip Code": "63125",
+    "Locator": "27G530187",
+    "Quote ID": "532181",
+    "Quote Amount": "$13.86",
+    "Closing Date": "03/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TARA WEISKOPF KEUHN",
+    "Service Address": "3635 PARK LAWN DR",
+    "Zip Code": "63125",
+    "Locator": "27H210424",
+    "Quote ID": "532180",
+    "Quote Amount": "$277.40",
+    "Closing Date": "03/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CHARICE LEONARD",
+    "Service Address": "1375 FAIRMEADOWS LN",
+    "Zip Code": "63138",
+    "Locator": "08E310797",
+    "Quote ID": "532179",
+    "Quote Amount": "$379.49",
+    "Closing Date": "03/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SARAH PASCHALL",
+    "Service Address": "14 MANOR DR",
+    "Zip Code": "63031",
+    "Locator": "07K520097",
+    "Quote ID": "532178",
+    "Quote Amount": "$432.45",
+    "Closing Date": "03/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "SARAH JORDAN",
     "Service Address": "11066 THOUSAND OAKS DR",
     "Zip Code": "63136",
@@ -942,6 +931,17 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SAFI ISLAM",
+    "Service Address": "10424 COUNT DR-63136",
+    "Zip Code": "63136",
+    "Locator": "10F121209",
+    "Quote ID": "532182",
+    "Quote Amount": "Pending",
+    "Closing Date": "03/02/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
