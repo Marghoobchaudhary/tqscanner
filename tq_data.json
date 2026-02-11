@@ -660,6 +660,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "FREDERICK TATE",
+    "Service Address": "5859 COTE BRILLIANTE AVE",
+    "Zip Code": "63112",
+    "Locator": "49920005200",
+    "Quote ID": "532021",
+    "Quote Amount": "$2120.06",
+    "Closing Date": "02/25/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MICHELLE HOLTHAUS",
     "Service Address": "4654 S COMPTON AVE",
     "Zip Code": "63111",
@@ -825,6 +836,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "PLATINUM PROTECTION SERVICES",
+    "Service Address": "2522 HIGH RIDGE AVE",
+    "Zip Code": "63136",
+    "Locator": "12G240190",
+    "Quote ID": "532019",
+    "Quote Amount": "$1152.32",
+    "Closing Date": "03/01/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "T AND A AUTO PARTS LLC",
     "Service Address": "247 ROYCE DR",
     "Zip Code": "63135",
@@ -920,28 +942,6 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "FREDERICK TATE",
-    "Service Address": "5859 COTE BRILLIANTE AVE",
-    "Zip Code": "63112",
-    "Locator": "49920005200",
-    "Quote ID": "532021",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/25/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PLATINUM PROTECTION SERVICES",
-    "Service Address": "2522 HIGH RIDGE AVE",
-    "Zip Code": "63136",
-    "Locator": "12G240190",
-    "Quote ID": "532019",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/01/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
