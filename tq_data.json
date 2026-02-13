@@ -836,12 +836,67 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MARION HARDIN",
+    "Service Address": "718 WESTCHESTER CT",
+    "Zip Code": "63122",
+    "Locator": "22N520846",
+    "Quote ID": "532471",
+    "Quote Amount": "$335.16",
+    "Closing Date": "03/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SARAH AND MCKINLEY JOHNSON",
+    "Service Address": "16371 AUDUBON VILLAGE DR",
+    "Zip Code": "63040",
+    "Locator": "24V340352",
+    "Quote ID": "532469",
+    "Quote Amount": "$1020.68",
+    "Closing Date": "03/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LOUDIA COSEY",
+    "Service Address": "5534 BEACON AVE",
+    "Zip Code": "63120",
+    "Locator": "55260001300",
+    "Quote ID": "532464",
+    "Quote Amount": "$1438.07",
+    "Closing Date": "03/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "KRISTI HIGGINS",
     "Service Address": "400 RANCH DR-63011",
     "Zip Code": "63011",
     "Locator": "22R330577",
     "Quote ID": "532331",
     "Quote Amount": "$863.51",
+    "Closing Date": "03/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JEANETTE SMITH",
+    "Service Address": "10705 WHEELING CT",
+    "Zip Code": "63136",
+    "Locator": "10G520537",
+    "Quote ID": "532330",
+    "Quote Amount": "$5439.05",
+    "Closing Date": "03/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CAMERON SHEEHY",
+    "Service Address": "1083 WILSON AVE",
+    "Zip Code": "63130",
+    "Locator": "17J130603",
+    "Quote ID": "532329",
+    "Quote Amount": "$0.00",
     "Closing Date": "03/03/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -957,24 +1012,57 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "JEANETTE SMITH",
-    "Service Address": "10705 WHEELING CT",
+    "Seller Name": "HOME LIVING SOLUTIONS LLC",
+    "Service Address": "1947 DAMATO CT",
     "Zip Code": "63136",
-    "Locator": "10G520537",
-    "Quote ID": "532330",
+    "Locator": "13F110563",
+    "Quote ID": "532470",
     "Quote Amount": "Pending",
     "Closing Date": "03/03/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "CAMERON SHEEHY",
-    "Service Address": "1083 WILSON AVE",
-    "Zip Code": "63130",
-    "Locator": "17J130603",
-    "Quote ID": "532329",
+    "Seller Name": "ALONZA REALITY LLC",
+    "Service Address": "2136 68TH ST",
+    "Zip Code": "63121",
+    "Locator": "16H541560",
+    "Quote ID": "532468",
     "Quote Amount": "Pending",
     "Closing Date": "03/03/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CORTEZ PROPERTY MANAGEMENT LLC",
+    "Service Address": "9741 LORNA LN-63136",
+    "Zip Code": "63136",
+    "Locator": "12G441308",
+    "Quote ID": "532467",
+    "Quote Amount": "Pending",
+    "Closing Date": "03/03/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MARVIN DAVIS",
+    "Service Address": "2159 EDMUND AVE",
+    "Zip Code": "63121",
+    "Locator": "16H640111",
+    "Quote ID": "532465",
+    "Quote Amount": "Pending",
+    "Closing Date": "03/03/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ANDREW EXLER",
+    "Service Address": "808 CATSKILL DR",
+    "Zip Code": "63125",
+    "Locator": "27H331163",
+    "Quote ID": "532466",
+    "Quote Amount": "Pending",
+    "Closing Date": "03/14/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
