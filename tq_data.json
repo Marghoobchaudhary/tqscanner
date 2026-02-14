@@ -440,17 +440,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "WILLIE & FRANCINE EDWARDS",
-    "Service Address": "1816 MINNEFORD DR",
-    "Zip Code": "63136",
-    "Locator": "10G241247",
-    "Quote ID": "531405",
-    "Quote Amount": "$10706.17",
-    "Closing Date": "02/23/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "DIANA GELBER",
     "Service Address": "900 ROBINWOOD DR",
     "Zip Code": "63033",
@@ -847,12 +836,56 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "HOME LIVING SOLUTIONS LLC",
+    "Service Address": "1947 DAMATO CT",
+    "Zip Code": "63136",
+    "Locator": "13F110563",
+    "Quote ID": "532470",
+    "Quote Amount": "$1297.24",
+    "Closing Date": "03/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "SARAH AND MCKINLEY JOHNSON",
     "Service Address": "16371 AUDUBON VILLAGE DR",
     "Zip Code": "63040",
     "Locator": "24V340352",
     "Quote ID": "532469",
     "Quote Amount": "$1020.68",
+    "Closing Date": "03/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ALONZA REALITY LLC",
+    "Service Address": "2136 68TH ST",
+    "Zip Code": "63121",
+    "Locator": "16H541560",
+    "Quote ID": "532468",
+    "Quote Amount": "$4526.13",
+    "Closing Date": "03/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CORTEZ PROPERTY MANAGEMENT LLC",
+    "Service Address": "9741 LORNA LN-63136",
+    "Zip Code": "63136",
+    "Locator": "12G441308",
+    "Quote ID": "532467",
+    "Quote Amount": "$-41.86",
+    "Closing Date": "03/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MARVIN DAVIS",
+    "Service Address": "2159 EDMUND AVE",
+    "Zip Code": "63121",
+    "Locator": "16H640111",
+    "Quote ID": "532465",
+    "Quote Amount": "$2295.20",
     "Closing Date": "03/03/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -898,6 +931,17 @@
     "Quote ID": "532329",
     "Quote Amount": "$0.00",
     "Closing Date": "03/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TERRANCE MULLINS",
+    "Service Address": "3417 MARCUS AVE",
+    "Zip Code": "63115",
+    "Locator": "44590601300",
+    "Quote ID": "532502",
+    "Quote Amount": "$5031.53",
+    "Closing Date": "03/04/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -968,6 +1012,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "LANDOWNERZ REAL ESTATE LLC",
+    "Service Address": "4730 NEWBERRY TER",
+    "Zip Code": "63113",
+    "Locator": "45520000500",
+    "Quote ID": "532473",
+    "Quote Amount": "$3191.67",
+    "Closing Date": "03/04/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "SARAH JORDAN",
     "Service Address": "11066 THOUSAND OAKS DR",
     "Zip Code": "63136",
@@ -975,6 +1030,28 @@
     "Quote ID": "531950",
     "Quote Amount": "$331.34",
     "Closing Date": "03/04/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ACIE CALDWELL",
+    "Service Address": "3348 AUBERT AVE",
+    "Zip Code": "63115",
+    "Locator": "44571801100",
+    "Quote ID": "532512",
+    "Quote Amount": "$0.00",
+    "Closing Date": "03/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "REVISION LLC",
+    "Service Address": "8037 BUSIEK AVE",
+    "Zip Code": "63134",
+    "Locator": "11J231515",
+    "Quote ID": "532479",
+    "Quote Amount": "$6932.04",
+    "Closing Date": "03/09/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1008,6 +1085,17 @@
     "Quote ID": "532325",
     "Quote Amount": "$90.00",
     "Closing Date": "03/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DAVETTA GREEN",
+    "Service Address": "6712 VERMONT AVE",
+    "Zip Code": "63111",
+    "Locator": "29980000900",
+    "Quote ID": "532477",
+    "Quote Amount": "$5592.48",
+    "Closing Date": "03/14/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1078,61 +1166,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "HOME LIVING SOLUTIONS LLC",
-    "Service Address": "1947 DAMATO CT",
-    "Zip Code": "63136",
-    "Locator": "13F110563",
-    "Quote ID": "532470",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/03/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ALONZA REALITY LLC",
-    "Service Address": "2136 68TH ST",
-    "Zip Code": "63121",
-    "Locator": "16H541560",
-    "Quote ID": "532468",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/03/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CORTEZ PROPERTY MANAGEMENT LLC",
-    "Service Address": "9741 LORNA LN-63136",
-    "Zip Code": "63136",
-    "Locator": "12G441308",
-    "Quote ID": "532467",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/03/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MARVIN DAVIS",
-    "Service Address": "2159 EDMUND AVE",
-    "Zip Code": "63121",
-    "Locator": "16H640111",
-    "Quote ID": "532465",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/03/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TERRANCE MULLINS",
-    "Service Address": "3417 MARCUS AVE",
-    "Zip Code": "63115",
-    "Locator": "44590601300",
-    "Quote ID": "532502",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/04/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "LAWRENCE O ROGERS",
     "Service Address": "3760 POTOMAC ST",
     "Zip Code": "63116",
@@ -1166,39 +1199,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "LANDOWNERZ REAL ESTATE LLC",
-    "Service Address": "4730 NEWBERRY TER",
-    "Zip Code": "63113",
-    "Locator": "45520000500",
-    "Quote ID": "532473",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/04/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ACIE CALDWELL",
-    "Service Address": "3348 AUBERT AVE",
-    "Zip Code": "63115",
-    "Locator": "44571801100",
-    "Quote ID": "532512",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/05/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "REVISION LLC",
-    "Service Address": "8037 BUSIEK AVE",
-    "Zip Code": "63134",
-    "Locator": "11J231515",
-    "Quote ID": "532479",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/09/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "KEVIS HAMILTON",
     "Service Address": "855 NORTHMOOR DR",
     "Zip Code": "63033",
@@ -1206,17 +1206,6 @@
     "Quote ID": "532478",
     "Quote Amount": "Pending",
     "Closing Date": "03/10/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DAVETTA GREEN",
-    "Service Address": "6712 VERMONT AVE",
-    "Zip Code": "63111",
-    "Locator": "29980000900",
-    "Quote ID": "532477",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/14/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
