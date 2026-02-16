@@ -946,6 +946,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "LAWRENCE O ROGERS",
+    "Service Address": "3760 POTOMAC ST",
+    "Zip Code": "63116",
+    "Locator": "41880002000",
+    "Quote ID": "532488",
+    "Quote Amount": "$2038.93",
+    "Closing Date": "03/04/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "JOWCOL DOLBY",
     "Service Address": "16335 BELLINGHAM DR",
     "Zip Code": "63017",
@@ -1007,6 +1018,17 @@
     "Locator": "20800001807",
     "Quote ID": "532475",
     "Quote Amount": "$55.05",
+    "Closing Date": "03/04/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LANDOWNERZ REAL ESTATE LLC",
+    "Service Address": "4732 NEWBERRY TER",
+    "Zip Code": "63113",
+    "Locator": "45520000500",
+    "Quote ID": "532474",
+    "Quote Amount": "$3947.87",
     "Closing Date": "03/04/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1177,33 +1199,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "LAWRENCE O ROGERS",
-    "Service Address": "3760 POTOMAC ST",
-    "Zip Code": "63116",
-    "Locator": "41880002000",
-    "Quote ID": "532488",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/04/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "JEROME & MARCELLA WOODSON",
     "Service Address": "3026 EADS AVE",
     "Zip Code": "63104",
     "Locator": "21280000950",
     "Quote ID": "532476",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/04/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LANDOWNERZ REAL ESTATE LLC",
-    "Service Address": "4732 NEWBERRY TER",
-    "Zip Code": "63113",
-    "Locator": "45520000500",
-    "Quote ID": "532474",
     "Quote Amount": "Pending",
     "Closing Date": "03/04/2026",
     "Stage": "In Progress",
