@@ -1,159 +1,5 @@
 [
   {
-    "Seller Name": "BRANDON WALKER",
-    "Service Address": "2450 ASHLAND AVE",
-    "Zip Code": "63114",
-    "Locator": "15K530356",
-    "Quote ID": "530633",
-    "Quote Amount": "$571.46",
-    "Closing Date": "02/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MONTAZE PAIDE",
-    "Service Address": "9849 DELHI DR-63137",
-    "Zip Code": "63137",
-    "Locator": "11F330024",
-    "Quote ID": "530632",
-    "Quote Amount": "$169.64",
-    "Closing Date": "02/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PETER ELLIS",
-    "Service Address": "102 FIVE MEADOWS LN",
-    "Zip Code": "63011",
-    "Locator": "21R530109",
-    "Quote ID": "530629",
-    "Quote Amount": "$19.21",
-    "Closing Date": "02/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BROWN DIAMOND EQUITY",
-    "Service Address": "1347 SAN JACINTO CT",
-    "Zip Code": "63139",
-    "Locator": "50640004000",
-    "Quote ID": "530627",
-    "Quote Amount": "$249.34",
-    "Closing Date": "02/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KURTIS COX",
-    "Service Address": "3428 ALBERTA ST",
-    "Zip Code": "63118",
-    "Locator": "25760001100",
-    "Quote ID": "530459",
-    "Quote Amount": "$2713.18",
-    "Closing Date": "02/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RYAN COPE",
-    "Service Address": "3521 LONGVIEW DR",
-    "Zip Code": "63129",
-    "Locator": "30K630086",
-    "Quote ID": "530820",
-    "Quote Amount": "$143.57",
-    "Closing Date": "02/17/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TEKESHA KENT",
-    "Service Address": "2239 WISMER AVE",
-    "Zip Code": "63114",
-    "Locator": "15L510489",
-    "Quote ID": "530818",
-    "Quote Amount": "$240.74",
-    "Closing Date": "02/17/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MICHAEL KILGUS",
-    "Service Address": "12028 LARIMORE RD",
-    "Zip Code": "63138",
-    "Locator": "08D140034",
-    "Quote ID": "530815",
-    "Quote Amount": "$618.12",
-    "Closing Date": "02/17/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LYNETTE ROBINSON",
-    "Service Address": "1223 CEDAR RIDGE DR",
-    "Zip Code": "63146",
-    "Locator": "16P610092",
-    "Quote ID": "530814",
-    "Quote Amount": "$589.79",
-    "Closing Date": "02/17/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DANIEL L SMITH",
-    "Service Address": "3910 COUNCIL GROVE AVE",
-    "Zip Code": "63120",
-    "Locator": "15G121663",
-    "Quote ID": "530813",
-    "Quote Amount": "$0.00",
-    "Closing Date": "02/17/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CARMILL MAPP",
-    "Service Address": "7344 HARNEY AVE",
-    "Zip Code": "63136",
-    "Locator": "13G120941",
-    "Quote ID": "530812",
-    "Quote Amount": "$688.32",
-    "Closing Date": "02/17/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DELICIA DAVIS",
-    "Service Address": "5436 N KINGSHIGHWAY BLVD",
-    "Zip Code": "63115",
-    "Locator": "54660002300",
-    "Quote ID": "530810",
-    "Quote Amount": "$887.58",
-    "Closing Date": "02/17/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "F STOCKMANN",
-    "Service Address": "5404 QUINCY ST",
-    "Zip Code": "63109",
-    "Locator": "53360001300",
-    "Quote ID": "530809",
-    "Quote Amount": "$0.00",
-    "Closing Date": "02/17/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "OZELL ROBERTSON",
-    "Service Address": "5467 PLOVER AVE",
-    "Zip Code": "63120",
-    "Locator": "51250002600",
-    "Quote ID": "530808",
-    "Quote Amount": "$1231.72",
-    "Closing Date": "02/17/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "TOSHA SIMMONS",
     "Service Address": "2852 ARSENAL ST",
     "Zip Code": "63118",
@@ -1012,6 +858,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JEROME & MARCELLA WOODSON",
+    "Service Address": "3026 EADS AVE",
+    "Zip Code": "63104",
+    "Locator": "21280000950",
+    "Quote ID": "532476",
+    "Quote Amount": "$14499.79",
+    "Closing Date": "03/04/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ROBERT STRAUGHAN SR",
     "Service Address": "2900 VICTOR ST",
     "Zip Code": "63104",
@@ -1078,6 +935,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "FAMILY AFFAIR DAYCARE LLC",
+    "Service Address": "5145 PALM ST",
+    "Zip Code": "63115",
+    "Locator": "59550001600",
+    "Quote ID": "532609",
+    "Quote Amount": "$7916.53",
+    "Closing Date": "03/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "REVISION LLC",
     "Service Address": "8037 BUSIEK AVE",
     "Zip Code": "63134",
@@ -1085,6 +953,17 @@
     "Quote ID": "532479",
     "Quote Amount": "$6932.04",
     "Closing Date": "03/09/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KEVIS HAMILTON",
+    "Service Address": "855 NORTHMOOR DR",
+    "Zip Code": "63033",
+    "Locator": "09J620453",
+    "Quote ID": "532478",
+    "Quote Amount": "$3595.87",
+    "Closing Date": "03/10/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1128,6 +1007,17 @@
     "Locator": "29980000900",
     "Quote ID": "532477",
     "Quote Amount": "$5592.48",
+    "Closing Date": "03/14/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ANDREW EXLER",
+    "Service Address": "808 CATSKILL DR",
+    "Zip Code": "63125",
+    "Locator": "27H331163",
+    "Quote ID": "532466",
+    "Quote Amount": "$4890.47",
     "Closing Date": "03/14/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1199,35 +1089,24 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "JEROME & MARCELLA WOODSON",
-    "Service Address": "3026 EADS AVE",
-    "Zip Code": "63104",
-    "Locator": "21280000950",
-    "Quote ID": "532476",
+    "Seller Name": "ANNE CROTHERS",
+    "Service Address": "6125 LAURA AVE",
+    "Zip Code": "63136",
+    "Locator": "54920003300",
+    "Quote ID": "532608",
     "Quote Amount": "Pending",
-    "Closing Date": "03/04/2026",
+    "Closing Date": "03/08/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "KEVIS HAMILTON",
-    "Service Address": "855 NORTHMOOR DR",
-    "Zip Code": "63033",
-    "Locator": "09J620453",
-    "Quote ID": "532478",
+    "Seller Name": "FAMILY AFFAIR DAYCARE LLC",
+    "Service Address": "9854 EASTDELL DR",
+    "Zip Code": "63136",
+    "Locator": "11G111082",
+    "Quote ID": "532607",
     "Quote Amount": "Pending",
-    "Closing Date": "03/10/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ANDREW EXLER",
-    "Service Address": "808 CATSKILL DR",
-    "Zip Code": "63125",
-    "Locator": "27H331163",
-    "Quote ID": "532466",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/14/2026",
+    "Closing Date": "03/08/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
