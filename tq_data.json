@@ -176,17 +176,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "GENTRY SAYAD",
-    "Service Address": "6627 PERSHING AVE",
-    "Zip Code": "63130",
-    "Locator": "18J320425",
-    "Quote ID": "531057",
-    "Quote Amount": "$1391.55",
-    "Closing Date": "02/19/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "REBECCA RANCH",
     "Service Address": "680 CRABAPPLE LN",
     "Zip Code": "63031",
@@ -946,6 +935,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ANNE CROTHERS",
+    "Service Address": "6125 LAURA AVE",
+    "Zip Code": "63136",
+    "Locator": "54920003300",
+    "Quote ID": "532608",
+    "Quote Amount": "$16309.34",
+    "Closing Date": "03/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "FAMILY AFFAIR DAYCARE LLC",
+    "Service Address": "9854 EASTDELL DR",
+    "Zip Code": "63136",
+    "Locator": "11G111082",
+    "Quote ID": "532607",
+    "Quote Amount": "$2945.79",
+    "Closing Date": "03/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "REVISION LLC",
     "Service Address": "8037 BUSIEK AVE",
     "Zip Code": "63134",
@@ -1089,24 +1100,13 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "ANNE CROTHERS",
-    "Service Address": "6125 LAURA AVE",
-    "Zip Code": "63136",
-    "Locator": "54920003300",
-    "Quote ID": "532608",
+    "Seller Name": "CDE REALTY LLC",
+    "Service Address": "3523 MIAMI ST",
+    "Zip Code": "63118",
+    "Locator": "15920002200",
+    "Quote ID": "532776",
     "Quote Amount": "Pending",
-    "Closing Date": "03/08/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "FAMILY AFFAIR DAYCARE LLC",
-    "Service Address": "9854 EASTDELL DR",
-    "Zip Code": "63136",
-    "Locator": "11G111082",
-    "Quote ID": "532607",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/08/2026",
+    "Closing Date": "03/05/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
