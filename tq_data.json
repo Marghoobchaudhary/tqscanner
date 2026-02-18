@@ -1,137 +1,5 @@
 [
   {
-    "Seller Name": "TOSHA SIMMONS",
-    "Service Address": "2852 ARSENAL ST",
-    "Zip Code": "63118",
-    "Locator": "14720000800",
-    "Quote ID": "531066",
-    "Quote Amount": "$1458.82",
-    "Closing Date": "02/18/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ROCKY PROPERTIES & INVESTMENTS",
-    "Service Address": "2242 DUCHESS DR",
-    "Zip Code": "63136",
-    "Locator": "11F441472",
-    "Quote ID": "531064",
-    "Quote Amount": "$3727.35",
-    "Closing Date": "02/18/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KIG LLC",
-    "Service Address": "9609 DULUTH DR",
-    "Zip Code": "63137",
-    "Locator": "12F630284",
-    "Quote ID": "531063",
-    "Quote Amount": "$525.53",
-    "Closing Date": "02/18/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KERWIN STANLEY",
-    "Service Address": "2620 LAFAYETTE AVE",
-    "Zip Code": "63104",
-    "Locator": "13210000800",
-    "Quote ID": "530943",
-    "Quote Amount": "$1501.46",
-    "Closing Date": "02/18/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LOLA & PAUL ROWE",
-    "Service Address": "2959 WALTON RD",
-    "Zip Code": "63114",
-    "Locator": "14K610084",
-    "Quote ID": "530939",
-    "Quote Amount": "$756.18",
-    "Closing Date": "02/18/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SANDRA BELL",
-    "Service Address": "4917 HURSTBOROUGH CT",
-    "Zip Code": "63042",
-    "Locator": "09M110193",
-    "Quote ID": "530938",
-    "Quote Amount": "$352.96",
-    "Closing Date": "02/18/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DARRYL & DJUANA CARTER",
-    "Service Address": "3030 HARNESS DR",
-    "Zip Code": "63033",
-    "Locator": "08H230708",
-    "Quote ID": "530937",
-    "Quote Amount": "$237.34",
-    "Closing Date": "02/18/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MICHAEL MOON",
-    "Service Address": "12245 BENNINGTON PL",
-    "Zip Code": "63043",
-    "Locator": "12O510351",
-    "Quote ID": "530936",
-    "Quote Amount": "$507.21",
-    "Closing Date": "02/18/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DOROTHY L FULLER",
-    "Service Address": "12118 BECKFORD ESTATES DR",
-    "Zip Code": "63043",
-    "Locator": "12O140329",
-    "Quote ID": "530935",
-    "Quote Amount": "$681.32",
-    "Closing Date": "02/18/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ANGELA GRIFFIN",
-    "Service Address": "625 HOLIDAY AVE",
-    "Zip Code": "63042",
-    "Locator": "08L310612",
-    "Quote ID": "530934",
-    "Quote Amount": "$1185.79",
-    "Closing Date": "02/18/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "OTTO C REITER JR",
-    "Service Address": "495 GRAYWOOD DR",
-    "Zip Code": "63011",
-    "Locator": "22R640153",
-    "Quote ID": "530933",
-    "Quote Amount": "$343.22",
-    "Closing Date": "02/18/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ANISHA BONNER",
-    "Service Address": "11058 THOUSAND OAKS DR",
-    "Zip Code": "63136",
-    "Locator": "09F110832",
-    "Quote ID": "530227",
-    "Quote Amount": "$803.66",
-    "Closing Date": "02/18/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "KENNETH OAKS",
     "Service Address": "669 BELLSWORTH DR",
     "Zip Code": "63125",
@@ -913,6 +781,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "CDE REALTY LLC",
+    "Service Address": "3523 MIAMI ST",
+    "Zip Code": "63118",
+    "Locator": "15920002200",
+    "Quote ID": "532776",
+    "Quote Amount": "$0.00",
+    "Closing Date": "03/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ALEJANDRO MENDEZ CASTILLO",
     "Service Address": "818 DOERWOOD CT",
     "Zip Code": "63122",
@@ -953,6 +832,50 @@
     "Quote ID": "532607",
     "Quote Amount": "$2945.79",
     "Closing Date": "03/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ANTIONE & KIMBERLY WARD",
+    "Service Address": "8922 SOUTHVIEW LN",
+    "Zip Code": "63123",
+    "Locator": "26J320323",
+    "Quote ID": "532782",
+    "Quote Amount": "$2781.75",
+    "Closing Date": "03/09/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DOROTHY BRAUNSDORF",
+    "Service Address": "5451 VALLEYSIDE LN",
+    "Zip Code": "63128",
+    "Locator": "31L630112",
+    "Quote ID": "532781",
+    "Quote Amount": "$594.48",
+    "Closing Date": "03/09/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DIANNE RODRIGUEZ",
+    "Service Address": "1564 VILLE ROSA LN",
+    "Zip Code": "63042",
+    "Locator": "09M230840",
+    "Quote ID": "532780",
+    "Quote Amount": "$916.30",
+    "Closing Date": "03/09/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GERALD B BAILEY",
+    "Service Address": "3176 HARLEQUIN LN",
+    "Zip Code": "63139",
+    "Locator": "56150004600",
+    "Quote ID": "532779",
+    "Quote Amount": "$2061.13",
+    "Closing Date": "03/09/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1096,17 +1019,6 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CDE REALTY LLC",
-    "Service Address": "3523 MIAMI ST",
-    "Zip Code": "63118",
-    "Locator": "15920002200",
-    "Quote ID": "532776",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/05/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
