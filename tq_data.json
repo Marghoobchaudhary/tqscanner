@@ -1,56 +1,12 @@
 [
   {
-    "Seller Name": "KENNETH OAKS",
-    "Service Address": "669 BELLSWORTH DR",
-    "Zip Code": "63125",
-    "Locator": "28H220819",
-    "Quote ID": "531062",
-    "Quote Amount": "$0.00",
-    "Closing Date": "02/19/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MJO PROPERTIES LLC",
-    "Service Address": "306 RUE ST FRANCOIS ST",
-    "Zip Code": "63031",
-    "Locator": "08J410417",
-    "Quote ID": "531061",
-    "Quote Amount": "$1919.50",
-    "Closing Date": "02/19/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ELEANOR AND EDWARD PROP LLC",
-    "Service Address": "3231 EDMUNDSON RD",
-    "Zip Code": "63114",
-    "Locator": "14L630498",
-    "Quote ID": "531059",
-    "Quote Amount": "$426.70",
-    "Closing Date": "02/19/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BARBARA A MITCHELL",
-    "Service Address": "4100 JENNINGS STATION RD",
-    "Zip Code": "63121",
-    "Locator": "15G141638",
-    "Quote ID": "531058",
-    "Quote Amount": "$0.00",
-    "Closing Date": "02/19/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "REBECCA RANCH",
-    "Service Address": "680 CRABAPPLE LN",
-    "Zip Code": "63031",
-    "Locator": "07J440820",
-    "Quote ID": "531056",
-    "Quote Amount": "$2225.31",
-    "Closing Date": "02/19/2026",
+    "Seller Name": "ROCKY PROPERTIES & INVESTMENTS",
+    "Service Address": "1737 MARCUS AVE",
+    "Zip Code": "63113",
+    "Locator": "37800003700",
+    "Quote ID": "531065",
+    "Quote Amount": "$3700.98",
+    "Closing Date": "02/18/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -891,6 +847,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MIGUEL HERNANDEZ",
+    "Service Address": "10572 HOBDAY AVE",
+    "Zip Code": "63074",
+    "Locator": "14M630134",
+    "Quote ID": "532916",
+    "Quote Amount": "$749.75",
+    "Closing Date": "03/10/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CHARLES RIDENOUR",
+    "Service Address": "2366 BROWN RD-63114",
+    "Zip Code": "63114",
+    "Locator": "15K420543",
+    "Quote ID": "532915",
+    "Quote Amount": "$490.33",
+    "Closing Date": "03/10/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "KEVIS HAMILTON",
     "Service Address": "855 NORTHMOOR DR",
     "Zip Code": "63033",
@@ -975,17 +953,6 @@
     "Quote ID": "530816",
     "Quote Amount": "Pending",
     "Closing Date": "02/17/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ROCKY PROPERTIES & INVESTMENTS",
-    "Service Address": "1737 MARCUS AVE",
-    "Zip Code": "63113",
-    "Locator": "37800003700",
-    "Quote ID": "531065",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/18/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
