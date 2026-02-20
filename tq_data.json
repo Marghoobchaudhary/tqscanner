@@ -836,6 +836,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ADRIAN SCHULZE",
+    "Service Address": "635 MARK TWAIN DR",
+    "Zip Code": "63031",
+    "Locator": "07J410427",
+    "Quote ID": "533033",
+    "Quote Amount": "$2575.99",
+    "Closing Date": "03/10/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "RIDGEWAY WILLIE",
     "Service Address": "10 QUEENSBROOK PL",
     "Zip Code": "63132",
@@ -847,12 +858,45 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JANET M JOHNSON",
+    "Service Address": "4204 RIVER OAKS DR",
+    "Zip Code": "63034",
+    "Locator": "06H340306",
+    "Quote ID": "533031",
+    "Quote Amount": "$-123.66",
+    "Closing Date": "03/10/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CHARLES & SHARRON MATTHEWS",
+    "Service Address": "12405 LEIGH LN-63043",
+    "Zip Code": "63043",
+    "Locator": "14O240353",
+    "Quote ID": "533029",
+    "Quote Amount": "$3283.60",
+    "Closing Date": "03/10/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "PHILIP GOMEZ",
     "Service Address": "164 FOREST BROOK LN",
     "Zip Code": "63146",
     "Locator": "16M130373",
     "Quote ID": "533028",
     "Quote Amount": "$203.94",
+    "Closing Date": "03/10/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TIMOTHY TATE",
+    "Service Address": "4447 WILCOX AVE",
+    "Zip Code": "63116",
+    "Locator": "55780004100",
+    "Quote ID": "533026",
+    "Quote Amount": "$1977.63",
     "Closing Date": "03/10/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -902,6 +946,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "VIBRANT BLUE REALTY LLC",
+    "Service Address": "4229 FAIR AVE",
+    "Zip Code": "63115",
+    "Locator": "35660001100",
+    "Quote ID": "533040",
+    "Quote Amount": "$741.66",
+    "Closing Date": "03/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ZELMA M RICHMMOND",
+    "Service Address": "6335 STRATFORD AVE",
+    "Zip Code": "63120",
+    "Locator": "61150002000",
+    "Quote ID": "533039",
+    "Quote Amount": "$2714.46",
+    "Closing Date": "03/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "NATILEA SMITH",
     "Service Address": "210 W STEINS ST",
     "Zip Code": "63111",
@@ -942,6 +1008,17 @@
     "Quote ID": "532466",
     "Quote Amount": "$4890.47",
     "Closing Date": "03/14/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MJO PROPERTIES LLC",
+    "Service Address": "306 RUE ST FRANCOIS ST",
+    "Zip Code": "63031",
+    "Locator": "08J410417",
+    "Quote ID": "533051",
+    "Quote Amount": "$2007.95",
+    "Closing Date": "03/20/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1023,28 +1100,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "ADRIAN SCHULZE",
-    "Service Address": "635 MARK TWAIN DR",
-    "Zip Code": "63031",
-    "Locator": "07J410427",
-    "Quote ID": "533033",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/10/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JANET M JOHNSON",
-    "Service Address": "4204 RIVER OAKS DR",
-    "Zip Code": "63034",
-    "Locator": "06H340306",
-    "Quote ID": "533031",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/10/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "ABENA N BURKS",
     "Service Address": "8820 MARCELLA AVE",
     "Zip Code": "63121",
@@ -1056,24 +1111,24 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "CHARLES & SHARRON MATTHEWS",
-    "Service Address": "12405 LEIGH LN-63043",
-    "Zip Code": "63043",
-    "Locator": "14O240353",
-    "Quote ID": "533029",
+    "Seller Name": "MICHAEL D OR STANLEY R BRYANT",
+    "Service Address": "11620 LATONKA TRL",
+    "Zip Code": "63033",
+    "Locator": "09G540498",
+    "Quote ID": "533055",
     "Quote Amount": "Pending",
-    "Closing Date": "03/10/2026",
+    "Closing Date": "03/11/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "TIMOTHY TATE",
-    "Service Address": "4447 WILCOX AVE",
-    "Zip Code": "63116",
-    "Locator": "55780004100",
-    "Quote ID": "533026",
+    "Seller Name": "THOMAS H WALDSCHMIDT",
+    "Service Address": "748 EDWIN AVE-63122",
+    "Zip Code": "63122",
+    "Locator": "23L411420",
+    "Quote ID": "533052",
     "Quote Amount": "Pending",
-    "Closing Date": "03/10/2026",
+    "Closing Date": "03/11/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
