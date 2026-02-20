@@ -1,16 +1,5 @@
 [
   {
-    "Seller Name": "ROCKY PROPERTIES & INVESTMENTS",
-    "Service Address": "1737 MARCUS AVE",
-    "Zip Code": "63113",
-    "Locator": "37800003700",
-    "Quote ID": "531065",
-    "Quote Amount": "$3700.98",
-    "Closing Date": "02/18/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "RICARDO SOLIS ARROYO",
     "Service Address": "3928 PARKER AVE",
     "Zip Code": "63116",
@@ -847,6 +836,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "RIDGEWAY WILLIE",
+    "Service Address": "10 QUEENSBROOK PL",
+    "Zip Code": "63132",
+    "Locator": "17M630171",
+    "Quote ID": "533032",
+    "Quote Amount": "$2238.06",
+    "Closing Date": "03/10/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PHILIP GOMEZ",
+    "Service Address": "164 FOREST BROOK LN",
+    "Zip Code": "63146",
+    "Locator": "16M130373",
+    "Quote ID": "533028",
+    "Quote Amount": "$203.94",
+    "Closing Date": "03/10/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MIGUEL HERNANDEZ",
     "Service Address": "10572 HOBDAY AVE",
     "Zip Code": "63074",
@@ -935,6 +946,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "WILLIE G WREEN",
+    "Service Address": "5742 PARK LN",
+    "Zip Code": "63147",
+    "Locator": "57990004600",
+    "Quote ID": "533027",
+    "Quote Amount": "$3027.74",
+    "Closing Date": "03/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MATTHEW & VANESSA ISAACS",
     "Service Address": "1395 ST FRANCOIS ST",
     "Zip Code": "63033",
@@ -986,6 +1008,72 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JEFFREY DE MARTINI",
+    "Service Address": "308 3RD ST",
+    "Zip Code": "63088",
+    "Locator": "26P430983",
+    "Quote ID": "533034",
+    "Quote Amount": "Pending",
+    "Closing Date": "03/10/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ADRIAN SCHULZE",
+    "Service Address": "635 MARK TWAIN DR",
+    "Zip Code": "63031",
+    "Locator": "07J410427",
+    "Quote ID": "533033",
+    "Quote Amount": "Pending",
+    "Closing Date": "03/10/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JANET M JOHNSON",
+    "Service Address": "4204 RIVER OAKS DR",
+    "Zip Code": "63034",
+    "Locator": "06H340306",
+    "Quote ID": "533031",
+    "Quote Amount": "Pending",
+    "Closing Date": "03/10/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ABENA N BURKS",
+    "Service Address": "8820 MARCELLA AVE",
+    "Zip Code": "63121",
+    "Locator": "14J140937",
+    "Quote ID": "533030",
+    "Quote Amount": "Pending",
+    "Closing Date": "03/10/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CHARLES & SHARRON MATTHEWS",
+    "Service Address": "12405 LEIGH LN-63043",
+    "Zip Code": "63043",
+    "Locator": "14O240353",
+    "Quote ID": "533029",
+    "Quote Amount": "Pending",
+    "Closing Date": "03/10/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TIMOTHY TATE",
+    "Service Address": "4447 WILCOX AVE",
+    "Zip Code": "63116",
+    "Locator": "55780004100",
+    "Quote ID": "533026",
+    "Quote Amount": "Pending",
+    "Closing Date": "03/10/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
