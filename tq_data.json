@@ -836,6 +836,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JEFFREY DE MARTINI",
+    "Service Address": "308 3RD ST",
+    "Zip Code": "63088",
+    "Locator": "26P430983",
+    "Quote ID": "533034",
+    "Quote Amount": "$9730.67",
+    "Closing Date": "03/10/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ADRIAN SCHULZE",
     "Service Address": "635 MARK TWAIN DR",
     "Zip Code": "63031",
@@ -864,6 +875,17 @@
     "Locator": "06H340306",
     "Quote ID": "533031",
     "Quote Amount": "$-123.66",
+    "Closing Date": "03/10/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ABENA N BURKS",
+    "Service Address": "8820 MARCELLA AVE",
+    "Zip Code": "63121",
+    "Locator": "14J140937",
+    "Quote ID": "533030",
+    "Quote Amount": "$12659.57",
     "Closing Date": "03/10/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -942,6 +964,17 @@
     "Quote ID": "531952",
     "Quote Amount": "$217.63",
     "Closing Date": "03/10/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MICHAEL D OR STANLEY R BRYANT",
+    "Service Address": "11620 LATONKA TRL",
+    "Zip Code": "63033",
+    "Locator": "09G540498",
+    "Quote ID": "533055",
+    "Quote Amount": "$2919.17",
+    "Closing Date": "03/11/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1085,39 +1118,6 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JEFFREY DE MARTINI",
-    "Service Address": "308 3RD ST",
-    "Zip Code": "63088",
-    "Locator": "26P430983",
-    "Quote ID": "533034",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/10/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ABENA N BURKS",
-    "Service Address": "8820 MARCELLA AVE",
-    "Zip Code": "63121",
-    "Locator": "14J140937",
-    "Quote ID": "533030",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/10/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MICHAEL D OR STANLEY R BRYANT",
-    "Service Address": "11620 LATONKA TRL",
-    "Zip Code": "63033",
-    "Locator": "09G540498",
-    "Quote ID": "533055",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/11/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
