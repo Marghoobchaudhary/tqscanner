@@ -968,6 +968,39 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "CAMERON MARSH",
+    "Service Address": "3614 GASCONADE ST",
+    "Zip Code": "63116",
+    "Locator": "26380000900",
+    "Quote ID": "533170",
+    "Quote Amount": "$1500.21",
+    "Closing Date": "03/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BRADLEY & TINA RICHTER",
+    "Service Address": "209 BEN NEVIS RD",
+    "Zip Code": "63137",
+    "Locator": "10D120125",
+    "Quote ID": "533168",
+    "Quote Amount": "$497.46",
+    "Closing Date": "03/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "INDIA MASHAT",
+    "Service Address": "2797 DAWNVIEW DR",
+    "Zip Code": "63031",
+    "Locator": "06J440137",
+    "Quote ID": "533167",
+    "Quote Amount": "$1085.58",
+    "Closing Date": "03/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MICHAEL D OR STANLEY R BRYANT",
     "Service Address": "11620 LATONKA TRL",
     "Zip Code": "63033",
@@ -1012,6 +1045,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ARTHUR J ANDERSON JR",
+    "Service Address": "46 ROLLING HILLS DR",
+    "Zip Code": "63033",
+    "Locator": "08G140273",
+    "Quote ID": "533166",
+    "Quote Amount": "$136.36",
+    "Closing Date": "03/12/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MARY PRODGER",
     "Service Address": "143 SIGNAL HILL DR",
     "Zip Code": "63121",
@@ -1041,6 +1085,28 @@
     "Quote ID": "532466",
     "Quote Amount": "$4890.47",
     "Closing Date": "03/14/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KENNETH R JONES",
+    "Service Address": "21 BARCELONA AVE",
+    "Zip Code": "63138",
+    "Locator": "08D142179",
+    "Quote ID": "533164",
+    "Quote Amount": "$463.12",
+    "Closing Date": "03/16/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KEVIN BROWN",
+    "Service Address": "7625 BELWOOD DR",
+    "Zip Code": "63121",
+    "Locator": "13H220703",
+    "Quote ID": "533163",
+    "Quote Amount": "$306.03",
+    "Closing Date": "03/17/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1122,6 +1188,39 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "WILLIAM PAYNE",
+    "Service Address": "6800 DALE AVE",
+    "Zip Code": "63139",
+    "Locator": "46060801200",
+    "Quote ID": "533171",
+    "Quote Amount": "Pending",
+    "Closing Date": "03/11/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "QUIANA MCCRADY",
+    "Service Address": "3504 TENNESSEE AVE",
+    "Zip Code": "63118",
+    "Locator": "15870001800",
+    "Quote ID": "533169",
+    "Quote Amount": "Pending",
+    "Closing Date": "03/11/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CRYSTAL DERRING",
+    "Service Address": "10116 CAVALIER CT",
+    "Zip Code": "63136",
+    "Locator": "11G620205",
+    "Quote ID": "533160",
+    "Quote Amount": "Pending",
+    "Closing Date": "03/11/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "THOMAS H WALDSCHMIDT",
     "Service Address": "748 EDWIN AVE-63122",
     "Zip Code": "63122",
@@ -1129,6 +1228,39 @@
     "Quote ID": "533052",
     "Quote Amount": "Pending",
     "Closing Date": "03/11/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ROBERT & ANDREA MARX",
+    "Service Address": "852 GREEN LANTERN LN",
+    "Zip Code": "63011",
+    "Locator": "21Q420236",
+    "Quote ID": "533165",
+    "Quote Amount": "Pending",
+    "Closing Date": "03/15/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KENNETH COOPER",
+    "Service Address": "3072 ARLMONT DR",
+    "Zip Code": "63121",
+    "Locator": "14J320377",
+    "Quote ID": "533162",
+    "Quote Amount": "Pending",
+    "Closing Date": "03/18/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WALTER WHITE",
+    "Service Address": "4100 CABALLO CROSSING CT",
+    "Zip Code": "63034",
+    "Locator": "04H220282",
+    "Quote ID": "533161",
+    "Quote Amount": "Pending",
+    "Closing Date": "03/19/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
