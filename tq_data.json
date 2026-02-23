@@ -1012,6 +1012,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "CRYSTAL DERRING",
+    "Service Address": "10116 CAVALIER CT",
+    "Zip Code": "63136",
+    "Locator": "11G620205",
+    "Quote ID": "533160",
+    "Quote Amount": "$1371.27",
+    "Closing Date": "03/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MICHAEL D OR STANLEY R BRYANT",
     "Service Address": "11620 LATONKA TRL",
     "Zip Code": "63033",
@@ -1052,6 +1063,17 @@
     "Quote ID": "532328",
     "Quote Amount": "$2395.20",
     "Closing Date": "03/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KENNETH OR TJANUA M DAVIS",
+    "Service Address": "2025 GRANADA DR",
+    "Zip Code": "63033",
+    "Locator": "07H330652",
+    "Quote ID": "533174",
+    "Quote Amount": "$2559.67",
+    "Closing Date": "03/12/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1118,6 +1140,28 @@
     "Quote ID": "533163",
     "Quote Amount": "$306.03",
     "Closing Date": "03/17/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KENNETH COOPER",
+    "Service Address": "3072 ARLMONT DR",
+    "Zip Code": "63121",
+    "Locator": "14J320377",
+    "Quote ID": "533162",
+    "Quote Amount": "$2085.15",
+    "Closing Date": "03/18/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WALTER WHITE",
+    "Service Address": "4100 CABALLO CROSSING CT",
+    "Zip Code": "63034",
+    "Locator": "04H220282",
+    "Quote ID": "533161",
+    "Quote Amount": "$2516.27",
+    "Closing Date": "03/19/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1221,17 +1265,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "CRYSTAL DERRING",
-    "Service Address": "10116 CAVALIER CT",
-    "Zip Code": "63136",
-    "Locator": "11G620205",
-    "Quote ID": "533160",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/11/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "THOMAS H WALDSCHMIDT",
     "Service Address": "748 EDWIN AVE-63122",
     "Zip Code": "63122",
@@ -1265,17 +1298,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "KENNETH OR TJANUA M DAVIS",
-    "Service Address": "2025 GRANADA DR",
-    "Zip Code": "63033",
-    "Locator": "07H330652",
-    "Quote ID": "533174",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/12/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "WILLIS DAVENPORT",
     "Service Address": "4233 S 38TH ST",
     "Zip Code": "63116",
@@ -1294,28 +1316,6 @@
     "Quote ID": "533165",
     "Quote Amount": "Pending",
     "Closing Date": "03/15/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KENNETH COOPER",
-    "Service Address": "3072 ARLMONT DR",
-    "Zip Code": "63121",
-    "Locator": "14J320377",
-    "Quote ID": "533162",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/18/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "WALTER WHITE",
-    "Service Address": "4100 CABALLO CROSSING CT",
-    "Zip Code": "63034",
-    "Locator": "04H220282",
-    "Quote ID": "533161",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/19/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
