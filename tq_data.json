@@ -1,82 +1,5 @@
 [
   {
-    "Seller Name": "DONALD GOODWIN",
-    "Service Address": "2480 BROOK DR-63033",
-    "Zip Code": "63033",
-    "Locator": "08J320262",
-    "Quote ID": "531550",
-    "Quote Amount": "$8111.15",
-    "Closing Date": "02/24/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DAVID & LARONDA BRAXTON",
-    "Service Address": "102 S HARTNETT AVE",
-    "Zip Code": "63135",
-    "Locator": "12H541436",
-    "Quote ID": "531548",
-    "Quote Amount": "$5525.15",
-    "Closing Date": "02/24/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ROBERT JACKSON",
-    "Service Address": "2455 ORLEANS LN",
-    "Zip Code": "63031",
-    "Locator": "07J540580",
-    "Quote ID": "531547",
-    "Quote Amount": "$224.13",
-    "Closing Date": "02/24/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RACQUEL S BROWN",
-    "Service Address": "13029 KINSLEY HEIGHTS DR",
-    "Zip Code": "63033",
-    "Locator": "07G240543",
-    "Quote ID": "531545",
-    "Quote Amount": "$2299.87",
-    "Closing Date": "02/24/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JOHNNIE SELVEY-LEE",
-    "Service Address": "4124 WEST BELLE PL",
-    "Zip Code": "63108",
-    "Locator": "48730001800",
-    "Quote ID": "531462",
-    "Quote Amount": "$2530.88",
-    "Closing Date": "02/24/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TOM & BRENDA SELLERS",
-    "Service Address": "4081 BURGEN AVE",
-    "Zip Code": "63116",
-    "Locator": "55020005200",
-    "Quote ID": "531460",
-    "Quote Amount": "$209.43",
-    "Closing Date": "02/24/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MICHAEL RUHL",
-    "Service Address": "2520 PALM DR",
-    "Zip Code": "63031",
-    "Locator": "06J131367",
-    "Quote ID": "530811",
-    "Quote Amount": "$337.88",
-    "Closing Date": "02/24/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "DAVID WIXOM",
     "Service Address": "3935 BOWEN ST-63116",
     "Zip Code": "63116",
@@ -913,6 +836,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "THOMAS H WALDSCHMIDT",
+    "Service Address": "748 EDWIN AVE-63122",
+    "Zip Code": "63122",
+    "Locator": "23L411420",
+    "Quote ID": "533052",
+    "Quote Amount": "$2016.77",
+    "Closing Date": "03/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ZELMA M RICHMMOND",
     "Service Address": "6335 STRATFORD AVE",
     "Zip Code": "63120",
@@ -931,6 +865,17 @@
     "Quote ID": "532328",
     "Quote Amount": "$2395.20",
     "Closing Date": "03/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BRIDGET MCKINNEY",
+    "Service Address": "1353 HUDSON HILLS DR",
+    "Zip Code": "63135",
+    "Locator": "10H320246",
+    "Quote ID": "533181",
+    "Quote Amount": "$3285.50",
+    "Closing Date": "03/12/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1018,6 +963,17 @@
     "Locator": "26N210341",
     "Quote ID": "533195",
     "Quote Amount": "$379.83",
+    "Closing Date": "03/15/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TDB PROPERTIES LLC",
+    "Service Address": "4412 DELMAR BLVD",
+    "Zip Code": "63108",
+    "Locator": "37590001900",
+    "Quote ID": "533194",
+    "Quote Amount": "$3873.48",
     "Closing Date": "03/15/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1177,28 +1133,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "THOMAS H WALDSCHMIDT",
-    "Service Address": "748 EDWIN AVE-63122",
-    "Zip Code": "63122",
-    "Locator": "23L411420",
-    "Quote ID": "533052",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/11/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BRIDGET MCKINNEY",
-    "Service Address": "1353 HUDSON HILLS DR",
-    "Zip Code": "63135",
-    "Locator": "10H320246",
-    "Quote ID": "533181",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/12/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "REBECCA RANCH",
     "Service Address": "680 CRABAPPLE LN",
     "Zip Code": "63031",
@@ -1206,17 +1140,6 @@
     "Quote ID": "533180",
     "Quote Amount": "Pending",
     "Closing Date": "03/12/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TDB PROPERTIES LLC",
-    "Service Address": "4412 DELMAR BLVD",
-    "Zip Code": "63108",
-    "Locator": "37590001900",
-    "Quote ID": "533194",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/15/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
