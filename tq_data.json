@@ -957,12 +957,34 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "WILLIS DAVENPORT",
+    "Service Address": "4233 S 38TH ST",
+    "Zip Code": "63116",
+    "Locator": "26420002400",
+    "Quote ID": "533173",
+    "Quote Amount": "$1037.77",
+    "Closing Date": "03/12/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ARTHUR J ANDERSON JR",
     "Service Address": "46 ROLLING HILLS DR",
     "Zip Code": "63033",
     "Locator": "08G140273",
     "Quote ID": "533166",
     "Quote Amount": "$136.36",
+    "Closing Date": "03/12/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "VALENCIA TAYLOR",
+    "Service Address": "8786 DARNELL PL",
+    "Zip Code": "63136",
+    "Locator": "12G311063",
+    "Quote ID": "533265",
+    "Quote Amount": "$742.38",
     "Closing Date": "03/12/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1078,6 +1100,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "CHARLES & SHIRON A WALKER",
+    "Service Address": "12045 VICTORIAN VILLAGE CT",
+    "Zip Code": "63138",
+    "Locator": "08F620248",
+    "Quote ID": "533175",
+    "Quote Amount": "$2991.66",
+    "Closing Date": "03/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MATTHEW & VANESSA ISAACS",
     "Service Address": "1395 ST FRANCOIS ST",
     "Zip Code": "63033",
@@ -1188,17 +1221,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "WILLIS DAVENPORT",
-    "Service Address": "4233 S 38TH ST",
-    "Zip Code": "63116",
-    "Locator": "26420002400",
-    "Quote ID": "533173",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/12/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "TDB PROPERTIES LLC",
     "Service Address": "4412 DELMAR BLVD",
     "Zip Code": "63108",
@@ -1217,17 +1239,6 @@
     "Quote ID": "533165",
     "Quote Amount": "Pending",
     "Closing Date": "03/15/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CHARLES & SHIRON A WALKER",
-    "Service Address": "12045 VICTORIAN VILLAGE CT",
-    "Zip Code": "63138",
-    "Locator": "08F620248",
-    "Quote ID": "533175",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/22/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
