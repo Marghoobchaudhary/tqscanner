@@ -1,115 +1,5 @@
 [
   {
-    "Seller Name": "DAVID WIXOM",
-    "Service Address": "3935 BOWEN ST-63116",
-    "Zip Code": "63116",
-    "Locator": "59240002900",
-    "Quote ID": "531865",
-    "Quote Amount": "$162.73",
-    "Closing Date": "02/25/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "FREDERICK TATE",
-    "Service Address": "5859 COTE BRILLIANTE AVE",
-    "Zip Code": "63112",
-    "Locator": "49920005200",
-    "Quote ID": "532021",
-    "Quote Amount": "$2120.06",
-    "Closing Date": "02/25/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MICHELLE HOLTHAUS",
-    "Service Address": "4654 S COMPTON AVE",
-    "Zip Code": "63111",
-    "Locator": "27450000100",
-    "Quote ID": "532020",
-    "Quote Amount": "$306.83",
-    "Closing Date": "02/25/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BARTEAU CURT KIRKWOOD ALICE &",
-    "Service Address": "2843 ABERDEEN DR",
-    "Zip Code": "63033",
-    "Locator": "06H120829",
-    "Quote ID": "531943",
-    "Quote Amount": "$1752.67",
-    "Closing Date": "02/25/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "WILMA WHITE",
-    "Service Address": "1272 BONHEUR DR",
-    "Zip Code": "63146",
-    "Locator": "16O320431",
-    "Quote ID": "531942",
-    "Quote Amount": "$1898.57",
-    "Closing Date": "02/25/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "HEMSON ZENON",
-    "Service Address": "2502 SWITZER AVE",
-    "Zip Code": "63136",
-    "Locator": "13G520031",
-    "Quote ID": "531941",
-    "Quote Amount": "$-194.52",
-    "Closing Date": "02/25/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ROLAND BOOKER",
-    "Service Address": "11640 BELLEFONTAINE RD",
-    "Zip Code": "63138",
-    "Locator": "09E530039",
-    "Quote ID": "531939",
-    "Quote Amount": "$739.14",
-    "Closing Date": "02/25/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "WESTHILLS TOWN HOMES",
-    "Service Address": "1120 CANTINA DR",
-    "Zip Code": "63141",
-    "Locator": "16P130518",
-    "Quote ID": "531873",
-    "Quote Amount": "$286.60",
-    "Closing Date": "02/25/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MICHELLE CRUTCHER",
-    "Service Address": "9832 VICKSBURG SIEGE CT",
-    "Zip Code": "63123",
-    "Locator": "26K230221",
-    "Quote ID": "531694",
-    "Quote Amount": "$2932.08",
-    "Closing Date": "02/25/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "HELEN COWIN",
-    "Service Address": "3689 MONTANA ST",
-    "Zip Code": "63116",
-    "Locator": "25870005400",
-    "Quote ID": "531693",
-    "Quote Amount": "$17452.75",
-    "Closing Date": "02/25/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "MICHAEL GLICKERT",
     "Service Address": "69 E LADUE ESTATES DR",
     "Zip Code": "63141",
@@ -1019,6 +909,17 @@
     "Quote ID": "533165",
     "Quote Amount": "$7763.82",
     "Closing Date": "03/15/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CAROL WINSTEAD",
+    "Service Address": "7410 S GRAND AVE",
+    "Zip Code": "63111",
+    "Locator": "30730001400",
+    "Quote ID": "533443",
+    "Quote Amount": "$162.76",
+    "Closing Date": "03/16/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
