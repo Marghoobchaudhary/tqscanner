@@ -781,12 +781,34 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "WILLIAM PAYNE",
+    "Service Address": "6800 DALE AVE",
+    "Zip Code": "63139",
+    "Locator": "46060801200",
+    "Quote ID": "533171",
+    "Quote Amount": "$4625.27",
+    "Closing Date": "03/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "CAMERON MARSH",
     "Service Address": "3614 GASCONADE ST",
     "Zip Code": "63116",
     "Locator": "26380000900",
     "Quote ID": "533170",
     "Quote Amount": "$1500.21",
+    "Closing Date": "03/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "QUIANA MCCRADY",
+    "Service Address": "3504 TENNESSEE AVE",
+    "Zip Code": "63118",
+    "Locator": "15870001800",
+    "Quote ID": "533169",
+    "Quote Amount": "$3261.02",
     "Closing Date": "03/11/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -875,6 +897,17 @@
     "Locator": "10H320246",
     "Quote ID": "533181",
     "Quote Amount": "$3285.50",
+    "Closing Date": "03/12/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "REBECCA RANCH",
+    "Service Address": "680 CRABAPPLE LN",
+    "Zip Code": "63031",
+    "Locator": "07J440820",
+    "Quote ID": "533180",
+    "Quote Amount": "$2261.29",
     "Closing Date": "03/12/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -974,6 +1007,17 @@
     "Locator": "37590001900",
     "Quote ID": "533194",
     "Quote Amount": "$3873.48",
+    "Closing Date": "03/15/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ROBERT & ANDREA MARX",
+    "Service Address": "852 GREEN LANTERN LN",
+    "Zip Code": "63011",
+    "Locator": "21Q420236",
+    "Quote ID": "533165",
+    "Quote Amount": "$7763.82",
     "Closing Date": "03/15/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1107,50 +1151,6 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "WILLIAM PAYNE",
-    "Service Address": "6800 DALE AVE",
-    "Zip Code": "63139",
-    "Locator": "46060801200",
-    "Quote ID": "533171",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/11/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "QUIANA MCCRADY",
-    "Service Address": "3504 TENNESSEE AVE",
-    "Zip Code": "63118",
-    "Locator": "15870001800",
-    "Quote ID": "533169",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/11/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "REBECCA RANCH",
-    "Service Address": "680 CRABAPPLE LN",
-    "Zip Code": "63031",
-    "Locator": "07J440820",
-    "Quote ID": "533180",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/12/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ROBERT & ANDREA MARX",
-    "Service Address": "852 GREEN LANTERN LN",
-    "Zip Code": "63011",
-    "Locator": "21Q420236",
-    "Quote ID": "533165",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/15/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
