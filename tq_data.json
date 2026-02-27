@@ -847,6 +847,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ROY PENDLETON",
+    "Service Address": "4426 MARCUS AVE",
+    "Zip Code": "63115",
+    "Locator": "44180200600",
+    "Quote ID": "533683",
+    "Quote Amount": "$969.18",
+    "Closing Date": "03/16/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "JIMMIE BROWN",
     "Service Address": "4624 BEHLMANN ESTATES LN",
     "Zip Code": "63034",
@@ -1129,6 +1140,17 @@
     "Quote ID": "533573",
     "Quote Amount": "Pending",
     "Closing Date": "03/17/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ANTOINE MEEKS",
+    "Service Address": "2105 PALM ST",
+    "Zip Code": "63107",
+    "Locator": "11590001000",
+    "Quote ID": "533684",
+    "Quote Amount": "Pending",
+    "Closing Date": "03/27/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
