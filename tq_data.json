@@ -1012,6 +1012,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "VALERIE FIKE",
+    "Service Address": "232 BRACADALE DR",
+    "Zip Code": "63088",
+    "Locator": "26Q521000",
+    "Quote ID": "533691",
+    "Quote Amount": "$89.60",
+    "Closing Date": "03/18/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TERRY HIGGINBOTHAM",
+    "Service Address": "10205 GOUROCK DR",
+    "Zip Code": "63137",
+    "Locator": "11E520273",
+    "Quote ID": "533690",
+    "Quote Amount": "$193.47",
+    "Closing Date": "03/18/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "KENNETH COOPER",
     "Service Address": "3072 ARLMONT DR",
     "Zip Code": "63121",
@@ -1019,6 +1041,17 @@
     "Quote ID": "533162",
     "Quote Amount": "$2085.15",
     "Closing Date": "03/18/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JARON ELL",
+    "Service Address": "4243 OAKWOOD AVE",
+    "Zip Code": "63121",
+    "Locator": "15G421880",
+    "Quote ID": "533688",
+    "Quote Amount": "$740.56",
+    "Closing Date": "03/19/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1056,6 +1089,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "CANDICE BROWN",
+    "Service Address": "2910 HEATHERTON DR",
+    "Zip Code": "63033",
+    "Locator": "07J540711",
+    "Quote ID": "533687",
+    "Quote Amount": "$227.39",
+    "Closing Date": "03/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "CHARLES & SHIRON A WALKER",
     "Service Address": "12045 VICTORIAN VILLAGE CT",
     "Zip Code": "63138",
@@ -1063,6 +1107,17 @@
     "Quote ID": "533175",
     "Quote Amount": "$2991.66",
     "Closing Date": "03/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CORTEEMA TAYLOR",
+    "Service Address": "40 W ST ANTHONY LN",
+    "Zip Code": "63031",
+    "Locator": "09K640108",
+    "Quote ID": "533685",
+    "Quote Amount": "$466.41",
+    "Closing Date": "03/25/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1140,6 +1195,39 @@
     "Quote ID": "533573",
     "Quote Amount": "Pending",
     "Closing Date": "03/17/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "QUARTEZ CARSON",
+    "Service Address": "12547 WOODSTREAM DR",
+    "Zip Code": "63138",
+    "Locator": "07E140717",
+    "Quote ID": "533692",
+    "Quote Amount": "Pending",
+    "Closing Date": "03/18/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CHARLES LAMBERT JR",
+    "Service Address": "9705 PERRIN AVE",
+    "Zip Code": "63125",
+    "Locator": "27G210472",
+    "Quote ID": "533689",
+    "Quote Amount": "Pending",
+    "Closing Date": "03/18/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JAMI V JACKSON",
+    "Service Address": "3918 HERMANS ORCHARD CT",
+    "Zip Code": "63034",
+    "Locator": "04J241145",
+    "Quote ID": "533686",
+    "Quote Amount": "Pending",
+    "Closing Date": "03/23/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
