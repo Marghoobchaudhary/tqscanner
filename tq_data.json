@@ -1,104 +1,5 @@
 [
   {
-    "Seller Name": "WILLIAM & TONYA ZAIGER",
-    "Service Address": "6039 ARTHUR AVE",
-    "Zip Code": "63139",
-    "Locator": "47632602800",
-    "Quote ID": "532022",
-    "Quote Amount": "$1486.79",
-    "Closing Date": "03/01/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PLATINUM PROTECTION SERVICES",
-    "Service Address": "2522 HIGH RIDGE AVE",
-    "Zip Code": "63136",
-    "Locator": "12G240190",
-    "Quote ID": "532019",
-    "Quote Amount": "$1152.32",
-    "Closing Date": "03/01/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "T AND A AUTO PARTS LLC",
-    "Service Address": "247 ROYCE DR",
-    "Zip Code": "63135",
-    "Locator": "12H640281",
-    "Quote ID": "532018",
-    "Quote Amount": "$1923.86",
-    "Closing Date": "03/01/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PATRICE I. WILLIAMS",
-    "Service Address": "2741 CHIPPEWA ST",
-    "Zip Code": "63118",
-    "Locator": "16400004100",
-    "Quote ID": "532246",
-    "Quote Amount": "$266.28",
-    "Closing Date": "03/01/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SAFI ISLAM",
-    "Service Address": "10424 COUNT DR-63136",
-    "Zip Code": "63136",
-    "Locator": "10F121209",
-    "Quote ID": "532182",
-    "Quote Amount": "$4391.81",
-    "Closing Date": "03/02/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DANIEL J CHERNASKEY",
-    "Service Address": "9015 S BROADWAY ST",
-    "Zip Code": "63125",
-    "Locator": "27G530187",
-    "Quote ID": "532181",
-    "Quote Amount": "$13.86",
-    "Closing Date": "03/02/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TARA WEISKOPF KEUHN",
-    "Service Address": "3635 PARK LAWN DR",
-    "Zip Code": "63125",
-    "Locator": "27H210424",
-    "Quote ID": "532180",
-    "Quote Amount": "$277.40",
-    "Closing Date": "03/02/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CHARICE LEONARD",
-    "Service Address": "1375 FAIRMEADOWS LN",
-    "Zip Code": "63138",
-    "Locator": "08E310797",
-    "Quote ID": "532179",
-    "Quote Amount": "$379.49",
-    "Closing Date": "03/02/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SARAH PASCHALL",
-    "Service Address": "14 MANOR DR",
-    "Zip Code": "63031",
-    "Locator": "07K520097",
-    "Quote ID": "532178",
-    "Quote Amount": "$432.45",
-    "Closing Date": "03/02/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "MARION HARDIN",
     "Service Address": "718 WESTCHESTER CT",
     "Zip Code": "63122",
@@ -1100,6 +1001,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "RUSSELL DUNN",
+    "Service Address": "6861 PARC CHARLENE DR",
+    "Zip Code": "63033",
+    "Locator": "07F320233",
+    "Quote ID": "533803",
+    "Quote Amount": "$1945.93",
+    "Closing Date": "03/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "INTEGRITY HOUSING MANAGEMENT",
     "Service Address": "3535 ST CHRISTOPHER LN",
     "Zip Code": "63074",
@@ -1211,6 +1123,28 @@
   },
   {
     "Seller Name": "GLASGOW GARDEN 1 LLC",
+    "Service Address": "163 SHEPLEY DR",
+    "Zip Code": "63137",
+    "Locator": "11D441544",
+    "Quote ID": "533792",
+    "Quote Amount": "$0.00",
+    "Closing Date": "03/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GLASGOW GARDEN 1 LLC",
+    "Service Address": "159 SHEPLEY DR",
+    "Zip Code": "63137",
+    "Locator": "11D441544",
+    "Quote ID": "533791",
+    "Quote Amount": "$0.00",
+    "Closing Date": "03/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GLASGOW GARDEN 1 LLC",
     "Service Address": "151 SHEPLEY DR",
     "Zip Code": "63137",
     "Locator": "11D441544",
@@ -1222,11 +1156,77 @@
   },
   {
     "Seller Name": "GLASGOW GARDEN 1 LLC",
+    "Service Address": "147 SHEPLEY DR",
+    "Zip Code": "63137",
+    "Locator": "11D441544",
+    "Quote ID": "533789",
+    "Quote Amount": "$0.00",
+    "Closing Date": "03/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GLASGOW GARDEN 1 LLC",
+    "Service Address": "143 SHEPLEY DR",
+    "Zip Code": "63137",
+    "Locator": "11D441544",
+    "Quote ID": "533788",
+    "Quote Amount": "$0.00",
+    "Closing Date": "03/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GLASGOW GARDEN 1 LLC",
     "Service Address": "135 SHEPLEY DR",
     "Zip Code": "63137",
     "Locator": "11D441544",
     "Quote ID": "533787",
     "Quote Amount": "$67.13",
+    "Closing Date": "03/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GLASGOW GARDEN 1 LLC",
+    "Service Address": "131 SHEPLEY DR",
+    "Zip Code": "63137",
+    "Locator": "11D441544",
+    "Quote ID": "533786",
+    "Quote Amount": "$-56.10",
+    "Closing Date": "03/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GLASGOW GARDEN 1 LLC",
+    "Service Address": "127 SHEPLEY DR",
+    "Zip Code": "63137",
+    "Locator": "11D441544",
+    "Quote ID": "533785",
+    "Quote Amount": "$0.00",
+    "Closing Date": "03/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GLASGOW GARDEN 1 LLC",
+    "Service Address": "119 SHEPLEY DR",
+    "Zip Code": "63137",
+    "Locator": "11D441544",
+    "Quote ID": "533784",
+    "Quote Amount": "$-165.57",
+    "Closing Date": "03/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GLASGOW GARDEN 1 LLC",
+    "Service Address": "115 SHEPLEY DR",
+    "Zip Code": "63137",
+    "Locator": "11D441544",
+    "Quote ID": "533783",
+    "Quote Amount": "$-64.97",
     "Closing Date": "03/19/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1254,6 +1254,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JOHN NEWPORT",
+    "Service Address": "8527 PHILO AVE-63123",
+    "Zip Code": "63123",
+    "Locator": "25J340843",
+    "Quote ID": "533812",
+    "Quote Amount": "$4634.15",
+    "Closing Date": "03/20/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MJO PROPERTIES LLC",
     "Service Address": "306 RUE ST FRANCOIS ST",
     "Zip Code": "63031",
@@ -1272,6 +1283,17 @@
     "Quote ID": "533027",
     "Quote Amount": "$3027.74",
     "Closing Date": "03/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MAXINE B HENRY",
+    "Service Address": "4930 ASHBY AVE",
+    "Zip Code": "63115",
+    "Locator": "52610003600",
+    "Quote ID": "533950",
+    "Quote Amount": "$833.40",
+    "Closing Date": "03/22/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1316,6 +1338,17 @@
     "Quote ID": "533685",
     "Quote Amount": "$466.41",
     "Closing Date": "03/25/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ANTOINE MEEKS",
+    "Service Address": "2105 PALM ST",
+    "Zip Code": "63107",
+    "Locator": "11590001000",
+    "Quote ID": "533684",
+    "Quote Amount": "$0.00",
+    "Closing Date": "03/27/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1382,127 +1415,6 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RUSSELL DUNN",
-    "Service Address": "6861 PARC CHARLENE DR",
-    "Zip Code": "63033",
-    "Locator": "07F320233",
-    "Quote ID": "533803",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/19/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GLASGOW GARDEN 1 LLC",
-    "Service Address": "163 SHEPLEY DR",
-    "Zip Code": "63137",
-    "Locator": "11D441544",
-    "Quote ID": "533792",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/19/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GLASGOW GARDEN 1 LLC",
-    "Service Address": "159 SHEPLEY DR",
-    "Zip Code": "63137",
-    "Locator": "11D441544",
-    "Quote ID": "533791",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/19/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GLASGOW GARDEN 1 LLC",
-    "Service Address": "147 SHEPLEY DR",
-    "Zip Code": "63137",
-    "Locator": "11D441544",
-    "Quote ID": "533789",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/19/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GLASGOW GARDEN 1 LLC",
-    "Service Address": "143 SHEPLEY DR",
-    "Zip Code": "63137",
-    "Locator": "11D441544",
-    "Quote ID": "533788",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/19/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GLASGOW GARDEN 1 LLC",
-    "Service Address": "131 SHEPLEY DR",
-    "Zip Code": "63137",
-    "Locator": "11D441544",
-    "Quote ID": "533786",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/19/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GLASGOW GARDEN 1 LLC",
-    "Service Address": "127 SHEPLEY DR",
-    "Zip Code": "63137",
-    "Locator": "11D441544",
-    "Quote ID": "533785",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/19/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GLASGOW GARDEN 1 LLC",
-    "Service Address": "119 SHEPLEY DR",
-    "Zip Code": "63137",
-    "Locator": "11D441544",
-    "Quote ID": "533784",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/19/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GLASGOW GARDEN 1 LLC",
-    "Service Address": "115 SHEPLEY DR",
-    "Zip Code": "63137",
-    "Locator": "11D441544",
-    "Quote ID": "533783",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/19/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JOHN NEWPORT",
-    "Service Address": "8527 PHILO AVE-63123",
-    "Zip Code": "63123",
-    "Locator": "25J340843",
-    "Quote ID": "533812",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/20/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ANTOINE MEEKS",
-    "Service Address": "2105 PALM ST",
-    "Zip Code": "63107",
-    "Locator": "11590001000",
-    "Quote ID": "533684",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/27/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
