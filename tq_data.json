@@ -1,38 +1,5 @@
 [
   {
-    "Seller Name": "ACIE CALDWELL",
-    "Service Address": "3348 AUBERT AVE",
-    "Zip Code": "63115",
-    "Locator": "44571801100",
-    "Quote ID": "532512",
-    "Quote Amount": "$0.00",
-    "Closing Date": "03/05/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CDE REALTY LLC",
-    "Service Address": "3523 MIAMI ST",
-    "Zip Code": "63118",
-    "Locator": "15920002200",
-    "Quote ID": "532776",
-    "Quote Amount": "$0.00",
-    "Closing Date": "03/05/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ALEJANDRO MENDEZ CASTILLO",
-    "Service Address": "818 DOERWOOD CT",
-    "Zip Code": "63122",
-    "Locator": "22M220013",
-    "Quote ID": "532589",
-    "Quote Amount": "$240.16",
-    "Closing Date": "03/05/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "FAMILY AFFAIR DAYCARE LLC",
     "Service Address": "5145 PALM ST",
     "Zip Code": "63115",
@@ -1133,6 +1100,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "RICHARD C WERNER",
+    "Service Address": "2 ROLLING HILLS DR",
+    "Zip Code": "63033",
+    "Locator": "08G210640",
+    "Quote ID": "534249",
+    "Quote Amount": "$1407.15",
+    "Closing Date": "03/24/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "KENNETH NOVAK",
     "Service Address": "126 S BARAT AVE-63135",
     "Zip Code": "63135",
@@ -1140,6 +1118,17 @@
     "Quote ID": "534246",
     "Quote Amount": "$1170.56",
     "Closing Date": "03/24/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CHRISTINE D JOHNSON",
+    "Service Address": "4354 S COMPTON AVE",
+    "Zip Code": "63111",
+    "Locator": "26800000200",
+    "Quote ID": "534248",
+    "Quote Amount": "$2561.75",
+    "Closing Date": "03/25/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
