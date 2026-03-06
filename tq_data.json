@@ -1100,6 +1100,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "RN REAL ESTATE GROUP LLC",
+    "Service Address": "4727 GREER AVE",
+    "Zip Code": "63115",
+    "Locator": "44810305000",
+    "Quote ID": "534351",
+    "Quote Amount": "$789.19",
+    "Closing Date": "03/24/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "RICHARD C WERNER",
     "Service Address": "2 ROLLING HILLS DR",
     "Zip Code": "63033",
@@ -1118,6 +1129,28 @@
     "Quote ID": "534246",
     "Quote Amount": "$1170.56",
     "Closing Date": "03/24/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DIANNE C DAVIS",
+    "Service Address": "8659 ORIOLE AVE",
+    "Zip Code": "63147",
+    "Locator": "42450202800",
+    "Quote ID": "534355",
+    "Quote Amount": "$1667.49",
+    "Closing Date": "03/25/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DEBRA SYKES",
+    "Service Address": "3141 MORGANFORD RD",
+    "Zip Code": "63116",
+    "Locator": "50550001700",
+    "Quote ID": "534354",
+    "Quote Amount": "$122.56",
+    "Closing Date": "03/25/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1177,6 +1210,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JAMES TERRY",
+    "Service Address": "3943 WALSH ST-63116",
+    "Zip Code": "63116",
+    "Locator": "57600003200",
+    "Quote ID": "534356",
+    "Quote Amount": "$1552.72",
+    "Closing Date": "04/04/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MATTHEW & VANESSA ISAACS",
     "Service Address": "1395 ST FRANCOIS ST",
     "Zip Code": "63033",
@@ -1228,6 +1272,28 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "YVETTE THOMAS",
+    "Service Address": "862 RIVERVIEW BLVD",
+    "Zip Code": "63147",
+    "Locator": "63640001300",
+    "Quote ID": "534353",
+    "Quote Amount": "Pending",
+    "Closing Date": "03/24/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ALETIA STEELS",
+    "Service Address": "4260 BATES ST",
+    "Zip Code": "63116",
+    "Locator": "55020000100",
+    "Quote ID": "534352",
+    "Quote Amount": "Pending",
+    "Closing Date": "03/24/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
