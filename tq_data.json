@@ -1,38 +1,5 @@
 [
   {
-    "Seller Name": "FAMILY AFFAIR DAYCARE LLC",
-    "Service Address": "5145 PALM ST",
-    "Zip Code": "63115",
-    "Locator": "59550001600",
-    "Quote ID": "532609",
-    "Quote Amount": "$7916.53",
-    "Closing Date": "03/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ANNE CROTHERS",
-    "Service Address": "6125 LAURA AVE",
-    "Zip Code": "63136",
-    "Locator": "54920003300",
-    "Quote ID": "532608",
-    "Quote Amount": "$16309.34",
-    "Closing Date": "03/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "FAMILY AFFAIR DAYCARE LLC",
-    "Service Address": "9854 EASTDELL DR",
-    "Zip Code": "63136",
-    "Locator": "11G111082",
-    "Quote ID": "532607",
-    "Quote Amount": "$2945.79",
-    "Closing Date": "03/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "ANTIONE & KIMBERLY WARD",
     "Service Address": "8922 SOUTHVIEW LN",
     "Zip Code": "63123",
@@ -1349,6 +1316,17 @@
     "Quote ID": "533685",
     "Quote Amount": "$466.41",
     "Closing Date": "03/25/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SANDY WARD",
+    "Service Address": "2744 CHAPEL VIEW DR",
+    "Zip Code": "63031",
+    "Locator": "06J241071",
+    "Quote ID": "534507",
+    "Quote Amount": "$470.72",
+    "Closing Date": "03/26/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
