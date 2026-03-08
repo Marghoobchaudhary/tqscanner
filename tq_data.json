@@ -1133,6 +1133,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "HERMAN WRIGHT",
+    "Service Address": "11755 OLD HALLS FERRY RD",
+    "Zip Code": "63033",
+    "Locator": "08G210080",
+    "Quote ID": "534434",
+    "Quote Amount": "$1205.09",
+    "Closing Date": "03/24/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "KATHY MANTZ",
     "Service Address": "819 OAK AVE",
     "Zip Code": "63088",
@@ -1144,12 +1155,34 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "VINCE CANNON",
+    "Service Address": "4245 RAVENWOOD AVE",
+    "Zip Code": "63121",
+    "Locator": "15G440085",
+    "Quote ID": "534431",
+    "Quote Amount": "$1449.20",
+    "Closing Date": "03/24/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "JEREMY SMITH",
     "Service Address": "126 LA GORCE DR",
     "Zip Code": "63017",
     "Locator": "17Q530110",
     "Quote ID": "534430",
     "Quote Amount": "$2941.66",
+    "Closing Date": "03/24/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ALETIA STEELS",
+    "Service Address": "4260 BATES ST",
+    "Zip Code": "63116",
+    "Locator": "55020000100",
+    "Quote ID": "534352",
+    "Quote Amount": "$2044.51",
     "Closing Date": "03/24/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1265,6 +1298,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "PLACES AND PROPERTIES LLC",
+    "Service Address": "9116 ST CYR DR",
+    "Zip Code": "63136",
+    "Locator": "12F130043",
+    "Quote ID": "534440",
+    "Quote Amount": "$3270.22",
+    "Closing Date": "03/25/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "DIANNE C DAVIS",
     "Service Address": "8659 ORIOLE AVE",
     "Zip Code": "63147",
@@ -1305,6 +1349,28 @@
     "Quote ID": "533685",
     "Quote Amount": "$466.41",
     "Closing Date": "03/25/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ROBIN HILL",
+    "Service Address": "11055 WORCHESTER DR",
+    "Zip Code": "63136",
+    "Locator": "09F110290",
+    "Quote ID": "534503",
+    "Quote Amount": "$932.80",
+    "Closing Date": "03/26/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MICHAEL MCCAIN",
+    "Service Address": "439 WARFORD AVE",
+    "Zip Code": "63135",
+    "Locator": "11J331121",
+    "Quote ID": "534502",
+    "Quote Amount": "$536.10",
+    "Closing Date": "03/26/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1360,6 +1426,17 @@
     "Quote ID": "534356",
     "Quote Amount": "$1552.72",
     "Closing Date": "04/04/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MICHELLE KELLER",
+    "Service Address": "175 RANCHMOOR TRL",
+    "Zip Code": "63011",
+    "Locator": "22T310551",
+    "Quote ID": "534456",
+    "Quote Amount": "$3700.34",
+    "Closing Date": "04/05/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1430,28 +1507,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "HERMAN WRIGHT",
-    "Service Address": "11755 OLD HALLS FERRY RD",
-    "Zip Code": "63033",
-    "Locator": "08G210080",
-    "Quote ID": "534434",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "VINCE CANNON",
-    "Service Address": "4245 RAVENWOOD AVE",
-    "Zip Code": "63121",
-    "Locator": "15G440085",
-    "Quote ID": "534431",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "YVETTE THOMAS",
     "Service Address": "862 RIVERVIEW BLVD",
     "Zip Code": "63147",
@@ -1463,24 +1518,13 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "ALETIA STEELS",
-    "Service Address": "4260 BATES ST",
-    "Zip Code": "63116",
-    "Locator": "55020000100",
-    "Quote ID": "534352",
+    "Seller Name": "RON GOTTSCHALK",
+    "Service Address": "1265 DEL REY DR",
+    "Zip Code": "63031",
+    "Locator": "07K511264",
+    "Quote ID": "534501",
     "Quote Amount": "Pending",
-    "Closing Date": "03/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PLACES AND PROPERTIES LLC",
-    "Service Address": "9116 ST CYR DR",
-    "Zip Code": "63136",
-    "Locator": "12F130043",
-    "Quote ID": "534440",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/25/2026",
+    "Closing Date": "03/26/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
@@ -1503,17 +1547,6 @@
     "Quote ID": "534453",
     "Quote Amount": "Pending",
     "Closing Date": "04/01/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MICHELLE KELLER",
-    "Service Address": "175 RANCHMOOR TRL",
-    "Zip Code": "63011",
-    "Locator": "22T310551",
-    "Quote ID": "534456",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/05/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
