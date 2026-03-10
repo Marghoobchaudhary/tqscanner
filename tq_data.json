@@ -1144,6 +1144,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "YVETTE THOMAS",
+    "Service Address": "862 RIVERVIEW BLVD",
+    "Zip Code": "63147",
+    "Locator": "63640001300",
+    "Quote ID": "534353",
+    "Quote Amount": "$8043.83",
+    "Closing Date": "03/24/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ALETIA STEELS",
     "Service Address": "4260 BATES ST",
     "Zip Code": "63116",
@@ -1331,6 +1342,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MALINDA SAMPSON",
+    "Service Address": "2325 INDIANCUP DR",
+    "Zip Code": "63033",
+    "Locator": "07J620242",
+    "Quote ID": "534506",
+    "Quote Amount": "$1629.61",
+    "Closing Date": "03/26/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CHRISTOPHER BECKER",
+    "Service Address": "664 BELLSWORTH DR",
+    "Zip Code": "63125",
+    "Locator": "28H210263",
+    "Quote ID": "534504",
+    "Quote Amount": "$4016.40",
+    "Closing Date": "03/26/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ROBIN HILL",
     "Service Address": "11055 WORCHESTER DR",
     "Zip Code": "63136",
@@ -1348,6 +1381,17 @@
     "Locator": "11J331121",
     "Quote ID": "534502",
     "Quote Amount": "$536.10",
+    "Closing Date": "03/26/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "RON GOTTSCHALK",
+    "Service Address": "1265 DEL REY DR",
+    "Zip Code": "63031",
+    "Locator": "07K511264",
+    "Quote ID": "534501",
+    "Quote Amount": "$2794.40",
     "Closing Date": "03/26/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1375,6 +1419,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "BRANDI T. GONZALEZ-GARCIA",
+    "Service Address": "1582 BARKWOOD DR",
+    "Zip Code": "63031",
+    "Locator": "05J531184",
+    "Quote ID": "534451",
+    "Quote Amount": "$11561.64",
+    "Closing Date": "03/30/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "CHRISTOPHER PULLIAM",
     "Service Address": "1130 SHADOWFAIRE CT",
     "Zip Code": "63021",
@@ -1393,6 +1448,17 @@
     "Quote ID": "534452",
     "Quote Amount": "$4688.15",
     "Closing Date": "03/31/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DAVID & AURELIA HANGGE",
+    "Service Address": "5624 WILLARD AVE",
+    "Zip Code": "63123",
+    "Locator": "25J611855",
+    "Quote ID": "534453",
+    "Quote Amount": "$8180.19",
+    "Closing Date": "04/01/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1496,39 +1562,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "PERCY SHEGOG",
-    "Service Address": "12719 MEADOWDALE DR",
-    "Zip Code": "63138",
-    "Locator": "07E420071",
-    "Quote ID": "534437",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "YVETTE THOMAS",
-    "Service Address": "862 RIVERVIEW BLVD",
-    "Zip Code": "63147",
-    "Locator": "63640001300",
-    "Quote ID": "534353",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MALINDA SAMPSON",
-    "Service Address": "2325 INDIANCUP DR",
-    "Zip Code": "63033",
-    "Locator": "07J620242",
-    "Quote ID": "534506",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/26/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "NICOLE GREEN",
     "Service Address": "843 LOEKES DR",
     "Zip Code": "63031",
@@ -1536,50 +1569,6 @@
     "Quote ID": "534505",
     "Quote Amount": "Pending",
     "Closing Date": "03/26/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CHRISTOPHER BECKER",
-    "Service Address": "664 BELLSWORTH DR",
-    "Zip Code": "63125",
-    "Locator": "28H210263",
-    "Quote ID": "534504",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/26/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RON GOTTSCHALK",
-    "Service Address": "1265 DEL REY DR",
-    "Zip Code": "63031",
-    "Locator": "07K511264",
-    "Quote ID": "534501",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/26/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BRANDI T. GONZALEZ-GARCIA",
-    "Service Address": "1582 BARKWOOD DR",
-    "Zip Code": "63031",
-    "Locator": "05J531184",
-    "Quote ID": "534451",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/30/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DAVID & AURELIA HANGGE",
-    "Service Address": "5624 WILLARD AVE",
-    "Zip Code": "63123",
-    "Locator": "25J611855",
-    "Quote ID": "534453",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/01/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
