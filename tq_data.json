@@ -704,17 +704,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "BILMAND LLC",
-    "Service Address": "1725 OREGON PL",
-    "Zip Code": "63104",
-    "Locator": "13120002800",
-    "Quote ID": "534244",
-    "Quote Amount": "$628.63",
-    "Closing Date": "03/23/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "TRAECY A WARFORD",
     "Service Address": "1100 SANSU LN-63031",
     "Zip Code": "63031",
@@ -1144,6 +1133,72 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "KENETH KIEFER",
+    "Service Address": "175 BEACON POINT LN",
+    "Zip Code": "63040",
+    "Locator": "23U320196",
+    "Quote ID": "534775",
+    "Quote Amount": "$115.02",
+    "Closing Date": "03/30/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "THOMAS WALKER",
+    "Service Address": "4671 VENARDE DR",
+    "Zip Code": "63128",
+    "Locator": "29L340432",
+    "Quote ID": "534773",
+    "Quote Amount": "$2538.43",
+    "Closing Date": "03/30/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BARLOUIS TWO LLC",
+    "Service Address": "1371 BROADLAWNS LN",
+    "Zip Code": "63138",
+    "Locator": "08E311040",
+    "Quote ID": "534772",
+    "Quote Amount": "$194.82",
+    "Closing Date": "03/30/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WILLIAM E FRANKMANN",
+    "Service Address": "608 AGEAN WAY-63011",
+    "Zip Code": "63011",
+    "Locator": "21R620107",
+    "Quote ID": "534771",
+    "Quote Amount": "$260.24",
+    "Closing Date": "03/30/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "THOMAS MACK",
+    "Service Address": "11027 EBERT DR-63136",
+    "Zip Code": "63136",
+    "Locator": "09G310125",
+    "Quote ID": "534769",
+    "Quote Amount": "$1438.65",
+    "Closing Date": "03/30/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "M & A INVESTMENT GROUP LLC",
+    "Service Address": "2852 KEOKUK ST",
+    "Zip Code": "63118",
+    "Locator": "25690001400",
+    "Quote ID": "534763",
+    "Quote Amount": "$4046.92",
+    "Closing Date": "03/30/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "BRANDI T. GONZALEZ-GARCIA",
     "Service Address": "1582 BARKWOOD DR",
     "Zip Code": "63031",
@@ -1210,17 +1265,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "JAMES TERRY",
-    "Service Address": "3943 WALSH ST-63116",
-    "Zip Code": "63116",
-    "Locator": "57600003200",
-    "Quote ID": "534356",
-    "Quote Amount": "$1552.72",
-    "Closing Date": "04/04/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "MICHELLE KELLER",
     "Service Address": "175 RANCHMOOR TRL",
     "Zip Code": "63011",
@@ -1228,6 +1272,17 @@
     "Quote ID": "534456",
     "Quote Amount": "$3700.34",
     "Closing Date": "04/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CHRISTOPHER A STEVENSON",
+    "Service Address": "4016 KENNERLY AVE",
+    "Zip Code": "63113",
+    "Locator": "36510201600",
+    "Quote ID": "534762",
+    "Quote Amount": "$3981.53",
+    "Closing Date": "04/06/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1298,17 +1353,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "NICOLE GREEN",
-    "Service Address": "843 LOEKES DR",
-    "Zip Code": "63031",
-    "Locator": "07K220489",
-    "Quote ID": "534505",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/26/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "RYAN ALFORD",
     "Service Address": "4452 S COMPTON AVE",
     "Zip Code": "63111",
@@ -1316,17 +1360,6 @@
     "Quote ID": "534760",
     "Quote Amount": "Pending",
     "Closing Date": "03/30/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CHRISTOPHER A STEVENSON",
-    "Service Address": "4016 KENNERLY AVE",
-    "Zip Code": "63113",
-    "Locator": "36510201600",
-    "Quote ID": "534762",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/06/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
