@@ -1199,6 +1199,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "RYAN ALFORD",
+    "Service Address": "4452 S COMPTON AVE",
+    "Zip Code": "63111",
+    "Locator": "27000000300",
+    "Quote ID": "534760",
+    "Quote Amount": "$0.00",
+    "Closing Date": "03/30/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "BRANDI T. GONZALEZ-GARCIA",
     "Service Address": "1582 BARKWOOD DR",
     "Zip Code": "63031",
@@ -1349,17 +1360,6 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RYAN ALFORD",
-    "Service Address": "4452 S COMPTON AVE",
-    "Zip Code": "63111",
-    "Locator": "27000000300",
-    "Quote ID": "534760",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/30/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
