@@ -1155,6 +1155,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "DERRICK & LATORIA TAYLOR",
+    "Service Address": "14838 94TH AVE",
+    "Zip Code": "63034",
+    "Locator": "05H240409",
+    "Quote ID": "534998",
+    "Quote Amount": "$2943.39",
+    "Closing Date": "03/31/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ALLISON VANCE",
+    "Service Address": "9726 BALBOA DR",
+    "Zip Code": "63136",
+    "Locator": "11G220025",
+    "Quote ID": "534997",
+    "Quote Amount": "$14720.32",
+    "Closing Date": "03/31/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "SUSIE W PERSON",
     "Service Address": "2831 COLONIAL AVE",
     "Zip Code": "63121",
@@ -1228,6 +1250,17 @@
     "Quote ID": "534452",
     "Quote Amount": "$4688.15",
     "Closing Date": "03/31/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CARL ZEY",
+    "Service Address": "804 SHERWICK TER",
+    "Zip Code": "63021",
+    "Locator": "24Q530141",
+    "Quote ID": "535003",
+    "Quote Amount": "$131.32",
+    "Closing Date": "04/01/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1342,24 +1375,13 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "DERRICK & LATORIA TAYLOR",
-    "Service Address": "14838 94TH AVE",
-    "Zip Code": "63034",
-    "Locator": "05H240409",
-    "Quote ID": "534998",
+    "Seller Name": "IRENE SALKOWSKI",
+    "Service Address": "2025 GERARD PARK LN",
+    "Zip Code": "63042",
+    "Locator": "08L520756",
+    "Quote ID": "535004",
     "Quote Amount": "Pending",
-    "Closing Date": "03/31/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ALLISON VANCE",
-    "Service Address": "9726 BALBOA DR",
-    "Zip Code": "63136",
-    "Locator": "11G220025",
-    "Quote ID": "534997",
-    "Quote Amount": "Pending",
-    "Closing Date": "03/31/2026",
+    "Closing Date": "04/01/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
