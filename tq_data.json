@@ -1276,6 +1276,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "SCOTT SCHOUVILLER",
+    "Service Address": "121 W LORETTA AVE",
+    "Zip Code": "63125",
+    "Locator": "27G130183",
+    "Quote ID": "535123",
+    "Quote Amount": "$921.33",
+    "Closing Date": "04/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "THOMAS DINEEN",
     "Service Address": "4701 ASHWICK TER",
     "Zip Code": "63128",
@@ -1426,6 +1437,28 @@
     "Quote ID": "535118",
     "Quote Amount": "Pending",
     "Closing Date": "04/01/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "RICHARD SCHEPERS",
+    "Service Address": "11078 PATRINA CT",
+    "Zip Code": "63126",
+    "Locator": "27L330398",
+    "Quote ID": "535125",
+    "Quote Amount": "Pending",
+    "Closing Date": "04/02/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CAROLYN HESSION",
+    "Service Address": "4516 SOUTHRIDGE PINES DR",
+    "Zip Code": "63128",
+    "Locator": "29K240432",
+    "Quote ID": "535124",
+    "Quote Amount": "Pending",
+    "Closing Date": "04/02/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
