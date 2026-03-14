@@ -1254,6 +1254,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "IRENE SALKOWSKI",
+    "Service Address": "2025 GERARD PARK LN",
+    "Zip Code": "63042",
+    "Locator": "08L520756",
+    "Quote ID": "535004",
+    "Quote Amount": "$6305.41",
+    "Closing Date": "04/01/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "CARL ZEY",
     "Service Address": "804 SHERWICK TER",
     "Zip Code": "63021",
@@ -1371,17 +1382,6 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "IRENE SALKOWSKI",
-    "Service Address": "2025 GERARD PARK LN",
-    "Zip Code": "63042",
-    "Locator": "08L520756",
-    "Quote ID": "535004",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/01/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
