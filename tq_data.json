@@ -1,82 +1,5 @@
 [
   {
-    "Seller Name": "ROY PENDLETON",
-    "Service Address": "4426 MARCUS AVE",
-    "Zip Code": "63115",
-    "Locator": "44180200600",
-    "Quote ID": "533683",
-    "Quote Amount": "$969.18",
-    "Closing Date": "03/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JIMMIE BROWN",
-    "Service Address": "4624 BEHLMANN ESTATES LN",
-    "Zip Code": "63034",
-    "Locator": "06G330919",
-    "Quote ID": "533447",
-    "Quote Amount": "$2991.78",
-    "Closing Date": "03/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ANGELIA BEATTIE",
-    "Service Address": "2679 IRONDALE DR",
-    "Zip Code": "63129",
-    "Locator": "31J640928",
-    "Quote ID": "533446",
-    "Quote Amount": "$1374.33",
-    "Closing Date": "03/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TOMMIE E MERRITT",
-    "Service Address": "175 FRANCISCA DR",
-    "Zip Code": "63031",
-    "Locator": "07K530656",
-    "Quote ID": "533445",
-    "Quote Amount": "$460.83",
-    "Closing Date": "03/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JERRY OVERTURF",
-    "Service Address": "10262 BRECKENRIDGE AVE",
-    "Zip Code": "63074",
-    "Locator": "14L430474",
-    "Quote ID": "533444",
-    "Quote Amount": "$363.54",
-    "Closing Date": "03/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CAROL WINSTEAD",
-    "Service Address": "7410 S GRAND AVE",
-    "Zip Code": "63111",
-    "Locator": "30730001400",
-    "Quote ID": "533443",
-    "Quote Amount": "$162.76",
-    "Closing Date": "03/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KENNETH R JONES",
-    "Service Address": "21 BARCELONA AVE",
-    "Zip Code": "63138",
-    "Locator": "08D142179",
-    "Quote ID": "533164",
-    "Quote Amount": "$463.12",
-    "Closing Date": "03/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "ROBERT YUEDE III",
     "Service Address": "1280 LEISURE DR",
     "Zip Code": "63031",
@@ -1210,6 +1133,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "KATHY JOHNSON",
+    "Service Address": "10078 PRINCE DR",
+    "Zip Code": "63136",
+    "Locator": "11F510561",
+    "Quote ID": "535120",
+    "Quote Amount": "$3511.25",
+    "Closing Date": "04/01/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "THOMAS ALFORD",
+    "Service Address": "596 BRIDGEBEND RD",
+    "Zip Code": "63021",
+    "Locator": "23Q210280",
+    "Quote ID": "535119",
+    "Quote Amount": "$-45.54",
+    "Closing Date": "04/01/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "WILHEMINE A SCHNEIDER",
     "Service Address": "12634 ALSWELL LN",
     "Zip Code": "63128",
@@ -1276,6 +1221,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "CAROLYN HESSION",
+    "Service Address": "4516 SOUTHRIDGE PINES DR",
+    "Zip Code": "63128",
+    "Locator": "29K240432",
+    "Quote ID": "535124",
+    "Quote Amount": "$11191.07",
+    "Closing Date": "04/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "SCOTT SCHOUVILLER",
     "Service Address": "121 W LORETTA AVE",
     "Zip Code": "63125",
@@ -1298,6 +1254,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "SANDERS WRIGHT",
+    "Service Address": "3436 TENNESSEE AVE",
+    "Zip Code": "63118",
+    "Locator": "15860000800",
+    "Quote ID": "535146",
+    "Quote Amount": "$2105.39",
+    "Closing Date": "04/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "AYUSH ONE LLC",
     "Service Address": "5750 NATURAL BRIDGE AVE",
     "Zip Code": "63120",
@@ -1305,6 +1272,17 @@
     "Quote ID": "534243",
     "Quote Amount": "$192.42",
     "Closing Date": "04/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BEAUTY AND THE BEST INVESTMENT",
+    "Service Address": "3112 WYOMING ST",
+    "Zip Code": "63118",
+    "Locator": "15040001900",
+    "Quote ID": "535149",
+    "Quote Amount": "$1926.57",
+    "Closing Date": "04/05/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1393,50 +1371,6 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KATHY JOHNSON",
-    "Service Address": "10078 PRINCE DR",
-    "Zip Code": "63136",
-    "Locator": "11F510561",
-    "Quote ID": "535120",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/01/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "THOMAS ALFORD",
-    "Service Address": "596 BRIDGEBEND RD",
-    "Zip Code": "63021",
-    "Locator": "23Q210280",
-    "Quote ID": "535119",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/01/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CAROLYN HESSION",
-    "Service Address": "4516 SOUTHRIDGE PINES DR",
-    "Zip Code": "63128",
-    "Locator": "29K240432",
-    "Quote ID": "535124",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/02/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SANDERS WRIGHT",
-    "Service Address": "3436 TENNESSEE AVE",
-    "Zip Code": "63118",
-    "Locator": "15860000800",
-    "Quote ID": "535146",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/03/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
