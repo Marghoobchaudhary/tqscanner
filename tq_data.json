@@ -1199,6 +1199,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JULIAN R STEVENSON",
+    "Service Address": "512 VERNAL HILL CT",
+    "Zip Code": "63021",
+    "Locator": "24S331199",
+    "Quote ID": "535121",
+    "Quote Amount": "$2694.15",
+    "Closing Date": "04/01/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WILHEMINE A SCHNEIDER",
+    "Service Address": "12634 ALSWELL LN",
+    "Zip Code": "63128",
+    "Locator": "29M510085",
+    "Quote ID": "535118",
+    "Quote Amount": "$970.89",
+    "Closing Date": "04/01/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MARY DOTSON",
     "Service Address": "1240 HERMANS ORCHARD DR",
     "Zip Code": "63034",
@@ -1239,6 +1261,17 @@
     "Quote ID": "534453",
     "Quote Amount": "$8180.19",
     "Closing Date": "04/01/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "RICHARD SCHEPERS",
+    "Service Address": "11078 PATRINA CT",
+    "Zip Code": "63126",
+    "Locator": "27L330398",
+    "Quote ID": "535125",
+    "Quote Amount": "$2802.68",
+    "Closing Date": "04/02/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1364,17 +1397,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "JULIAN R STEVENSON",
-    "Service Address": "512 VERNAL HILL CT",
-    "Zip Code": "63021",
-    "Locator": "24S331199",
-    "Quote ID": "535121",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/01/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "KATHY JOHNSON",
     "Service Address": "10078 PRINCE DR",
     "Zip Code": "63136",
@@ -1397,28 +1419,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "WILHEMINE A SCHNEIDER",
-    "Service Address": "12634 ALSWELL LN",
-    "Zip Code": "63128",
-    "Locator": "29M510085",
-    "Quote ID": "535118",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/01/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RICHARD SCHEPERS",
-    "Service Address": "11078 PATRINA CT",
-    "Zip Code": "63126",
-    "Locator": "27L330398",
-    "Quote ID": "535125",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/02/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "CAROLYN HESSION",
     "Service Address": "4516 SOUTHRIDGE PINES DR",
     "Zip Code": "63128",
@@ -1426,6 +1426,17 @@
     "Quote ID": "535124",
     "Quote Amount": "Pending",
     "Closing Date": "04/02/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SANDERS WRIGHT",
+    "Service Address": "3436 TENNESSEE AVE",
+    "Zip Code": "63118",
+    "Locator": "15860000800",
+    "Quote ID": "535146",
+    "Quote Amount": "Pending",
+    "Closing Date": "04/03/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
