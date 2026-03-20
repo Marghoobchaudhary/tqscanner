@@ -968,6 +968,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ASHLEY BILKAY",
+    "Service Address": "3722 NEOSHO ST",
+    "Zip Code": "63116",
+    "Locator": "47010001200",
+    "Quote ID": "535680",
+    "Quote Amount": "$744.43",
+    "Closing Date": "04/07/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ERNESTINE SHIVERS",
     "Service Address": "7707 SPRINGDALE DR",
     "Zip Code": "63121",
@@ -1041,6 +1052,17 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SARAH SHEPARD",
+    "Service Address": "4643 ADKINS AVE",
+    "Zip Code": "63116",
+    "Locator": "53140003300",
+    "Quote ID": "535681",
+    "Quote Amount": "Pending",
+    "Closing Date": "04/07/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
