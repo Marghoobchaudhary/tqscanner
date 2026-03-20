@@ -1001,12 +1001,34 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JERRY KIRCHOFF",
+    "Service Address": "4107 ROBERT AVE",
+    "Zip Code": "63116",
+    "Locator": "63960001400",
+    "Quote ID": "535683",
+    "Quote Amount": "$4564.09",
+    "Closing Date": "04/07/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ANTHONY C ZARVOS",
     "Service Address": "2859 MCNAIR AVE",
     "Zip Code": "63118",
     "Locator": "14180004600",
     "Quote ID": "535682",
     "Quote Amount": "$56.21",
+    "Closing Date": "04/07/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SARAH SHEPARD",
+    "Service Address": "4643 ADKINS AVE",
+    "Zip Code": "63116",
+    "Locator": "53140003300",
+    "Quote ID": "535681",
+    "Quote Amount": "$3315.53",
     "Closing Date": "04/07/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1105,28 +1127,6 @@
     "Zip Code": "63031",
     "Locator": "07K610165",
     "Quote ID": "535684",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/07/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JERRY KIRCHOFF",
-    "Service Address": "4107 ROBERT AVE",
-    "Zip Code": "63116",
-    "Locator": "63960001400",
-    "Quote ID": "535683",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/07/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SARAH SHEPARD",
-    "Service Address": "4643 ADKINS AVE",
-    "Zip Code": "63116",
-    "Locator": "53140003300",
-    "Quote ID": "535681",
     "Quote Amount": "Pending",
     "Closing Date": "04/07/2026",
     "Stage": "In Progress",
