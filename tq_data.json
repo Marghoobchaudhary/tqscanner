@@ -1001,6 +1001,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "HELEN GRYDER",
+    "Service Address": "45 MERCURY DR",
+    "Zip Code": "63031",
+    "Locator": "07K610165",
+    "Quote ID": "535684",
+    "Quote Amount": "$5200.53",
+    "Closing Date": "04/07/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "JERRY KIRCHOFF",
     "Service Address": "4107 ROBERT AVE",
     "Zip Code": "63116",
@@ -1067,6 +1078,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "KINGDOM PROPERTY DEVELOPMENT",
+    "Service Address": "8 HORTENSE PL",
+    "Zip Code": "63108",
+    "Locator": "38800002500",
+    "Quote ID": "535792",
+    "Quote Amount": "$52.97",
+    "Closing Date": "04/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MATTHEW & VANESSA ISAACS",
     "Service Address": "1395 ST FRANCOIS ST",
     "Zip Code": "63033",
@@ -1118,17 +1140,6 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "HELEN GRYDER",
-    "Service Address": "45 MERCURY DR",
-    "Zip Code": "63031",
-    "Locator": "07K610165",
-    "Quote ID": "535684",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/07/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
