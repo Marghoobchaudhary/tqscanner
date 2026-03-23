@@ -1078,6 +1078,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "KENNETH MURER AIMEE &",
+    "Service Address": "453 PINE BEND DR",
+    "Zip Code": "63005",
+    "Locator": "19W330255",
+    "Quote ID": "535794",
+    "Quote Amount": "$2789.22",
+    "Closing Date": "04/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "RONALD ROGERS",
     "Service Address": "1435 BOULDER DR",
     "Zip Code": "63031",
@@ -1100,6 +1111,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "DANYIELLE BURKS",
+    "Service Address": "4398 VENTURA PLACE DR",
+    "Zip Code": "63128",
+    "Locator": "30K420492",
+    "Quote ID": "535802",
+    "Quote Amount": "$4266.48",
+    "Closing Date": "04/09/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "FRANK KAUFMANN",
     "Service Address": "4863 HERITAGE HEIGHTS CIR",
     "Zip Code": "63042",
@@ -1118,6 +1140,17 @@
     "Quote ID": "535798",
     "Quote Amount": "$67.48",
     "Closing Date": "04/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DARREN CARTER",
+    "Service Address": "14402 QUIET COVE CT",
+    "Zip Code": "63034",
+    "Locator": "06H620420",
+    "Quote ID": "535799",
+    "Quote Amount": "$672.14",
+    "Closing Date": "04/19/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1177,44 +1210,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "KENNETH MURER AIMEE &",
-    "Service Address": "453 PINE BEND DR",
-    "Zip Code": "63005",
-    "Locator": "19W330255",
-    "Quote ID": "535794",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/08/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DANYIELLE BURKS",
-    "Service Address": "4398 VENTURA PLACE DR",
-    "Zip Code": "63128",
-    "Locator": "30K420492",
-    "Quote ID": "535802",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/09/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "KYLE JONES",
     "Service Address": "460 HOLIDAY HL",
     "Zip Code": "63033",
     "Locator": "08H110561",
     "Quote ID": "535800",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/19/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DARREN CARTER",
-    "Service Address": "14402 QUIET COVE CT",
-    "Zip Code": "63034",
-    "Locator": "06H620420",
-    "Quote ID": "535799",
     "Quote Amount": "Pending",
     "Closing Date": "04/19/2026",
     "Stage": "In Progress",
