@@ -1045,6 +1045,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "PACS LLC",
+    "Service Address": "8516 CHURCH RD",
+    "Zip Code": "63147",
+    "Locator": "52090003500",
+    "Quote ID": "536467",
+    "Quote Amount": "$913.83",
+    "Closing Date": "04/16/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DELORES C DAVE",
+    "Service Address": "2625 HADDEN DR",
+    "Zip Code": "63136",
+    "Locator": "09G330402",
+    "Quote ID": "536464",
+    "Quote Amount": "$1210.48",
+    "Closing Date": "04/16/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "KYLE JONES",
     "Service Address": "460 HOLIDAY HL",
     "Zip Code": "63033",
@@ -1228,6 +1250,39 @@
     "Quote ID": "536450",
     "Quote Amount": "Pending",
     "Closing Date": "04/15/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DEANA MOORE",
+    "Service Address": "9002 SHERLAND AVE",
+    "Zip Code": "63114",
+    "Locator": "15K441081",
+    "Quote ID": "536465",
+    "Quote Amount": "Pending",
+    "Closing Date": "04/16/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JOHN CRAIG FLICKINGER",
+    "Service Address": "1165 BIG BEND CROSSING DR",
+    "Zip Code": "63088",
+    "Locator": "24P120556",
+    "Quote ID": "536463",
+    "Quote Amount": "Pending",
+    "Closing Date": "04/16/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JACKSON BRICK",
+    "Service Address": "6708 VERMONT AVE",
+    "Zip Code": "63111",
+    "Locator": "29980001000",
+    "Quote ID": "536468",
+    "Quote Amount": "Pending",
+    "Closing Date": "04/19/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
