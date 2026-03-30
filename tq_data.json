@@ -561,17 +561,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "JERRY KIRCHOFF",
-    "Service Address": "4107 ROBERT AVE",
-    "Zip Code": "63116",
-    "Locator": "63960001400",
-    "Quote ID": "535683",
-    "Quote Amount": "$4564.09",
-    "Closing Date": "04/07/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "ANTHONY C ZARVOS",
     "Service Address": "2859 MCNAIR AVE",
     "Zip Code": "63118",
@@ -968,6 +957,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "TYRONE VAN HOESEN",
+    "Service Address": "2113 DOGTOWN WALK",
+    "Zip Code": "63139",
+    "Locator": "46230600110",
+    "Quote ID": "536462",
+    "Quote Amount": "$4642.63",
+    "Closing Date": "04/15/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "NICHOLAS FABRIO",
+    "Service Address": "4400 DELOR ST-63116",
+    "Zip Code": "63116",
+    "Locator": "55780002600",
+    "Quote ID": "536461",
+    "Quote Amount": "$1918.43",
+    "Closing Date": "04/15/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "RICHARD WIESLER",
     "Service Address": "4868 GOETHE AVE",
     "Zip Code": "63116",
@@ -985,6 +996,28 @@
     "Locator": "14050002120",
     "Quote ID": "536459",
     "Quote Amount": "$2566.69",
+    "Closing Date": "04/15/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GLENN SUTTON",
+    "Service Address": "1227 PERDIZ LN",
+    "Zip Code": "63026",
+    "Locator": "29Q640353",
+    "Quote ID": "536458",
+    "Quote Amount": "$2600.74",
+    "Closing Date": "04/15/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BRYANT WATKINS",
+    "Service Address": "1231 DAMMERT AVE",
+    "Zip Code": "63125",
+    "Locator": "27H341975",
+    "Quote ID": "536457",
+    "Quote Amount": "$2260.54",
     "Closing Date": "04/15/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1012,12 +1045,34 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "DEBORAH MITCHELL",
+    "Service Address": "6 ROBINSON CIRCLE DR",
+    "Zip Code": "63136",
+    "Locator": "12F121216",
+    "Quote ID": "536453",
+    "Quote Amount": "$4977.78",
+    "Closing Date": "04/15/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "OLIVIA COOKS",
     "Service Address": "4351 ALDERWOOD DR",
     "Zip Code": "63033",
     "Locator": "07G120946",
     "Quote ID": "536451",
     "Quote Amount": "$1039.30",
+    "Closing Date": "04/15/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "HOWARD B GIBBS",
+    "Service Address": "9831 LAWNVIEW DR",
+    "Zip Code": "63136",
+    "Locator": "11F140128",
+    "Quote ID": "536450",
+    "Quote Amount": "$9912.82",
     "Closing Date": "04/15/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1041,6 +1096,17 @@
     "Quote ID": "536145",
     "Quote Amount": "$-61.79",
     "Closing Date": "04/15/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "OZONE INVESTMENTS LLC",
+    "Service Address": "7351 JENWOOD AVE",
+    "Zip Code": "63136",
+    "Locator": "13G212112",
+    "Quote ID": "536472",
+    "Quote Amount": "$0.00",
+    "Closing Date": "04/16/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1073,6 +1139,17 @@
     "Locator": "09G330402",
     "Quote ID": "536464",
     "Quote Amount": "$1210.48",
+    "Closing Date": "04/16/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JOHN CRAIG FLICKINGER",
+    "Service Address": "1165 BIG BEND CROSSING DR",
+    "Zip Code": "63088",
+    "Locator": "24P120556",
+    "Quote ID": "536463",
+    "Quote Amount": "$1124.56",
     "Closing Date": "04/16/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1177,66 +1254,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "TYRONE VAN HOESEN",
-    "Service Address": "2113 DOGTOWN WALK",
-    "Zip Code": "63139",
-    "Locator": "46230600110",
-    "Quote ID": "536462",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/15/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "NICHOLAS FABRIO",
-    "Service Address": "4400 DELOR ST-63116",
-    "Zip Code": "63116",
-    "Locator": "55780002600",
-    "Quote ID": "536461",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/15/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GLENN SUTTON",
-    "Service Address": "1227 PERDIZ LN",
-    "Zip Code": "63026",
-    "Locator": "29Q640353",
-    "Quote ID": "536458",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/15/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BRYANT WATKINS",
-    "Service Address": "1231 DAMMERT AVE",
-    "Zip Code": "63125",
-    "Locator": "27H341975",
-    "Quote ID": "536457",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/15/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "KENNETH WALKER",
     "Service Address": "4317 OAKRIDGE BLVD",
     "Zip Code": "63121",
     "Locator": "15H641625",
     "Quote ID": "536456",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/15/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DEBORAH MITCHELL",
-    "Service Address": "6 ROBINSON CIRCLE DR",
-    "Zip Code": "63136",
-    "Locator": "12F121216",
-    "Quote ID": "536453",
     "Quote Amount": "Pending",
     "Closing Date": "04/15/2026",
     "Stage": "In Progress",
@@ -1254,44 +1276,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "HOWARD B GIBBS",
-    "Service Address": "9831 LAWNVIEW DR",
-    "Zip Code": "63136",
-    "Locator": "11F140128",
-    "Quote ID": "536450",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/15/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "OZONE INVESTMENTS LLC",
-    "Service Address": "7351 JENWOOD AVE",
-    "Zip Code": "63136",
-    "Locator": "13G212112",
-    "Quote ID": "536472",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/16/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "DEANA MOORE",
     "Service Address": "9002 SHERLAND AVE",
     "Zip Code": "63114",
     "Locator": "15K441081",
     "Quote ID": "536465",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/16/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JOHN CRAIG FLICKINGER",
-    "Service Address": "1165 BIG BEND CROSSING DR",
-    "Zip Code": "63088",
-    "Locator": "24P120556",
-    "Quote ID": "536463",
     "Quote Amount": "Pending",
     "Closing Date": "04/16/2026",
     "Stage": "In Progress",
