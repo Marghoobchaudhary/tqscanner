@@ -1133,6 +1133,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "DEANA MOORE",
+    "Service Address": "9002 SHERLAND AVE",
+    "Zip Code": "63114",
+    "Locator": "15K441081",
+    "Quote ID": "536465",
+    "Quote Amount": "$7868.62",
+    "Closing Date": "04/16/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "DELORES C DAVE",
     "Service Address": "2625 HADDEN DR",
     "Zip Code": "63136",
@@ -1151,6 +1162,17 @@
     "Quote ID": "536463",
     "Quote Amount": "$1124.56",
     "Closing Date": "04/16/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JACKSON BRICK",
+    "Service Address": "6708 VERMONT AVE",
+    "Zip Code": "63111",
+    "Locator": "29980001000",
+    "Quote ID": "536468",
+    "Quote Amount": "$5256.39",
+    "Closing Date": "04/19/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1272,28 +1294,6 @@
     "Quote ID": "536452",
     "Quote Amount": "Pending",
     "Closing Date": "04/15/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DEANA MOORE",
-    "Service Address": "9002 SHERLAND AVE",
-    "Zip Code": "63114",
-    "Locator": "15K441081",
-    "Quote ID": "536465",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/16/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JACKSON BRICK",
-    "Service Address": "6708 VERMONT AVE",
-    "Zip Code": "63111",
-    "Locator": "29980001000",
-    "Quote ID": "536468",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/19/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
