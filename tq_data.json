@@ -924,6 +924,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MARY A LYLES",
+    "Service Address": "7730 SNOWDEN AVE",
+    "Zip Code": "63117",
+    "Locator": "20J141133",
+    "Quote ID": "536795",
+    "Quote Amount": "$193.24",
+    "Closing Date": "04/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "THOMAS TUSSEY",
+    "Service Address": "8 LISA DR",
+    "Zip Code": "63132",
+    "Locator": "17M310257",
+    "Quote ID": "536794",
+    "Quote Amount": "$2177.11",
+    "Closing Date": "04/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "JOHN D TAYLOR",
     "Service Address": "4461 FARLIN AVE",
     "Zip Code": "63115",
@@ -1063,6 +1085,17 @@
     "Quote ID": "536456",
     "Quote Amount": "Pending",
     "Closing Date": "04/15/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TRAVIS & CH A MITCHELL",
+    "Service Address": "4444 ARCO AVE",
+    "Zip Code": "63110",
+    "Locator": "51090000800",
+    "Quote ID": "536793",
+    "Quote Amount": "Pending",
+    "Closing Date": "04/19/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
