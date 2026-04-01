@@ -924,6 +924,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JORIE JONES PRATHER",
+    "Service Address": "1165 ENGLISH SADDLE RD",
+    "Zip Code": "63034",
+    "Locator": "04J320466",
+    "Quote ID": "536798",
+    "Quote Amount": "$566.37",
+    "Closing Date": "04/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "VELDA SIMMONS",
+    "Service Address": "6121 JEFFERSON AVE",
+    "Zip Code": "63134",
+    "Locator": "11J130184",
+    "Quote ID": "536797",
+    "Quote Amount": "$806.55",
+    "Closing Date": "04/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MARY A LYLES",
     "Service Address": "7730 SNOWDEN AVE",
     "Zip Code": "63117",
@@ -1085,6 +1107,17 @@
     "Quote ID": "536456",
     "Quote Amount": "Pending",
     "Closing Date": "04/15/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GERRIE ROSA",
+    "Service Address": "16755 HICKORY CREST DR",
+    "Zip Code": "63011",
+    "Locator": "23V521099",
+    "Quote ID": "536796",
+    "Quote Amount": "Pending",
+    "Closing Date": "04/19/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
