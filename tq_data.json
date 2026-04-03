@@ -957,6 +957,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MCCULLEY HOMES TOTAL REHAB & R",
+    "Service Address": "6716 ST LOUIS AVE",
+    "Zip Code": "63121",
+    "Locator": "16H540507",
+    "Quote ID": "536984",
+    "Quote Amount": "$4280.41",
+    "Closing Date": "04/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MCCULLEY HOMES TOTAL REHAB &",
     "Service Address": "6714 ST LOUIS AVE",
     "Zip Code": "63121",
@@ -975,6 +986,17 @@
     "Quote ID": "536449",
     "Quote Amount": "$592.06",
     "Closing Date": "04/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "S & S PROPERTY'S LLC",
+    "Service Address": "2937 MICHIGAN AVE",
+    "Zip Code": "63118",
+    "Locator": "14550002700",
+    "Quote ID": "536986",
+    "Quote Amount": "$2764.35",
+    "Closing Date": "04/22/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1052,28 +1074,6 @@
     "Quote ID": "536975",
     "Quote Amount": "Pending",
     "Closing Date": "04/20/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MCCULLEY HOMES TOTAL REHAB & R",
-    "Service Address": "6716 ST LOUIS AVE",
-    "Zip Code": "63121",
-    "Locator": "16H540507",
-    "Quote ID": "536984",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/21/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "S & S PROPERTY'S LLC",
-    "Service Address": "2937 MICHIGAN AVE",
-    "Zip Code": "63118",
-    "Locator": "14550002700",
-    "Quote ID": "536986",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/22/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
