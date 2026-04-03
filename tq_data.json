@@ -990,6 +990,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "CALVIN JONES",
+    "Service Address": "1423 GOLDEN DR",
+    "Zip Code": "63137",
+    "Locator": "11F610533",
+    "Quote ID": "537103",
+    "Quote Amount": "$428.60",
+    "Closing Date": "04/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "COMFORT & COZY PROPERTIES LLC",
+    "Service Address": "10089 DWIGHT DR",
+    "Zip Code": "63137",
+    "Locator": "11F520382",
+    "Quote ID": "537102",
+    "Quote Amount": "$109.62",
+    "Closing Date": "04/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "S & S PROPERTY'S LLC",
     "Service Address": "2937 MICHIGAN AVE",
     "Zip Code": "63118",
@@ -1118,6 +1140,17 @@
     "Quote ID": "537096",
     "Quote Amount": "Pending",
     "Closing Date": "04/21/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MJO PROPERTIES LLC",
+    "Service Address": "306 RUE ST FRANCOIS ST",
+    "Zip Code": "63031",
+    "Locator": "08J410417",
+    "Quote ID": "537116",
+    "Quote Amount": "Pending",
+    "Closing Date": "05/02/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
