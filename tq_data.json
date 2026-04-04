@@ -308,6 +308,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JOSEPH N BONNETT JR",
+    "Service Address": "4364 ENRIGHT AVE",
+    "Zip Code": "63108",
+    "Locator": "45720000400",
+    "Quote ID": "537098",
+    "Quote Amount": "$5322.58",
+    "Closing Date": "04/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "EDWARD & MARY LUKACINA",
     "Service Address": "10841 ST XAVIER LN",
     "Zip Code": "63074",
@@ -935,6 +946,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "CURT C BALLANC",
+    "Service Address": "5114 WEBER RD-63123",
+    "Zip Code": "63123",
+    "Locator": "25J322016",
+    "Quote ID": "537101",
+    "Quote Amount": "$971.56",
+    "Closing Date": "04/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ALMA J WALLACE-ELBERT",
     "Service Address": "9731 EDGEFIELD DR",
     "Zip Code": "63136",
@@ -1034,6 +1056,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MJO PROPERTIES LLC",
+    "Service Address": "306 RUE ST FRANCOIS ST",
+    "Zip Code": "63031",
+    "Locator": "08J410417",
+    "Quote ID": "537116",
+    "Quote Amount": "$2073.47",
+    "Closing Date": "05/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "STEVEN & ASHLEY FANZ",
+    "Service Address": "4123 BEETHOVEN AVE",
+    "Zip Code": "63116",
+    "Locator": "53270004000",
+    "Quote ID": "537202",
+    "Quote Amount": "$1526.02",
+    "Closing Date": "05/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MATTHEW & VANESSA ISAACS",
     "Service Address": "1395 ST FRANCOIS ST",
     "Zip Code": "63033",
@@ -1089,13 +1133,13 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "JOSEPH N BONNETT JR",
-    "Service Address": "4364 ENRIGHT AVE",
-    "Zip Code": "63108",
-    "Locator": "45720000400",
-    "Quote ID": "537098",
+    "Seller Name": "ANTOINE MEEKS",
+    "Service Address": "2105 PALM ST",
+    "Zip Code": "63107",
+    "Locator": "11590001000",
+    "Quote ID": "537204",
     "Quote Amount": "Pending",
-    "Closing Date": "04/13/2026",
+    "Closing Date": "04/09/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
@@ -1107,17 +1151,6 @@
     "Quote ID": "536975",
     "Quote Amount": "Pending",
     "Closing Date": "04/20/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CURT C BALLANC",
-    "Service Address": "5114 WEBER RD-63123",
-    "Zip Code": "63123",
-    "Locator": "25J322016",
-    "Quote ID": "537101",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/21/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
@@ -1144,13 +1177,13 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "MJO PROPERTIES LLC",
-    "Service Address": "306 RUE ST FRANCOIS ST",
-    "Zip Code": "63031",
-    "Locator": "08J410417",
-    "Quote ID": "537116",
+    "Seller Name": "JANIE WOODRIDGE",
+    "Service Address": "942 MELVIN AVE",
+    "Zip Code": "63137",
+    "Locator": "63610000400",
+    "Quote ID": "537203",
     "Quote Amount": "Pending",
-    "Closing Date": "05/02/2026",
+    "Closing Date": "05/03/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
