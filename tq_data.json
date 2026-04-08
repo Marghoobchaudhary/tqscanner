@@ -715,17 +715,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "JOSEPH CAHAN",
-    "Service Address": "8 CARRSWOLD DR",
-    "Zip Code": "63105",
-    "Locator": "19J440096",
-    "Quote ID": "536972",
-    "Quote Amount": "$148.20",
-    "Closing Date": "04/20/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "ANTHONY CORTEZ",
     "Service Address": "2776 DAWNVIEW DR",
     "Zip Code": "63031",
@@ -997,6 +986,28 @@
     "Quote ID": "537211",
     "Quote Amount": "$6197.04",
     "Closing Date": "04/26/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "STEPHANIE TRENTMANN",
+    "Service Address": "10607 SAINT MICHAELS TERRACE CT",
+    "Zip Code": "63074",
+    "Locator": "14M610543",
+    "Quote ID": "537443",
+    "Quote Amount": "$524.32",
+    "Closing Date": "04/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "R MARK SPECKERT",
+    "Service Address": "166 S OLD ORCHARD AVE",
+    "Zip Code": "63119",
+    "Locator": "23K610048",
+    "Quote ID": "537442",
+    "Quote Amount": "$824.39",
+    "Closing Date": "04/27/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
