@@ -1,60 +1,5 @@
 [
   {
-    "Seller Name": "DEYAN YORDANOV",
-    "Service Address": "121 DEL MONTE CT",
-    "Zip Code": "63017",
-    "Locator": "17Q530202",
-    "Quote ID": "535797",
-    "Quote Amount": "$148.53",
-    "Closing Date": "04/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DAVID A LARSON",
-    "Service Address": "347 VILLAGE CREEK DR",
-    "Zip Code": "63021",
-    "Locator": "24S530475",
-    "Quote ID": "535796",
-    "Quote Amount": "$94.79",
-    "Closing Date": "04/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GARY L WILLIAMS",
-    "Service Address": "6 OTTERBURN CT",
-    "Zip Code": "63033",
-    "Locator": "07F610413",
-    "Quote ID": "535795",
-    "Quote Amount": "$241.57",
-    "Closing Date": "04/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RONALD ROGERS",
-    "Service Address": "1435 BOULDER DR",
-    "Zip Code": "63031",
-    "Locator": "07K540347",
-    "Quote ID": "535793",
-    "Quote Amount": "$749.61",
-    "Closing Date": "04/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KINGDOM PROPERTY DEVELOPMENT",
-    "Service Address": "8 HORTENSE PL",
-    "Zip Code": "63108",
-    "Locator": "38800002500",
-    "Quote ID": "535792",
-    "Quote Amount": "$52.97",
-    "Closing Date": "04/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "ANTOINE MEEKS",
     "Service Address": "2105 PALM ST",
     "Zip Code": "63107",
@@ -280,7 +225,7 @@
     "Zip Code": "63110",
     "Locator": "39910002800",
     "Quote ID": "536253",
-    "Quote Amount": "$227.57",
+    "Quote Amount": "$140.06",
     "Closing Date": "04/14/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -380,17 +325,6 @@
     "Locator": "55340003500",
     "Quote ID": "536460",
     "Quote Amount": "$192.88",
-    "Closing Date": "04/15/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SUPERIOR DEVELOPMENT AND",
-    "Service Address": "2025 SIDNEY ST",
-    "Zip Code": "63104",
-    "Locator": "14050002120",
-    "Quote ID": "536459",
-    "Quote Amount": "$2566.69",
     "Closing Date": "04/15/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1007,6 +941,50 @@
     "Locator": "23K610048",
     "Quote ID": "537442",
     "Quote Amount": "$824.39",
+    "Closing Date": "04/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JISTA INVESTMENTS LLC",
+    "Service Address": "8531 JANE AVE",
+    "Zip Code": "63121",
+    "Locator": "14J540069",
+    "Quote ID": "537449",
+    "Quote Amount": "$1586.49",
+    "Closing Date": "04/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SHERIKO WHITE",
+    "Service Address": "1360 MALLARD LN",
+    "Zip Code": "63031",
+    "Locator": "06K140980",
+    "Quote ID": "537448",
+    "Quote Amount": "$423.77",
+    "Closing Date": "04/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CARMEN R FRANKLIN",
+    "Service Address": "15 VIZCUYA CT",
+    "Zip Code": "63033",
+    "Locator": "08F330332",
+    "Quote ID": "537447",
+    "Quote Amount": "$841.33",
+    "Closing Date": "04/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SHIRLEY MARSHALL",
+    "Service Address": "21 CRABAPPLE CT",
+    "Zip Code": "63132",
+    "Locator": "17L440069",
+    "Quote ID": "537446",
+    "Quote Amount": "$879.20",
     "Closing Date": "04/27/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
