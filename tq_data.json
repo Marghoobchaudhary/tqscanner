@@ -946,6 +946,50 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "BERTHA WILLIAMS",
+    "Service Address": "1600 BRADFORD AVE",
+    "Zip Code": "63133",
+    "Locator": "16J210984",
+    "Quote ID": "537579",
+    "Quote Amount": "$1041.56",
+    "Closing Date": "04/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MEAGAN WEAVER",
+    "Service Address": "246 W RIPA AVE",
+    "Zip Code": "63125",
+    "Locator": "28H641641",
+    "Quote ID": "537578",
+    "Quote Amount": "$3653.82",
+    "Closing Date": "04/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "EQUITY REALTY CENTER INC",
+    "Service Address": "2130 JOHN AVE",
+    "Zip Code": "63107",
+    "Locator": "24800000200",
+    "Quote ID": "537576",
+    "Quote Amount": "$1039.98",
+    "Closing Date": "04/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ZOE WILLIAMS",
+    "Service Address": "1827 SWITZER AVE",
+    "Zip Code": "63147",
+    "Locator": "43280100100",
+    "Quote ID": "537575",
+    "Quote Amount": "$1196.17",
+    "Closing Date": "04/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "JISTA INVESTMENTS LLC",
     "Service Address": "8531 JANE AVE",
     "Zip Code": "63121",
@@ -1096,6 +1140,28 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JEFFREY WINHEIM",
+    "Service Address": "1527 WOODEN BRIDGE TRL",
+    "Zip Code": "63021",
+    "Locator": "25Q130290",
+    "Quote ID": "537580",
+    "Quote Amount": "Pending",
+    "Closing Date": "04/28/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JUANITA MOORE",
+    "Service Address": "1950 THUNDERBIRD AVE",
+    "Zip Code": "63033",
+    "Locator": "07J330271",
+    "Quote ID": "537577",
+    "Quote Amount": "Pending",
+    "Closing Date": "04/28/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
