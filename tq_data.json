@@ -1001,6 +1001,39 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "FELICIA BAMER",
+    "Service Address": "1126 BIG BEND CROSSING DR",
+    "Zip Code": "63088",
+    "Locator": "24P111206",
+    "Quote ID": "537742",
+    "Quote Amount": "$0.00",
+    "Closing Date": "04/28/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TRUDY MABRY",
+    "Service Address": "12210 CENTERBROOK DR",
+    "Zip Code": "63033",
+    "Locator": "08G330302",
+    "Quote ID": "537741",
+    "Quote Amount": "$13110.89",
+    "Closing Date": "04/28/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "REBECCA RANCH",
+    "Service Address": "680 CRABAPPLE LN",
+    "Zip Code": "63031",
+    "Locator": "07J440820",
+    "Quote ID": "537739",
+    "Quote Amount": "$2902.70",
+    "Closing Date": "04/28/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "PAMELA F KLAUS",
     "Service Address": "295 GROVER RD",
     "Zip Code": "63125",
@@ -1023,12 +1056,34 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "NAOMI GRAY",
+    "Service Address": "4105 BURGEN AVE",
+    "Zip Code": "63116",
+    "Locator": "55020005800",
+    "Quote ID": "537736",
+    "Quote Amount": "$3365.61",
+    "Closing Date": "04/28/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ERNESTINE WARMSLEY",
     "Service Address": "1533 GIESEKING LN",
     "Zip Code": "63147",
     "Locator": "43321102700",
     "Quote ID": "537735",
     "Quote Amount": "$381.56",
+    "Closing Date": "04/28/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JEFFREY WINHEIM",
+    "Service Address": "1527 WOODEN BRIDGE TRL",
+    "Zip Code": "63021",
+    "Locator": "25Q130290",
+    "Quote ID": "537580",
+    "Quote Amount": "$5075.14",
     "Closing Date": "04/28/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1144,28 +1199,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "FELICIA BAMER",
-    "Service Address": "1126 BIG BEND CROSSING DR",
-    "Zip Code": "63088",
-    "Locator": "24P111206",
-    "Quote ID": "537742",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/28/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TRUDY MABRY",
-    "Service Address": "12210 CENTERBROOK DR",
-    "Zip Code": "63033",
-    "Locator": "08G330302",
-    "Quote ID": "537741",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/28/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "LATOYA DRAGGS",
     "Service Address": "1489 FERGUSON AVE",
     "Zip Code": "63133",
@@ -1177,46 +1210,13 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "REBECCA RANCH",
-    "Service Address": "680 CRABAPPLE LN",
-    "Zip Code": "63031",
-    "Locator": "07J440820",
-    "Quote ID": "537739",
+    "Seller Name": "ANTOINE MEEKS",
+    "Service Address": "2105 PALM ST",
+    "Zip Code": "63107",
+    "Locator": "11590001000",
+    "Quote ID": "537747",
     "Quote Amount": "Pending",
-    "Closing Date": "04/28/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "NAOMI GRAY",
-    "Service Address": "4105 BURGEN AVE",
-    "Zip Code": "63116",
-    "Locator": "55020005800",
-    "Quote ID": "537736",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/28/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JEFFREY WINHEIM",
-    "Service Address": "1527 WOODEN BRIDGE TRL",
-    "Zip Code": "63021",
-    "Locator": "25Q130290",
-    "Quote ID": "537580",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/28/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JUANITA MOORE",
-    "Service Address": "1950 THUNDERBIRD AVE",
-    "Zip Code": "63033",
-    "Locator": "07J330271",
-    "Quote ID": "537577",
-    "Quote Amount": "Pending",
-    "Closing Date": "04/28/2026",
+    "Closing Date": "05/08/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
