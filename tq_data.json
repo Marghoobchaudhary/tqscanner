@@ -473,17 +473,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "JOHN CRAIG FLICKINGER",
-    "Service Address": "1165 BIG BEND CROSSING DR",
-    "Zip Code": "63088",
-    "Locator": "24P120556",
-    "Quote ID": "536463",
-    "Quote Amount": "$1124.56",
-    "Closing Date": "04/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "JORIE JONES PRATHER",
     "Service Address": "1165 ENGLISH SADDLE RD",
     "Zip Code": "63034",
@@ -1023,6 +1012,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "LATOYA DRAGGS",
+    "Service Address": "1489 FERGUSON AVE",
+    "Zip Code": "63133",
+    "Locator": "16H410844",
+    "Quote ID": "537740",
+    "Quote Amount": "$9073.29",
+    "Closing Date": "04/28/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "REBECCA RANCH",
     "Service Address": "680 CRABAPPLE LN",
     "Zip Code": "63031",
@@ -1096,6 +1096,50 @@
     "Quote ID": "537212",
     "Quote Amount": "$-70.13",
     "Closing Date": "04/28/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "IYANU BENSON ADEYEMI",
+    "Service Address": "3525 HALLIDAY AVE",
+    "Zip Code": "63118",
+    "Locator": "14470002100",
+    "Quote ID": "537884",
+    "Quote Amount": "$493.84",
+    "Closing Date": "04/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TERRANCE GADDY",
+    "Service Address": "4161 LAFAYETTE AVE",
+    "Zip Code": "63110",
+    "Locator": "54420003500",
+    "Quote ID": "537883",
+    "Quote Amount": "$2789.28",
+    "Closing Date": "04/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "REBECCA & JASON SCWARTZ",
+    "Service Address": "5666 PERNOD AVE",
+    "Zip Code": "63139",
+    "Locator": "62930000700",
+    "Quote ID": "537882",
+    "Quote Amount": "$1319.54",
+    "Closing Date": "04/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "B NELSON ESSIET",
+    "Service Address": "4201 WASHINGTON BLVD",
+    "Zip Code": "63108",
+    "Locator": "37570002350",
+    "Quote ID": "537880",
+    "Quote Amount": "$291.56",
+    "Closing Date": "04/29/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1199,13 +1243,13 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "LATOYA DRAGGS",
-    "Service Address": "1489 FERGUSON AVE",
-    "Zip Code": "63133",
-    "Locator": "16H410844",
-    "Quote ID": "537740",
+    "Seller Name": "DAVID CARTER",
+    "Service Address": "6615 VILLA AVE",
+    "Zip Code": "63139",
+    "Locator": "50640001500",
+    "Quote ID": "537881",
     "Quote Amount": "Pending",
-    "Closing Date": "04/28/2026",
+    "Closing Date": "04/29/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
