@@ -374,17 +374,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "TRAVIS & CH A MITCHELL",
-    "Service Address": "4444 ARCO AVE",
-    "Zip Code": "63110",
-    "Locator": "51090000800",
-    "Quote ID": "536793",
-    "Quote Amount": "$19790.00",
-    "Closing Date": "04/19/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "JOHN D TAYLOR",
     "Service Address": "4461 FARLIN AVE",
     "Zip Code": "63115",
@@ -1177,6 +1166,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ANTOINE MEEKS",
+    "Service Address": "2105 PALM ST",
+    "Zip Code": "63107",
+    "Locator": "11590001000",
+    "Quote ID": "537747",
+    "Quote Amount": "$0.00",
+    "Closing Date": "05/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ANGELA MCCREE",
     "Service Address": "946 ARMADA CT",
     "Zip Code": "63031",
@@ -1250,17 +1250,6 @@
     "Quote ID": "537885",
     "Quote Amount": "Pending",
     "Closing Date": "05/05/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ANTOINE MEEKS",
-    "Service Address": "2105 PALM ST",
-    "Zip Code": "63107",
-    "Locator": "11590001000",
-    "Quote ID": "537747",
-    "Quote Amount": "Pending",
-    "Closing Date": "05/08/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
