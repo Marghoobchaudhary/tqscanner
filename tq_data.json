@@ -1,60 +1,5 @@
 [
   {
-    "Seller Name": "OZONE INVESTMENTS LLC",
-    "Service Address": "7351 JENWOOD AVE",
-    "Zip Code": "63136",
-    "Locator": "13G212112",
-    "Quote ID": "536472",
-    "Quote Amount": "$0.00",
-    "Closing Date": "04/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ARLIN INVESTMENT GROUP LLC",
-    "Service Address": "2333 SHANNON AVE",
-    "Zip Code": "63136",
-    "Locator": "13F430113",
-    "Quote ID": "536471",
-    "Quote Amount": "$1122.30",
-    "Closing Date": "04/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PACS LLC",
-    "Service Address": "8516 CHURCH RD",
-    "Zip Code": "63147",
-    "Locator": "52090003500",
-    "Quote ID": "536467",
-    "Quote Amount": "$913.83",
-    "Closing Date": "04/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DEANA MOORE",
-    "Service Address": "9002 SHERLAND AVE",
-    "Zip Code": "63114",
-    "Locator": "15K441081",
-    "Quote ID": "536465",
-    "Quote Amount": "$7868.62",
-    "Closing Date": "04/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DELORES C DAVE",
-    "Service Address": "2625 HADDEN DR",
-    "Zip Code": "63136",
-    "Locator": "09G330402",
-    "Quote ID": "536464",
-    "Quote Amount": "$1210.48",
-    "Closing Date": "04/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "JORIE JONES PRATHER",
     "Service Address": "1165 ENGLISH SADDLE RD",
     "Zip Code": "63034",
@@ -946,6 +891,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "R US BANK NA C/O TEAL RESULTS",
+    "Service Address": "2723 SALENA ST",
+    "Zip Code": "63118",
+    "Locator": "18000001100",
+    "Quote ID": "538349",
+    "Quote Amount": "$2227.41",
+    "Closing Date": "05/04/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "US BANK NA",
+    "Service Address": "2721 SALENA ST",
+    "Zip Code": "63118",
+    "Locator": "18000001100",
+    "Quote ID": "538348",
+    "Quote Amount": "$1753.49",
+    "Closing Date": "05/04/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "TERRAGON LLC",
     "Service Address": "5215 N EUCLID AVE",
     "Zip Code": "63115",
@@ -1031,7 +998,7 @@
     "Quote Amount": "$668.77",
     "Closing Date": "05/04/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "NICOLE ANDERSON",
@@ -1042,7 +1009,7 @@
     "Quote Amount": "$156.13",
     "Closing Date": "05/04/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "FRANCIS W WEBER",
@@ -1053,7 +1020,73 @@
     "Quote Amount": "$82.44",
     "Closing Date": "05/04/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "LLC CRUMP PROPERTY MANAGEMENT",
+    "Service Address": "8428 MCLARAN AVE",
+    "Zip Code": "63136",
+    "Locator": "13G510164",
+    "Quote ID": "538355",
+    "Quote Amount": "$844.76",
+    "Closing Date": "05/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "TERRI BUSCH",
+    "Service Address": "3980 MERAMEC ST",
+    "Zip Code": "63116",
+    "Locator": "63710002700",
+    "Quote ID": "538354",
+    "Quote Amount": "$150.30",
+    "Closing Date": "05/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "CHARLES J MARINO",
+    "Service Address": "7161 LINDENWOOD PL",
+    "Zip Code": "63109",
+    "Locator": "49830002300",
+    "Quote ID": "538353",
+    "Quote Amount": "$152.61",
+    "Closing Date": "05/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "CCB ELITE PROPERTYSERVICES LLC",
+    "Service Address": "3744 ILLINOIS AVE",
+    "Zip Code": "63118",
+    "Locator": "16620000200",
+    "Quote ID": "538351",
+    "Quote Amount": "$584.81",
+    "Closing Date": "05/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "CHARLES FRIET",
+    "Service Address": "10 MONTAUK DR",
+    "Zip Code": "63146",
+    "Locator": "15N210303",
+    "Quote ID": "538347",
+    "Quote Amount": "$302.37",
+    "Closing Date": "05/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "MICHAEL MCGINNIS",
+    "Service Address": "438 BEACON POINT LN",
+    "Zip Code": "63040",
+    "Locator": "24U540164",
+    "Quote ID": "538346",
+    "Quote Amount": "$1867.66",
+    "Closing Date": "05/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
   },
   {
     "Seller Name": "ATWT BUTTERCUP SOMERSET LLC",
@@ -1064,7 +1097,7 @@
     "Quote Amount": "$461.73",
     "Closing Date": "05/05/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "RICHARD HAYES",
@@ -1075,7 +1108,7 @@
     "Quote Amount": "$1984.33",
     "Closing Date": "05/06/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "ANTOINE MEEKS",
@@ -1086,7 +1119,7 @@
     "Quote Amount": "$0.00",
     "Closing Date": "05/08/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "ANGELA MCCREE",
@@ -1097,7 +1130,7 @@
     "Quote Amount": "$1430.00",
     "Closing Date": "05/10/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "MATTHEW & VANESSA ISAACS",
@@ -1108,7 +1141,7 @@
     "Quote Amount": "Pending",
     "Closing Date": "02/16/2026",
     "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "ARAM ISTEPHAN",
@@ -1119,7 +1152,7 @@
     "Quote Amount": "Pending",
     "Closing Date": "02/17/2026",
     "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "MJO PROPERTIES LLC",
@@ -1130,7 +1163,7 @@
     "Quote Amount": "Pending",
     "Closing Date": "02/19/2026",
     "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "KAYLA RILEY",
@@ -1141,7 +1174,7 @@
     "Quote Amount": "Pending",
     "Closing Date": "02/19/2026",
     "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "SHIRLEY BRAZIEL",
@@ -1152,7 +1185,7 @@
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
     "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "DARNELL PICKENS",
@@ -1163,7 +1196,7 @@
     "Quote Amount": "Pending",
     "Closing Date": "05/03/2026",
     "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "MATTHEW O FANEGAN",
@@ -1174,7 +1207,7 @@
     "Quote Amount": "Pending",
     "Closing Date": "05/03/2026",
     "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "FORECLOSURE INVESTMENTS LLC",
@@ -1185,6 +1218,28 @@
     "Quote Amount": "Pending",
     "Closing Date": "05/05/2026",
     "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "SHERWIN HUNLEY",
+    "Service Address": "2730 OSAGE ST-63118",
+    "Zip Code": "63118",
+    "Locator": "26030001800",
+    "Quote ID": "538352",
+    "Quote Amount": "Pending",
+    "Closing Date": "05/05/2026",
+    "Stage": "In Progress",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "HOLDIN ALL THINGS REAL ESTATE",
+    "Service Address": "1345 MONTCLAIR AVE",
+    "Zip Code": "63112",
+    "Locator": "38080401200",
+    "Quote ID": "538350",
+    "Quote Amount": "Pending",
+    "Closing Date": "05/05/2026",
+    "Stage": "In Progress",
+    "Submitted By": ""
   }
 ]
