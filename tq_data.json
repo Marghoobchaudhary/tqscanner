@@ -1045,6 +1045,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "TIARRA GUNN",
+    "Service Address": "4321 E FAIRFAX CT",
+    "Zip Code": "63113",
+    "Locator": "45680005900",
+    "Quote ID": "538475",
+    "Quote Amount": "$3304.21",
+    "Closing Date": "05/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "JOHN J GRIFFIN III",
     "Service Address": "7541 HOOVER AVE",
     "Zip Code": "63117",
@@ -1144,6 +1155,28 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "FAITH LANE",
+    "Service Address": "4983 CHIPPEWA ST",
+    "Zip Code": "63109",
+    "Locator": "60350001900",
+    "Quote ID": "538515",
+    "Quote Amount": "$252.56",
+    "Closing Date": "05/06/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "BLUE MOON REALTY LLC",
+    "Service Address": "4423 NEBRASKA AVE",
+    "Zip Code": "63111",
+    "Locator": "27040002400",
+    "Quote ID": "538514",
+    "Quote Amount": "$1947.89",
+    "Closing Date": "05/06/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "RICHARD HAYES",
     "Service Address": "575 RYAN DR",
     "Zip Code": "63031",
@@ -1151,6 +1184,17 @@
     "Quote ID": "537892",
     "Quote Amount": "$1984.33",
     "Closing Date": "05/06/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "JOSEPH YOWELL",
+    "Service Address": "5919 MINNESOTA AVE",
+    "Zip Code": "63111",
+    "Locator": "29140001200",
+    "Quote ID": "538506",
+    "Quote Amount": "$236.86",
+    "Closing Date": "05/07/2026",
     "Stage": "Pending Close",
     "Submitted By": ""
   },
@@ -1250,6 +1294,28 @@
     "Quote ID": "538350",
     "Quote Amount": "Pending",
     "Closing Date": "05/05/2026",
+    "Stage": "In Progress",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "DARROLYN ANDERSON",
+    "Service Address": "4944 ASHBY AVE",
+    "Zip Code": "63115",
+    "Locator": "52610003250",
+    "Quote ID": "538516",
+    "Quote Amount": "Pending",
+    "Closing Date": "05/06/2026",
+    "Stage": "In Progress",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "THOMAS HAMMONDS",
+    "Service Address": "35 COLUMBUS SQUARE",
+    "Zip Code": "63101",
+    "Locator": "02620003700",
+    "Quote ID": "538503",
+    "Quote Amount": "Pending",
+    "Closing Date": "05/07/2026",
     "Stage": "In Progress",
     "Submitted By": ""
   }
