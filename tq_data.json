@@ -1122,6 +1122,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "HOLDIN ALL THINGS REAL ESTATE",
+    "Service Address": "1345 MONTCLAIR AVE",
+    "Zip Code": "63112",
+    "Locator": "38080401200",
+    "Quote ID": "538350",
+    "Quote Amount": "$0.00",
+    "Closing Date": "05/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "CHARLES FRIET",
     "Service Address": "10 MONTAUK DR",
     "Zip Code": "63146",
@@ -1151,6 +1162,72 @@
     "Quote ID": "537891",
     "Quote Amount": "$461.73",
     "Closing Date": "05/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "GILMA MONJE",
+    "Service Address": "4535 RAY AVE",
+    "Zip Code": "63116",
+    "Locator": "52730002300",
+    "Quote ID": "538529",
+    "Quote Amount": "$874.24",
+    "Closing Date": "05/06/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "NATHALIE FLETCHER",
+    "Service Address": "2202 OSAGE ST-63118",
+    "Zip Code": "63118",
+    "Locator": "26080001200",
+    "Quote ID": "538528",
+    "Quote Amount": "$962.86",
+    "Closing Date": "05/06/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "TRUE GATES REAL ESTATE LLC",
+    "Service Address": "406 MEYER AVE-63122",
+    "Zip Code": "63122",
+    "Locator": "24N420551",
+    "Quote ID": "538522",
+    "Quote Amount": "$123.66",
+    "Closing Date": "05/06/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "MONICA ZIDARU",
+    "Service Address": "7553 SHAFTESBURY AVE",
+    "Zip Code": "63130",
+    "Locator": "17K341411",
+    "Quote ID": "538521",
+    "Quote Amount": "$1091.91",
+    "Closing Date": "05/06/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "LOLA & PAUL ROWE",
+    "Service Address": "2959 WALTON RD",
+    "Zip Code": "63114",
+    "Locator": "14K610084",
+    "Quote ID": "538520",
+    "Quote Amount": "$882.03",
+    "Closing Date": "05/06/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "DIABLO BOW DENISE BOW",
+    "Service Address": "12360 SPACE DR",
+    "Zip Code": "63033",
+    "Locator": "07F210167",
+    "Quote ID": "538519",
+    "Quote Amount": "$28.50",
+    "Closing Date": "05/06/2026",
     "Stage": "Pending Close",
     "Submitted By": ""
   },
@@ -1199,6 +1276,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "THOMAS HAMMONDS",
+    "Service Address": "35 COLUMBUS SQUARE",
+    "Zip Code": "63101",
+    "Locator": "02620003700",
+    "Quote ID": "538503",
+    "Quote Amount": "$5171.14",
+    "Closing Date": "05/07/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "ANTOINE MEEKS",
     "Service Address": "2105 PALM ST",
     "Zip Code": "63107",
@@ -1217,6 +1305,28 @@
     "Quote ID": "537893",
     "Quote Amount": "$1430.00",
     "Closing Date": "05/10/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "AARON RICKMON",
+    "Service Address": "6922 IRA AVE",
+    "Zip Code": "63121",
+    "Locator": "15H630744",
+    "Quote ID": "538532",
+    "Quote Amount": "$1587.09",
+    "Closing Date": "05/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "TIFFINEY MILLS",
+    "Service Address": "3140 SHACKELFORD RD",
+    "Zip Code": "63031",
+    "Locator": "05J420138",
+    "Quote ID": "538526",
+    "Quote Amount": "$36.52",
+    "Closing Date": "05/13/2026",
     "Stage": "Pending Close",
     "Submitted By": ""
   },
@@ -1287,46 +1397,35 @@
     "Submitted By": ""
   },
   {
-    "Seller Name": "FORECLOSURE INVESTMENTS LLC",
-    "Service Address": "7728 DUSKY DR-63133",
-    "Zip Code": "63133",
-    "Locator": "16J231004",
-    "Quote ID": "537885",
-    "Quote Amount": "Pending",
-    "Closing Date": "05/05/2026",
-    "Stage": "In Progress",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "HOLDIN ALL THINGS REAL ESTATE",
-    "Service Address": "1345 MONTCLAIR AVE",
-    "Zip Code": "63112",
-    "Locator": "38080401200",
-    "Quote ID": "538350",
-    "Quote Amount": "Pending",
-    "Closing Date": "05/05/2026",
-    "Stage": "In Progress",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "DARROLYN ANDERSON",
-    "Service Address": "4944 ASHBY AVE",
-    "Zip Code": "63115",
-    "Locator": "52610003250",
-    "Quote ID": "538516",
+    "Seller Name": "DANIEL P. CORDIA",
+    "Service Address": "8588 ARDELIA AVE",
+    "Zip Code": "63114",
+    "Locator": "14K630851",
+    "Quote ID": "538524",
     "Quote Amount": "Pending",
     "Closing Date": "05/06/2026",
     "Stage": "In Progress",
     "Submitted By": ""
   },
   {
-    "Seller Name": "THOMAS HAMMONDS",
-    "Service Address": "35 COLUMBUS SQUARE",
-    "Zip Code": "63101",
-    "Locator": "02620003700",
-    "Quote ID": "538503",
+    "Seller Name": "DAMIAN P POWELL",
+    "Service Address": "10147 JETT DR",
+    "Zip Code": "63136",
+    "Locator": "11G420977",
+    "Quote ID": "538523",
     "Quote Amount": "Pending",
-    "Closing Date": "05/07/2026",
+    "Closing Date": "05/06/2026",
+    "Stage": "In Progress",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "JAMIE MCGOWAN",
+    "Service Address": "855 LILAC DR-63031",
+    "Zip Code": "63031",
+    "Locator": "07J430117",
+    "Quote ID": "538525",
+    "Quote Amount": "Pending",
+    "Closing Date": "05/10/2026",
     "Stage": "In Progress",
     "Submitted By": ""
   }
