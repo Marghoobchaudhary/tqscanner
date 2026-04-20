@@ -1188,6 +1188,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "DANIEL P. CORDIA",
+    "Service Address": "8588 ARDELIA AVE",
+    "Zip Code": "63114",
+    "Locator": "14K630851",
+    "Quote ID": "538524",
+    "Quote Amount": "$2851.88",
+    "Closing Date": "05/06/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "TRUE GATES REAL ESTATE LLC",
     "Service Address": "406 MEYER AVE-63122",
     "Zip Code": "63122",
@@ -1320,6 +1331,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "JAMIE MCGOWAN",
+    "Service Address": "855 LILAC DR-63031",
+    "Zip Code": "63031",
+    "Locator": "07J430117",
+    "Quote ID": "538525",
+    "Quote Amount": "$2188.10",
+    "Closing Date": "05/10/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "ANGELA MCCREE",
     "Service Address": "946 ARMADA CT",
     "Zip Code": "63031",
@@ -1419,17 +1441,6 @@
     "Submitted By": ""
   },
   {
-    "Seller Name": "DANIEL P. CORDIA",
-    "Service Address": "8588 ARDELIA AVE",
-    "Zip Code": "63114",
-    "Locator": "14K630851",
-    "Quote ID": "538524",
-    "Quote Amount": "Pending",
-    "Closing Date": "05/06/2026",
-    "Stage": "In Progress",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "DAMIAN P POWELL",
     "Service Address": "10147 JETT DR",
     "Zip Code": "63136",
@@ -1437,17 +1448,6 @@
     "Quote ID": "538523",
     "Quote Amount": "Pending",
     "Closing Date": "05/06/2026",
-    "Stage": "In Progress",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "JAMIE MCGOWAN",
-    "Service Address": "855 LILAC DR-63031",
-    "Zip Code": "63031",
-    "Locator": "07J430117",
-    "Quote ID": "538525",
-    "Quote Amount": "Pending",
-    "Closing Date": "05/10/2026",
     "Stage": "In Progress",
     "Submitted By": ""
   }
