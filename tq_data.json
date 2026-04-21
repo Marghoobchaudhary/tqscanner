@@ -1,16 +1,5 @@
 [
   {
-    "Seller Name": "JUSTIN PALLISER",
-    "Service Address": "59 W SHERWOOD DR",
-    "Zip Code": "63114",
-    "Locator": "15K140340",
-    "Quote ID": "537215",
-    "Quote Amount": "$9226.00",
-    "Closing Date": "04/21/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "CURT C BALLANC",
     "Service Address": "5114 WEBER RD-63123",
     "Zip Code": "63123",
@@ -998,7 +987,7 @@
     "Quote Amount": "$1867.66",
     "Closing Date": "05/05/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "ATWT BUTTERCUP SOMERSET LLC",
@@ -1294,6 +1283,17 @@
     "Quote ID": "538523",
     "Quote Amount": "Pending",
     "Closing Date": "05/06/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "W L JEFFERSON",
+    "Service Address": "5403 QUEENS AVE",
+    "Zip Code": "63115",
+    "Locator": "51430004700",
+    "Quote ID": "538785",
+    "Quote Amount": "Pending",
+    "Closing Date": "05/10/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
