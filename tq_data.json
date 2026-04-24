@@ -1210,6 +1210,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "DARBA ESTATES LLC",
+    "Service Address": "3918 MICHIGAN AVE",
+    "Zip Code": "63118",
+    "Locator": "25720001000",
+    "Quote ID": "539186",
+    "Quote Amount": "$386.34",
+    "Closing Date": "05/14/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DEANNE KAY BARNES",
+    "Service Address": "11934 GLENMAR DR",
+    "Zip Code": "63043",
+    "Locator": "12O220317",
+    "Quote ID": "539180",
+    "Quote Amount": "$100.98",
+    "Closing Date": "05/15/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ANNETTE AMBUS",
     "Service Address": "3630 ESTATES DR",
     "Zip Code": "63033",
@@ -1327,6 +1349,72 @@
     "Quote ID": "538943",
     "Quote Amount": "Pending",
     "Closing Date": "05/11/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "HOMER W & TAMI SMITH",
+    "Service Address": "1476 SPRINGHURST DR",
+    "Zip Code": "63031",
+    "Locator": "06K620712",
+    "Quote ID": "539182",
+    "Quote Amount": "Pending",
+    "Closing Date": "05/13/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SONSHINE REAL ESTATE INVEST",
+    "Service Address": "3820 WOODCREST DR",
+    "Zip Code": "63033",
+    "Locator": "08H630814",
+    "Quote ID": "539181",
+    "Quote Amount": "Pending",
+    "Closing Date": "05/13/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CAREY COLQUITT",
+    "Service Address": "1 LENOX PL",
+    "Zip Code": "63108",
+    "Locator": "52080002000",
+    "Quote ID": "539187",
+    "Quote Amount": "Pending",
+    "Closing Date": "05/14/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JASON BEALS",
+    "Service Address": "3109 THELMA AVE",
+    "Zip Code": "63121",
+    "Locator": "14J230650",
+    "Quote ID": "539184",
+    "Quote Amount": "Pending",
+    "Closing Date": "05/14/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JAY SMITH",
+    "Service Address": "6512 WOODROW AVE",
+    "Zip Code": "63121",
+    "Locator": "15H320902",
+    "Quote ID": "539183",
+    "Quote Amount": "Pending",
+    "Closing Date": "05/14/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CLARA MORRIS",
+    "Service Address": "8823 PARK LN",
+    "Zip Code": "63147",
+    "Locator": "61440001500",
+    "Quote ID": "539189",
+    "Quote Amount": "Pending",
+    "Closing Date": "05/15/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
