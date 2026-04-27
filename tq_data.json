@@ -1,126 +1,5 @@
 [
   {
-    "Seller Name": "MONICA HINTON",
-    "Service Address": "4725 LEDUC ST",
-    "Zip Code": "63113",
-    "Locator": "37810004000",
-    "Quote ID": "537333",
-    "Quote Amount": "$439.22",
-    "Closing Date": "04/26/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "DEEANN STUDENT",
-    "Service Address": "2593 AUBURNHILL CT",
-    "Zip Code": "63031",
-    "Locator": "05K220092",
-    "Quote ID": "537211",
-    "Quote Amount": "$6197.04",
-    "Closing Date": "04/26/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "STEPHANIE TRENTMANN",
-    "Service Address": "10607 SAINT MICHAELS TERRACE CT",
-    "Zip Code": "63074",
-    "Locator": "14M610543",
-    "Quote ID": "537443",
-    "Quote Amount": "$524.32",
-    "Closing Date": "04/27/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "R MARK SPECKERT",
-    "Service Address": "166 S OLD ORCHARD AVE",
-    "Zip Code": "63119",
-    "Locator": "23K610048",
-    "Quote ID": "537442",
-    "Quote Amount": "$824.39",
-    "Closing Date": "04/27/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "MEAGAN WEAVER",
-    "Service Address": "246 W RIPA AVE",
-    "Zip Code": "63125",
-    "Locator": "28H641641",
-    "Quote ID": "537578",
-    "Quote Amount": "$3653.82",
-    "Closing Date": "04/27/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "EQUITY REALTY CENTER INC",
-    "Service Address": "2130 JOHN AVE",
-    "Zip Code": "63107",
-    "Locator": "24800000200",
-    "Quote ID": "537576",
-    "Quote Amount": "$1039.98",
-    "Closing Date": "04/27/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "ZOE WILLIAMS",
-    "Service Address": "1827 SWITZER AVE",
-    "Zip Code": "63147",
-    "Locator": "43280100100",
-    "Quote ID": "537575",
-    "Quote Amount": "$1196.17",
-    "Closing Date": "04/27/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "JISTA INVESTMENTS LLC",
-    "Service Address": "8531 JANE AVE",
-    "Zip Code": "63121",
-    "Locator": "14J540069",
-    "Quote ID": "537449",
-    "Quote Amount": "$1586.49",
-    "Closing Date": "04/27/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "SHERIKO WHITE",
-    "Service Address": "1360 MALLARD LN",
-    "Zip Code": "63031",
-    "Locator": "06K140980",
-    "Quote ID": "537448",
-    "Quote Amount": "$423.77",
-    "Closing Date": "04/27/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "CARMEN R FRANKLIN",
-    "Service Address": "15 VIZCUYA CT",
-    "Zip Code": "63033",
-    "Locator": "08F330332",
-    "Quote ID": "537447",
-    "Quote Amount": "$841.33",
-    "Closing Date": "04/27/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "SHIRLEY MARSHALL",
-    "Service Address": "21 CRABAPPLE CT",
-    "Zip Code": "63132",
-    "Locator": "17L440069",
-    "Quote ID": "537446",
-    "Quote Amount": "$879.20",
-    "Closing Date": "04/27/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "MICHAEL J HAMPTON",
     "Service Address": "7426 FLORISSANT RD",
     "Zip Code": "63121",
@@ -998,7 +877,7 @@
     "Quote Amount": "$1164.07",
     "Closing Date": "05/10/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "JORAM NIYONSABA GRACE &",
@@ -1009,7 +888,7 @@
     "Quote Amount": "$2443.01",
     "Closing Date": "05/10/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "JOSHUA COOK",
@@ -1020,7 +899,7 @@
     "Quote Amount": "$1566.87",
     "Closing Date": "05/10/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "W L JEFFERSON",
@@ -1031,7 +910,7 @@
     "Quote Amount": "$5680.60",
     "Closing Date": "05/10/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "CECIL GRANBERRY",
@@ -1042,7 +921,7 @@
     "Quote Amount": "$4283.80",
     "Closing Date": "05/10/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "JAMIE MCGOWAN",
@@ -1053,7 +932,7 @@
     "Quote Amount": "$2188.10",
     "Closing Date": "05/10/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "ANGELA MCCREE",
@@ -1064,7 +943,7 @@
     "Quote Amount": "$1430.00",
     "Closing Date": "05/10/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "THOMAS M HUDSON",
@@ -1075,7 +954,7 @@
     "Quote Amount": "$1893.98",
     "Closing Date": "05/11/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "AMANDA & MATTHEW MEYER",
@@ -1086,7 +965,7 @@
     "Quote Amount": "$123.64",
     "Closing Date": "05/11/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "LILLIE ROBINSON",
@@ -1097,7 +976,7 @@
     "Quote Amount": "$1917.48",
     "Closing Date": "05/11/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "CYNTHIA A SENN",
@@ -1108,7 +987,7 @@
     "Quote Amount": "$4273.96",
     "Closing Date": "05/11/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "ADAM SPIELBERG",
