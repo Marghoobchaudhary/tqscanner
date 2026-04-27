@@ -1122,12 +1122,34 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "BRITTANY ANDERSON",
+    "Service Address": "1733 DOWD DR",
+    "Zip Code": "63136",
+    "Locator": "10G510774",
+    "Quote ID": "539328",
+    "Quote Amount": "$3053.89",
+    "Closing Date": "05/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "LLOYD C OR ROBIN PEAL",
     "Service Address": "3705 GORDON AVE",
     "Zip Code": "63114",
     "Locator": "13K130415",
     "Quote ID": "539327",
     "Quote Amount": "$741.23",
+    "Closing Date": "05/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JAMES S TYNES",
+    "Service Address": "270 W ST ANTHONY LN",
+    "Zip Code": "63031",
+    "Locator": "09J420901",
+    "Quote ID": "539326",
+    "Quote Amount": "$0.00",
     "Closing Date": "05/13/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1232,6 +1254,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JASON BEALS",
+    "Service Address": "3109 THELMA AVE",
+    "Zip Code": "63121",
+    "Locator": "14J230650",
+    "Quote ID": "539184",
+    "Quote Amount": "$814.44",
+    "Closing Date": "05/14/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "HASSAN LLC",
     "Service Address": "5161 MAPLE AVE",
     "Zip Code": "63113",
@@ -1309,6 +1342,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JOSHUA CHUMLEY",
+    "Service Address": "5725 HEMPLINE RD",
+    "Zip Code": "63129",
+    "Locator": "32H440513",
+    "Quote ID": "539329",
+    "Quote Amount": "$3168.31",
+    "Closing Date": "05/17/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "AARON MCLEMORE",
     "Service Address": "3707 S SPRING AVE",
     "Zip Code": "63116",
@@ -1371,61 +1415,6 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BRITTANY ANDERSON",
-    "Service Address": "1733 DOWD DR",
-    "Zip Code": "63136",
-    "Locator": "10G510774",
-    "Quote ID": "539328",
-    "Quote Amount": "Pending",
-    "Closing Date": "05/13/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JAMES S TYNES",
-    "Service Address": "270 W ST ANTHONY LN",
-    "Zip Code": "63031",
-    "Locator": "09J420901",
-    "Quote ID": "539326",
-    "Quote Amount": "Pending",
-    "Closing Date": "05/13/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JASON BEALS",
-    "Service Address": "3109 THELMA AVE",
-    "Zip Code": "63121",
-    "Locator": "14J230650",
-    "Quote ID": "539184",
-    "Quote Amount": "Pending",
-    "Closing Date": "05/14/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JAY SMITH",
-    "Service Address": "6512 WOODROW AVE",
-    "Zip Code": "63121",
-    "Locator": "15H320902",
-    "Quote ID": "539183",
-    "Quote Amount": "Pending",
-    "Closing Date": "05/14/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JOSHUA CHUMLEY",
-    "Service Address": "5725 HEMPLINE RD",
-    "Zip Code": "63129",
-    "Locator": "32H440513",
-    "Quote ID": "539329",
-    "Quote Amount": "Pending",
-    "Closing Date": "05/17/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
