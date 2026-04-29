@@ -1,93 +1,5 @@
 [
   {
-    "Seller Name": "TOPSTONE INV STL 1 LLC",
-    "Service Address": "2058 SIESTA LN",
-    "Zip Code": "63138",
-    "Locator": "08F320366",
-    "Quote ID": "537887",
-    "Quote Amount": "$1076.12",
-    "Closing Date": "04/29/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "TOPSTONE INV STL 1 LLC",
-    "Service Address": "5349 JANET AVE-63136",
-    "Zip Code": "63136",
-    "Locator": "14G242792",
-    "Quote ID": "537886",
-    "Quote Amount": "$2797.54",
-    "Closing Date": "04/29/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "IYANU BENSON ADEYEMI",
-    "Service Address": "3525 HALLIDAY AVE",
-    "Zip Code": "63118",
-    "Locator": "14470002100",
-    "Quote ID": "537884",
-    "Quote Amount": "$493.84",
-    "Closing Date": "04/29/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "TERRANCE GADDY",
-    "Service Address": "4161 LAFAYETTE AVE",
-    "Zip Code": "63110",
-    "Locator": "54420003500",
-    "Quote ID": "537883",
-    "Quote Amount": "$2789.28",
-    "Closing Date": "04/29/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "REBECCA & JASON SCWARTZ",
-    "Service Address": "5666 PERNOD AVE",
-    "Zip Code": "63139",
-    "Locator": "62930000700",
-    "Quote ID": "537882",
-    "Quote Amount": "$1319.54",
-    "Closing Date": "04/29/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "DAVID CARTER",
-    "Service Address": "6615 VILLA AVE",
-    "Zip Code": "63139",
-    "Locator": "50640001500",
-    "Quote ID": "537881",
-    "Quote Amount": "$2380.17",
-    "Closing Date": "04/29/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "B NELSON ESSIET",
-    "Service Address": "4201 WASHINGTON BLVD",
-    "Zip Code": "63108",
-    "Locator": "37570002350",
-    "Quote ID": "537880",
-    "Quote Amount": "$291.56",
-    "Closing Date": "04/29/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "BRIAN BODY",
-    "Service Address": "8709 MADEIRA DR",
-    "Zip Code": "63126",
-    "Locator": "25L240800",
-    "Quote ID": "537213",
-    "Quote Amount": "$3376.90",
-    "Closing Date": "04/29/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "MARGARET A BROWN",
     "Service Address": "9459 ROSLAN PL",
     "Zip Code": "63114",
@@ -998,7 +910,7 @@
     "Quote Amount": "$741.23",
     "Closing Date": "05/13/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "JAMES S TYNES",
@@ -1009,7 +921,7 @@
     "Quote Amount": "$0.00",
     "Closing Date": "05/13/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "ARCHIE LUSS JR",
@@ -1020,7 +932,7 @@
     "Quote Amount": "$415.18",
     "Closing Date": "05/13/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "WAYNE HONER",
@@ -1031,7 +943,7 @@
     "Quote Amount": "$684.47",
     "Closing Date": "05/13/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "JOHN JACKSON",
@@ -1042,7 +954,7 @@
     "Quote Amount": "$1352.99",
     "Closing Date": "05/13/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "BRIDGETON HOTELS LLC",
@@ -1053,7 +965,7 @@
     "Quote Amount": "$27271.01",
     "Closing Date": "05/13/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "MAXINE B HENRY",
@@ -1064,7 +976,7 @@
     "Quote Amount": "$1018.48",
     "Closing Date": "05/13/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "ALETHA BUCHANAN",
@@ -1075,7 +987,7 @@
     "Quote Amount": "$1188.05",
     "Closing Date": "05/13/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "TIFFINEY MILLS",
@@ -1265,6 +1177,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MELISSA AND ZACHARY PRIES",
+    "Service Address": "504 W RIPA AVE",
+    "Zip Code": "63125",
+    "Locator": "28H641331",
+    "Quote ID": "539683",
+    "Quote Amount": "$773.78",
+    "Closing Date": "05/18/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DAVAN BURKMAN",
+    "Service Address": "1885 S NEW FLORISSANT RD",
+    "Zip Code": "63031",
+    "Locator": "10J541321",
+    "Quote ID": "539682",
+    "Quote Amount": "$2896.79",
+    "Closing Date": "05/18/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "TERRANCE HALL",
     "Service Address": "1150 SUTTER AVE",
     "Zip Code": "63130",
@@ -1294,6 +1228,17 @@
     "Quote ID": "538869",
     "Quote Amount": "$1013.48",
     "Closing Date": "05/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "AHMAD HINDS",
+    "Service Address": "805 SPRINTERS ROW DR",
+    "Zip Code": "63034",
+    "Locator": "05H230857",
+    "Quote ID": "539680",
+    "Quote Amount": "$145.21",
+    "Closing Date": "05/28/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1349,17 +1294,6 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "AHMAD HINDS",
-    "Service Address": "805 SPRINTERS ROW DR",
-    "Zip Code": "63034",
-    "Locator": "05H230857",
-    "Quote ID": "539680",
-    "Quote Amount": "Pending",
-    "Closing Date": "05/28/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
