@@ -1,49 +1,5 @@
 [
   {
-    "Seller Name": "MARGARET A BROWN",
-    "Service Address": "9459 ROSLAN PL",
-    "Zip Code": "63114",
-    "Locator": "13L341111",
-    "Quote ID": "538058",
-    "Quote Amount": "$429.13",
-    "Closing Date": "04/30/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "ARLIN INVESTMENT GROUP LLC",
-    "Service Address": "101 TIFFIN AVE",
-    "Zip Code": "63135",
-    "Locator": "12H431014",
-    "Quote ID": "537900",
-    "Quote Amount": "$621.29",
-    "Closing Date": "04/30/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "ALLEN TATE",
-    "Service Address": "11720 SHEFFIELD DR",
-    "Zip Code": "63033",
-    "Locator": "08F240088",
-    "Quote ID": "537889",
-    "Quote Amount": "$1277.72",
-    "Closing Date": "04/30/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "FRANKLIN KLINE",
-    "Service Address": "6907 WINCHESTER DR",
-    "Zip Code": "63121",
-    "Locator": "14H320572",
-    "Quote ID": "537888",
-    "Quote Amount": "$118.06",
-    "Closing Date": "04/30/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "MJO PROPERTIES LLC",
     "Service Address": "306 RUE ST FRANCOIS ST",
     "Zip Code": "63031",
@@ -998,7 +954,7 @@
     "Quote Amount": "$36.52",
     "Closing Date": "05/13/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "CAREY COLQUITT",
@@ -1009,7 +965,7 @@
     "Quote Amount": "$7209.87",
     "Closing Date": "05/14/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "DARBA ESTATES LLC",
@@ -1020,7 +976,7 @@
     "Quote Amount": "$386.34",
     "Closing Date": "05/14/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "JASON BEALS",
@@ -1031,7 +987,7 @@
     "Quote Amount": "$814.44",
     "Closing Date": "05/14/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "HASSAN LLC",
@@ -1210,6 +1166,94 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ROSA CAFE LLC",
+    "Service Address": "6025 GRAVOIS AVE",
+    "Zip Code": "63116",
+    "Locator": "53650004400",
+    "Quote ID": "539841",
+    "Quote Amount": "$294.28",
+    "Closing Date": "05/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ALLEN L WINBUSH",
+    "Service Address": "7262 RAVINIA DR",
+    "Zip Code": "63121",
+    "Locator": "14H330830",
+    "Quote ID": "539838",
+    "Quote Amount": "$118.60",
+    "Closing Date": "05/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "IKOYI LLC",
+    "Service Address": "7142 DARTMOUTH AVE",
+    "Zip Code": "63130",
+    "Locator": "17J220083",
+    "Quote ID": "539837",
+    "Quote Amount": "$3382.80",
+    "Closing Date": "05/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LEONARD AND LISA DELZEIT",
+    "Service Address": "5039 SUSON HILLS DR",
+    "Zip Code": "63128",
+    "Locator": "31L130483",
+    "Quote ID": "539836",
+    "Quote Amount": "$225.00",
+    "Closing Date": "05/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BARLOUIS LLC",
+    "Service Address": "8914 MARCELLA AVE",
+    "Zip Code": "63121",
+    "Locator": "14J141066",
+    "Quote ID": "539834",
+    "Quote Amount": "$106.80",
+    "Closing Date": "05/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JUDITH GOULET",
+    "Service Address": "2519 FRANCES AVE",
+    "Zip Code": "63114",
+    "Locator": "14M220919",
+    "Quote ID": "539833",
+    "Quote Amount": "$509.73",
+    "Closing Date": "05/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MARY A LYLES",
+    "Service Address": "7730 SNOWDEN AVE",
+    "Zip Code": "63117",
+    "Locator": "20J141133",
+    "Quote ID": "539831",
+    "Quote Amount": "$193.24",
+    "Closing Date": "05/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MEAGAN WEAVER",
+    "Service Address": "246 W RIPA AVE",
+    "Zip Code": "63125",
+    "Locator": "28H641641",
+    "Quote ID": "539830",
+    "Quote Amount": "$3719.35",
+    "Closing Date": "05/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "VIRGINIA WARD",
     "Service Address": "5741 GOENER AVE",
     "Zip Code": "63116",
@@ -1250,6 +1294,17 @@
     "Quote ID": "538869",
     "Quote Amount": "$1013.48",
     "Closing Date": "05/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CHARLOTTA JOHNSON",
+    "Service Address": "818 JANUARY AVE",
+    "Zip Code": "63135",
+    "Locator": "11J610565",
+    "Quote ID": "539840",
+    "Quote Amount": "$3033.60",
+    "Closing Date": "05/27/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1316,6 +1371,39 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PATRICIA L WHITE",
+    "Service Address": "2 APACHE CT",
+    "Zip Code": "63033",
+    "Locator": "09H411115",
+    "Quote ID": "539839",
+    "Quote Amount": "Pending",
+    "Closing Date": "05/19/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PAUL D OR DIANE E MARKS",
+    "Service Address": "2674 BLUE HERON DR",
+    "Zip Code": "63031",
+    "Locator": "06L310380",
+    "Quote ID": "539835",
+    "Quote Amount": "Pending",
+    "Closing Date": "05/19/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MINNIE L ALLEN",
+    "Service Address": "8525 APPLETON DR",
+    "Zip Code": "63132",
+    "Locator": "16K110476",
+    "Quote ID": "539832",
+    "Quote Amount": "Pending",
+    "Closing Date": "05/19/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
