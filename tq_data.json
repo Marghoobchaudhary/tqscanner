@@ -1210,6 +1210,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "VIRGINIA WARD",
+    "Service Address": "5741 GOENER AVE",
+    "Zip Code": "63116",
+    "Locator": "58750001900",
+    "Quote ID": "539827",
+    "Quote Amount": "$1160.97",
+    "Closing Date": "05/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "RED DOOR LEGACY LLC",
+    "Service Address": "4137 LEE AVE",
+    "Zip Code": "63115",
+    "Locator": "35750002900",
+    "Quote ID": "539826",
+    "Quote Amount": "$1935.99",
+    "Closing Date": "05/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "RAYMOND WILHITE",
     "Service Address": "3021 WILLOW CREEK ESTATES DR",
     "Zip Code": "63031",
@@ -1294,6 +1316,17 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "RYAN SCHMITT",
+    "Service Address": "8411 PENNSYLVANIA AVE",
+    "Zip Code": "63111",
+    "Locator": "32270001300",
+    "Quote ID": "539828",
+    "Quote Amount": "Pending",
+    "Closing Date": "05/19/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
