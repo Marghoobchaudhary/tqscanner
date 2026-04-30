@@ -1166,6 +1166,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "SUMMERWOOD CONDOS",
+    "Service Address": "1502 SUMMER RUN DR UNIT 206",
+    "Zip Code": "63033",
+    "Locator": "09H211399",
+    "Quote ID": "539876",
+    "Quote Amount": "$930.74",
+    "Closing Date": "05/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "THE OAKS CONDO ASSN",
+    "Service Address": "155 N HANLEY RD APT 100",
+    "Zip Code": "63105",
+    "Locator": "18K341544",
+    "Quote ID": "539875",
+    "Quote Amount": "$737.89",
+    "Closing Date": "05/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ROSA CAFE LLC",
     "Service Address": "6025 GRAVOIS AVE",
     "Zip Code": "63116",
@@ -1210,6 +1232,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "PAUL D OR DIANE E MARKS",
+    "Service Address": "2674 BLUE HERON DR",
+    "Zip Code": "63031",
+    "Locator": "06L310380",
+    "Quote ID": "539835",
+    "Quote Amount": "$-662.99",
+    "Closing Date": "05/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "BARLOUIS LLC",
     "Service Address": "8914 MARCELLA AVE",
     "Zip Code": "63121",
@@ -1227,6 +1260,17 @@
     "Locator": "14M220919",
     "Quote ID": "539833",
     "Quote Amount": "$509.73",
+    "Closing Date": "05/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MINNIE L ALLEN",
+    "Service Address": "8525 APPLETON DR",
+    "Zip Code": "63132",
+    "Locator": "16K110476",
+    "Quote ID": "539832",
+    "Quote Amount": "$2491.50",
     "Closing Date": "05/19/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1342,17 +1386,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "MJO PROPERTIES LLC",
-    "Service Address": "6211 MADISON AVE",
-    "Zip Code": "63134",
-    "Locator": "11K340627",
-    "Quote ID": "531060",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/19/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "KAYLA RILEY",
     "Service Address": "224 AVENUE H ST",
     "Zip Code": "63125",
@@ -1380,28 +1413,6 @@
     "Zip Code": "63033",
     "Locator": "09H411115",
     "Quote ID": "539839",
-    "Quote Amount": "Pending",
-    "Closing Date": "05/19/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PAUL D OR DIANE E MARKS",
-    "Service Address": "2674 BLUE HERON DR",
-    "Zip Code": "63031",
-    "Locator": "06L310380",
-    "Quote ID": "539835",
-    "Quote Amount": "Pending",
-    "Closing Date": "05/19/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MINNIE L ALLEN",
-    "Service Address": "8525 APPLETON DR",
-    "Zip Code": "63132",
-    "Locator": "16K110476",
-    "Quote ID": "539832",
     "Quote Amount": "Pending",
     "Closing Date": "05/19/2026",
     "Stage": "In Progress",
