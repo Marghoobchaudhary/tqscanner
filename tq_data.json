@@ -1331,6 +1331,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "RAVIN LIPSCOMB",
+    "Service Address": "2827 ABNER PL-63120",
+    "Zip Code": "63120",
+    "Locator": "45170501700",
+    "Quote ID": "539938",
+    "Quote Amount": "$4030.14",
+    "Closing Date": "05/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "AARON MCLEMORE",
     "Service Address": "3707 S SPRING AVE",
     "Zip Code": "63116",
@@ -1426,6 +1437,17 @@
     "Quote ID": "539828",
     "Quote Amount": "Pending",
     "Closing Date": "05/19/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CANDIDA J KRISZT",
+    "Service Address": "3837 JUNIATA ST",
+    "Zip Code": "63116",
+    "Locator": "41110003900",
+    "Quote ID": "539984",
+    "Quote Amount": "Pending",
+    "Closing Date": "05/20/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
