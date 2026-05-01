@@ -1320,6 +1320,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JOHN A THIEMAN",
+    "Service Address": "1453 TWILLMAN AVE",
+    "Zip Code": "63138",
+    "Locator": "09E540094",
+    "Quote ID": "539993",
+    "Quote Amount": "$735.29",
+    "Closing Date": "05/20/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "HAN JIANG",
+    "Service Address": "439 BENTON ST",
+    "Zip Code": "63088",
+    "Locator": "26P441002",
+    "Quote ID": "539990",
+    "Quote Amount": "$574.45",
+    "Closing Date": "05/20/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "RAYMOND WILHITE",
     "Service Address": "3021 WILLOW CREEK ESTATES DR",
     "Zip Code": "63031",
@@ -1349,6 +1371,17 @@
     "Quote ID": "538869",
     "Quote Amount": "$1013.48",
     "Closing Date": "05/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KEVIN BROWN",
+    "Service Address": "7625 BELWOOD DR",
+    "Zip Code": "63121",
+    "Locator": "13H220703",
+    "Quote ID": "539995",
+    "Quote Amount": "$306.03",
+    "Closing Date": "05/27/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1441,6 +1474,50 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "TONYA BRYANT",
+    "Service Address": "1232 ASHFORD DR",
+    "Zip Code": "63137",
+    "Locator": "11F620141",
+    "Quote ID": "539994",
+    "Quote Amount": "Pending",
+    "Closing Date": "05/20/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DEBORAH MITCHELL",
+    "Service Address": "6 ROBINSON CIRCLE DR",
+    "Zip Code": "63136",
+    "Locator": "12F121216",
+    "Quote ID": "539992",
+    "Quote Amount": "Pending",
+    "Closing Date": "05/20/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WILLIAM BURTON",
+    "Service Address": "212 VIEHL AVE-63125",
+    "Zip Code": "63125",
+    "Locator": "27G110305",
+    "Quote ID": "539991",
+    "Quote Amount": "Pending",
+    "Closing Date": "05/20/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "STL ACQUISTION 1 LLC",
+    "Service Address": "9629 GLEN OWEN DR",
+    "Zip Code": "63136",
+    "Locator": "12G530206",
+    "Quote ID": "539989",
+    "Quote Amount": "Pending",
+    "Closing Date": "05/20/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "CANDIDA J KRISZT",
     "Service Address": "3837 JUNIATA ST",
     "Zip Code": "63116",
@@ -1448,6 +1525,17 @@
     "Quote ID": "539984",
     "Quote Amount": "Pending",
     "Closing Date": "05/20/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DEBRA EIKMEIER",
+    "Service Address": "3173 ST JOACHIM LN",
+    "Zip Code": "63074",
+    "Locator": "14L440143",
+    "Quote ID": "539996",
+    "Quote Amount": "Pending",
+    "Closing Date": "05/27/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
