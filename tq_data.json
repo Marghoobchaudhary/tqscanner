@@ -1353,17 +1353,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "DANIEL PURNOMO",
-    "Service Address": "6714 BANCROFT AVE",
-    "Zip Code": "63109",
-    "Locator": "59460001000",
-    "Quote ID": "539997",
-    "Quote Amount": "$642.52",
-    "Closing Date": "05/20/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "TONYA BRYANT",
     "Service Address": "1232 ASHFORD DR",
     "Zip Code": "63137",
@@ -1497,6 +1486,17 @@
   },
   {
     "Seller Name": "ELVIS MANAGEMENT LLC",
+    "Service Address": "200 FRANCISCA DR",
+    "Zip Code": "63031",
+    "Locator": "07K530492",
+    "Quote ID": "540135",
+    "Quote Amount": "$0.00",
+    "Closing Date": "05/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ELVIS MANAGEMENT LLC",
     "Service Address": "5116 RINGER RD",
     "Zip Code": "63129",
     "Locator": "30K320233",
@@ -1624,17 +1624,6 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ELVIS MANAGEMENT LLC",
-    "Service Address": "200 FRANCISCA DR",
-    "Zip Code": "63031",
-    "Locator": "07K530492",
-    "Quote ID": "540135",
-    "Quote Amount": "Pending",
-    "Closing Date": "05/21/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
