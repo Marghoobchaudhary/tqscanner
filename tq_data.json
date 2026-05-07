@@ -1078,6 +1078,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "KENNETH HARRELL",
+    "Service Address": "7104 LILLIAN AVE",
+    "Zip Code": "63121",
+    "Locator": "14G141547",
+    "Quote ID": "540607",
+    "Quote Amount": "$655.72",
+    "Closing Date": "05/26/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "PAUL WILKINS II",
     "Service Address": "8548 MIDWOOD AVE",
     "Zip Code": "63134",
@@ -1206,6 +1217,17 @@
     "Quote ID": "540445",
     "Quote Amount": "Pending",
     "Closing Date": "05/25/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DALTON AND CONNIE BECKER",
+    "Service Address": "10736 ST XAVIER LN",
+    "Zip Code": "63074",
+    "Locator": "13M331087",
+    "Quote ID": "540606",
+    "Quote Amount": "Pending",
+    "Closing Date": "05/26/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
