@@ -1,49 +1,5 @@
 [
   {
-    "Seller Name": "JOSEPH YOWELL",
-    "Service Address": "5919 MINNESOTA AVE",
-    "Zip Code": "63111",
-    "Locator": "29140001200",
-    "Quote ID": "538506",
-    "Quote Amount": "$236.86",
-    "Closing Date": "05/07/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "THOMAS HAMMONDS",
-    "Service Address": "35 COLUMBUS SQUARE",
-    "Zip Code": "63101",
-    "Locator": "02620003700",
-    "Quote ID": "538503",
-    "Quote Amount": "$5171.14",
-    "Closing Date": "05/07/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PREMIUM PRESTIGE PAINTING LLC",
-    "Service Address": "6512 CREST AVE",
-    "Zip Code": "63130",
-    "Locator": "17H122186",
-    "Quote ID": "538654",
-    "Quote Amount": "$200.00",
-    "Closing Date": "05/07/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "HASSAN LLC",
-    "Service Address": "5045 RAYMOND AVE",
-    "Zip Code": "63113",
-    "Locator": "51510003600",
-    "Quote ID": "538649",
-    "Quote Amount": "$1551.65",
-    "Closing Date": "05/07/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "ANTOINE MEEKS",
     "Service Address": "2105 PALM ST",
     "Zip Code": "63107",
@@ -1078,6 +1034,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "RED DOOR LEGACY LLC",
+    "Service Address": "3621 ST MARYS LN",
+    "Zip Code": "63121",
+    "Locator": "15H440132",
+    "Quote ID": "540611",
+    "Quote Amount": "$892.54",
+    "Closing Date": "05/26/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "KENNETH HARRELL",
     "Service Address": "7104 LILLIAN AVE",
     "Zip Code": "63121",
@@ -1221,6 +1188,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "LARRY FUTRELL",
+    "Service Address": "6932 CLAREMORE DR",
+    "Zip Code": "63121",
+    "Locator": "15H221993",
+    "Quote ID": "540614",
+    "Quote Amount": "Pending",
+    "Closing Date": "05/26/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MIDWEST AFFORDABLE HOMES LLC",
+    "Service Address": "6306 WASHINGTON AVE",
+    "Zip Code": "63134",
+    "Locator": "11J410442",
+    "Quote ID": "540613",
+    "Quote Amount": "Pending",
+    "Closing Date": "05/26/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "DALTON AND CONNIE BECKER",
     "Service Address": "10736 ST XAVIER LN",
     "Zip Code": "63074",
@@ -1228,6 +1217,39 @@
     "Quote ID": "540606",
     "Quote Amount": "Pending",
     "Closing Date": "05/26/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "FLORA SCOTT",
+    "Service Address": "2101 OBEAR AVE",
+    "Zip Code": "63107",
+    "Locator": "24800001100",
+    "Quote ID": "540610",
+    "Quote Amount": "Pending",
+    "Closing Date": "05/27/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ALESIA WHITE",
+    "Service Address": "2101 OBEAR AVE",
+    "Zip Code": "63107",
+    "Locator": "24800001100",
+    "Quote ID": "540609",
+    "Quote Amount": "Pending",
+    "Closing Date": "05/27/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "FANNIE B HARRISON",
+    "Service Address": "2639 SAINT VINCENT AVE",
+    "Zip Code": "63104",
+    "Locator": "21470003080",
+    "Quote ID": "540608",
+    "Quote Amount": "Pending",
+    "Closing Date": "05/27/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
