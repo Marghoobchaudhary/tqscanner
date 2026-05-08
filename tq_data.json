@@ -1144,12 +1144,78 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JAMES GRANT",
+    "Service Address": "1722 S 10TH ST",
+    "Zip Code": "63104",
+    "Locator": "03860000260",
+    "Quote ID": "540770",
+    "Quote Amount": "$246.44",
+    "Closing Date": "05/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JAMES GRANT",
+    "Service Address": "1724 S 10TH ST",
+    "Zip Code": "63104",
+    "Locator": "03860000260",
+    "Quote ID": "540769",
+    "Quote Amount": "$246.48",
+    "Closing Date": "05/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "SANDRA W K FOWLER",
     "Service Address": "5347 LOTUS AVE",
     "Zip Code": "63112",
     "Locator": "45150004300",
     "Quote ID": "540768",
     "Quote Amount": "$1489.98",
+    "Closing Date": "05/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SILENT CARE LLC",
+    "Service Address": "4116 WEST BELLE PL",
+    "Zip Code": "63108",
+    "Locator": "48730002000",
+    "Quote ID": "540767",
+    "Quote Amount": "$632.94",
+    "Closing Date": "05/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "QUEEN B EVERETT",
+    "Service Address": "5135 DELCASTLE DR",
+    "Zip Code": "63034",
+    "Locator": "06G240920",
+    "Quote ID": "540763",
+    "Quote Amount": "$1751.81",
+    "Closing Date": "05/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DAMIAN P POWELL",
+    "Service Address": "10147 JETT DR",
+    "Zip Code": "63136",
+    "Locator": "11G420977",
+    "Quote ID": "540762",
+    "Quote Amount": "$4363.63",
+    "Closing Date": "05/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DIMETRIOUS WOODS",
+    "Service Address": "9108 DELPHINE AVE",
+    "Zip Code": "63114",
+    "Locator": "14K130836",
+    "Quote ID": "540761",
+    "Quote Amount": "$3369.58",
     "Closing Date": "05/27/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1166,6 +1232,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JULIUS KING",
+    "Service Address": "1014 TRIFECTA DR",
+    "Zip Code": "63034",
+    "Locator": "05J620888",
+    "Quote ID": "540758",
+    "Quote Amount": "$2488.24",
+    "Closing Date": "05/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "INDIA MASHAT",
     "Service Address": "2797 DAWNVIEW DR",
     "Zip Code": "63031",
@@ -1177,12 +1254,12 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "SPRING HILL FARMS",
-    "Service Address": "1468 WHISPERING CREEK DR",
-    "Zip Code": "63021",
-    "Locator": "25Q141832",
-    "Quote ID": "540756",
-    "Quote Amount": "$207.04",
+    "Seller Name": "STEVEN MARTIN",
+    "Service Address": "4336 MICHIGAN AVE",
+    "Zip Code": "63111",
+    "Locator": "26790000400",
+    "Quote ID": "540752",
+    "Quote Amount": "$1936.92",
     "Closing Date": "05/27/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1342,77 +1419,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "SILENT CARE LLC",
-    "Service Address": "4116 WEST BELLE PL",
-    "Zip Code": "63108",
-    "Locator": "48730002000",
-    "Quote ID": "540767",
-    "Quote Amount": "Pending",
-    "Closing Date": "05/27/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "QUEEN B EVERETT",
-    "Service Address": "5135 DELCASTLE DR",
-    "Zip Code": "63034",
-    "Locator": "06G240920",
-    "Quote ID": "540763",
-    "Quote Amount": "Pending",
-    "Closing Date": "05/27/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DAMIAN P POWELL",
-    "Service Address": "10147 JETT DR",
-    "Zip Code": "63136",
-    "Locator": "11G420977",
-    "Quote ID": "540762",
-    "Quote Amount": "Pending",
-    "Closing Date": "05/27/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DIMETRIOUS WOODS",
-    "Service Address": "9108 DELPHINE AVE",
-    "Zip Code": "63114",
-    "Locator": "14K130836",
-    "Quote ID": "540761",
-    "Quote Amount": "Pending",
-    "Closing Date": "05/27/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "LARRY & ANITA FUTRELL",
     "Service Address": "6953 CLAREMORE DR",
     "Zip Code": "63121",
     "Locator": "15H240161",
     "Quote ID": "540760",
-    "Quote Amount": "Pending",
-    "Closing Date": "05/27/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JULIUS KING",
-    "Service Address": "1014 TRIFECTA DR",
-    "Zip Code": "63034",
-    "Locator": "05J620888",
-    "Quote ID": "540758",
-    "Quote Amount": "Pending",
-    "Closing Date": "05/27/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "STEVEN MARTIN",
-    "Service Address": "4336 MICHIGAN AVE",
-    "Zip Code": "63111",
-    "Locator": "26790000400",
-    "Quote ID": "540752",
     "Quote Amount": "Pending",
     "Closing Date": "05/27/2026",
     "Stage": "In Progress",
