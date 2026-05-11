@@ -946,6 +946,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "LARRY FUTRELL",
+    "Service Address": "6932 CLAREMORE DR",
+    "Zip Code": "63121",
+    "Locator": "15H221993",
+    "Quote ID": "540614",
+    "Quote Amount": "$4108.86",
+    "Closing Date": "05/26/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MIDWEST AFFORDABLE HOMES LLC",
     "Service Address": "6306 WASHINGTON AVE",
     "Zip Code": "63134",
@@ -1117,6 +1128,17 @@
     "Locator": "14K130836",
     "Quote ID": "540761",
     "Quote Amount": "$3369.58",
+    "Closing Date": "05/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LARRY & ANITA FUTRELL",
+    "Service Address": "6953 CLAREMORE DR",
+    "Zip Code": "63121",
+    "Locator": "15H240161",
+    "Quote ID": "540760",
+    "Quote Amount": "$2038.28",
     "Closing Date": "05/27/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1338,28 +1360,6 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LARRY FUTRELL",
-    "Service Address": "6932 CLAREMORE DR",
-    "Zip Code": "63121",
-    "Locator": "15H221993",
-    "Quote ID": "540614",
-    "Quote Amount": "Pending",
-    "Closing Date": "05/26/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LARRY & ANITA FUTRELL",
-    "Service Address": "6953 CLAREMORE DR",
-    "Zip Code": "63121",
-    "Locator": "15H240161",
-    "Quote ID": "540760",
-    "Quote Amount": "Pending",
-    "Closing Date": "05/27/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
