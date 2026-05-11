@@ -1,115 +1,5 @@
 [
   {
-    "Seller Name": "NOBLE HOUSE LLC",
-    "Service Address": "9217 BRISTOL AVE",
-    "Zip Code": "63114",
-    "Locator": "14K410831",
-    "Quote ID": "538859",
-    "Quote Amount": "$0.00",
-    "Closing Date": "05/10/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JARMON DAVIS",
-    "Service Address": "10551 MURAT DR",
-    "Zip Code": "63136",
-    "Locator": "10G340788",
-    "Quote ID": "538858",
-    "Quote Amount": "$13.98",
-    "Closing Date": "05/10/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "STRATEGIC STL LOFTS LLC",
-    "Service Address": "901 LOCUST ST",
-    "Zip Code": "63101",
-    "Locator": "02720000407",
-    "Quote ID": "538831",
-    "Quote Amount": "$2385.03",
-    "Closing Date": "05/10/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "STEPHEN GARRETT JOHNSON",
-    "Service Address": "6425 LLOYD AVE",
-    "Zip Code": "63139",
-    "Locator": "46100501800",
-    "Quote ID": "538830",
-    "Quote Amount": "$1164.07",
-    "Closing Date": "05/10/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JORAM NIYONSABA GRACE &",
-    "Service Address": "4355 GERMANIA ST",
-    "Zip Code": "63116",
-    "Locator": "63740001000",
-    "Quote ID": "538828",
-    "Quote Amount": "$2443.01",
-    "Closing Date": "05/10/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JOSHUA COOK",
-    "Service Address": "3657 PENNSYLVANIA AVE",
-    "Zip Code": "63118",
-    "Locator": "16290003800",
-    "Quote ID": "538826",
-    "Quote Amount": "$1566.87",
-    "Closing Date": "05/10/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "W L JEFFERSON",
-    "Service Address": "5403 QUEENS AVE",
-    "Zip Code": "63115",
-    "Locator": "51430004700",
-    "Quote ID": "538785",
-    "Quote Amount": "$5680.60",
-    "Closing Date": "05/10/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CECIL GRANBERRY",
-    "Service Address": "5357 N EUCLID AVE",
-    "Zip Code": "63115",
-    "Locator": "52620004930",
-    "Quote ID": "538782",
-    "Quote Amount": "$4283.80",
-    "Closing Date": "05/10/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JAMIE MCGOWAN",
-    "Service Address": "855 LILAC DR-63031",
-    "Zip Code": "63031",
-    "Locator": "07J430117",
-    "Quote ID": "538525",
-    "Quote Amount": "$2188.10",
-    "Closing Date": "05/10/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ANGELA MCCREE",
-    "Service Address": "946 ARMADA CT",
-    "Zip Code": "63031",
-    "Locator": "06K110653",
-    "Quote ID": "537893",
-    "Quote Amount": "$1430.00",
-    "Closing Date": "05/10/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "THOMAS M HUDSON",
     "Service Address": "229 BLUFF VIEW CIR",
     "Zip Code": "63129",
@@ -1470,6 +1360,17 @@
     "Quote ID": "540760",
     "Quote Amount": "Pending",
     "Closing Date": "05/27/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WELLS FARGO BANK NA TRS",
+    "Service Address": "8746 PARK LN",
+    "Zip Code": "63147",
+    "Locator": "61430000900",
+    "Quote ID": "540969",
+    "Quote Amount": "Pending",
+    "Closing Date": "06/03/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
