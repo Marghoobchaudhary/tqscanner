@@ -1,159 +1,5 @@
 [
   {
-    "Seller Name": "THOMAS M HUDSON",
-    "Service Address": "229 BLUFF VIEW CIR",
-    "Zip Code": "63129",
-    "Locator": "33H140670",
-    "Quote ID": "538958",
-    "Quote Amount": "$1893.98",
-    "Closing Date": "05/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "AMANDA & MATTHEW MEYER",
-    "Service Address": "2048 PARASOL DR",
-    "Zip Code": "63017",
-    "Locator": "20S140281",
-    "Quote ID": "538957",
-    "Quote Amount": "$123.64",
-    "Closing Date": "05/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LILLIE ROBINSON",
-    "Service Address": "9103 EDWARD DR",
-    "Zip Code": "63132",
-    "Locator": "16L310411",
-    "Quote ID": "538954",
-    "Quote Amount": "$1917.48",
-    "Closing Date": "05/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CYNTHIA A SENN",
-    "Service Address": "9802 LINN AVE",
-    "Zip Code": "63125",
-    "Locator": "27G120461",
-    "Quote ID": "538950",
-    "Quote Amount": "$4273.96",
-    "Closing Date": "05/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ADAM SPIELBERG",
-    "Service Address": "7416 BLAND AVE",
-    "Zip Code": "63105",
-    "Locator": "19J441118",
-    "Quote ID": "538949",
-    "Quote Amount": "$6014.24",
-    "Closing Date": "05/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "NORMA JANIK",
-    "Service Address": "1395 REDBIRD DR",
-    "Zip Code": "63031",
-    "Locator": "06K330411",
-    "Quote ID": "538946",
-    "Quote Amount": "$1119.04",
-    "Closing Date": "05/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "REID BRENDELAND",
-    "Service Address": "26 CAPITOL HILL DR",
-    "Zip Code": "63136",
-    "Locator": "10G310372",
-    "Quote ID": "538944",
-    "Quote Amount": "$620.65",
-    "Closing Date": "05/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KENNETH J & ANDREA HOWELL",
-    "Service Address": "4073 90TH AVE",
-    "Zip Code": "63034",
-    "Locator": "05H120031",
-    "Quote ID": "538943",
-    "Quote Amount": "$7786.07",
-    "Closing Date": "05/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LACKLAND RENTAL PROPERTIES LLC",
-    "Service Address": "6474 DALE AVE",
-    "Zip Code": "63139",
-    "Locator": "46131102200",
-    "Quote ID": "538868",
-    "Quote Amount": "$659.39",
-    "Closing Date": "05/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JENNIFER TRETTER",
-    "Service Address": "6311 VIRGINIA AVE",
-    "Zip Code": "63111",
-    "Locator": "29530001500",
-    "Quote ID": "538867",
-    "Quote Amount": "$1953.84",
-    "Closing Date": "05/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ZOE WILLIAMS",
-    "Service Address": "3451 ITASKA ST",
-    "Zip Code": "63111",
-    "Locator": "27660002400",
-    "Quote ID": "538866",
-    "Quote Amount": "$999.51",
-    "Closing Date": "05/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "AARON RICKMON",
-    "Service Address": "6922 IRA AVE",
-    "Zip Code": "63121",
-    "Locator": "15H630744",
-    "Quote ID": "538532",
-    "Quote Amount": "$1587.09",
-    "Closing Date": "05/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DWAYNE AND VONDA SCALES",
-    "Service Address": "3805 ROSEMOOR GARDEN CT",
-    "Zip Code": "63034",
-    "Locator": "04J520875",
-    "Quote ID": "539053",
-    "Quote Amount": "$2011.17",
-    "Closing Date": "05/12/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "THOMAS BERTKE",
-    "Service Address": "3539 GLEN BAY DR",
-    "Zip Code": "63125",
-    "Locator": "29J631000",
-    "Quote ID": "539052",
-    "Quote Amount": "$91.08",
-    "Closing Date": "05/12/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "HOMER W & TAMI SMITH",
     "Service Address": "1476 SPRINGHURST DR",
     "Zip Code": "63031",
@@ -1371,6 +1217,17 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ANNE CROTHERS",
+    "Service Address": "6125 LAURA AVE",
+    "Zip Code": "63136",
+    "Locator": "54920003300",
+    "Quote ID": "541140",
+    "Quote Amount": "Pending",
+    "Closing Date": "05/31/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
