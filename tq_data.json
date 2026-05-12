@@ -1298,6 +1298,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "WELLS FARGO BANK NA TRS",
+    "Service Address": "8746 PARK LN",
+    "Zip Code": "63147",
+    "Locator": "61430000900",
+    "Quote ID": "540969",
+    "Quote Amount": "$0.00",
+    "Closing Date": "06/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "DEBBIE A LONG",
     "Service Address": "1440 ST ANTHONY LN",
     "Zip Code": "63033",
@@ -1360,17 +1371,6 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "WELLS FARGO BANK NA TRS",
-    "Service Address": "8746 PARK LN",
-    "Zip Code": "63147",
-    "Locator": "61430000900",
-    "Quote ID": "540969",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/03/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
