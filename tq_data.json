@@ -1,137 +1,5 @@
 [
   {
-    "Seller Name": "HOMER W & TAMI SMITH",
-    "Service Address": "1476 SPRINGHURST DR",
-    "Zip Code": "63031",
-    "Locator": "06K620712",
-    "Quote ID": "539182",
-    "Quote Amount": "$2434.08",
-    "Closing Date": "05/13/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SONSHINE REAL ESTATE INVEST",
-    "Service Address": "3820 WOODCREST DR",
-    "Zip Code": "63033",
-    "Locator": "08H630814",
-    "Quote ID": "539181",
-    "Quote Amount": "$1968.50",
-    "Closing Date": "05/13/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BRITTANY ANDERSON",
-    "Service Address": "1733 DOWD DR",
-    "Zip Code": "63136",
-    "Locator": "10G510774",
-    "Quote ID": "539328",
-    "Quote Amount": "$3053.89",
-    "Closing Date": "05/13/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LLOYD C OR ROBIN PEAL",
-    "Service Address": "3705 GORDON AVE",
-    "Zip Code": "63114",
-    "Locator": "13K130415",
-    "Quote ID": "539327",
-    "Quote Amount": "$741.23",
-    "Closing Date": "05/13/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JAMES S TYNES",
-    "Service Address": "270 W ST ANTHONY LN",
-    "Zip Code": "63031",
-    "Locator": "09J420901",
-    "Quote ID": "539326",
-    "Quote Amount": "$0.00",
-    "Closing Date": "05/13/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ARCHIE LUSS JR",
-    "Service Address": "11941 CRITERION AVE",
-    "Zip Code": "63138",
-    "Locator": "08E311314",
-    "Quote ID": "539325",
-    "Quote Amount": "$415.18",
-    "Closing Date": "05/13/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "WAYNE HONER",
-    "Service Address": "4024 WEBER RD-63123",
-    "Zip Code": "63123",
-    "Locator": "25H320792",
-    "Quote ID": "539324",
-    "Quote Amount": "$684.47",
-    "Closing Date": "05/13/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JOHN JACKSON",
-    "Service Address": "3622 HEBERT ST",
-    "Zip Code": "63107",
-    "Locator": "23900001000",
-    "Quote ID": "539228",
-    "Quote Amount": "$1352.99",
-    "Closing Date": "05/13/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BRIDGETON HOTELS LLC",
-    "Service Address": "3470 HOLLENBERG DR",
-    "Zip Code": "63044",
-    "Locator": "10N110244",
-    "Quote ID": "539193",
-    "Quote Amount": "$27271.01",
-    "Closing Date": "05/13/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MAXINE B HENRY",
-    "Service Address": "4930 ASHBY AVE",
-    "Zip Code": "63115",
-    "Locator": "52610003600",
-    "Quote ID": "539192",
-    "Quote Amount": "$1018.48",
-    "Closing Date": "05/13/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ALETHA BUCHANAN",
-    "Service Address": "1115 HORNSBY AVE",
-    "Zip Code": "63147",
-    "Locator": "42880002900",
-    "Quote ID": "539191",
-    "Quote Amount": "$1188.05",
-    "Closing Date": "05/13/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TIFFINEY MILLS",
-    "Service Address": "3140 SHACKELFORD RD",
-    "Zip Code": "63031",
-    "Locator": "05J420138",
-    "Quote ID": "538526",
-    "Quote Amount": "$36.52",
-    "Closing Date": "05/13/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "CAREY COLQUITT",
     "Service Address": "1 LENOX PL",
     "Zip Code": "63108",
@@ -1177,6 +1045,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "BRUCE LANCASTER",
+    "Service Address": "665 HUNTLEY HEIGHTS DR",
+    "Zip Code": "63021",
+    "Locator": "23P220354",
+    "Quote ID": "541324",
+    "Quote Amount": "$106.68",
+    "Closing Date": "06/01/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "DYLAN PAUL PROEHL",
     "Service Address": "5434 MAPLE AVE",
     "Zip Code": "63112",
@@ -1195,6 +1074,17 @@
     "Quote ID": "540765",
     "Quote Amount": "$5577.57",
     "Closing Date": "06/01/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ANN MILLS RONALD",
+    "Service Address": "2898 POE AVE",
+    "Zip Code": "63114",
+    "Locator": "14L140874",
+    "Quote ID": "541326",
+    "Quote Amount": "$121.26",
+    "Closing Date": "06/02/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1283,6 +1173,17 @@
     "Quote ID": "541140",
     "Quote Amount": "Pending",
     "Closing Date": "05/31/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MICHAEL AFENTOULLIS",
+    "Service Address": "1746 CARMAN RIDGE CT",
+    "Zip Code": "63021",
+    "Locator": "23P221216",
+    "Quote ID": "541325",
+    "Quote Amount": "Pending",
+    "Closing Date": "06/01/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
