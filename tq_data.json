@@ -1034,6 +1034,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ANNE CROTHERS",
+    "Service Address": "6125 LAURA AVE",
+    "Zip Code": "63136",
+    "Locator": "54920003300",
+    "Quote ID": "541140",
+    "Quote Amount": "$16556.23",
+    "Closing Date": "05/31/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "JAMES T GRAHAM",
     "Service Address": "10439 BIG BEND BLVD",
     "Zip Code": "63122",
@@ -1041,6 +1052,17 @@
     "Quote ID": "540764",
     "Quote Amount": "$158.55",
     "Closing Date": "05/31/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MICHAEL AFENTOULLIS",
+    "Service Address": "1746 CARMAN RIDGE CT",
+    "Zip Code": "63021",
+    "Locator": "23P221216",
+    "Quote ID": "541325",
+    "Quote Amount": "$-1653.87",
+    "Closing Date": "06/01/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1078,6 +1100,39 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JEREMY SMITH",
+    "Service Address": "126 LA GORCE DR",
+    "Zip Code": "63017",
+    "Locator": "17Q530110",
+    "Quote ID": "541482",
+    "Quote Amount": "$3143.37",
+    "Closing Date": "06/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ALINE CHERES",
+    "Service Address": "1341 ODESSA DR",
+    "Zip Code": "63137",
+    "Locator": "11F620745",
+    "Quote ID": "541480",
+    "Quote Amount": "$308.06",
+    "Closing Date": "06/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TRENT STEPHENS",
+    "Service Address": "6770 ALICETON AVE",
+    "Zip Code": "63123",
+    "Locator": "25J110013",
+    "Quote ID": "541479",
+    "Quote Amount": "$234.19",
+    "Closing Date": "06/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ANN MILLS RONALD",
     "Service Address": "2898 POE AVE",
     "Zip Code": "63114",
@@ -1085,6 +1140,17 @@
     "Quote ID": "541326",
     "Quote Amount": "$121.26",
     "Closing Date": "06/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JD SFR 2021 LLC",
+    "Service Address": "315 TESTON DR",
+    "Zip Code": "63135",
+    "Locator": "11H140744",
+    "Quote ID": "541485",
+    "Quote Amount": "$85.94",
+    "Closing Date": "06/03/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1166,24 +1232,57 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "ANNE CROTHERS",
-    "Service Address": "6125 LAURA AVE",
-    "Zip Code": "63136",
-    "Locator": "54920003300",
-    "Quote ID": "541140",
+    "Seller Name": "ROXANNE CARR",
+    "Service Address": "1100 ENGLISH SADDLE RD",
+    "Zip Code": "63034",
+    "Locator": "04J320136",
+    "Quote ID": "541484",
     "Quote Amount": "Pending",
-    "Closing Date": "05/31/2026",
+    "Closing Date": "06/02/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "MICHAEL AFENTOULLIS",
-    "Service Address": "1746 CARMAN RIDGE CT",
-    "Zip Code": "63021",
-    "Locator": "23P221216",
-    "Quote ID": "541325",
+    "Seller Name": "LEVON DOWNING",
+    "Service Address": "7720 PAGE AVE",
+    "Zip Code": "63133",
+    "Locator": "16J230267",
+    "Quote ID": "541483",
     "Quote Amount": "Pending",
-    "Closing Date": "06/01/2026",
+    "Closing Date": "06/02/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GLORIA RANDELL",
+    "Service Address": "530 WREN DR",
+    "Zip Code": "63031",
+    "Locator": "07J440183",
+    "Quote ID": "541481",
+    "Quote Amount": "Pending",
+    "Closing Date": "06/02/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JUSTIN WILLIAMS",
+    "Service Address": "4449 NEBRASKA AVE",
+    "Zip Code": "63111",
+    "Locator": "27040003200",
+    "Quote ID": "541478",
+    "Quote Amount": "Pending",
+    "Closing Date": "06/02/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JD SFR 2021 LLC",
+    "Service Address": "1232 WELEBA AVE",
+    "Zip Code": "63121",
+    "Locator": "13H420958",
+    "Quote ID": "541486",
+    "Quote Amount": "Pending",
+    "Closing Date": "06/03/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
