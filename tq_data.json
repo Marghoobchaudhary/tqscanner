@@ -1298,6 +1298,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "SCOTT A BARTHELMASS",
+    "Service Address": "806 W WOODBINE AVE",
+    "Zip Code": "63122",
+    "Locator": "24N520202",
+    "Quote ID": "541611",
+    "Quote Amount": "$2380.09",
+    "Closing Date": "06/04/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ANGELA GRIFFIN",
     "Service Address": "625 HOLIDAY AVE",
     "Zip Code": "63042",
@@ -1305,6 +1316,28 @@
     "Quote ID": "540631",
     "Quote Amount": "$1537.40",
     "Closing Date": "06/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "NATHANIEL TOMLIN",
+    "Service Address": "10749 LANDSEER DR",
+    "Zip Code": "63136",
+    "Locator": "10G620903",
+    "Quote ID": "541669",
+    "Quote Amount": "$3203.41",
+    "Closing Date": "06/07/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ARIANNE CASAINE",
+    "Service Address": "7452 FLORISSANT RD",
+    "Zip Code": "63121",
+    "Locator": "14H210563",
+    "Quote ID": "541677",
+    "Quote Amount": "$62.08",
+    "Closing Date": "06/08/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1386,17 +1419,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "AGAPE TIME MINISTRIES INC",
-    "Service Address": "6301 GARFIELD AVE",
-    "Zip Code": "63134",
-    "Locator": "11K622015",
-    "Quote ID": "541491",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/03/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "JD SFR 2021 LLC",
     "Service Address": "8914 SCOTTDALE AVE",
     "Zip Code": "63136",
@@ -1415,17 +1437,6 @@
     "Quote ID": "541486",
     "Quote Amount": "Pending",
     "Closing Date": "06/03/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SCOTT A BARTHELMASS",
-    "Service Address": "806 W WOODBINE AVE",
-    "Zip Code": "63122",
-    "Locator": "24N520202",
-    "Quote ID": "541611",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/04/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
