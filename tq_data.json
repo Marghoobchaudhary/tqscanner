@@ -1221,6 +1221,39 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MICHAEL LOGGINS",
+    "Service Address": "10601 AYLESFORD DR",
+    "Zip Code": "63136",
+    "Locator": "10G510013",
+    "Quote ID": "541633",
+    "Quote Amount": "$208.59",
+    "Closing Date": "06/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ANTONIA BRATCHER",
+    "Service Address": "1454 ANNILO DR",
+    "Zip Code": "63031",
+    "Locator": "08L540491",
+    "Quote ID": "541632",
+    "Quote Amount": "$1080.37",
+    "Closing Date": "06/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DOROTHY L FULLER",
+    "Service Address": "12118 BECKFORD ESTATES DR",
+    "Zip Code": "63043",
+    "Locator": "12O140329",
+    "Quote ID": "541631",
+    "Quote Amount": "$854.16",
+    "Closing Date": "06/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "JD SFR 2021 LLC",
     "Service Address": "315 TESTON DR",
     "Zip Code": "63135",
@@ -1254,6 +1287,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "DIANE HARMON",
+    "Service Address": "14360 MONDOUBLEAU LN",
+    "Zip Code": "63034",
+    "Locator": "06H330174",
+    "Quote ID": "541638",
+    "Quote Amount": "$1577.19",
+    "Closing Date": "06/04/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ANGELA GRIFFIN",
     "Service Address": "625 HOLIDAY AVE",
     "Zip Code": "63042",
@@ -1261,6 +1305,17 @@
     "Quote ID": "540631",
     "Quote Amount": "$1537.40",
     "Closing Date": "06/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LOUIS REED",
+    "Service Address": "14561 OCEAN SIDE DR",
+    "Zip Code": "63034",
+    "Locator": "06H620732",
+    "Quote ID": "541635",
+    "Quote Amount": "$2395.28",
+    "Closing Date": "06/09/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1320,6 +1375,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "KARL CROSBY",
+    "Service Address": "9965 MEADOW AVE",
+    "Zip Code": "63125",
+    "Locator": "28H642156",
+    "Quote ID": "541630",
+    "Quote Amount": "Pending",
+    "Closing Date": "06/03/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "AGAPE TIME MINISTRIES INC",
     "Service Address": "6301 GARFIELD AVE",
     "Zip Code": "63134",
@@ -1349,6 +1415,17 @@
     "Quote ID": "541486",
     "Quote Amount": "Pending",
     "Closing Date": "06/03/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SCOTT A BARTHELMASS",
+    "Service Address": "806 W WOODBINE AVE",
+    "Zip Code": "63122",
+    "Locator": "24N520202",
+    "Quote ID": "541611",
+    "Quote Amount": "Pending",
+    "Closing Date": "06/04/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
