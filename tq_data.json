@@ -924,6 +924,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "KNOX MANAGEMENT LLC",
+    "Service Address": "5988 DUPREE AVE",
+    "Zip Code": "63135",
+    "Locator": "13H540885",
+    "Quote ID": "541496",
+    "Quote Amount": "$1614.97",
+    "Closing Date": "06/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "JENNIFER LEIGH KELLEY",
     "Service Address": "6167 W PARK AVE",
     "Zip Code": "63139",
@@ -1144,12 +1155,45 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "LOUIS HALL",
+    "Service Address": "1978 ACORN TRAIL DR",
+    "Zip Code": "63031",
+    "Locator": "08K430216",
+    "Quote ID": "541833",
+    "Quote Amount": "$5458.33",
+    "Closing Date": "06/04/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "REVOC OGUNYELERE JOHN ABAYOMI",
     "Service Address": "7137 DARTMOUTH AVE",
     "Zip Code": "63130",
     "Locator": "17J220379",
     "Quote ID": "541832",
     "Quote Amount": "$2375.50",
+    "Closing Date": "06/04/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TERESA THOMAS",
+    "Service Address": "10323 REBA DR",
+    "Zip Code": "63136",
+    "Locator": "10G120779",
+    "Quote ID": "541831",
+    "Quote Amount": "$15429.51",
+    "Closing Date": "06/04/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TREYVON WILLIAMS",
+    "Service Address": "633 S ELLIOTT AVE",
+    "Zip Code": "63122",
+    "Locator": "24M230481",
+    "Quote ID": "541830",
+    "Quote Amount": "$1220.38",
     "Closing Date": "06/04/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1166,12 +1210,34 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "BOBBY & EDDIE & GILBER WALTON",
+    "Service Address": "4210 PRAIRIE AVE",
+    "Zip Code": "63107",
+    "Locator": "33060000400",
+    "Quote ID": "542003",
+    "Quote Amount": "$17365.24",
+    "Closing Date": "06/07/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "424 REAL ESTATE LLC",
     "Service Address": "424 E MONROE AVE",
     "Zip Code": "63122",
     "Locator": "24M540285",
     "Quote ID": "542002",
     "Quote Amount": "$168.19",
+    "Closing Date": "06/07/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ROOSEVELT WILLIAMS",
+    "Service Address": "62 BAYVIEW CT",
+    "Zip Code": "63135",
+    "Locator": "11H310170",
+    "Quote ID": "542000",
+    "Quote Amount": "$2509.62",
     "Closing Date": "06/07/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1287,17 +1353,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "KNOX MANAGEMENT LLC",
-    "Service Address": "5988 DUPREE AVE",
-    "Zip Code": "63135",
-    "Locator": "13H540885",
-    "Quote ID": "541496",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/02/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "JD SFR 2021 LLC",
     "Service Address": "8914 SCOTTDALE AVE",
     "Zip Code": "63136",
@@ -1316,61 +1371,6 @@
     "Quote ID": "541486",
     "Quote Amount": "Pending",
     "Closing Date": "06/03/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LOUIS HALL",
-    "Service Address": "1978 ACORN TRAIL DR",
-    "Zip Code": "63031",
-    "Locator": "08K430216",
-    "Quote ID": "541833",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/04/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TERESA THOMAS",
-    "Service Address": "10323 REBA DR",
-    "Zip Code": "63136",
-    "Locator": "10G120779",
-    "Quote ID": "541831",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/04/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TREYVON WILLIAMS",
-    "Service Address": "633 S ELLIOTT AVE",
-    "Zip Code": "63122",
-    "Locator": "24M230481",
-    "Quote ID": "541830",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/04/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BOBBY & EDDIE & GILBER WALTON",
-    "Service Address": "4210 PRAIRIE AVE",
-    "Zip Code": "63107",
-    "Locator": "33060000400",
-    "Quote ID": "542003",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/07/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ROOSEVELT WILLIAMS",
-    "Service Address": "62 BAYVIEW CT",
-    "Zip Code": "63135",
-    "Locator": "11H310170",
-    "Quote ID": "542000",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/07/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
