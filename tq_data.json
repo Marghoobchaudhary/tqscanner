@@ -1056,6 +1056,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "DIANNE C DAVIS",
+    "Service Address": "8659 ORIOLE AVE",
+    "Zip Code": "63147",
+    "Locator": "42450202800",
+    "Quote ID": "542286",
+    "Quote Amount": "$1872.62",
+    "Closing Date": "06/09/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BRENDA BAEZ",
+    "Service Address": "6928 MAGNOLIA AVE",
+    "Zip Code": "63143",
+    "Locator": "48031800600",
+    "Quote ID": "542278",
+    "Quote Amount": "$176.17",
+    "Closing Date": "06/09/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "LOUIS REED",
     "Service Address": "14561 OCEAN SIDE DR",
     "Zip Code": "63034",
@@ -1063,6 +1085,17 @@
     "Quote ID": "541635",
     "Quote Amount": "$2395.28",
     "Closing Date": "06/09/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CHRISTINE SCHALL",
+    "Service Address": "8101 PARKRIDGE DR",
+    "Zip Code": "63123",
+    "Locator": "64270001900",
+    "Quote ID": "542287",
+    "Quote Amount": "$1050.39",
+    "Closing Date": "06/10/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1173,6 +1206,39 @@
     "Quote ID": "542152",
     "Quote Amount": "Pending",
     "Closing Date": "06/08/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TDB PROPERTIES LLC",
+    "Service Address": "4129 ENRIGHT AVE",
+    "Zip Code": "63108",
+    "Locator": "48730003300",
+    "Quote ID": "542283",
+    "Quote Amount": "Pending",
+    "Closing Date": "06/09/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "RED DOOR LEGACY LLC",
+    "Service Address": "1221 HEBERT ST",
+    "Zip Code": "63107",
+    "Locator": "11440000700",
+    "Quote ID": "542281",
+    "Quote Amount": "Pending",
+    "Closing Date": "06/09/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GLYNIS DAVIS",
+    "Service Address": "1607 VERONICA AVE",
+    "Zip Code": "63147",
+    "Locator": "43220601300",
+    "Quote ID": "542276",
+    "Quote Amount": "Pending",
+    "Closing Date": "06/09/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
