@@ -1,93 +1,5 @@
 [
   {
-    "Seller Name": "NICHOLE DEMPSTER",
-    "Service Address": "421 BLUFF MEADOW DR",
-    "Zip Code": "63021",
-    "Locator": "24T440274",
-    "Quote ID": "540885",
-    "Quote Amount": "$2309.69",
-    "Closing Date": "05/20/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TONYA BRYANT",
-    "Service Address": "1232 ASHFORD DR",
-    "Zip Code": "63137",
-    "Locator": "11F620141",
-    "Quote ID": "539994",
-    "Quote Amount": "$5468.77",
-    "Closing Date": "05/20/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JOHN A THIEMAN",
-    "Service Address": "1453 TWILLMAN AVE",
-    "Zip Code": "63138",
-    "Locator": "09E540094",
-    "Quote ID": "539993",
-    "Quote Amount": "$735.29",
-    "Closing Date": "05/20/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "WILLIAM BURTON",
-    "Service Address": "212 VIEHL AVE-63125",
-    "Zip Code": "63125",
-    "Locator": "27G110305",
-    "Quote ID": "539991",
-    "Quote Amount": "$1900.34",
-    "Closing Date": "05/20/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "HAN JIANG",
-    "Service Address": "439 BENTON ST",
-    "Zip Code": "63088",
-    "Locator": "26P441002",
-    "Quote ID": "539990",
-    "Quote Amount": "$574.45",
-    "Closing Date": "05/20/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "STL ACQUISTION 1 LLC",
-    "Service Address": "9629 GLEN OWEN DR",
-    "Zip Code": "63136",
-    "Locator": "12G530206",
-    "Quote ID": "539989",
-    "Quote Amount": "$1572.25",
-    "Closing Date": "05/20/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CANDIDA J KRISZT",
-    "Service Address": "3837 JUNIATA ST",
-    "Zip Code": "63116",
-    "Locator": "41110003900",
-    "Quote ID": "539984",
-    "Quote Amount": "$2445.86",
-    "Closing Date": "05/20/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RAYMOND WILHITE",
-    "Service Address": "3021 WILLOW CREEK ESTATES DR",
-    "Zip Code": "63031",
-    "Locator": "06J330269",
-    "Quote ID": "539332",
-    "Quote Amount": "$7303.04",
-    "Closing Date": "05/20/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "RAVIN LIPSCOMB",
     "Service Address": "2827 ABNER PL-63120",
     "Zip Code": "63120",
@@ -1111,6 +1023,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "FELICIA BROOKS",
+    "Service Address": "6527 JULIAN AVE",
+    "Zip Code": "63133",
+    "Locator": "17H410935",
+    "Quote ID": "542158",
+    "Quote Amount": "$752.50",
+    "Closing Date": "06/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "BENZO ENTERPRISE LLC",
     "Service Address": "4451 WASHINGTON BLVD",
     "Zip Code": "63108",
@@ -1206,6 +1129,28 @@
     "Quote ID": "541486",
     "Quote Amount": "Pending",
     "Closing Date": "06/03/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WELLS FARGO BANK N A TRUSTEE",
+    "Service Address": "8531 CLIFTON AVE",
+    "Zip Code": "63136",
+    "Locator": "13G330472",
+    "Quote ID": "542159",
+    "Quote Amount": "Pending",
+    "Closing Date": "06/08/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DEMETRIUS BLUNT",
+    "Service Address": "4510 OVERBROOK DR",
+    "Zip Code": "63121",
+    "Locator": "14H520042",
+    "Quote ID": "542157",
+    "Quote Amount": "Pending",
+    "Closing Date": "06/08/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
