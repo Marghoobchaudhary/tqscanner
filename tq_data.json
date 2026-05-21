@@ -957,6 +957,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "DEMETRIUS BLUNT",
+    "Service Address": "4510 OVERBROOK DR",
+    "Zip Code": "63121",
+    "Locator": "14H520042",
+    "Quote ID": "542157",
+    "Quote Amount": "$964.19",
+    "Closing Date": "06/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "BENZO ENTERPRISE LLC",
     "Service Address": "4451 WASHINGTON BLVD",
     "Zip Code": "63108",
@@ -975,6 +986,28 @@
     "Quote ID": "541677",
     "Quote Amount": "$62.08",
     "Closing Date": "06/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LARRY FLETCHER MARSHAY &",
+    "Service Address": "2316 BENSONHURST DR",
+    "Zip Code": "63031",
+    "Locator": "05K220960",
+    "Quote ID": "542358",
+    "Quote Amount": "$3314.46",
+    "Closing Date": "06/09/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "THOMAS & BETTY A HELLER",
+    "Service Address": "3719 GORDON AVE",
+    "Zip Code": "63114",
+    "Locator": "13K130727",
+    "Quote ID": "542356",
+    "Quote Amount": "$2911.13",
+    "Closing Date": "06/09/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1023,12 +1056,34 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "RED DOOR LEGACY LLC",
+    "Service Address": "1221 HEBERT ST",
+    "Zip Code": "63107",
+    "Locator": "11440000700",
+    "Quote ID": "542281",
+    "Quote Amount": "$3439.04",
+    "Closing Date": "06/09/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "BRENDA BAEZ",
     "Service Address": "6928 MAGNOLIA AVE",
     "Zip Code": "63143",
     "Locator": "48031800600",
     "Quote ID": "542278",
     "Quote Amount": "$176.17",
+    "Closing Date": "06/09/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GLYNIS DAVIS",
+    "Service Address": "1607 VERONICA AVE",
+    "Zip Code": "63147",
+    "Locator": "43220601300",
+    "Quote ID": "542276",
+    "Quote Amount": "$3539.97",
     "Closing Date": "06/09/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1100,6 +1155,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MICHELLE KELLER",
+    "Service Address": "175 RANCHMOOR TRL",
+    "Zip Code": "63011",
+    "Locator": "22T310551",
+    "Quote ID": "542354",
+    "Quote Amount": "$3881.72",
+    "Closing Date": "06/17/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MATTHEW & VANESSA ISAACS",
     "Service Address": "1395 ST FRANCOIS ST",
     "Zip Code": "63033",
@@ -1166,28 +1232,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "WELLS FARGO BANK N A TRUSTEE",
-    "Service Address": "8531 CLIFTON AVE",
-    "Zip Code": "63136",
-    "Locator": "13G330472",
-    "Quote ID": "542159",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/08/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DEMETRIUS BLUNT",
-    "Service Address": "4510 OVERBROOK DR",
-    "Zip Code": "63121",
-    "Locator": "14H520042",
-    "Quote ID": "542157",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/08/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "UNIQUE 3 REALTY INC",
     "Service Address": "4431 N 20TH ST",
     "Zip Code": "63107",
@@ -1210,33 +1254,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "LARRY FLETCHER MARSHAY &",
-    "Service Address": "2316 BENSONHURST DR",
-    "Zip Code": "63031",
-    "Locator": "05K220960",
-    "Quote ID": "542358",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/09/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "FLORIDA INVESTMENT GROUP L L C",
     "Service Address": "2131 OLD MANOR RD",
     "Zip Code": "63136",
     "Locator": "10G330291",
     "Quote ID": "542357",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/09/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "THOMAS & BETTY A HELLER",
-    "Service Address": "3719 GORDON AVE",
-    "Zip Code": "63114",
-    "Locator": "13K130727",
-    "Quote ID": "542356",
     "Quote Amount": "Pending",
     "Closing Date": "06/09/2026",
     "Stage": "In Progress",
@@ -1250,39 +1272,6 @@
     "Quote ID": "542283",
     "Quote Amount": "Pending",
     "Closing Date": "06/09/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RED DOOR LEGACY LLC",
-    "Service Address": "1221 HEBERT ST",
-    "Zip Code": "63107",
-    "Locator": "11440000700",
-    "Quote ID": "542281",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/09/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GLYNIS DAVIS",
-    "Service Address": "1607 VERONICA AVE",
-    "Zip Code": "63147",
-    "Locator": "43220601300",
-    "Quote ID": "542276",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/09/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MICHELLE KELLER",
-    "Service Address": "175 RANCHMOOR TRL",
-    "Zip Code": "63011",
-    "Locator": "22T310551",
-    "Quote ID": "542354",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/17/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
