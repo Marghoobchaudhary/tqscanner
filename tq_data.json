@@ -1,82 +1,5 @@
 [
   {
-    "Seller Name": "RAVIN LIPSCOMB",
-    "Service Address": "2827 ABNER PL-63120",
-    "Zip Code": "63120",
-    "Locator": "45170501700",
-    "Quote ID": "539938",
-    "Quote Amount": "$4030.14",
-    "Closing Date": "05/21/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MARIAN HARRIS",
-    "Service Address": "11388 FOX HALL LN",
-    "Zip Code": "63136",
-    "Locator": "09F540851",
-    "Quote ID": "540139",
-    "Quote Amount": "$2229.31",
-    "Closing Date": "05/21/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ADAM WILCOX",
-    "Service Address": "4640 TIEMANN AVE",
-    "Zip Code": "63123",
-    "Locator": "25H221453",
-    "Quote ID": "540138",
-    "Quote Amount": "$3912.44",
-    "Closing Date": "05/21/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JOSEPH TRIGG III",
-    "Service Address": "310 FALCON DR",
-    "Zip Code": "63031",
-    "Locator": "07J510769",
-    "Quote ID": "540137",
-    "Quote Amount": "$1238.68",
-    "Closing Date": "05/21/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ELVIS MANAGEMENT LLC",
-    "Service Address": "200 FRANCISCA DR",
-    "Zip Code": "63031",
-    "Locator": "07K530492",
-    "Quote ID": "540135",
-    "Quote Amount": "$0.00",
-    "Closing Date": "05/21/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ELVIS MANAGEMENT LLC",
-    "Service Address": "5116 RINGER RD",
-    "Zip Code": "63129",
-    "Locator": "30K320233",
-    "Quote ID": "540134",
-    "Quote Amount": "$882.08",
-    "Closing Date": "05/21/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "AARON MCLEMORE",
-    "Service Address": "3707 S SPRING AVE",
-    "Zip Code": "63116",
-    "Locator": "56240004800",
-    "Quote ID": "538869",
-    "Quote Amount": "$1013.48",
-    "Closing Date": "05/21/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "MICHAEL ET AL SANDERS",
     "Service Address": "720 MILLSTONE DR",
     "Zip Code": "63033",
@@ -1056,6 +979,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "REVIVE HEALTHCARE SOLUTIONSLLC",
+    "Service Address": "3444 CHIPPEWA ST",
+    "Zip Code": "63118",
+    "Locator": "16140000500",
+    "Quote ID": "542355",
+    "Quote Amount": "$607.61",
+    "Closing Date": "06/09/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ALLEN L WINBUSH",
     "Service Address": "7262 RAVINIA DR",
     "Zip Code": "63121",
@@ -1272,6 +1206,39 @@
     "Quote ID": "542152",
     "Quote Amount": "Pending",
     "Closing Date": "06/08/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LARRY FLETCHER MARSHAY &",
+    "Service Address": "2316 BENSONHURST DR",
+    "Zip Code": "63031",
+    "Locator": "05K220960",
+    "Quote ID": "542358",
+    "Quote Amount": "Pending",
+    "Closing Date": "06/09/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "FLORIDA INVESTMENT GROUP L L C",
+    "Service Address": "2131 OLD MANOR RD",
+    "Zip Code": "63136",
+    "Locator": "10G330291",
+    "Quote ID": "542357",
+    "Quote Amount": "Pending",
+    "Closing Date": "06/09/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "THOMAS & BETTY A HELLER",
+    "Service Address": "3719 GORDON AVE",
+    "Zip Code": "63114",
+    "Locator": "13K130727",
+    "Quote ID": "542356",
+    "Quote Amount": "Pending",
+    "Closing Date": "06/09/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
