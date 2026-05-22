@@ -979,6 +979,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "UNIQUE 3 REALTY INC",
+    "Service Address": "4431 N 20TH ST",
+    "Zip Code": "63107",
+    "Locator": "24320002400",
+    "Quote ID": "542154",
+    "Quote Amount": "$7899.32",
+    "Closing Date": "06/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "UNIQUE 3 REALTY INC",
+    "Service Address": "8559 MORA LN",
+    "Zip Code": "63147",
+    "Locator": "43340201900",
+    "Quote ID": "542152",
+    "Quote Amount": "$0.00",
+    "Closing Date": "06/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ARIANNE CASAINE",
     "Service Address": "7452 FLORISSANT RD",
     "Zip Code": "63121",
@@ -990,12 +1012,34 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "PATRICK BURNS",
+    "Service Address": "519 ROARING FORK DR",
+    "Zip Code": "63040",
+    "Locator": "25U430231",
+    "Quote ID": "542565",
+    "Quote Amount": "$2459.75",
+    "Closing Date": "06/09/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "LARRY FLETCHER MARSHAY &",
     "Service Address": "2316 BENSONHURST DR",
     "Zip Code": "63031",
     "Locator": "05K220960",
     "Quote ID": "542358",
     "Quote Amount": "$3314.46",
+    "Closing Date": "06/09/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "FLORIDA INVESTMENT GROUP L L C",
+    "Service Address": "2131 OLD MANOR RD",
+    "Zip Code": "63136",
+    "Locator": "10G330291",
+    "Quote ID": "542357",
+    "Quote Amount": "$1927.50",
     "Closing Date": "06/09/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1111,6 +1155,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "REAL STL PROPERTY LLC",
+    "Service Address": "123 EICHELBERGER ST",
+    "Zip Code": "63111",
+    "Locator": "28290001600",
+    "Quote ID": "542567",
+    "Quote Amount": "$4894.66",
+    "Closing Date": "06/10/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "IRA MILLER",
     "Service Address": "16312 HAMPDEN PL",
     "Zip Code": "63034",
@@ -1151,6 +1206,28 @@
     "Quote ID": "542352",
     "Quote Amount": "$794.32",
     "Closing Date": "06/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PALACIOS ENTERPRISE LLC",
+    "Service Address": "7862 TRENTON AVE",
+    "Zip Code": "63130",
+    "Locator": "16K330805",
+    "Quote ID": "542594",
+    "Quote Amount": "$944.84",
+    "Closing Date": "06/14/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CHRISTOPHER S GEBBEN",
+    "Service Address": "215 NEWPORT AVE",
+    "Zip Code": "63119",
+    "Locator": "22K141013",
+    "Quote ID": "542588",
+    "Quote Amount": "$114.28",
+    "Closing Date": "06/14/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1243,50 +1320,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "UNIQUE 3 REALTY INC",
-    "Service Address": "4431 N 20TH ST",
-    "Zip Code": "63107",
-    "Locator": "24320002400",
-    "Quote ID": "542154",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/08/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "UNIQUE 3 REALTY INC",
-    "Service Address": "8559 MORA LN",
-    "Zip Code": "63147",
-    "Locator": "43340201900",
-    "Quote ID": "542152",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/08/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PATRICK BURNS",
-    "Service Address": "519 ROARING FORK DR",
-    "Zip Code": "63040",
-    "Locator": "25U430231",
-    "Quote ID": "542565",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/09/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "FLORIDA INVESTMENT GROUP L L C",
-    "Service Address": "2131 OLD MANOR RD",
-    "Zip Code": "63136",
-    "Locator": "10G330291",
-    "Quote ID": "542357",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/09/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "TDB PROPERTIES LLC",
     "Service Address": "4129 ENRIGHT AVE",
     "Zip Code": "63108",
@@ -1294,17 +1327,6 @@
     "Quote ID": "542283",
     "Quote Amount": "Pending",
     "Closing Date": "06/09/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "REAL STL PROPERTY LLC",
-    "Service Address": "123 EICHELBERGER ST",
-    "Zip Code": "63111",
-    "Locator": "28290001600",
-    "Quote ID": "542567",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/10/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
