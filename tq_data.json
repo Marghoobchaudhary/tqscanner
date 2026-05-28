@@ -320,6 +320,17 @@
   },
   {
     "Seller Name": "JD SFR 2021 LLC",
+    "Service Address": "1232 WELEBA AVE",
+    "Zip Code": "63121",
+    "Locator": "13H420958",
+    "Quote ID": "541486",
+    "Quote Amount": "$4212.19",
+    "Closing Date": "06/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JD SFR 2021 LLC",
     "Service Address": "315 TESTON DR",
     "Zip Code": "63135",
     "Locator": "11H140744",
@@ -770,6 +781,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "CAROLYN TOWLES",
+    "Service Address": "1739 GRAFTON DR",
+    "Zip Code": "63136",
+    "Locator": "10G530042",
+    "Quote ID": "542695",
+    "Quote Amount": "$1329.96",
+    "Closing Date": "06/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ANGELA J VENEGONI",
     "Service Address": "1233 TAHITI DR",
     "Zip Code": "63126",
@@ -799,6 +821,17 @@
     "Quote ID": "542588",
     "Quote Amount": "$114.28",
     "Closing Date": "06/14/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ERIKA R BROWN",
+    "Service Address": "9430 WILSON BRIDGE DR",
+    "Zip Code": "63136",
+    "Locator": "12F211184",
+    "Quote ID": "542913",
+    "Quote Amount": "$4997.78",
+    "Closing Date": "06/15/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -968,6 +1001,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "CHERYL & FERNANDO GARCIA",
+    "Service Address": "3846 BATES ST-63116",
+    "Zip Code": "63116",
+    "Locator": "62780001600",
+    "Quote ID": "543168",
+    "Quote Amount": "$116.41",
+    "Closing Date": "06/17/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WILLIE & SARITA PHILLIPS",
+    "Service Address": "4439 ASHLAND AVE",
+    "Zip Code": "63115",
+    "Locator": "44470401900",
+    "Quote ID": "543165",
+    "Quote Amount": "$1154.65",
+    "Closing Date": "06/17/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MICHELLE KELLER",
     "Service Address": "175 RANCHMOOR TRL",
     "Zip Code": "63011",
@@ -1041,39 +1096,6 @@
     "Quote ID": "541490",
     "Quote Amount": "Pending",
     "Closing Date": "06/03/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JD SFR 2021 LLC",
-    "Service Address": "1232 WELEBA AVE",
-    "Zip Code": "63121",
-    "Locator": "13H420958",
-    "Quote ID": "541486",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/03/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CAROLYN TOWLES",
-    "Service Address": "1739 GRAFTON DR",
-    "Zip Code": "63136",
-    "Locator": "10G530042",
-    "Quote ID": "542695",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/11/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ERIKA R BROWN",
-    "Service Address": "9430 WILSON BRIDGE DR",
-    "Zip Code": "63136",
-    "Locator": "12F211184",
-    "Quote ID": "542913",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/15/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
