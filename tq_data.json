@@ -539,17 +539,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "BENZO ENTERPRISE LLC",
-    "Service Address": "4451 WASHINGTON BLVD",
-    "Zip Code": "63108",
-    "Locator": "37590003400",
-    "Quote ID": "542155",
-    "Quote Amount": "$770.84",
-    "Closing Date": "06/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "UNIQUE 3 REALTY INC",
     "Service Address": "4431 N 20TH ST",
     "Zip Code": "63107",
@@ -1001,12 +990,34 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "WILLIAM & TONYA ZAIGER",
+    "Service Address": "6039 ARTHUR AVE",
+    "Zip Code": "63139",
+    "Locator": "47632602800",
+    "Quote ID": "543230",
+    "Quote Amount": "$1683.36",
+    "Closing Date": "06/17/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ZMC INVESTMENTS LLC",
     "Service Address": "6216 LORRAINE AVE",
     "Zip Code": "63121",
     "Locator": "16G430340",
     "Quote ID": "543228",
     "Quote Amount": "$1052.54",
+    "Closing Date": "06/17/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ARTHUR L FULTON",
+    "Service Address": "4222 JENNINGS STATION RD",
+    "Zip Code": "63121",
+    "Locator": "15G420791",
+    "Quote ID": "543227",
+    "Quote Amount": "$4229.33",
     "Closing Date": "06/17/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1100,6 +1111,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "CORTEEMA TAYLOR",
+    "Service Address": "40 W ST ANTHONY LN",
+    "Zip Code": "63031",
+    "Locator": "09K640108",
+    "Quote ID": "543224",
+    "Quote Amount": "$466.41",
+    "Closing Date": "06/23/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "STEVEN & ASHLEY FANZ",
     "Service Address": "4123 BEETHOVEN AVE",
     "Zip Code": "63116",
@@ -1107,6 +1129,17 @@
     "Quote ID": "542904",
     "Quote Amount": "$1669.63",
     "Closing Date": "06/25/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CURTIS CURRY",
+    "Service Address": "230 ST EDWARD LN",
+    "Zip Code": "63033",
+    "Locator": "09J630254",
+    "Quote ID": "543226",
+    "Quote Amount": "$3550.41",
+    "Closing Date": "06/27/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1166,33 +1199,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "WILLIAM & TONYA ZAIGER",
-    "Service Address": "6039 ARTHUR AVE",
-    "Zip Code": "63139",
-    "Locator": "47632602800",
-    "Quote ID": "543230",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/17/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "NATALIA JOHNSON",
     "Service Address": "3136 MIAMI ST-63118",
     "Zip Code": "63118",
     "Locator": "16230002500",
     "Quote ID": "543229",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/17/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ARTHUR L FULTON",
-    "Service Address": "4222 JENNINGS STATION RD",
-    "Zip Code": "63121",
-    "Locator": "15G420791",
-    "Quote ID": "543227",
     "Quote Amount": "Pending",
     "Closing Date": "06/17/2026",
     "Stage": "In Progress",
@@ -1206,50 +1217,6 @@
     "Quote ID": "543220",
     "Quote Amount": "Pending",
     "Closing Date": "06/17/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SUGAR TREE HOMES ASSOC",
-    "Service Address": "2419 FOREST SHADOWS DR",
-    "Zip Code": "63136",
-    "Locator": "09F131068",
-    "Quote ID": "543223",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/22/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CORTEEMA TAYLOR",
-    "Service Address": "40 W ST ANTHONY LN",
-    "Zip Code": "63031",
-    "Locator": "09K640108",
-    "Quote ID": "543224",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/23/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CURTIS CURRY",
-    "Service Address": "230 ST EDWARD LN",
-    "Zip Code": "63033",
-    "Locator": "09J630254",
-    "Quote ID": "543226",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/27/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SUGAR TREE HOMES ASSOC",
-    "Service Address": "11137 WHISPERING OAKS DR",
-    "Zip Code": "63136",
-    "Locator": "09F111721",
-    "Quote ID": "543225",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/27/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
