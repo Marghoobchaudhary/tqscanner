@@ -1001,6 +1001,61 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JASMINE HARSHBARGER",
+    "Service Address": "719 RIDERWOOD DR",
+    "Zip Code": "63042",
+    "Locator": "08L310173",
+    "Quote ID": "543222",
+    "Quote Amount": "$1224.01",
+    "Closing Date": "06/17/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DENISE C LEACH",
+    "Service Address": "7023 HUNTER AVE",
+    "Zip Code": "63121",
+    "Locator": "15H521541",
+    "Quote ID": "543221",
+    "Quote Amount": "$4016.53",
+    "Closing Date": "06/17/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "RACHEL SALAMONE",
+    "Service Address": "158 E DONALDSON DR",
+    "Zip Code": "63129",
+    "Locator": "30H240113",
+    "Quote ID": "543219",
+    "Quote Amount": "$65.16",
+    "Closing Date": "06/17/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GEORGE SCOTINO",
+    "Service Address": "2659 BRUNO AVE-63114",
+    "Zip Code": "63114",
+    "Locator": "14M220384",
+    "Quote ID": "543218",
+    "Quote Amount": "$303.91",
+    "Closing Date": "06/17/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ANGELIQUE MCCLENDON",
+    "Service Address": "9535 MACKENZIE RD",
+    "Zip Code": "63123",
+    "Locator": "26J231135",
+    "Quote ID": "543215",
+    "Quote Amount": "$104.22",
+    "Closing Date": "06/17/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "CHERYL & FERNANDO GARCIA",
     "Service Address": "3846 BATES ST-63116",
     "Zip Code": "63116",
@@ -1096,6 +1151,17 @@
     "Quote ID": "541490",
     "Quote Amount": "Pending",
     "Closing Date": "06/03/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MICHAEL L BECKER",
+    "Service Address": "6140 SOUTHERN DR",
+    "Zip Code": "63123",
+    "Locator": "24J520048",
+    "Quote ID": "543220",
+    "Quote Amount": "Pending",
+    "Closing Date": "06/17/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
