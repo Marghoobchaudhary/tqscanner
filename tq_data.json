@@ -1001,6 +1001,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "NATALIA JOHNSON",
+    "Service Address": "3136 MIAMI ST-63118",
+    "Zip Code": "63118",
+    "Locator": "16230002500",
+    "Quote ID": "543229",
+    "Quote Amount": "$4402.51",
+    "Closing Date": "06/17/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ZMC INVESTMENTS LLC",
     "Service Address": "6216 LORRAINE AVE",
     "Zip Code": "63121",
@@ -1040,6 +1051,17 @@
     "Locator": "15H521541",
     "Quote ID": "543221",
     "Quote Amount": "$4016.53",
+    "Closing Date": "06/17/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MICHAEL L BECKER",
+    "Service Address": "6140 SOUTHERN DR",
+    "Zip Code": "63123",
+    "Locator": "24J520048",
+    "Quote ID": "543220",
+    "Quote Amount": "$5637.27",
     "Closing Date": "06/17/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1111,6 +1133,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "REBECCA LARSON",
+    "Service Address": "2865 HEATHERTON DR",
+    "Zip Code": "63033",
+    "Locator": "07J540591",
+    "Quote ID": "543355",
+    "Quote Amount": "$390.15",
+    "Closing Date": "06/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "CORTEEMA TAYLOR",
     "Service Address": "40 W ST ANTHONY LN",
     "Zip Code": "63031",
@@ -1140,6 +1173,28 @@
     "Quote ID": "543226",
     "Quote Amount": "$3550.41",
     "Closing Date": "06/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JEQUETTE ALEXANDER",
+    "Service Address": "1306 FARGO DR-63135",
+    "Zip Code": "63135",
+    "Locator": "12H641022",
+    "Quote ID": "543357",
+    "Quote Amount": "$65.12",
+    "Closing Date": "06/28/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KEVIN J BAKER",
+    "Service Address": "12110 LA PADERA LN",
+    "Zip Code": "63033",
+    "Locator": "08F531049",
+    "Quote ID": "543356",
+    "Quote Amount": "$219.41",
+    "Closing Date": "06/28/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1195,28 +1250,6 @@
     "Quote ID": "541490",
     "Quote Amount": "Pending",
     "Closing Date": "06/03/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "NATALIA JOHNSON",
-    "Service Address": "3136 MIAMI ST-63118",
-    "Zip Code": "63118",
-    "Locator": "16230002500",
-    "Quote ID": "543229",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/17/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MICHAEL L BECKER",
-    "Service Address": "6140 SOUTHERN DR",
-    "Zip Code": "63123",
-    "Locator": "24J520048",
-    "Quote ID": "543220",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/17/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
