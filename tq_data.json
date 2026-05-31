@@ -1,82 +1,5 @@
 [
   {
-    "Seller Name": "ANNESSA BLACKMUN",
-    "Service Address": "1316 HEBERT ST",
-    "Zip Code": "63107",
-    "Locator": "11290000300",
-    "Quote ID": "539998",
-    "Quote Amount": "$2306.64",
-    "Closing Date": "05/30/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RYAN BUSALACKI",
-    "Service Address": "2570 MULLANPHY LN",
-    "Zip Code": "63031",
-    "Locator": "06K130705",
-    "Quote ID": "541321",
-    "Quote Amount": "$623.87",
-    "Closing Date": "05/31/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "NATALIE MISHALOW",
-    "Service Address": "1082 ETHERTON DR",
-    "Zip Code": "63126",
-    "Locator": "25L440624",
-    "Quote ID": "541320",
-    "Quote Amount": "$392.63",
-    "Closing Date": "05/31/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CYNTHIA H STEWART",
-    "Service Address": "16756 KEHRS MILL ESTATES DR",
-    "Zip Code": "63005",
-    "Locator": "20U330354",
-    "Quote ID": "541319",
-    "Quote Amount": "$158.16",
-    "Closing Date": "05/31/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "QUENTELLA CARROLL",
-    "Service Address": "9855 LEWIS AND CLARK BLVD",
-    "Zip Code": "63136",
-    "Locator": "11F220161",
-    "Quote ID": "541318",
-    "Quote Amount": "$277.74",
-    "Closing Date": "05/31/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ANNE CROTHERS",
-    "Service Address": "6125 LAURA AVE",
-    "Zip Code": "63136",
-    "Locator": "54920003300",
-    "Quote ID": "541140",
-    "Quote Amount": "$16556.23",
-    "Closing Date": "05/31/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JAMES T GRAHAM",
-    "Service Address": "10439 BIG BEND BLVD",
-    "Zip Code": "63122",
-    "Locator": "24M211792",
-    "Quote ID": "540764",
-    "Quote Amount": "$158.55",
-    "Closing Date": "05/31/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "MICHAEL AFENTOULLIS",
     "Service Address": "1746 CARMAN RIDGE CT",
     "Zip Code": "63021",
@@ -732,6 +655,17 @@
     "Locator": "16100001500",
     "Quote ID": "542566",
     "Quote Amount": "$825.11",
+    "Closing Date": "06/10/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LA DONNA FAIRE",
+    "Service Address": "1453 BROCK ST-63139",
+    "Zip Code": "63139",
+    "Locator": "46070503300",
+    "Quote ID": "543362",
+    "Quote Amount": "$3754.87",
     "Closing Date": "06/10/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
