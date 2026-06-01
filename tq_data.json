@@ -737,6 +737,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "VMG LLC",
+    "Service Address": "412 WARFIELD AVE",
+    "Zip Code": "63135",
+    "Locator": "11J330991",
+    "Quote ID": "543358",
+    "Quote Amount": "$3932.69",
+    "Closing Date": "06/12/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "PALACIOS ENTERPRISE LLC",
     "Service Address": "7862 TRENTON AVE",
     "Zip Code": "63130",
@@ -1195,17 +1206,6 @@
     "Quote ID": "541490",
     "Quote Amount": "Pending",
     "Closing Date": "06/03/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "VMG LLC",
-    "Service Address": "412 WARFIELD AVE",
-    "Zip Code": "63135",
-    "Locator": "11J330991",
-    "Quote ID": "543358",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/12/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
