@@ -1,104 +1,5 @@
 [
   {
-    "Seller Name": "MICHAEL LOGGINS",
-    "Service Address": "10601 AYLESFORD DR",
-    "Zip Code": "63136",
-    "Locator": "10G510013",
-    "Quote ID": "541633",
-    "Quote Amount": "$208.59",
-    "Closing Date": "06/03/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ANTONIA BRATCHER",
-    "Service Address": "1454 ANNILO DR",
-    "Zip Code": "63031",
-    "Locator": "08L540491",
-    "Quote ID": "541632",
-    "Quote Amount": "$1080.37",
-    "Closing Date": "06/03/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DOROTHY L FULLER",
-    "Service Address": "12118 BECKFORD ESTATES DR",
-    "Zip Code": "63043",
-    "Locator": "12O140329",
-    "Quote ID": "541631",
-    "Quote Amount": "$854.16",
-    "Closing Date": "06/03/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KARL CROSBY",
-    "Service Address": "9965 MEADOW AVE",
-    "Zip Code": "63125",
-    "Locator": "28H642156",
-    "Quote ID": "541630",
-    "Quote Amount": "$2983.91",
-    "Closing Date": "06/03/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JD SFR 2021 LLC",
-    "Service Address": "8914 SCOTTDALE AVE",
-    "Zip Code": "63136",
-    "Locator": "12G210362",
-    "Quote ID": "541490",
-    "Quote Amount": "$3514.14",
-    "Closing Date": "06/03/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JD SFR 2021 LLC",
-    "Service Address": "1232 WELEBA AVE",
-    "Zip Code": "63121",
-    "Locator": "13H420958",
-    "Quote ID": "541486",
-    "Quote Amount": "$4212.19",
-    "Closing Date": "06/03/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JD SFR 2021 LLC",
-    "Service Address": "315 TESTON DR",
-    "Zip Code": "63135",
-    "Locator": "11H140744",
-    "Quote ID": "541485",
-    "Quote Amount": "$85.94",
-    "Closing Date": "06/03/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "WELLS FARGO BANK NA TRS",
-    "Service Address": "8746 PARK LN",
-    "Zip Code": "63147",
-    "Locator": "61430000900",
-    "Quote ID": "540969",
-    "Quote Amount": "$0.00",
-    "Closing Date": "06/03/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DEBBIE A LONG",
-    "Service Address": "1440 ST ANTHONY LN",
-    "Zip Code": "63033",
-    "Locator": "09H530333",
-    "Quote ID": "540766",
-    "Quote Amount": "$852.40",
-    "Closing Date": "06/03/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "SANDRA W K FOWLER",
     "Service Address": "5347 LOTUS AVE",
     "Zip Code": "63112",
@@ -931,6 +832,28 @@
     "Quote ID": "543355",
     "Quote Amount": "$390.15",
     "Closing Date": "06/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "THEODORE R BECTON",
+    "Service Address": "6114 SHERRY AVE",
+    "Zip Code": "63136",
+    "Locator": "54920002100",
+    "Quote ID": "543778",
+    "Quote Amount": "$2211.73",
+    "Closing Date": "06/23/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CARRIE GALLAGHER CROMPTON",
+    "Service Address": "1722 NICHOLSON PL",
+    "Zip Code": "63104",
+    "Locator": "13290001100",
+    "Quote ID": "543777",
+    "Quote Amount": "$130.65",
+    "Closing Date": "06/23/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
