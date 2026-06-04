@@ -1,82 +1,5 @@
 [
   {
-    "Seller Name": "SANDRA W K FOWLER",
-    "Service Address": "5347 LOTUS AVE",
-    "Zip Code": "63112",
-    "Locator": "45150004300",
-    "Quote ID": "543359",
-    "Quote Amount": "$1509.38",
-    "Closing Date": "06/04/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DIANE HARMON",
-    "Service Address": "14360 MONDOUBLEAU LN",
-    "Zip Code": "63034",
-    "Locator": "06H330174",
-    "Quote ID": "541638",
-    "Quote Amount": "$1577.19",
-    "Closing Date": "06/04/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SCOTT A BARTHELMASS",
-    "Service Address": "806 W WOODBINE AVE",
-    "Zip Code": "63122",
-    "Locator": "24N520202",
-    "Quote ID": "541611",
-    "Quote Amount": "$2380.09",
-    "Closing Date": "06/04/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LOUIS HALL",
-    "Service Address": "1978 ACORN TRAIL DR",
-    "Zip Code": "63031",
-    "Locator": "08K430216",
-    "Quote ID": "541833",
-    "Quote Amount": "$5458.33",
-    "Closing Date": "06/04/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "REVOC OGUNYELERE JOHN ABAYOMI",
-    "Service Address": "7137 DARTMOUTH AVE",
-    "Zip Code": "63130",
-    "Locator": "17J220379",
-    "Quote ID": "541832",
-    "Quote Amount": "$2375.50",
-    "Closing Date": "06/04/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TERESA THOMAS",
-    "Service Address": "10323 REBA DR",
-    "Zip Code": "63136",
-    "Locator": "10G120779",
-    "Quote ID": "541831",
-    "Quote Amount": "$15429.51",
-    "Closing Date": "06/04/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TREYVON WILLIAMS",
-    "Service Address": "633 S ELLIOTT AVE",
-    "Zip Code": "63122",
-    "Locator": "24M230481",
-    "Quote ID": "541830",
-    "Quote Amount": "$1220.38",
-    "Closing Date": "06/04/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "ANGELA GRIFFIN",
     "Service Address": "625 HOLIDAY AVE",
     "Zip Code": "63042",
@@ -832,6 +755,72 @@
     "Quote ID": "543355",
     "Quote Amount": "$390.15",
     "Closing Date": "06/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CORY JONES",
+    "Service Address": "200 E RIPA AVE",
+    "Zip Code": "63125",
+    "Locator": "28G440652",
+    "Quote ID": "543928",
+    "Quote Amount": "$654.16",
+    "Closing Date": "06/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JULIE JONES",
+    "Service Address": "34 N IOLA DR",
+    "Zip Code": "63119",
+    "Locator": "22L220571",
+    "Quote ID": "543920",
+    "Quote Amount": "$162.82",
+    "Closing Date": "06/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SURREY DRIVE LLC",
+    "Service Address": "1580 SURREY DR",
+    "Zip Code": "63033",
+    "Locator": "07H310452",
+    "Quote ID": "543914",
+    "Quote Amount": "$76.13",
+    "Closing Date": "06/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GREGORY A GARRETT",
+    "Service Address": "463 LYNWOOD FOREST DR",
+    "Zip Code": "63021",
+    "Locator": "23Q240568",
+    "Quote ID": "543913",
+    "Quote Amount": "$408.54",
+    "Closing Date": "06/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DANIELLE GREENE",
+    "Service Address": "1681 BARKWOOD DR",
+    "Zip Code": "63031",
+    "Locator": "05J530248",
+    "Quote ID": "543933",
+    "Quote Amount": "$202.80",
+    "Closing Date": "06/23/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "RUVEN STOVALL",
+    "Service Address": "1705 ST ANTHONY LN",
+    "Zip Code": "63033",
+    "Locator": "09H540934",
+    "Quote ID": "543932",
+    "Quote Amount": "$349.56",
+    "Closing Date": "06/23/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
