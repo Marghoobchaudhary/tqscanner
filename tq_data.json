@@ -1,16 +1,5 @@
 [
   {
-    "Seller Name": "ANGELA GRIFFIN",
-    "Service Address": "625 HOLIDAY AVE",
-    "Zip Code": "63042",
-    "Locator": "08L310612",
-    "Quote ID": "540631",
-    "Quote Amount": "$1537.40",
-    "Closing Date": "06/05/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "BOBBY & EDDIE & GILBER WALTON",
     "Service Address": "4210 PRAIRIE AVE",
     "Zip Code": "63107",
@@ -869,6 +858,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "RED DOOR LEGACY LLC",
+    "Service Address": "2235 EDMUND AVE",
+    "Zip Code": "63121",
+    "Locator": "16H641033",
+    "Quote ID": "544094",
+    "Quote Amount": "$764.58",
+    "Closing Date": "06/24/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "KENNETH A GRIES",
     "Service Address": "4102 BRIDGETON GREENS DR",
     "Zip Code": "63044",
@@ -1034,6 +1034,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "DEBORAH MITCHELL",
+    "Service Address": "6 ROBINSON CIRCLE DR",
+    "Zip Code": "63136",
+    "Locator": "12F121216",
+    "Quote ID": "544093",
+    "Quote Amount": "Pending",
+    "Closing Date": "06/24/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SARAH DESROCHE",
+    "Service Address": "4859 HEIDELBERG AVE",
+    "Zip Code": "63123",
+    "Locator": "25H510607",
+    "Quote ID": "544092",
+    "Quote Amount": "Pending",
+    "Closing Date": "06/24/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "FARRAAD J JOHNSON",
     "Service Address": "1136 EDLOR DR-63138",
     "Zip Code": "63138",
@@ -1129,6 +1151,28 @@
     "Quote ID": "544083",
     "Quote Amount": "Pending",
     "Closing Date": "06/25/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SHARHONDA & MAURICE SALES",
+    "Service Address": "4578 BEHLMANN GROVE PL",
+    "Zip Code": "63034",
+    "Locator": "06G241350",
+    "Quote ID": "544095",
+    "Quote Amount": "Pending",
+    "Closing Date": "06/28/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LORREN Z BUCK",
+    "Service Address": "2675 VALLEY BROOK DR",
+    "Zip Code": "63031",
+    "Locator": "06J420843",
+    "Quote ID": "544096",
+    "Quote Amount": "Pending",
+    "Closing Date": "06/29/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
