@@ -517,17 +517,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "ROBERT VERMOILEN",
-    "Service Address": "6928 WANDA CT-63116",
-    "Zip Code": "63116",
-    "Locator": "64090002000",
-    "Quote ID": "543058",
-    "Quote Amount": "$533.65",
-    "Closing Date": "06/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "TIMOTHY SMITH",
     "Service Address": "6106 WESTMINSTER PL",
     "Zip Code": "63112",
@@ -792,6 +781,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ANTHONY CORTEZ",
+    "Service Address": "2776 DAWNVIEW DR",
+    "Zip Code": "63031",
+    "Locator": "06J420359",
+    "Quote ID": "544082",
+    "Quote Amount": "$-379.12",
+    "Closing Date": "06/23/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "DANIELLE GREENE",
     "Service Address": "1681 BARKWOOD DR",
     "Zip Code": "63031",
@@ -869,12 +869,45 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "DEBORAH MITCHELL",
+    "Service Address": "6 ROBINSON CIRCLE DR",
+    "Zip Code": "63136",
+    "Locator": "12F121216",
+    "Quote ID": "544093",
+    "Quote Amount": "$5119.49",
+    "Closing Date": "06/24/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "FARRAAD J JOHNSON",
+    "Service Address": "1136 EDLOR DR-63138",
+    "Zip Code": "63138",
+    "Locator": "07D430026",
+    "Quote ID": "544091",
+    "Quote Amount": "$4105.30",
+    "Closing Date": "06/24/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "KENNETH A GRIES",
     "Service Address": "4102 BRIDGETON GREENS DR",
     "Zip Code": "63044",
     "Locator": "11M410661",
     "Quote ID": "544090",
     "Quote Amount": "$434.21",
+    "Closing Date": "06/24/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TDB PROPERTY ACQUISITIONS LLC",
+    "Service Address": "4125 ENRIGHT AVE",
+    "Zip Code": "63108",
+    "Locator": "48730003200",
+    "Quote ID": "544078",
+    "Quote Amount": "$0.00",
     "Closing Date": "06/24/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -891,6 +924,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ESTHER PEREZ",
+    "Service Address": "6611 MICHIGAN AVE",
+    "Zip Code": "63111",
+    "Locator": "29820000300",
+    "Quote ID": "544075",
+    "Quote Amount": "$0.00",
+    "Closing Date": "06/24/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MEGAN BUTLER",
     "Service Address": "2707 DALTON AVE",
     "Zip Code": "63139",
@@ -902,12 +946,45 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ANDERSON AVE INVESTMENT LLC",
+    "Service Address": "5172 KENSINGTON AVE",
+    "Zip Code": "63108",
+    "Locator": "48430000600",
+    "Quote ID": "544087",
+    "Quote Amount": "$0.00",
+    "Closing Date": "06/25/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BHPH HOMES LLC",
+    "Service Address": "5174 ENRIGHT AVE",
+    "Zip Code": "63108",
+    "Locator": "48440000700",
+    "Quote ID": "544085",
+    "Quote Amount": "$0.00",
+    "Closing Date": "06/25/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "BHPH HOMES LLC",
     "Service Address": "5176 ENRIGHT AVE",
     "Zip Code": "63108",
     "Locator": "48440000700",
     "Quote ID": "544084",
     "Quote Amount": "$1130.10",
+    "Closing Date": "06/25/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PREMIUM PRESTIGE PAINTING LL",
+    "Service Address": "5174 ENRIGHT AVE",
+    "Zip Code": "63108",
+    "Locator": "48440000700",
+    "Quote ID": "544083",
+    "Quote Amount": "$7436.55",
     "Closing Date": "06/25/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1012,17 +1089,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "ANTHONY CORTEZ",
-    "Service Address": "2776 DAWNVIEW DR",
-    "Zip Code": "63031",
-    "Locator": "06J420359",
-    "Quote ID": "544082",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/23/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "RISE UP INVESTMENTS LLC",
     "Service Address": "9763 TULLAMOOR DR",
     "Zip Code": "63136",
@@ -1034,33 +1100,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "DEBORAH MITCHELL",
-    "Service Address": "6 ROBINSON CIRCLE DR",
-    "Zip Code": "63136",
-    "Locator": "12F121216",
-    "Quote ID": "544093",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "SARAH DESROCHE",
     "Service Address": "4859 HEIDELBERG AVE",
     "Zip Code": "63123",
     "Locator": "25H510607",
     "Quote ID": "544092",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "FARRAAD J JOHNSON",
-    "Service Address": "1136 EDLOR DR-63138",
-    "Zip Code": "63138",
-    "Locator": "07D430026",
-    "Quote ID": "544091",
     "Quote Amount": "Pending",
     "Closing Date": "06/24/2026",
     "Stage": "In Progress",
@@ -1089,28 +1133,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "TDB PROPERTY ACQUISITIONS LLC",
-    "Service Address": "4125 ENRIGHT AVE",
-    "Zip Code": "63108",
-    "Locator": "48730003200",
-    "Quote ID": "544078",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ESTHER PEREZ",
-    "Service Address": "6611 MICHIGAN AVE",
-    "Zip Code": "63111",
-    "Locator": "29820000300",
-    "Quote ID": "544075",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "RHONADA HAMILTON",
     "Service Address": "5218 RAYMOND AVE",
     "Zip Code": "63113",
@@ -1118,39 +1140,6 @@
     "Quote ID": "544074",
     "Quote Amount": "Pending",
     "Closing Date": "06/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ANDERSON AVE INVESTMENT LLC",
-    "Service Address": "5172 KENSINGTON AVE",
-    "Zip Code": "63108",
-    "Locator": "48430000600",
-    "Quote ID": "544087",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/25/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BHPH HOMES LLC",
-    "Service Address": "5174 ENRIGHT AVE",
-    "Zip Code": "63108",
-    "Locator": "48440000700",
-    "Quote ID": "544085",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/25/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PREMIUM PRESTIGE PAINTING LL",
-    "Service Address": "5174 ENRIGHT AVE",
-    "Zip Code": "63108",
-    "Locator": "48440000700",
-    "Quote ID": "544083",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/25/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
