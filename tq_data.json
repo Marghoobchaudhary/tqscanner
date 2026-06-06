@@ -935,6 +935,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "RHONADA HAMILTON",
+    "Service Address": "5218 RAYMOND AVE",
+    "Zip Code": "63113",
+    "Locator": "51440000900",
+    "Quote ID": "544074",
+    "Quote Amount": "$2436.57",
+    "Closing Date": "06/24/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MEGAN BUTLER",
     "Service Address": "2707 DALTON AVE",
     "Zip Code": "63139",
@@ -942,6 +953,17 @@
     "Quote ID": "543911",
     "Quote Amount": "$217.01",
     "Closing Date": "06/24/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LARRY KETTERLING",
+    "Service Address": "180 CHINON DR",
+    "Zip Code": "63129",
+    "Locator": "30H120350",
+    "Quote ID": "544249",
+    "Quote Amount": "$358.40",
+    "Closing Date": "06/25/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1045,6 +1067,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "LORREN Z BUCK",
+    "Service Address": "2675 VALLEY BROOK DR",
+    "Zip Code": "63031",
+    "Locator": "06J420843",
+    "Quote ID": "544096",
+    "Quote Amount": "$876.66",
+    "Closing Date": "06/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MATTHEW & VANESSA ISAACS",
     "Service Address": "1395 ST FRANCOIS ST",
     "Zip Code": "63033",
@@ -1133,13 +1166,24 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "RHONADA HAMILTON",
-    "Service Address": "5218 RAYMOND AVE",
-    "Zip Code": "63113",
-    "Locator": "51440000900",
-    "Quote ID": "544074",
+    "Seller Name": "QLM ENTERPRISES LLC",
+    "Service Address": "10206 PRINCE DR",
+    "Zip Code": "63136",
+    "Locator": "11F532002",
+    "Quote ID": "544251",
     "Quote Amount": "Pending",
-    "Closing Date": "06/24/2026",
+    "Closing Date": "06/25/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TOPSTONE INV STL 1 LLC",
+    "Service Address": "5237 HAMILTON AVE",
+    "Zip Code": "63136",
+    "Locator": "14G220518",
+    "Quote ID": "544250",
+    "Quote Amount": "Pending",
+    "Closing Date": "06/25/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
@@ -1151,17 +1195,6 @@
     "Quote ID": "544095",
     "Quote Amount": "Pending",
     "Closing Date": "06/28/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LORREN Z BUCK",
-    "Service Address": "2675 VALLEY BROOK DR",
-    "Zip Code": "63031",
-    "Locator": "06J420843",
-    "Quote ID": "544096",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/29/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
