@@ -968,6 +968,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "QLM ENTERPRISES LLC",
+    "Service Address": "10206 PRINCE DR",
+    "Zip Code": "63136",
+    "Locator": "11F532002",
+    "Quote ID": "544251",
+    "Quote Amount": "$0.00",
+    "Closing Date": "06/25/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TOPSTONE INV STL 1 LLC",
+    "Service Address": "5237 HAMILTON AVE",
+    "Zip Code": "63136",
+    "Locator": "14G220518",
+    "Quote ID": "544250",
+    "Quote Amount": "$0.00",
+    "Closing Date": "06/25/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "LARRY KETTERLING",
     "Service Address": "180 CHINON DR",
     "Zip Code": "63129",
@@ -1052,6 +1074,17 @@
     "Quote ID": "543226",
     "Quote Amount": "$3550.41",
     "Closing Date": "06/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SHARHONDA & MAURICE SALES",
+    "Service Address": "4578 BEHLMANN GROVE PL",
+    "Zip Code": "63034",
+    "Locator": "06G241350",
+    "Quote ID": "544095",
+    "Quote Amount": "$1896.21",
+    "Closing Date": "06/28/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1155,17 +1188,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "LAURA KILLIAN",
-    "Service Address": "10316 QUAKER DR",
-    "Zip Code": "63136",
-    "Locator": "10G120577",
-    "Quote ID": "544089",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "JERRY AKERS",
     "Service Address": "2343 FARNHAM LN",
     "Zip Code": "63033",
@@ -1173,39 +1195,6 @@
     "Quote ID": "544088",
     "Quote Amount": "Pending",
     "Closing Date": "06/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "QLM ENTERPRISES LLC",
-    "Service Address": "10206 PRINCE DR",
-    "Zip Code": "63136",
-    "Locator": "11F532002",
-    "Quote ID": "544251",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/25/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TOPSTONE INV STL 1 LLC",
-    "Service Address": "5237 HAMILTON AVE",
-    "Zip Code": "63136",
-    "Locator": "14G220518",
-    "Quote ID": "544250",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/25/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SHARHONDA & MAURICE SALES",
-    "Service Address": "4578 BEHLMANN GROVE PL",
-    "Zip Code": "63034",
-    "Locator": "06G241350",
-    "Quote ID": "544095",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/28/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
