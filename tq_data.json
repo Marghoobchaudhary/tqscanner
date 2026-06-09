@@ -1,137 +1,5 @@
 [
   {
-    "Seller Name": "BOBBY & EDDIE & GILBER WALTON",
-    "Service Address": "4210 PRAIRIE AVE",
-    "Zip Code": "63107",
-    "Locator": "33060000400",
-    "Quote ID": "542003",
-    "Quote Amount": "$17365.24",
-    "Closing Date": "06/07/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "424 REAL ESTATE LLC",
-    "Service Address": "424 E MONROE AVE",
-    "Zip Code": "63122",
-    "Locator": "24M540285",
-    "Quote ID": "542002",
-    "Quote Amount": "$168.19",
-    "Closing Date": "06/07/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ROOSEVELT WILLIAMS",
-    "Service Address": "62 BAYVIEW CT",
-    "Zip Code": "63135",
-    "Locator": "11H310170",
-    "Quote ID": "542000",
-    "Quote Amount": "$2509.62",
-    "Closing Date": "06/07/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LUXURY LIFESTYLE ESTATES LLC",
-    "Service Address": "1005 EDGEHILL DR",
-    "Zip Code": "63135",
-    "Locator": "12H630545",
-    "Quote ID": "541998",
-    "Quote Amount": "$634.76",
-    "Closing Date": "06/07/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LACKLAND RENTAL PROPERTIES LLC",
-    "Service Address": "6101 WULFF DR",
-    "Zip Code": "63134",
-    "Locator": "11J220643",
-    "Quote ID": "541997",
-    "Quote Amount": "$927.06",
-    "Closing Date": "06/07/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "NATHANIEL TOMLIN",
-    "Service Address": "10749 LANDSEER DR",
-    "Zip Code": "63136",
-    "Locator": "10G620903",
-    "Quote ID": "541669",
-    "Quote Amount": "$3203.41",
-    "Closing Date": "06/07/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DENISE DANTZLER",
-    "Service Address": "5646 LUCAS AND HUNT RD",
-    "Zip Code": "63136",
-    "Locator": "13G130483",
-    "Quote ID": "541999",
-    "Quote Amount": "$120.45",
-    "Closing Date": "06/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "FELICIA BROOKS",
-    "Service Address": "6527 JULIAN AVE",
-    "Zip Code": "63133",
-    "Locator": "17H410935",
-    "Quote ID": "542158",
-    "Quote Amount": "$752.50",
-    "Closing Date": "06/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DEMETRIUS BLUNT",
-    "Service Address": "4510 OVERBROOK DR",
-    "Zip Code": "63121",
-    "Locator": "14H520042",
-    "Quote ID": "542157",
-    "Quote Amount": "$964.19",
-    "Closing Date": "06/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "UNIQUE 3 REALTY INC",
-    "Service Address": "4431 N 20TH ST",
-    "Zip Code": "63107",
-    "Locator": "24320002400",
-    "Quote ID": "542154",
-    "Quote Amount": "$7899.32",
-    "Closing Date": "06/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "UNIQUE 3 REALTY INC",
-    "Service Address": "8559 MORA LN",
-    "Zip Code": "63147",
-    "Locator": "43340201900",
-    "Quote ID": "542152",
-    "Quote Amount": "$0.00",
-    "Closing Date": "06/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ARIANNE CASAINE",
-    "Service Address": "7452 FLORISSANT RD",
-    "Zip Code": "63121",
-    "Locator": "14H210563",
-    "Quote ID": "541677",
-    "Quote Amount": "$62.08",
-    "Closing Date": "06/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "PATRICK BURNS",
     "Service Address": "519 ROARING FORK DR",
     "Zip Code": "63040",
@@ -814,6 +682,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "RISE UP INVESTMENTS LLC",
+    "Service Address": "9763 TULLAMOOR DR",
+    "Zip Code": "63136",
+    "Locator": "11G220731",
+    "Quote ID": "543904",
+    "Quote Amount": "$1957.02",
+    "Closing Date": "06/23/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "SUSIE W PERSON",
     "Service Address": "2831 COLONIAL AVE",
     "Zip Code": "63121",
@@ -880,6 +759,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "SARAH DESROCHE",
+    "Service Address": "4859 HEIDELBERG AVE",
+    "Zip Code": "63123",
+    "Locator": "25H510607",
+    "Quote ID": "544092",
+    "Quote Amount": "$2311.27",
+    "Closing Date": "06/24/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "FARRAAD J JOHNSON",
     "Service Address": "1136 EDLOR DR-63138",
     "Zip Code": "63138",
@@ -897,6 +787,17 @@
     "Locator": "11M410661",
     "Quote ID": "544090",
     "Quote Amount": "$434.21",
+    "Closing Date": "06/24/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JERRY AKERS",
+    "Service Address": "2343 FARNHAM LN",
+    "Zip Code": "63033",
+    "Locator": "07J620835",
+    "Quote ID": "544088",
+    "Quote Amount": "$16633.32",
     "Closing Date": "06/24/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1166,35 +1067,13 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "RISE UP INVESTMENTS LLC",
-    "Service Address": "9763 TULLAMOOR DR",
-    "Zip Code": "63136",
-    "Locator": "11G220731",
-    "Quote ID": "543904",
+    "Seller Name": "MONICA M PICKENS",
+    "Service Address": "730 LILAC DR-63031",
+    "Zip Code": "63031",
+    "Locator": "07J410922",
+    "Quote ID": "544407",
     "Quote Amount": "Pending",
-    "Closing Date": "06/23/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SARAH DESROCHE",
-    "Service Address": "4859 HEIDELBERG AVE",
-    "Zip Code": "63123",
-    "Locator": "25H510607",
-    "Quote ID": "544092",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JERRY AKERS",
-    "Service Address": "2343 FARNHAM LN",
-    "Zip Code": "63033",
-    "Locator": "07J620835",
-    "Quote ID": "544088",
-    "Quote Amount": "Pending",
-    "Closing Date": "06/24/2026",
+    "Closing Date": "06/28/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
