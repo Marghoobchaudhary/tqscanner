@@ -1,148 +1,5 @@
 [
   {
-    "Seller Name": "PATRICK BURNS",
-    "Service Address": "519 ROARING FORK DR",
-    "Zip Code": "63040",
-    "Locator": "25U430231",
-    "Quote ID": "542565",
-    "Quote Amount": "$2459.75",
-    "Closing Date": "06/09/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LARRY FLETCHER MARSHAY &",
-    "Service Address": "2316 BENSONHURST DR",
-    "Zip Code": "63031",
-    "Locator": "05K220960",
-    "Quote ID": "542358",
-    "Quote Amount": "$3314.46",
-    "Closing Date": "06/09/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "FLORIDA INVESTMENT GROUP L L C",
-    "Service Address": "2131 OLD MANOR RD",
-    "Zip Code": "63136",
-    "Locator": "10G330291",
-    "Quote ID": "542357",
-    "Quote Amount": "$1927.50",
-    "Closing Date": "06/09/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "THOMAS & BETTY A HELLER",
-    "Service Address": "3719 GORDON AVE",
-    "Zip Code": "63114",
-    "Locator": "13K130727",
-    "Quote ID": "542356",
-    "Quote Amount": "$2911.13",
-    "Closing Date": "06/09/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "REVIVE HEALTHCARE SOLUTIONSLLC",
-    "Service Address": "3444 CHIPPEWA ST",
-    "Zip Code": "63118",
-    "Locator": "16140000500",
-    "Quote ID": "542355",
-    "Quote Amount": "$607.61",
-    "Closing Date": "06/09/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ALLEN L WINBUSH",
-    "Service Address": "7262 RAVINIA DR",
-    "Zip Code": "63121",
-    "Locator": "14H330830",
-    "Quote ID": "542348",
-    "Quote Amount": "$108.87",
-    "Closing Date": "06/09/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MONICA BRADSHAW",
-    "Service Address": "1345 ST ANTHONY LN",
-    "Zip Code": "63033",
-    "Locator": "09H440782",
-    "Quote ID": "542347",
-    "Quote Amount": "$625.56",
-    "Closing Date": "06/09/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DIANNE C DAVIS",
-    "Service Address": "8659 ORIOLE AVE",
-    "Zip Code": "63147",
-    "Locator": "42450202800",
-    "Quote ID": "542286",
-    "Quote Amount": "$1872.62",
-    "Closing Date": "06/09/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TDB PROPERTIES LLC",
-    "Service Address": "4129 ENRIGHT AVE",
-    "Zip Code": "63108",
-    "Locator": "48730003300",
-    "Quote ID": "542283",
-    "Quote Amount": "$0.00",
-    "Closing Date": "06/09/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RED DOOR LEGACY LLC",
-    "Service Address": "1221 HEBERT ST",
-    "Zip Code": "63107",
-    "Locator": "11440000700",
-    "Quote ID": "542281",
-    "Quote Amount": "$3439.04",
-    "Closing Date": "06/09/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BRENDA BAEZ",
-    "Service Address": "6928 MAGNOLIA AVE",
-    "Zip Code": "63143",
-    "Locator": "48031800600",
-    "Quote ID": "542278",
-    "Quote Amount": "$176.17",
-    "Closing Date": "06/09/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GLYNIS DAVIS",
-    "Service Address": "1607 VERONICA AVE",
-    "Zip Code": "63147",
-    "Locator": "43220601300",
-    "Quote ID": "542276",
-    "Quote Amount": "$3539.97",
-    "Closing Date": "06/09/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LOUIS REED",
-    "Service Address": "14561 OCEAN SIDE DR",
-    "Zip Code": "63034",
-    "Locator": "06H620732",
-    "Quote ID": "541635",
-    "Quote Amount": "$2395.28",
-    "Closing Date": "06/09/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "REVIVE HEALTHCARE SOLUTIONSLLC",
     "Service Address": "3451 CHIPPEWA ST",
     "Zip Code": "63118",
@@ -1019,6 +876,28 @@
     "Quote ID": "543356",
     "Quote Amount": "$219.41",
     "Closing Date": "06/28/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "QLM ENTERPRISES LLC",
+    "Service Address": "575 BARDOT DR",
+    "Zip Code": "63031",
+    "Locator": "06J211227",
+    "Quote ID": "544538",
+    "Quote Amount": "$635.39",
+    "Closing Date": "06/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SHANNON INVESTMENTS LLC",
+    "Service Address": "9200 BELLEFONTAINE RD",
+    "Zip Code": "63137",
+    "Locator": "12E111452",
+    "Quote ID": "544537",
+    "Quote Amount": "$14.14",
+    "Closing Date": "06/29/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
