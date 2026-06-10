@@ -847,6 +847,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "TRC TRUCKING I LLC",
+    "Service Address": "4661 LABADIE AVE",
+    "Zip Code": "63115",
+    "Locator": "37100102100",
+    "Quote ID": "544575",
+    "Quote Amount": "$3826.06",
+    "Closing Date": "06/30/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "BARLOUIS TWO LLC",
     "Service Address": "1371 BROADLAWNS LN",
     "Zip Code": "63138",
@@ -898,6 +909,28 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KIESHA WILLIAMS",
+    "Service Address": "4737 CUPPLES PL",
+    "Zip Code": "63113",
+    "Locator": "44770204900",
+    "Quote ID": "544585",
+    "Quote Amount": "Pending",
+    "Closing Date": "06/30/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KIRTEASE SCALES",
+    "Service Address": "8212 ALABAMA AVE",
+    "Zip Code": "63111",
+    "Locator": "32140003700",
+    "Quote ID": "544566",
+    "Quote Amount": "Pending",
+    "Closing Date": "06/30/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
