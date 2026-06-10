@@ -1,71 +1,5 @@
 [
   {
-    "Seller Name": "REVIVE HEALTHCARE SOLUTIONSLLC",
-    "Service Address": "3451 CHIPPEWA ST",
-    "Zip Code": "63118",
-    "Locator": "16100001500",
-    "Quote ID": "542566",
-    "Quote Amount": "$825.11",
-    "Closing Date": "06/10/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LA DONNA FAIRE",
-    "Service Address": "1453 BROCK ST-63139",
-    "Zip Code": "63139",
-    "Locator": "46070503300",
-    "Quote ID": "543362",
-    "Quote Amount": "$3754.87",
-    "Closing Date": "06/10/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "REAL STL PROPERTY LLC",
-    "Service Address": "123 EICHELBERGER ST",
-    "Zip Code": "63111",
-    "Locator": "28290001600",
-    "Quote ID": "542567",
-    "Quote Amount": "$4894.66",
-    "Closing Date": "06/10/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "IRA MILLER",
-    "Service Address": "16312 HAMPDEN PL",
-    "Zip Code": "63034",
-    "Locator": "05J641162",
-    "Quote ID": "542351",
-    "Quote Amount": "$90.00",
-    "Closing Date": "06/10/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SAMANTHA WATSON",
-    "Service Address": "520 SARATOGA LN",
-    "Zip Code": "63042",
-    "Locator": "09L630186",
-    "Quote ID": "542350",
-    "Quote Amount": "$1231.56",
-    "Closing Date": "06/10/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CHRISTINE SCHALL",
-    "Service Address": "8101 PARKRIDGE DR",
-    "Zip Code": "63123",
-    "Locator": "64270001900",
-    "Quote ID": "542287",
-    "Quote Amount": "$1050.39",
-    "Closing Date": "06/10/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "CAROLYN TOWLES",
     "Service Address": "1739 GRAFTON DR",
     "Zip Code": "63136",
@@ -909,6 +843,17 @@
     "Quote ID": "544096",
     "Quote Amount": "$876.66",
     "Closing Date": "06/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BARLOUIS TWO LLC",
+    "Service Address": "1371 BROADLAWNS LN",
+    "Zip Code": "63138",
+    "Locator": "08E311040",
+    "Quote ID": "544540",
+    "Quote Amount": "$155.42",
+    "Closing Date": "07/09/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
