@@ -847,6 +847,39 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JOHN E POUND",
+    "Service Address": "1901 FIRETHORN DR",
+    "Zip Code": "63131",
+    "Locator": "21N510011",
+    "Quote ID": "544711",
+    "Quote Amount": "$233.76",
+    "Closing Date": "06/30/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DONNA J AMATO",
+    "Service Address": "4439 LINDSCOTT AVE",
+    "Zip Code": "63134",
+    "Locator": "12K120086",
+    "Quote ID": "544710",
+    "Quote Amount": "$4208.93",
+    "Closing Date": "06/30/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "STACEY THOMAS",
+    "Service Address": "8762 PARTRIDGE AVE",
+    "Zip Code": "63147",
+    "Locator": "61870001500",
+    "Quote ID": "544703",
+    "Quote Amount": "$509.17",
+    "Closing Date": "06/30/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "TRC TRUCKING I LLC",
     "Service Address": "4661 LABADIE AVE",
     "Zip Code": "63115",
@@ -909,6 +942,72 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JOHN D MCWHERTER",
+    "Service Address": "9538 CLOVERHURST DR",
+    "Zip Code": "63123",
+    "Locator": "26J230842",
+    "Quote ID": "544712",
+    "Quote Amount": "Pending",
+    "Closing Date": "06/30/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ALVIN CHRISTOPHER BUTLER",
+    "Service Address": "8870 LOWELL ST",
+    "Zip Code": "63147",
+    "Locator": "54520001000",
+    "Quote ID": "544709",
+    "Quote Amount": "Pending",
+    "Closing Date": "06/30/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "FLORA SCOTT",
+    "Service Address": "2101 OBEAR AVE",
+    "Zip Code": "63107",
+    "Locator": "24800001100",
+    "Quote ID": "544707",
+    "Quote Amount": "Pending",
+    "Closing Date": "06/30/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ALESIA WHITE",
+    "Service Address": "2101 OBEAR AVE",
+    "Zip Code": "63107",
+    "Locator": "24800001100",
+    "Quote ID": "544706",
+    "Quote Amount": "Pending",
+    "Closing Date": "06/30/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "IN & OUT COMMUNITY CONST LLC",
+    "Service Address": "4521 BLAIR AVE",
+    "Zip Code": "63107",
+    "Locator": "24450001700",
+    "Quote ID": "544705",
+    "Quote Amount": "Pending",
+    "Closing Date": "06/30/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "IN & OUT COMMUNITY CNSTRCTN LL",
+    "Service Address": "4509 BLAIR AVE",
+    "Zip Code": "63107",
+    "Locator": "24450002100",
+    "Quote ID": "544704",
+    "Quote Amount": "Pending",
+    "Closing Date": "06/30/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
