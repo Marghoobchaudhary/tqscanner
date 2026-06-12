@@ -1001,6 +1001,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JAMES COLAHAN",
+    "Service Address": "9984 MEADOW AVE",
+    "Zip Code": "63125",
+    "Locator": "28G410907",
+    "Quote ID": "544866",
+    "Quote Amount": "$0.00",
+    "Closing Date": "07/07/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "TAMARA HILL PFEIFER",
     "Service Address": "4352 WESTMINSTER PL",
     "Zip Code": "63108",
@@ -1096,17 +1107,6 @@
     "Quote ID": "544734",
     "Quote Amount": "Pending",
     "Closing Date": "07/01/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JAMES COLAHAN",
-    "Service Address": "9984 MEADOW AVE",
-    "Zip Code": "63125",
-    "Locator": "28G410907",
-    "Quote ID": "544866",
-    "Quote Amount": "Pending",
-    "Closing Date": "07/07/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
