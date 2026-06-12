@@ -1,16 +1,5 @@
 [
   {
-    "Seller Name": "VMG LLC",
-    "Service Address": "412 WARFIELD AVE",
-    "Zip Code": "63135",
-    "Locator": "11J330991",
-    "Quote ID": "543358",
-    "Quote Amount": "$3932.69",
-    "Closing Date": "06/12/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "PALACIOS ENTERPRISE LLC",
     "Service Address": "7862 TRENTON AVE",
     "Zip Code": "63130",
@@ -788,6 +777,17 @@
     "Quote ID": "543356",
     "Quote Amount": "$219.41",
     "Closing Date": "06/28/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JERRY MCCAULEY",
+    "Service Address": "9917 HALLS FERRY RD",
+    "Zip Code": "63136",
+    "Locator": "11F110574",
+    "Quote ID": "544873",
+    "Quote Amount": "$118.09",
+    "Closing Date": "06/29/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
