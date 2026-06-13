@@ -220,17 +220,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "ARTHUR L FULTON",
-    "Service Address": "4222 JENNINGS STATION RD",
-    "Zip Code": "63121",
-    "Locator": "15G420791",
-    "Quote ID": "543227",
-    "Quote Amount": "$4229.33",
-    "Closing Date": "06/17/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "JASMINE HARSHBARGER",
     "Service Address": "719 RIDERWOOD DR",
     "Zip Code": "63042",
@@ -1107,6 +1096,17 @@
     "Quote ID": "544734",
     "Quote Amount": "Pending",
     "Closing Date": "07/01/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ARTHUR L FULTON",
+    "Service Address": "4222 JENNINGS STATION RD",
+    "Zip Code": "63121",
+    "Locator": "15G420791",
+    "Quote ID": "544986",
+    "Quote Amount": "Pending",
+    "Closing Date": "07/02/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
