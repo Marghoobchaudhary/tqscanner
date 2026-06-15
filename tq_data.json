@@ -1,71 +1,5 @@
 [
   {
-    "Seller Name": "PALACIOS ENTERPRISE LLC",
-    "Service Address": "7862 TRENTON AVE",
-    "Zip Code": "63130",
-    "Locator": "16K330805",
-    "Quote ID": "542594",
-    "Quote Amount": "$944.84",
-    "Closing Date": "06/14/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CHRISTOPHER S GEBBEN",
-    "Service Address": "215 NEWPORT AVE",
-    "Zip Code": "63119",
-    "Locator": "22K141013",
-    "Quote ID": "542588",
-    "Quote Amount": "$114.28",
-    "Closing Date": "06/14/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ERIKA R BROWN",
-    "Service Address": "9430 WILSON BRIDGE DR",
-    "Zip Code": "63136",
-    "Locator": "12F211184",
-    "Quote ID": "542913",
-    "Quote Amount": "$4997.78",
-    "Closing Date": "06/15/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "NICHOLAS AND JESSICA DIETZMAN",
-    "Service Address": "638 RUNNING CREEK DR",
-    "Zip Code": "63021",
-    "Locator": "24S330624",
-    "Quote ID": "542912",
-    "Quote Amount": "$924.24",
-    "Closing Date": "06/15/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DONALD & MARY THOMAS",
-    "Service Address": "2203 REDMAN RD",
-    "Zip Code": "63136",
-    "Locator": "09F540071",
-    "Quote ID": "542911",
-    "Quote Amount": "$2106.33",
-    "Closing Date": "06/15/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CAROLYN HESSION",
-    "Service Address": "4516 SOUTHRIDGE PINES DR",
-    "Zip Code": "63128",
-    "Locator": "29K240432",
-    "Quote ID": "542910",
-    "Quote Amount": "$11394.31",
-    "Closing Date": "06/15/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "TIMOTHY BALIS",
     "Service Address": "526 AQUA RIDGE DR",
     "Zip Code": "63129",
@@ -770,6 +704,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "TYNINA GRISSOM",
+    "Service Address": "11278 ASPEN WOODS DR",
+    "Zip Code": "63138",
+    "Locator": "09E310259",
+    "Quote ID": "544995",
+    "Quote Amount": "$381.56",
+    "Closing Date": "06/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "JERRY MCCAULEY",
     "Service Address": "9917 HALLS FERRY RD",
     "Zip Code": "63136",
@@ -810,6 +755,28 @@
     "Quote ID": "544096",
     "Quote Amount": "$876.66",
     "Closing Date": "06/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KKB REALTY LLC",
+    "Service Address": "1023 NORTHDALE AVE",
+    "Zip Code": "63138",
+    "Locator": "08D110532",
+    "Quote ID": "544994",
+    "Quote Amount": "$25.73",
+    "Closing Date": "06/30/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BEAUTY AND THE BEST INVESTMENT",
+    "Service Address": "9521 EVERMAN AVE",
+    "Zip Code": "63114",
+    "Locator": "15L631027",
+    "Quote ID": "544992",
+    "Quote Amount": "$1032.76",
+    "Closing Date": "06/30/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -931,6 +898,17 @@
     "Quote ID": "544566",
     "Quote Amount": "$1345.41",
     "Closing Date": "06/30/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DEBORAH M CARROLL",
+    "Service Address": "12836 FOX HOLLOW CT",
+    "Zip Code": "63033",
+    "Locator": "07F640179",
+    "Quote ID": "544989",
+    "Quote Amount": "$251.02",
+    "Closing Date": "07/01/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1063,6 +1041,17 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SALES PROPERTIES LLC",
+    "Service Address": "7008 FLORENCE PL",
+    "Zip Code": "63136",
+    "Locator": "14G242206",
+    "Quote ID": "544993",
+    "Quote Amount": "Pending",
+    "Closing Date": "06/30/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
