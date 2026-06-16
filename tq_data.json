@@ -1,126 +1,5 @@
 [
   {
-    "Seller Name": "TIMOTHY BALIS",
-    "Service Address": "526 AQUA RIDGE DR",
-    "Zip Code": "63129",
-    "Locator": "30H410145",
-    "Quote ID": "543073",
-    "Quote Amount": "$84.03",
-    "Closing Date": "06/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ROBERT WIGGINS",
-    "Service Address": "1200 ENSLEY DR",
-    "Zip Code": "63137",
-    "Locator": "11F320692",
-    "Quote ID": "543071",
-    "Quote Amount": "$152.85",
-    "Closing Date": "06/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "NATHAN DIEBEL",
-    "Service Address": "266 PARDELLA AVE",
-    "Zip Code": "63125",
-    "Locator": "26G131105",
-    "Quote ID": "543070",
-    "Quote Amount": "$838.89",
-    "Closing Date": "06/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BRAD WIESE",
-    "Service Address": "412 WHITEBIRD CT",
-    "Zip Code": "63040",
-    "Locator": "24V340073",
-    "Quote ID": "543065",
-    "Quote Amount": "$767.10",
-    "Closing Date": "06/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SAKARA POLK",
-    "Service Address": "2752 WINTERGREEN DR",
-    "Zip Code": "63033",
-    "Locator": "06H140490",
-    "Quote ID": "543064",
-    "Quote Amount": "$1020.15",
-    "Closing Date": "06/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PATRICIA EVERSON",
-    "Service Address": "3 COUNTRY CLUB CT",
-    "Zip Code": "63033",
-    "Locator": "07G420079",
-    "Quote ID": "543062",
-    "Quote Amount": "$761.72",
-    "Closing Date": "06/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JEFFERY M EVERS",
-    "Service Address": "545 LYNN HAVEN LN",
-    "Zip Code": "63042",
-    "Locator": "08L320237",
-    "Quote ID": "543061",
-    "Quote Amount": "$923.39",
-    "Closing Date": "06/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TIMOTHY SMITH",
-    "Service Address": "6106 WESTMINSTER PL",
-    "Zip Code": "63112",
-    "Locator": "54190002500",
-    "Quote ID": "543057",
-    "Quote Amount": "$236.50",
-    "Closing Date": "06/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GREGORY WORTHY",
-    "Service Address": "1519 REALE AVE",
-    "Zip Code": "63138",
-    "Locator": "09E540467",
-    "Quote ID": "542903",
-    "Quote Amount": "$9350.65",
-    "Closing Date": "06/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CARMILL MAPP",
-    "Service Address": "7344 HARNEY AVE",
-    "Zip Code": "63136",
-    "Locator": "13G120941",
-    "Quote ID": "542901",
-    "Quote Amount": "$996.07",
-    "Closing Date": "06/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BRIJ VAID",
-    "Service Address": "9780 OLD WARSON RD",
-    "Zip Code": "63124",
-    "Locator": "21L420103",
-    "Quote ID": "542353",
-    "Quote Amount": "$310.37",
-    "Closing Date": "06/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "WILLIAM & TONYA ZAIGER",
     "Service Address": "6039 ARTHUR AVE",
     "Zip Code": "63139",
@@ -1107,6 +986,17 @@
     "Quote ID": "544986",
     "Quote Amount": "Pending",
     "Closing Date": "07/02/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PATRICIA HYSHAW",
+    "Service Address": "5760 LILIAN AVE",
+    "Zip Code": "63120",
+    "Locator": "53910100200",
+    "Quote ID": "545194",
+    "Quote Amount": "Pending",
+    "Closing Date": "07/05/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
