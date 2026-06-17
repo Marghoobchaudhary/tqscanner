@@ -1,93 +1,5 @@
 [
   {
-    "Seller Name": "WILLIAM & TONYA ZAIGER",
-    "Service Address": "6039 ARTHUR AVE",
-    "Zip Code": "63139",
-    "Locator": "47632602800",
-    "Quote ID": "543230",
-    "Quote Amount": "$1683.36",
-    "Closing Date": "06/17/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "NATALIA JOHNSON",
-    "Service Address": "3136 MIAMI ST-63118",
-    "Zip Code": "63118",
-    "Locator": "16230002500",
-    "Quote ID": "543229",
-    "Quote Amount": "$4402.51",
-    "Closing Date": "06/17/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ZMC INVESTMENTS LLC",
-    "Service Address": "6216 LORRAINE AVE",
-    "Zip Code": "63121",
-    "Locator": "16G430340",
-    "Quote ID": "543228",
-    "Quote Amount": "$1052.54",
-    "Closing Date": "06/17/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JASMINE HARSHBARGER",
-    "Service Address": "719 RIDERWOOD DR",
-    "Zip Code": "63042",
-    "Locator": "08L310173",
-    "Quote ID": "543222",
-    "Quote Amount": "$1224.01",
-    "Closing Date": "06/17/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DENISE C LEACH",
-    "Service Address": "7023 HUNTER AVE",
-    "Zip Code": "63121",
-    "Locator": "15H521541",
-    "Quote ID": "543221",
-    "Quote Amount": "$4016.53",
-    "Closing Date": "06/17/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MICHAEL L BECKER",
-    "Service Address": "6140 SOUTHERN DR",
-    "Zip Code": "63123",
-    "Locator": "24J520048",
-    "Quote ID": "543220",
-    "Quote Amount": "$5637.27",
-    "Closing Date": "06/17/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RACHEL SALAMONE",
-    "Service Address": "158 E DONALDSON DR",
-    "Zip Code": "63129",
-    "Locator": "30H240113",
-    "Quote ID": "543219",
-    "Quote Amount": "$65.16",
-    "Closing Date": "06/17/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GEORGE SCOTINO",
-    "Service Address": "2659 BRUNO AVE-63114",
-    "Zip Code": "63114",
-    "Locator": "14M220384",
-    "Quote ID": "543218",
-    "Quote Amount": "$303.91",
-    "Closing Date": "06/17/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "ANGELIQUE MCCLENDON",
     "Service Address": "9535 MACKENZIE RD",
     "Zip Code": "63123",
@@ -869,6 +781,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "DEBORAH C WILLIAMS",
+    "Service Address": "5452 W FLORISSANT AVE",
+    "Zip Code": "63120",
+    "Locator": "56320001400",
+    "Quote ID": "544737",
+    "Quote Amount": "$868.13",
+    "Closing Date": "07/01/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PATRICIA HYSHAW",
+    "Service Address": "5760 LILIAN AVE",
+    "Zip Code": "63120",
+    "Locator": "53910100200",
+    "Quote ID": "545194",
+    "Quote Amount": "$0.00",
+    "Closing Date": "07/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "NOAH HOLLAND",
     "Service Address": "1370 ST CATHERINE ST",
     "Zip Code": "63033",
@@ -1067,17 +1001,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "DEBORAH C WILLIAMS",
-    "Service Address": "5452 W FLORISSANT AVE",
-    "Zip Code": "63120",
-    "Locator": "56320001400",
-    "Quote ID": "544737",
-    "Quote Amount": "Pending",
-    "Closing Date": "07/01/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "DJOUMBAREY MOREAU",
     "Service Address": "2713 WINNEBAGO ST",
     "Zip Code": "63118",
@@ -1096,17 +1019,6 @@
     "Quote ID": "544986",
     "Quote Amount": "Pending",
     "Closing Date": "07/02/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PATRICIA HYSHAW",
-    "Service Address": "5760 LILIAN AVE",
-    "Zip Code": "63120",
-    "Locator": "53910100200",
-    "Quote ID": "545194",
-    "Quote Amount": "Pending",
-    "Closing Date": "07/05/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
