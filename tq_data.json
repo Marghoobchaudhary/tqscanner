@@ -1122,12 +1122,45 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "STL ACQUISITION 1 LLC",
+    "Service Address": "10518 BRAEMAR DR",
+    "Zip Code": "63137",
+    "Locator": "11D431204",
+    "Quote ID": "545748",
+    "Quote Amount": "$84.40",
+    "Closing Date": "07/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ST LOUIS RENTAL PROPERTIES LLC",
+    "Service Address": "10435 RENFREW DR",
+    "Zip Code": "63137",
+    "Locator": "11E630552",
+    "Quote ID": "545742",
+    "Quote Amount": "$432.24",
+    "Closing Date": "07/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "GREGORY T PANTAZI",
     "Service Address": "3651 WEBER RD-63125",
     "Zip Code": "63125",
     "Locator": "64810003200",
     "Quote ID": "545738",
     "Quote Amount": "$83.66",
+    "Closing Date": "07/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BRYANT WATKINS",
+    "Service Address": "1231 DAMMERT AVE",
+    "Zip Code": "63125",
+    "Locator": "27H341975",
+    "Quote ID": "545735",
+    "Quote Amount": "$2397.04",
     "Closing Date": "07/08/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1397,11 +1430,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "BRYANT WATKINS",
-    "Service Address": "1231 DAMMERT AVE",
-    "Zip Code": "63125",
-    "Locator": "27H341975",
-    "Quote ID": "545735",
+    "Seller Name": "STL ACQUISITION 1 LLC",
+    "Service Address": "10320 RENFREW DR",
+    "Zip Code": "63137",
+    "Locator": "11E620472",
+    "Quote ID": "545744",
     "Quote Amount": "Pending",
     "Closing Date": "07/08/2026",
     "Stage": "In Progress",
