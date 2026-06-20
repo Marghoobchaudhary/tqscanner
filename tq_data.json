@@ -1342,6 +1342,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "TONY NORWOOD",
+    "Service Address": "5504 JENNINGS STATION RD",
+    "Zip Code": "63136",
+    "Locator": "14G522177",
+    "Quote ID": "545792",
+    "Quote Amount": "$545.76",
+    "Closing Date": "07/10/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "NICHOLAS R VENEGONI",
+    "Service Address": "803 STREIFF LN",
+    "Zip Code": "63011",
+    "Locator": "22S420088",
+    "Quote ID": "545790",
+    "Quote Amount": "$958.04",
+    "Closing Date": "07/10/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MATTHEW & VANESSA ISAACS",
     "Service Address": "1395 ST FRANCOIS ST",
     "Zip Code": "63033",
@@ -1448,6 +1470,17 @@
     "Quote ID": "545722",
     "Quote Amount": "Pending",
     "Closing Date": "07/08/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BHPH HOMES LLC",
+    "Service Address": "7208 DARTMOUTH AVE",
+    "Zip Code": "63130",
+    "Locator": "17J210215",
+    "Quote ID": "545789",
+    "Quote Amount": "Pending",
+    "Closing Date": "07/10/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
