@@ -913,17 +913,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "MELISSA BYRNE",
-    "Service Address": "98 BUCKLEY MEADOWS DR",
-    "Zip Code": "63125",
-    "Locator": "28H140014",
-    "Quote ID": "545418",
-    "Quote Amount": "$6296.95",
-    "Closing Date": "07/06/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "JENNIFER COOLEY",
     "Service Address": "3064 DELAVAN DR",
     "Zip Code": "63121",
@@ -1353,6 +1342,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "BHPH HOMES LLC",
+    "Service Address": "7208 DARTMOUTH AVE",
+    "Zip Code": "63130",
+    "Locator": "17J210215",
+    "Quote ID": "545789",
+    "Quote Amount": "$0.00",
+    "Closing Date": "07/10/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MONICA BRADSHAW",
     "Service Address": "1345 ST ANTHONY LN",
     "Zip Code": "63033",
@@ -1437,17 +1437,6 @@
     "Quote ID": "545722",
     "Quote Amount": "Pending",
     "Closing Date": "07/08/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BHPH HOMES LLC",
-    "Service Address": "7208 DARTMOUTH AVE",
-    "Zip Code": "63130",
-    "Locator": "17J210215",
-    "Quote ID": "545789",
-    "Quote Amount": "Pending",
-    "Closing Date": "07/10/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
