@@ -1,115 +1,5 @@
 [
   {
-    "Seller Name": "RED DOOR LEGACY LLC",
-    "Service Address": "2235 EDMUND AVE",
-    "Zip Code": "63121",
-    "Locator": "16H641033",
-    "Quote ID": "544094",
-    "Quote Amount": "$764.58",
-    "Closing Date": "06/24/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DEBORAH MITCHELL",
-    "Service Address": "6 ROBINSON CIRCLE DR",
-    "Zip Code": "63136",
-    "Locator": "12F121216",
-    "Quote ID": "544093",
-    "Quote Amount": "$5119.49",
-    "Closing Date": "06/24/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SARAH DESROCHE",
-    "Service Address": "4859 HEIDELBERG AVE",
-    "Zip Code": "63123",
-    "Locator": "25H510607",
-    "Quote ID": "544092",
-    "Quote Amount": "$2311.27",
-    "Closing Date": "06/24/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "FARRAAD J JOHNSON",
-    "Service Address": "1136 EDLOR DR-63138",
-    "Zip Code": "63138",
-    "Locator": "07D430026",
-    "Quote ID": "544091",
-    "Quote Amount": "$4105.30",
-    "Closing Date": "06/24/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KENNETH A GRIES",
-    "Service Address": "4102 BRIDGETON GREENS DR",
-    "Zip Code": "63044",
-    "Locator": "11M410661",
-    "Quote ID": "544090",
-    "Quote Amount": "$434.21",
-    "Closing Date": "06/24/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JERRY AKERS",
-    "Service Address": "2343 FARNHAM LN",
-    "Zip Code": "63033",
-    "Locator": "07J620835",
-    "Quote ID": "544088",
-    "Quote Amount": "$16633.32",
-    "Closing Date": "06/24/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TDB PROPERTY ACQUISITIONS LLC",
-    "Service Address": "4125 ENRIGHT AVE",
-    "Zip Code": "63108",
-    "Locator": "48730003200",
-    "Quote ID": "544078",
-    "Quote Amount": "$0.00",
-    "Closing Date": "06/24/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "FRANCISCO & ESTHER PEREZ",
-    "Service Address": "6611 MICHIGAN AVE",
-    "Zip Code": "63111",
-    "Locator": "29820000300",
-    "Quote ID": "544076",
-    "Quote Amount": "$575.29",
-    "Closing Date": "06/24/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ESTHER PEREZ",
-    "Service Address": "6611 MICHIGAN AVE",
-    "Zip Code": "63111",
-    "Locator": "29820000300",
-    "Quote ID": "544075",
-    "Quote Amount": "$0.00",
-    "Closing Date": "06/24/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RHONADA HAMILTON",
-    "Service Address": "5218 RAYMOND AVE",
-    "Zip Code": "63113",
-    "Locator": "51440000900",
-    "Quote ID": "544074",
-    "Quote Amount": "$2436.57",
-    "Closing Date": "06/24/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "ALBERT MAMAKHOV",
     "Service Address": "437 ROOSEVELT WOODS CT",
     "Zip Code": "63026",
@@ -1166,6 +1056,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "WILLIAM PAYNE",
+    "Service Address": "6800 DALE AVE",
+    "Zip Code": "63139",
+    "Locator": "46060801200",
+    "Quote ID": "545722",
+    "Quote Amount": "$4961.25",
+    "Closing Date": "07/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "RED DOOR LEGACY LLC",
     "Service Address": "2933 DODIER ST",
     "Zip Code": "63107",
@@ -1298,6 +1199,83 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JAMIE MCGOWAN",
+    "Service Address": "855 LILAC DR-63031",
+    "Zip Code": "63031",
+    "Locator": "07J430117",
+    "Quote ID": "545736",
+    "Quote Amount": "$2322.70",
+    "Closing Date": "07/12/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ARLIN INVESTMENT GROUP LLC",
+    "Service Address": "30 ROYAL AVE",
+    "Zip Code": "63135",
+    "Locator": "11H130385",
+    "Quote ID": "546166",
+    "Quote Amount": "$0.00",
+    "Closing Date": "07/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "INNOVATIVE HOUSING SOLUTIONS",
+    "Service Address": "1853 ATMORE DR",
+    "Zip Code": "63136",
+    "Locator": "10G241146",
+    "Quote ID": "546165",
+    "Quote Amount": "$1785.21",
+    "Closing Date": "07/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LIVING CLEAR REALTY LLC",
+    "Service Address": "5120 MAPLE AVE",
+    "Zip Code": "63113",
+    "Locator": "51480001800",
+    "Quote ID": "546245",
+    "Quote Amount": "$3126.81",
+    "Closing Date": "07/14/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TIMOTHY & LORNA BISHOP",
+    "Service Address": "5246 LOUGHBOROUGH AVE",
+    "Zip Code": "63109",
+    "Locator": "58380001700",
+    "Quote ID": "546243",
+    "Quote Amount": "$4416.52",
+    "Closing Date": "07/14/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TERRI BUSCH",
+    "Service Address": "3980 MERAMEC ST",
+    "Zip Code": "63116",
+    "Locator": "63710002700",
+    "Quote ID": "546234",
+    "Quote Amount": "$171.10",
+    "Closing Date": "07/14/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GO SOCIAL LLC",
+    "Service Address": "1219 PRIGGE AVE",
+    "Zip Code": "63138",
+    "Locator": "09E621713",
+    "Quote ID": "546168",
+    "Quote Amount": "$2574.44",
+    "Closing Date": "07/14/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MATTHEW & VANESSA ISAACS",
     "Service Address": "1395 ST FRANCOIS ST",
     "Zip Code": "63033",
@@ -1342,66 +1320,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "WILLIAM PAYNE",
-    "Service Address": "6800 DALE AVE",
-    "Zip Code": "63139",
-    "Locator": "46060801200",
-    "Quote ID": "545722",
-    "Quote Amount": "Pending",
-    "Closing Date": "07/08/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JAMIE MCGOWAN",
-    "Service Address": "855 LILAC DR-63031",
-    "Zip Code": "63031",
-    "Locator": "07J430117",
-    "Quote ID": "545736",
-    "Quote Amount": "Pending",
-    "Closing Date": "07/12/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ARLIN INVESTMENT GROUP LLC",
-    "Service Address": "30 ROYAL AVE",
-    "Zip Code": "63135",
-    "Locator": "11H130385",
-    "Quote ID": "546166",
-    "Quote Amount": "Pending",
-    "Closing Date": "07/13/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "INNOVATIVE HOUSING SOLUTIONS",
-    "Service Address": "1853 ATMORE DR",
-    "Zip Code": "63136",
-    "Locator": "10G241146",
-    "Quote ID": "546165",
-    "Quote Amount": "Pending",
-    "Closing Date": "07/13/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "YOLANDA CARRINGTON",
     "Service Address": "9549 LEWIS AND CLARK BLVD",
     "Zip Code": "63136",
     "Locator": "12F230208",
     "Quote ID": "546169",
-    "Quote Amount": "Pending",
-    "Closing Date": "07/14/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GO SOCIAL LLC",
-    "Service Address": "1219 PRIGGE AVE",
-    "Zip Code": "63138",
-    "Locator": "09E621713",
-    "Quote ID": "546168",
     "Quote Amount": "Pending",
     "Closing Date": "07/14/2026",
     "Stage": "In Progress",
