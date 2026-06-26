@@ -1287,12 +1287,34 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "LAVADA ROGERS",
+    "Service Address": "5481 ARLINGTON AVE",
+    "Zip Code": "63120",
+    "Locator": "55760003000",
+    "Quote ID": "546536",
+    "Quote Amount": "$1234.74",
+    "Closing Date": "07/15/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ALEXIS PERKS",
     "Service Address": "1608 ORCHID AVE",
     "Zip Code": "63147",
     "Locator": "43220500800",
     "Quote ID": "546526",
     "Quote Amount": "$1629.20",
+    "Closing Date": "07/15/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MARGARET SCHAEFER",
+    "Service Address": "4950 TYROLEAN AVE",
+    "Zip Code": "63109",
+    "Locator": "55630002000",
+    "Quote ID": "546525",
+    "Quote Amount": "$0.00",
     "Closing Date": "07/15/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1309,12 +1331,34 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "J ISRAILL LLC",
+    "Service Address": "1319 SHAWMUT PL",
+    "Zip Code": "63112",
+    "Locator": "38160902100",
+    "Quote ID": "546522",
+    "Quote Amount": "$0.00",
+    "Closing Date": "07/15/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "VIRGINIA CAGLE",
     "Service Address": "2684 CHATHAM DR",
     "Zip Code": "63043",
     "Locator": "12O610523",
     "Quote ID": "546520",
     "Quote Amount": "$1687.63",
+    "Closing Date": "07/15/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GREGORY J GAY II",
+    "Service Address": "9557 LEWIS AND CLARK BLVD",
+    "Zip Code": "63136",
+    "Locator": "12F230336",
+    "Quote ID": "546518",
+    "Quote Amount": "$4062.69",
     "Closing Date": "07/15/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1337,6 +1381,17 @@
     "Locator": "24Q530141",
     "Quote ID": "546515",
     "Quote Amount": "$167.48",
+    "Closing Date": "07/15/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PATRICIA E GREEN",
+    "Service Address": "1546 FONTANA DR",
+    "Zip Code": "63146",
+    "Locator": "16O440708",
+    "Quote ID": "546514",
+    "Quote Amount": "$4432.39",
     "Closing Date": "07/15/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1419,17 +1474,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "MOFFETT VANESSA",
-    "Service Address": "1328 CLAUDINE DR",
-    "Zip Code": "63138",
-    "Locator": "09E330631",
-    "Quote ID": "546510",
-    "Quote Amount": "Pending",
-    "Closing Date": "07/13/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "STANLEY WATSON",
     "Service Address": "1724 MURIEL DR",
     "Zip Code": "63138",
@@ -1437,17 +1481,6 @@
     "Quote ID": "546376",
     "Quote Amount": "Pending",
     "Closing Date": "07/14/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MARGARET SCHAEFER",
-    "Service Address": "4950 TYROLEAN AVE",
-    "Zip Code": "63109",
-    "Locator": "55630002000",
-    "Quote ID": "546525",
-    "Quote Amount": "Pending",
-    "Closing Date": "07/15/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
@@ -1463,44 +1496,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "J ISRAILL LLC",
-    "Service Address": "1319 SHAWMUT PL",
-    "Zip Code": "63112",
-    "Locator": "38160902100",
-    "Quote ID": "546522",
-    "Quote Amount": "Pending",
-    "Closing Date": "07/15/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "MICHELLE CRUTCHER",
     "Service Address": "9832 VICKSBURG SIEGE CT",
     "Zip Code": "63123",
     "Locator": "26K230221",
     "Quote ID": "546519",
-    "Quote Amount": "Pending",
-    "Closing Date": "07/15/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GREGORY J GAY II",
-    "Service Address": "9557 LEWIS AND CLARK BLVD",
-    "Zip Code": "63136",
-    "Locator": "12F230336",
-    "Quote ID": "546518",
-    "Quote Amount": "Pending",
-    "Closing Date": "07/15/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PATRICIA E GREEN",
-    "Service Address": "1546 FONTANA DR",
-    "Zip Code": "63146",
-    "Locator": "16O440708",
-    "Quote ID": "546514",
     "Quote Amount": "Pending",
     "Closing Date": "07/15/2026",
     "Stage": "In Progress",
