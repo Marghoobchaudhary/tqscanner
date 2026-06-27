@@ -1188,6 +1188,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "STANLEY WATSON",
+    "Service Address": "1724 MURIEL DR",
+    "Zip Code": "63138",
+    "Locator": "09E110170",
+    "Quote ID": "546376",
+    "Quote Amount": "$6629.59",
+    "Closing Date": "07/14/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "RAMEL ABERCROMBIE",
     "Service Address": "3720 SEVILLE DR",
     "Zip Code": "63033",
@@ -1474,17 +1485,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "STANLEY WATSON",
-    "Service Address": "1724 MURIEL DR",
-    "Zip Code": "63138",
-    "Locator": "09E110170",
-    "Quote ID": "546376",
-    "Quote Amount": "Pending",
-    "Closing Date": "07/14/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "BRICK BY BRICK CONSULTIN LLC",
     "Service Address": "5139 MAPLE AVE",
     "Zip Code": "63113",
@@ -1514,6 +1514,17 @@
     "Quote ID": "546528",
     "Quote Amount": "Pending",
     "Closing Date": "07/17/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KWAMINA MCMILLER",
+    "Service Address": "12922 COVINGTON GARDENS DR",
+    "Zip Code": "63138",
+    "Locator": "07E430245",
+    "Quote ID": "546651",
+    "Quote Amount": "Pending",
+    "Closing Date": "07/19/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
