@@ -1265,6 +1265,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MARTIN MENSAH",
+    "Service Address": "3520 YELLOW JASMINE DR",
+    "Zip Code": "63044",
+    "Locator": "13M431242",
+    "Quote ID": "546840",
+    "Quote Amount": "$1773.10",
+    "Closing Date": "07/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MATTHEW & VANESSA ISAACS",
     "Service Address": "1395 ST FRANCOIS ST",
     "Zip Code": "63033",
@@ -1305,17 +1316,6 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MARTIN MENSAH",
-    "Service Address": "3520 YELLOW JASMINE DR",
-    "Zip Code": "63044",
-    "Locator": "13M431242",
-    "Quote ID": "546840",
-    "Quote Amount": "Pending",
-    "Closing Date": "07/29/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
