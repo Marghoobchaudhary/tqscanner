@@ -1,88 +1,11 @@
 [
   {
-    "Seller Name": "SHARHONDA & MAURICE SALES",
-    "Service Address": "4578 BEHLMANN GROVE PL",
-    "Zip Code": "63034",
-    "Locator": "06G241350",
-    "Quote ID": "544095",
-    "Quote Amount": "$1896.21",
-    "Closing Date": "06/28/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JEQUETTE ALEXANDER",
-    "Service Address": "1306 FARGO DR-63135",
-    "Zip Code": "63135",
-    "Locator": "12H641022",
-    "Quote ID": "543357",
-    "Quote Amount": "$65.12",
-    "Closing Date": "06/28/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KEVIN J BAKER",
-    "Service Address": "12110 LA PADERA LN",
-    "Zip Code": "63033",
-    "Locator": "08F531049",
-    "Quote ID": "543356",
-    "Quote Amount": "$219.41",
-    "Closing Date": "06/28/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TYNINA GRISSOM",
-    "Service Address": "11278 ASPEN WOODS DR",
-    "Zip Code": "63138",
-    "Locator": "09E310259",
-    "Quote ID": "544995",
-    "Quote Amount": "$381.56",
-    "Closing Date": "06/29/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JERRY MCCAULEY",
-    "Service Address": "9917 HALLS FERRY RD",
-    "Zip Code": "63136",
-    "Locator": "11F110574",
-    "Quote ID": "544873",
-    "Quote Amount": "$118.09",
-    "Closing Date": "06/29/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "QLM ENTERPRISES LLC",
-    "Service Address": "575 BARDOT DR",
-    "Zip Code": "63031",
-    "Locator": "06J211227",
-    "Quote ID": "544538",
-    "Quote Amount": "$635.39",
-    "Closing Date": "06/29/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "SHANNON INVESTMENTS LLC",
     "Service Address": "9200 BELLEFONTAINE RD",
     "Zip Code": "63137",
     "Locator": "12E111452",
     "Quote ID": "544537",
     "Quote Amount": "$14.14",
-    "Closing Date": "06/29/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LORREN Z BUCK",
-    "Service Address": "2675 VALLEY BROOK DR",
-    "Zip Code": "63031",
-    "Locator": "06J420843",
-    "Quote ID": "544096",
-    "Quote Amount": "$876.66",
     "Closing Date": "06/29/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1463,6 +1386,39 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "CHRYSTAL DERKACH",
+    "Service Address": "3237 MINNESOTA AVE",
+    "Zip Code": "63118",
+    "Locator": "15040003100",
+    "Quote ID": "546839",
+    "Quote Amount": "$178.18",
+    "Closing Date": "07/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ALICE POLCZYNSKI",
+    "Service Address": "3981 EICHELBERGER ST",
+    "Zip Code": "63116",
+    "Locator": "53240306700",
+    "Quote ID": "546836",
+    "Quote Amount": "$778.16",
+    "Closing Date": "07/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CLIFFORD MATTHEWS",
+    "Service Address": "8511 ELMORE AVE",
+    "Zip Code": "63132",
+    "Locator": "17K441050",
+    "Quote ID": "546841",
+    "Quote Amount": "$917.72",
+    "Closing Date": "07/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "VERNON COOPER",
     "Service Address": "13375 NEW HALLS FERRY RD",
     "Zip Code": "63033",
@@ -1514,6 +1470,17 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MARTIN MENSAH",
+    "Service Address": "3520 YELLOW JASMINE DR",
+    "Zip Code": "63044",
+    "Locator": "13M431242",
+    "Quote ID": "546840",
+    "Quote Amount": "Pending",
+    "Closing Date": "07/29/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
