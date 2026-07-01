@@ -1,93 +1,5 @@
 [
   {
-    "Seller Name": "DEBORAH M CARROLL",
-    "Service Address": "12836 FOX HOLLOW CT",
-    "Zip Code": "63033",
-    "Locator": "07F640179",
-    "Quote ID": "544989",
-    "Quote Amount": "$251.02",
-    "Closing Date": "07/01/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SHANISAH KNIGHT",
-    "Service Address": "3437 PENNSYLVANIA AVE",
-    "Zip Code": "63118",
-    "Locator": "15770003400",
-    "Quote ID": "544871",
-    "Quote Amount": "$1823.53",
-    "Closing Date": "07/01/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "INDIA MASHAT",
-    "Service Address": "2797 DAWNVIEW DR",
-    "Zip Code": "63031",
-    "Locator": "06J440137",
-    "Quote ID": "544865",
-    "Quote Amount": "$117.47",
-    "Closing Date": "07/01/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JOANN CLAY",
-    "Service Address": "78 BELLERIVE ACRES ST",
-    "Zip Code": "63121",
-    "Locator": "14J240781",
-    "Quote ID": "544863",
-    "Quote Amount": "$649.75",
-    "Closing Date": "07/01/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TERESSA JOHNSON",
-    "Service Address": "1375 FLAMINGO DR",
-    "Zip Code": "63031",
-    "Locator": "06K310116",
-    "Quote ID": "544862",
-    "Quote Amount": "$919.37",
-    "Closing Date": "07/01/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CLEMENTINE WILLIAMS",
-    "Service Address": "4052 MAFFITT AVE",
-    "Zip Code": "63113",
-    "Locator": "36510100700",
-    "Quote ID": "544763",
-    "Quote Amount": "$24368.43",
-    "Closing Date": "07/01/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DEBORAH C WILLIAMS",
-    "Service Address": "5452 W FLORISSANT AVE",
-    "Zip Code": "63120",
-    "Locator": "56320001400",
-    "Quote ID": "544737",
-    "Quote Amount": "$868.13",
-    "Closing Date": "07/01/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DJOUMBAREY MOREAU",
-    "Service Address": "2713 WINNEBAGO ST",
-    "Zip Code": "63118",
-    "Locator": "16420003100",
-    "Quote ID": "544734",
-    "Quote Amount": "$4199.56",
-    "Closing Date": "07/01/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "ARTHUR L FULTON",
     "Service Address": "4222 JENNINGS STATION RD",
     "Zip Code": "63121",
@@ -1221,6 +1133,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "DANYIELLE BURKS",
+    "Service Address": "4398 VENTURA PLACE DR",
+    "Zip Code": "63128",
+    "Locator": "30K420492",
+    "Quote ID": "547031",
+    "Quote Amount": "$4266.48",
+    "Closing Date": "07/20/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "JESSE WOOLEN",
     "Service Address": "12 ST MARTHA CT",
     "Zip Code": "63031",
@@ -1298,6 +1221,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JESUS ORTIZ",
+    "Service Address": "609 HORN AVE",
+    "Zip Code": "63125",
+    "Locator": "26G110261",
+    "Quote ID": "547023",
+    "Quote Amount": "$1517.78",
+    "Closing Date": "07/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "PALACIOS ENTERPRISE LLC",
     "Service Address": "7332 DARTMOUTH AVE",
     "Zip Code": "63130",
@@ -1315,6 +1249,17 @@
     "Locator": "13F110655",
     "Quote ID": "547021",
     "Quote Amount": "$3670.38",
+    "Closing Date": "07/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BARTEAU CURT KIRKWOOD ALICE &",
+    "Service Address": "2843 ABERDEEN DR",
+    "Zip Code": "63033",
+    "Locator": "06H120829",
+    "Quote ID": "547020",
+    "Quote Amount": "$2351.22",
     "Closing Date": "07/22/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1364,6 +1309,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "PALOMAR PROPERTIES LLC",
+    "Service Address": "4303 S GRAND BLVD-63111",
+    "Zip Code": "63111",
+    "Locator": "26870001000",
+    "Quote ID": "547000",
+    "Quote Amount": "$4887.02",
+    "Closing Date": "07/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "VERNON COOPER",
     "Service Address": "13375 NEW HALLS FERRY RD",
     "Zip Code": "63033",
@@ -1371,6 +1327,17 @@
     "Quote ID": "546521",
     "Quote Amount": "$2287.88",
     "Closing Date": "07/23/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DONNA KAMP",
+    "Service Address": "2150 NORTH POINTE LN",
+    "Zip Code": "63031",
+    "Locator": "06K320720",
+    "Quote ID": "547032",
+    "Quote Amount": "$230.27",
+    "Closing Date": "07/28/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1452,44 +1419,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "JESUS ORTIZ",
-    "Service Address": "609 HORN AVE",
-    "Zip Code": "63125",
-    "Locator": "26G110261",
-    "Quote ID": "547023",
-    "Quote Amount": "Pending",
-    "Closing Date": "07/22/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BARTEAU CURT KIRKWOOD ALICE &",
-    "Service Address": "2843 ABERDEEN DR",
-    "Zip Code": "63033",
-    "Locator": "06H120829",
-    "Quote ID": "547020",
-    "Quote Amount": "Pending",
-    "Closing Date": "07/22/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "KERWIN STANLEY",
     "Service Address": "2620 LAFAYETTE AVE",
     "Zip Code": "63104",
     "Locator": "13210000800",
     "Quote ID": "547007",
-    "Quote Amount": "Pending",
-    "Closing Date": "07/22/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PALOMAR PROPERTIES LLC",
-    "Service Address": "4303 S GRAND BLVD-63111",
-    "Zip Code": "63111",
-    "Locator": "26870001000",
-    "Quote ID": "547000",
     "Quote Amount": "Pending",
     "Closing Date": "07/22/2026",
     "Stage": "In Progress",
