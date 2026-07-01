@@ -1221,6 +1221,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JESSE WOOLEN",
+    "Service Address": "12 ST MARTHA CT",
+    "Zip Code": "63031",
+    "Locator": "09J330251",
+    "Quote ID": "547014",
+    "Quote Amount": "$39.06",
+    "Closing Date": "07/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DAVID RUIZ",
+    "Service Address": "5235 VILLE MARIA LN",
+    "Zip Code": "63042",
+    "Locator": "09M520723",
+    "Quote ID": "547013",
+    "Quote Amount": "$85.61",
+    "Closing Date": "07/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "CHRYSTAL DERKACH",
     "Service Address": "3237 MINNESOTA AVE",
     "Zip Code": "63118",
@@ -1249,6 +1271,72 @@
     "Locator": "17K441050",
     "Quote ID": "546841",
     "Quote Amount": "$917.72",
+    "Closing Date": "07/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PALACIOS ENTERPRISE LLC",
+    "Service Address": "7332 DARTMOUTH AVE",
+    "Zip Code": "63130",
+    "Locator": "17J120543",
+    "Quote ID": "547022",
+    "Quote Amount": "$104.72",
+    "Closing Date": "07/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "VIRGIE COOPER",
+    "Service Address": "8724 AGATE CT-63136",
+    "Zip Code": "63136",
+    "Locator": "13F110655",
+    "Quote ID": "547021",
+    "Quote Amount": "$3670.38",
+    "Closing Date": "07/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "FOX FINANCIAL REALTY LLC",
+    "Service Address": "2385 PALOMINO LN",
+    "Zip Code": "63033",
+    "Locator": "08J641109",
+    "Quote ID": "547018",
+    "Quote Amount": "$547.51",
+    "Closing Date": "07/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SHELTON & TERIKA GREEN",
+    "Service Address": "4488 PAPAL DR-63033",
+    "Zip Code": "63033",
+    "Locator": "09G510754",
+    "Quote ID": "547017",
+    "Quote Amount": "$408.71",
+    "Closing Date": "07/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TANNER GROUP LLC",
+    "Service Address": "5911 FERRIS AVE",
+    "Zip Code": "63120",
+    "Locator": "57200001800",
+    "Quote ID": "547008",
+    "Quote Amount": "$29.50",
+    "Closing Date": "07/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BOTANICAL GROVE CONDO",
+    "Service Address": "3965 BOTANICAL AVE",
+    "Zip Code": "63110",
+    "Locator": "49160003240",
+    "Quote ID": "547006",
+    "Quote Amount": "$343.70",
     "Closing Date": "07/22/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1316,6 +1404,83 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MICHAEL T ALLEN",
+    "Service Address": "10700 LANDSEER DR",
+    "Zip Code": "63136",
+    "Locator": "10G620426",
+    "Quote ID": "547015",
+    "Quote Amount": "Pending",
+    "Closing Date": "07/21/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JAY SMITH",
+    "Service Address": "6512 WOODROW AVE",
+    "Zip Code": "63121",
+    "Locator": "15H320902",
+    "Quote ID": "547010",
+    "Quote Amount": "Pending",
+    "Closing Date": "07/21/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JESUS ORTIZ",
+    "Service Address": "609 HORN AVE",
+    "Zip Code": "63125",
+    "Locator": "26G110261",
+    "Quote ID": "547023",
+    "Quote Amount": "Pending",
+    "Closing Date": "07/22/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BARTEAU CURT KIRKWOOD ALICE &",
+    "Service Address": "2843 ABERDEEN DR",
+    "Zip Code": "63033",
+    "Locator": "06H120829",
+    "Quote ID": "547020",
+    "Quote Amount": "Pending",
+    "Closing Date": "07/22/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KERWIN STANLEY",
+    "Service Address": "2620 LAFAYETTE AVE",
+    "Zip Code": "63104",
+    "Locator": "13210000800",
+    "Quote ID": "547007",
+    "Quote Amount": "Pending",
+    "Closing Date": "07/22/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PALOMAR PROPERTIES LLC",
+    "Service Address": "4303 S GRAND BLVD-63111",
+    "Zip Code": "63111",
+    "Locator": "26870001000",
+    "Quote ID": "547000",
+    "Quote Amount": "Pending",
+    "Closing Date": "07/22/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DAVETTA GREEN",
+    "Service Address": "6712 VERMONT AVE",
+    "Zip Code": "63111",
+    "Locator": "29980000900",
+    "Quote ID": "547009",
+    "Quote Amount": "Pending",
+    "Closing Date": "07/29/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
