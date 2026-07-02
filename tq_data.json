@@ -1,16 +1,5 @@
 [
   {
-    "Seller Name": "ARTHUR L FULTON",
-    "Service Address": "4222 JENNINGS STATION RD",
-    "Zip Code": "63121",
-    "Locator": "15G420791",
-    "Quote ID": "544986",
-    "Quote Amount": "$4229.33",
-    "Closing Date": "07/02/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "PATRICIA HYSHAW",
     "Service Address": "5760 LILIAN AVE",
     "Zip Code": "63120",
@@ -1133,6 +1122,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "SHELBY PATTERSON",
+    "Service Address": "1362 REALE AVE-63138",
+    "Zip Code": "63138",
+    "Locator": "09E630272",
+    "Quote ID": "547219",
+    "Quote Amount": "$8935.36",
+    "Closing Date": "07/20/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "DANYIELLE BURKS",
     "Service Address": "4398 VENTURA PLACE DR",
     "Zip Code": "63128",
@@ -1140,6 +1140,17 @@
     "Quote ID": "547031",
     "Quote Amount": "$4266.48",
     "Closing Date": "07/20/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MICHAEL T ALLEN",
+    "Service Address": "10700 LANDSEER DR",
+    "Zip Code": "63136",
+    "Locator": "10G620426",
+    "Quote ID": "547015",
+    "Quote Amount": "$3037.48",
+    "Closing Date": "07/21/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1161,6 +1172,17 @@
     "Locator": "09M520723",
     "Quote ID": "547013",
     "Quote Amount": "$85.61",
+    "Closing Date": "07/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JAY SMITH",
+    "Service Address": "6512 WOODROW AVE",
+    "Zip Code": "63121",
+    "Locator": "15H320902",
+    "Quote ID": "547010",
+    "Quote Amount": "$6387.02",
     "Closing Date": "07/21/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1393,39 +1415,6 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SHELBY PATTERSON",
-    "Service Address": "1362 REALE AVE-63138",
-    "Zip Code": "63138",
-    "Locator": "09E630272",
-    "Quote ID": "547219",
-    "Quote Amount": "Pending",
-    "Closing Date": "07/20/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MICHAEL T ALLEN",
-    "Service Address": "10700 LANDSEER DR",
-    "Zip Code": "63136",
-    "Locator": "10G620426",
-    "Quote ID": "547015",
-    "Quote Amount": "Pending",
-    "Closing Date": "07/21/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JAY SMITH",
-    "Service Address": "6512 WOODROW AVE",
-    "Zip Code": "63121",
-    "Locator": "15H320902",
-    "Quote ID": "547010",
-    "Quote Amount": "Pending",
-    "Closing Date": "07/21/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
