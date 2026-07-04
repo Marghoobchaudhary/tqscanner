@@ -1221,6 +1221,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ARLIN INVESTMENTS GROUP",
+    "Service Address": "9836 LORNA LN",
+    "Zip Code": "63136",
+    "Locator": "11G121355",
+    "Quote ID": "547382",
+    "Quote Amount": "$1632.86",
+    "Closing Date": "07/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ARLIN INVESTMENT GROUP LLC",
+    "Service Address": "5908 DUPREE AVE",
+    "Zip Code": "63135",
+    "Locator": "13H540610",
+    "Quote ID": "547380",
+    "Quote Amount": "$1126.27",
+    "Closing Date": "07/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "JOSEPH J & ANDREA DOLENZ",
     "Service Address": "8633 BRINKER AVE",
     "Zip Code": "63123",
@@ -1342,6 +1364,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JULIET C POEHLING",
+    "Service Address": "1654 CRABAPPLE LN",
+    "Zip Code": "63119",
+    "Locator": "25L630168",
+    "Quote ID": "547383",
+    "Quote Amount": "$375.46",
+    "Closing Date": "07/23/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "VERNON COOPER",
     "Service Address": "13375 NEW HALLS FERRY RD",
     "Zip Code": "63033",
@@ -1430,6 +1463,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ARLIN INVESTMENT GROUP LLC",
+    "Service Address": "9733 VICKIE PL",
+    "Zip Code": "63136",
+    "Locator": "12G440950",
+    "Quote ID": "547381",
+    "Quote Amount": "Pending",
+    "Closing Date": "07/22/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "KERWIN STANLEY",
     "Service Address": "2620 LAFAYETTE AVE",
     "Zip Code": "63104",
@@ -1437,6 +1481,17 @@
     "Quote ID": "547007",
     "Quote Amount": "Pending",
     "Closing Date": "07/22/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "EVERETT DOSS",
+    "Service Address": "14819 MONDOUBLEAU LN",
+    "Zip Code": "63034",
+    "Locator": "06H530066",
+    "Quote ID": "547386",
+    "Quote Amount": "Pending",
+    "Closing Date": "07/23/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
