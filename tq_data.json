@@ -1233,6 +1233,17 @@
   },
   {
     "Seller Name": "ARLIN INVESTMENT GROUP LLC",
+    "Service Address": "9733 VICKIE PL",
+    "Zip Code": "63136",
+    "Locator": "12G440950",
+    "Quote ID": "547381",
+    "Quote Amount": "$1485.57",
+    "Closing Date": "07/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ARLIN INVESTMENT GROUP LLC",
     "Service Address": "5908 DUPREE AVE",
     "Zip Code": "63135",
     "Locator": "13H540610",
@@ -1364,6 +1375,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "EVERETT DOSS",
+    "Service Address": "14819 MONDOUBLEAU LN",
+    "Zip Code": "63034",
+    "Locator": "06H530066",
+    "Quote ID": "547386",
+    "Quote Amount": "$0.00",
+    "Closing Date": "07/23/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "JULIET C POEHLING",
     "Service Address": "1654 CRABAPPLE LN",
     "Zip Code": "63119",
@@ -1463,17 +1485,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "ARLIN INVESTMENT GROUP LLC",
-    "Service Address": "9733 VICKIE PL",
-    "Zip Code": "63136",
-    "Locator": "12G440950",
-    "Quote ID": "547381",
-    "Quote Amount": "Pending",
-    "Closing Date": "07/22/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "KERWIN STANLEY",
     "Service Address": "2620 LAFAYETTE AVE",
     "Zip Code": "63104",
@@ -1481,17 +1492,6 @@
     "Quote ID": "547007",
     "Quote Amount": "Pending",
     "Closing Date": "07/22/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "EVERETT DOSS",
-    "Service Address": "14819 MONDOUBLEAU LN",
-    "Zip Code": "63034",
-    "Locator": "06H530066",
-    "Quote ID": "547386",
-    "Quote Amount": "Pending",
-    "Closing Date": "07/23/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
