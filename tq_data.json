@@ -1408,6 +1408,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "TIMOTHY MCKAY",
+    "Service Address": "800 W ESSEX AVE-63122",
+    "Zip Code": "63122",
+    "Locator": "23N520472",
+    "Quote ID": "547567",
+    "Quote Amount": "$586.86",
+    "Closing Date": "07/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DENISE M ALLRED",
+    "Service Address": "826 DUTCH MILL DR",
+    "Zip Code": "63011",
+    "Locator": "21Q130533",
+    "Quote ID": "547564",
+    "Quote Amount": "$52.36",
+    "Closing Date": "07/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "DONNA KAMP",
     "Service Address": "2150 NORTH POINTE LN",
     "Zip Code": "63031",
@@ -1492,6 +1514,28 @@
     "Quote ID": "547007",
     "Quote Amount": "Pending",
     "Closing Date": "07/22/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "STL ACQUISITION 1 LLC",
+    "Service Address": "201 RODERICK DR",
+    "Zip Code": "63137",
+    "Locator": "10D211283",
+    "Quote ID": "547562",
+    "Quote Amount": "Pending",
+    "Closing Date": "07/27/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PHL413PTL LLC",
+    "Service Address": "1424 FARMVIEW AVE",
+    "Zip Code": "63138",
+    "Locator": "08E221466",
+    "Quote ID": "547561",
+    "Quote Amount": "Pending",
+    "Closing Date": "07/27/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
