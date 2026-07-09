@@ -1,49 +1,5 @@
 [
   {
-    "Seller Name": "LOUIS HALL",
-    "Service Address": "1978 ACORN TRAIL DR",
-    "Zip Code": "63031",
-    "Locator": "08K430216",
-    "Quote ID": "545794",
-    "Quote Amount": "$5396.37",
-    "Closing Date": "07/09/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "3512 SPRING STREET LLC",
-    "Service Address": "3512 S SPRING AVE",
-    "Zip Code": "63116",
-    "Locator": "41830001800",
-    "Quote ID": "545723",
-    "Quote Amount": "$2215.95",
-    "Closing Date": "07/09/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TAMARA HILL PFEIFER",
-    "Service Address": "4352 WESTMINSTER PL",
-    "Zip Code": "63108",
-    "Locator": "45810601000",
-    "Quote ID": "544715",
-    "Quote Amount": "$3175.40",
-    "Closing Date": "07/09/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BARLOUIS TWO LLC",
-    "Service Address": "1371 BROADLAWNS LN",
-    "Zip Code": "63138",
-    "Locator": "08E311040",
-    "Quote ID": "544540",
-    "Quote Amount": "$155.42",
-    "Closing Date": "07/09/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "TONY NORWOOD",
     "Service Address": "5504 JENNINGS STATION RD",
     "Zip Code": "63136",
@@ -302,7 +258,7 @@
     "Zip Code": "63136",
     "Locator": "12F230208",
     "Quote ID": "546169",
-    "Quote Amount": "$2622.01",
+    "Quote Amount": "$2706.01",
     "Closing Date": "07/14/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -715,17 +671,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "BARTEAU CURT KIRKWOOD ALICE &",
-    "Service Address": "2843 ABERDEEN DR",
-    "Zip Code": "63033",
-    "Locator": "06H120829",
-    "Quote ID": "547020",
-    "Quote Amount": "$2351.22",
-    "Closing Date": "07/22/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "FOX FINANCIAL REALTY LLC",
     "Service Address": "2385 PALOMINO LN",
     "Zip Code": "63033",
@@ -946,23 +891,23 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "AUTUMN LAKES CONDO",
-    "Service Address": "3127 AUTUMN TRACE DR",
-    "Zip Code": "63043",
-    "Locator": "12N411303",
-    "Quote ID": "547995",
-    "Quote Amount": "$145.46",
-    "Closing Date": "07/28/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "ALTON CRESWELL",
     "Service Address": "19 FOREST HOME CT",
     "Zip Code": "63137",
     "Locator": "12F640838",
     "Quote ID": "547994",
     "Quote Amount": "$157.92",
+    "Closing Date": "07/28/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DAMARIUS & ANGELA LANDER",
+    "Service Address": "3896 DEL LAGO DR",
+    "Zip Code": "63034",
+    "Locator": "05J320126",
+    "Quote ID": "547992",
+    "Quote Amount": "$6493.23",
     "Closing Date": "07/28/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1057,6 +1002,17 @@
   },
   {
     "Seller Name": "FAMILY AFFAIR DAYCARE LLC",
+    "Service Address": "9854 EASTDELL DR",
+    "Zip Code": "63136",
+    "Locator": "11G111082",
+    "Quote ID": "548012",
+    "Quote Amount": "Pending",
+    "Closing Date": "07/28/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "FAMILY AFFAIR DAYCARE LLC",
     "Service Address": "5145 PALM ST",
     "Zip Code": "63115",
     "Locator": "59550001600",
@@ -1116,17 +1072,6 @@
     "Zip Code": "63121",
     "Locator": "16H640111",
     "Quote ID": "547993",
-    "Quote Amount": "Pending",
-    "Closing Date": "07/28/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DAMARIUS & ANGELA LANDER",
-    "Service Address": "3896 DEL LAGO DR",
-    "Zip Code": "63034",
-    "Locator": "05J320126",
-    "Quote ID": "547992",
     "Quote Amount": "Pending",
     "Closing Date": "07/28/2026",
     "Stage": "In Progress",
