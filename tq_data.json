@@ -891,6 +891,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "RAYMOND JOHNSON",
+    "Service Address": "6346 ABBOTT DR",
+    "Zip Code": "63134",
+    "Locator": "11J420232",
+    "Quote ID": "548005",
+    "Quote Amount": "$4182.77",
+    "Closing Date": "07/28/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DARREN E PEARSON",
+    "Service Address": "5316 ZEALAND ST",
+    "Zip Code": "63107",
+    "Locator": "52590000200",
+    "Quote ID": "548003",
+    "Quote Amount": "$516.24",
+    "Closing Date": "07/28/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "DIANNE C DAVIS",
     "Service Address": "8659 ORIOLE AVE",
     "Zip Code": "63147",
@@ -1030,6 +1052,28 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "FAMILY AFFAIR DAYCARE LLC",
+    "Service Address": "5145 PALM ST",
+    "Zip Code": "63115",
+    "Locator": "59550001600",
+    "Quote ID": "548006",
+    "Quote Amount": "Pending",
+    "Closing Date": "07/28/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PAMELA A MORRIS",
+    "Service Address": "9976 MEADOW AVE",
+    "Zip Code": "63125",
+    "Locator": "28G410475",
+    "Quote ID": "548004",
+    "Quote Amount": "Pending",
+    "Closing Date": "07/28/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
