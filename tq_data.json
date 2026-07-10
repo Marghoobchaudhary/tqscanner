@@ -825,6 +825,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MISTY WILLIAMS",
+    "Service Address": "4324 GRACE AVE",
+    "Zip Code": "63116",
+    "Locator": "26870000200",
+    "Quote ID": "548001",
+    "Quote Amount": "$9079.77",
+    "Closing Date": "07/28/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "DIANNE C DAVIS",
     "Service Address": "8659 ORIOLE AVE",
     "Zip Code": "63147",
@@ -908,6 +919,39 @@
     "Locator": "13M431242",
     "Quote ID": "546840",
     "Quote Amount": "$1773.10",
+    "Closing Date": "07/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "EAGAR ROAD ASSOC NORTHEAST II",
+    "Service Address": "1405 S HANLEY RD",
+    "Zip Code": "63144",
+    "Locator": "20K340784",
+    "Quote ID": "548202",
+    "Quote Amount": "$113.96",
+    "Closing Date": "07/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TERRAGON LLC",
+    "Service Address": "5215 N EUCLID AVE",
+    "Zip Code": "63115",
+    "Locator": "55330004600",
+    "Quote ID": "548200",
+    "Quote Amount": "$1615.41",
+    "Closing Date": "07/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TOPSTONE INV STL 1 LLC",
+    "Service Address": "5953 MCARTHUR AVE",
+    "Zip Code": "63120",
+    "Locator": "57230000100",
+    "Quote ID": "548199",
+    "Quote Amount": "$1263.64",
     "Closing Date": "07/29/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1034,13 +1078,13 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "ROYAL PINES CONDO",
-    "Service Address": "13133 ROYAL PINES DR UNIT 6",
-    "Zip Code": "63146",
-    "Locator": "14P240372",
-    "Quote ID": "548190",
-    "Quote Amount": "$152.11",
-    "Closing Date": "08/03/2026",
+    "Seller Name": "MONICA TADLOCK",
+    "Service Address": "614 WEISS AVE",
+    "Zip Code": "63125",
+    "Locator": "27G431550",
+    "Quote ID": "548215",
+    "Quote Amount": "$316.28",
+    "Closing Date": "07/30/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1138,17 +1182,6 @@
     "Zip Code": "63125",
     "Locator": "28G410475",
     "Quote ID": "548004",
-    "Quote Amount": "Pending",
-    "Closing Date": "07/28/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MISTY WILLIAMS",
-    "Service Address": "4324 GRACE AVE",
-    "Zip Code": "63116",
-    "Locator": "26870000200",
-    "Quote ID": "548001",
     "Quote Amount": "Pending",
     "Closing Date": "07/28/2026",
     "Stage": "In Progress",
