@@ -946,6 +946,83 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "CHAISE AND RUFUS CRAWFORD",
+    "Service Address": "12761 SPANISH VILLAGE DR",
+    "Zip Code": "63044",
+    "Locator": "11O630250",
+    "Quote ID": "548185",
+    "Quote Amount": "$137.97",
+    "Closing Date": "07/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MAURICE GREEN",
+    "Service Address": "5025 WOLVERTON DR",
+    "Zip Code": "63033",
+    "Locator": "07G340111",
+    "Quote ID": "548184",
+    "Quote Amount": "$1113.06",
+    "Closing Date": "07/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "AMANDA OSBORN",
+    "Service Address": "612 HORN AVE",
+    "Zip Code": "63125",
+    "Locator": "26G110140",
+    "Quote ID": "548182",
+    "Quote Amount": "$1056.93",
+    "Closing Date": "07/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "5067 69 ENRIGHT AVENUE ST LOUI",
+    "Service Address": "5067 ENRIGHT AVE",
+    "Zip Code": "63108",
+    "Locator": "48380004400",
+    "Quote ID": "548178",
+    "Quote Amount": "$1849.39",
+    "Closing Date": "07/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "REBECCA & JASON SCWARTZ",
+    "Service Address": "5666 PERNOD AVE",
+    "Zip Code": "63139",
+    "Locator": "62930000700",
+    "Quote ID": "548175",
+    "Quote Amount": "$1568.13",
+    "Closing Date": "07/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BROWN DIAMOND EQUITY",
+    "Service Address": "1347 SAN JACINTO CT",
+    "Zip Code": "63139",
+    "Locator": "50640004000",
+    "Quote ID": "548174",
+    "Quote Amount": "$636.80",
+    "Closing Date": "07/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JEROME MIDDLEBROOKS",
+    "Service Address": "40 COLUMBUS SQUARE",
+    "Zip Code": "63101",
+    "Locator": "02620004200",
+    "Quote ID": "548170",
+    "Quote Amount": "$298.19",
+    "Closing Date": "07/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "DAVETTA GREEN",
     "Service Address": "6712 VERMONT AVE",
     "Zip Code": "63111",
@@ -1085,6 +1162,83 @@
     "Quote ID": "547989",
     "Quote Amount": "Pending",
     "Closing Date": "07/28/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "VIC PINEDA",
+    "Service Address": "4929 THEISS RD",
+    "Zip Code": "63128",
+    "Locator": "29K430644",
+    "Quote ID": "548183",
+    "Quote Amount": "Pending",
+    "Closing Date": "07/29/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MICHAEL & ETHEL FRANKLIN",
+    "Service Address": "2836 CLEARVIEW DR",
+    "Zip Code": "63121",
+    "Locator": "15J540642",
+    "Quote ID": "548181",
+    "Quote Amount": "Pending",
+    "Closing Date": "07/29/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JENNIFER WILSON",
+    "Service Address": "3147 OSAGE ST",
+    "Zip Code": "63118",
+    "Locator": "25730003600",
+    "Quote ID": "548180",
+    "Quote Amount": "Pending",
+    "Closing Date": "07/29/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SHANNA S ROWAN HOLLAMON",
+    "Service Address": "5755 AMELIA AVE",
+    "Zip Code": "63120",
+    "Locator": "53890002200",
+    "Quote ID": "548179",
+    "Quote Amount": "Pending",
+    "Closing Date": "07/29/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ECHOES INVESTMENT ENTERPRISE",
+    "Service Address": "1040 SELLS AVE",
+    "Zip Code": "63147",
+    "Locator": "42480600400",
+    "Quote ID": "548173",
+    "Quote Amount": "Pending",
+    "Closing Date": "07/29/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ECHOES INVESTMENT ENTERPRISE",
+    "Service Address": "863 GUSTAV AVE",
+    "Zip Code": "63147",
+    "Locator": "63620003200",
+    "Quote ID": "548172",
+    "Quote Amount": "Pending",
+    "Closing Date": "07/29/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ECHOES INVESTMENT ENTERPRISE",
+    "Service Address": "886 GUSTAV AVE",
+    "Zip Code": "63147",
+    "Locator": "63630000200",
+    "Quote ID": "548171",
+    "Quote Amount": "Pending",
+    "Closing Date": "07/29/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
