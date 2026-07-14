@@ -451,6 +451,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "COLDIT THOMPSON",
+    "Service Address": "5882 CLEMENS AVE",
+    "Zip Code": "63112",
+    "Locator": "45440000410",
+    "Quote ID": "548362",
+    "Quote Amount": "$0.00",
+    "Closing Date": "07/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "ARLIN INVESTMENTS GROUP",
     "Service Address": "9836 LORNA LN",
     "Zip Code": "63136",
@@ -987,7 +998,7 @@
     "Quote Amount": "$137.97",
     "Closing Date": "07/29/2026",
     "Stage": "Pending Close",
-    "Submitted By": ""
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "MAURICE GREEN",
@@ -1177,6 +1188,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "RENELL STEWART",
+    "Service Address": "6554 PLYMOUTH AVE",
+    "Zip Code": "63130",
+    "Locator": "17H132350",
+    "Quote ID": "548471",
+    "Quote Amount": "$2179.95",
+    "Closing Date": "08/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MICHAEL FLIEGER",
     "Service Address": "3241 COUNTRY HOLLOW DR",
     "Zip Code": "63129",
@@ -1254,33 +1276,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "COLDIT THOMPSON",
-    "Service Address": "5882 CLEMENS AVE",
-    "Zip Code": "63112",
-    "Locator": "45440000410",
-    "Quote ID": "548362",
-    "Quote Amount": "Pending",
-    "Closing Date": "07/22/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "CLEO G ANDERSON",
     "Service Address": "10593 CLARENDON AVE",
     "Zip Code": "63114",
     "Locator": "14M610060",
     "Quote ID": "548472",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/02/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RENELL STEWART",
-    "Service Address": "6554 PLYMOUTH AVE",
-    "Zip Code": "63130",
-    "Locator": "17H132350",
-    "Quote ID": "548471",
     "Quote Amount": "Pending",
     "Closing Date": "08/02/2026",
     "Stage": "In Progress",
