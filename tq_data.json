@@ -1,137 +1,5 @@
 [
   {
-    "Seller Name": "LAVADA ROGERS",
-    "Service Address": "5481 ARLINGTON AVE",
-    "Zip Code": "63120",
-    "Locator": "55760003000",
-    "Quote ID": "546536",
-    "Quote Amount": "$1234.74",
-    "Closing Date": "07/15/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "ALEXIS PERKS",
-    "Service Address": "1608 ORCHID AVE",
-    "Zip Code": "63147",
-    "Locator": "43220500800",
-    "Quote ID": "546526",
-    "Quote Amount": "$1629.20",
-    "Closing Date": "07/15/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "MARGARET SCHAEFER",
-    "Service Address": "4950 TYROLEAN AVE",
-    "Zip Code": "63109",
-    "Locator": "55630002000",
-    "Quote ID": "546525",
-    "Quote Amount": "$0.00",
-    "Closing Date": "07/15/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "BRICK BY BRICK CONSULTIN LLC",
-    "Service Address": "5139 MAPLE AVE",
-    "Zip Code": "63113",
-    "Locator": "51490003700",
-    "Quote ID": "546524",
-    "Quote Amount": "$2473.72",
-    "Closing Date": "07/15/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "BROWN DIAMOND EQUITY INC",
-    "Service Address": "5828 JULIAN AVE",
-    "Zip Code": "63112",
-    "Locator": "38250001100",
-    "Quote ID": "546523",
-    "Quote Amount": "$2448.16",
-    "Closing Date": "07/15/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "J ISRAILL LLC",
-    "Service Address": "1319 SHAWMUT PL",
-    "Zip Code": "63112",
-    "Locator": "38160902100",
-    "Quote ID": "546522",
-    "Quote Amount": "$0.00",
-    "Closing Date": "07/15/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "VIRGINIA CAGLE",
-    "Service Address": "2684 CHATHAM DR",
-    "Zip Code": "63043",
-    "Locator": "12O610523",
-    "Quote ID": "546520",
-    "Quote Amount": "$1687.63",
-    "Closing Date": "07/15/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "MICHELLE CRUTCHER",
-    "Service Address": "9832 VICKSBURG SIEGE CT",
-    "Zip Code": "63123",
-    "Locator": "26K230221",
-    "Quote ID": "546519",
-    "Quote Amount": "$2992.51",
-    "Closing Date": "07/15/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "GREGORY J GAY II",
-    "Service Address": "9557 LEWIS AND CLARK BLVD",
-    "Zip Code": "63136",
-    "Locator": "12F230336",
-    "Quote ID": "546518",
-    "Quote Amount": "$4062.69",
-    "Closing Date": "07/15/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "AJKO ZEGULLAJ",
-    "Service Address": "9315 WARRIOR DR",
-    "Zip Code": "63123",
-    "Locator": "26H411303",
-    "Quote ID": "546516",
-    "Quote Amount": "$68.57",
-    "Closing Date": "07/15/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "CARL ZEY",
-    "Service Address": "804 SHERWICK TER",
-    "Zip Code": "63021",
-    "Locator": "24Q530141",
-    "Quote ID": "546515",
-    "Quote Amount": "$167.48",
-    "Closing Date": "07/15/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "PATRICIA E GREEN",
-    "Service Address": "1546 FONTANA DR",
-    "Zip Code": "63146",
-    "Locator": "16O440708",
-    "Quote ID": "546514",
-    "Quote Amount": "$4432.39",
-    "Closing Date": "07/15/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "TONNY CHATMAN",
     "Service Address": "7443 JENWOOD AVE",
     "Zip Code": "63136",
@@ -556,6 +424,17 @@
     "Locator": "08E221466",
     "Quote ID": "547561",
     "Quote Amount": "$4205.55",
+    "Closing Date": "07/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "MARTHA P NEUWOEHNER",
+    "Service Address": "1327 CULPEPPER RIDGE DR",
+    "Zip Code": "63021",
+    "Locator": "25Q430820",
+    "Quote ID": "548632",
+    "Quote Amount": "$4049.06",
     "Closing Date": "07/27/2026",
     "Stage": "Pending Close",
     "Submitted By": ""
@@ -998,7 +877,7 @@
     "Quote Amount": "$298.19",
     "Closing Date": "07/29/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "DAVETTA GREEN",
@@ -1009,7 +888,7 @@
     "Quote Amount": "$6052.81",
     "Closing Date": "07/29/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "SHERIKO WHITE",
@@ -1020,7 +899,7 @@
     "Quote Amount": "$636.79",
     "Closing Date": "07/30/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "ROI TURNKEY PROPERTIES LLC",
@@ -1031,7 +910,7 @@
     "Quote Amount": "$1238.97",
     "Closing Date": "07/30/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "MONICA TADLOCK",
@@ -1042,18 +921,29 @@
     "Quote Amount": "$316.28",
     "Closing Date": "07/30/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
-    "Seller Name": "RENELL STEWART",
-    "Service Address": "6554 PLYMOUTH AVE",
-    "Zip Code": "63130",
-    "Locator": "17H132350",
-    "Quote ID": "548471",
-    "Quote Amount": "$2179.95",
-    "Closing Date": "08/02/2026",
+    "Seller Name": "FANNIE L BRATCHER",
+    "Service Address": "4528 ADELAIDE AVE",
+    "Zip Code": "63115",
+    "Locator": "35470001100",
+    "Quote ID": "548634",
+    "Quote Amount": "$3255.85",
+    "Closing Date": "08/03/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "WILLIE L RAINEY II",
+    "Service Address": "8215 BUCHANAN AVE",
+    "Zip Code": "63114",
+    "Locator": "15K320058",
+    "Quote ID": "548630",
+    "Quote Amount": "$758.42",
+    "Closing Date": "08/04/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
   },
   {
     "Seller Name": "LUCILLE HAYES",
@@ -1064,7 +954,7 @@
     "Quote Amount": "$38.02",
     "Closing Date": "08/04/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "MICHAEL FLIEGER",
@@ -1075,7 +965,7 @@
     "Quote Amount": "$4008.71",
     "Closing Date": "08/05/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "5 SFR 2021 LLC",
@@ -1086,7 +976,7 @@
     "Quote Amount": "$261.02",
     "Closing Date": "08/05/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "GERARD BRAUN",
@@ -1097,7 +987,7 @@
     "Quote Amount": "$998.19",
     "Closing Date": "08/06/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "MATTHEW & VANESSA ISAACS",
@@ -1144,17 +1034,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "MARTHA P NEUWOEHNER",
-    "Service Address": "1327 CULPEPPER RIDGE DR",
-    "Zip Code": "63021",
-    "Locator": "25Q430820",
-    "Quote ID": "548632",
-    "Quote Amount": "Pending",
-    "Closing Date": "07/27/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "CLEO G ANDERSON",
     "Service Address": "10593 CLARENDON AVE",
     "Zip Code": "63114",
@@ -1166,13 +1045,24 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "WILLIE L RAINEY II",
-    "Service Address": "8215 BUCHANAN AVE",
-    "Zip Code": "63114",
-    "Locator": "15K320058",
-    "Quote ID": "548630",
+    "Seller Name": "RENELL STEWART",
+    "Service Address": "6554 PLYMOUTH AVE",
+    "Zip Code": "63130",
+    "Locator": "17H132350",
+    "Quote ID": "548471",
     "Quote Amount": "Pending",
-    "Closing Date": "08/04/2026",
+    "Closing Date": "08/02/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LNJ SERVICES LLC",
+    "Service Address": "8818 KENDALE DR",
+    "Zip Code": "63121",
+    "Locator": "14J130055",
+    "Quote ID": "548701",
+    "Quote Amount": "Pending",
+    "Closing Date": "08/03/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
