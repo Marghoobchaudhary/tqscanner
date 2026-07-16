@@ -924,6 +924,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "BALLARD JAMES",
+    "Service Address": "8420 ST OLAF DR",
+    "Zip Code": "63134",
+    "Locator": "10J130738",
+    "Quote ID": "548811",
+    "Quote Amount": "$4134.72",
+    "Closing Date": "08/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "VELMA CLARK",
     "Service Address": "7534 CARLETON AVE",
     "Zip Code": "63130",
@@ -987,7 +998,7 @@
     "Quote Amount": "$38.02",
     "Closing Date": "08/04/2026",
     "Stage": "Pending Close",
-    "Submitted By": ""
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "MICHAEL FLIEGER",
@@ -1085,6 +1096,17 @@
     "Quote ID": "548471",
     "Quote Amount": "Pending",
     "Closing Date": "08/02/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ROBERT MURRELL",
+    "Service Address": "2136 ESTHER AVE",
+    "Zip Code": "63139",
+    "Locator": "54730001200",
+    "Quote ID": "548812",
+    "Quote Amount": "Pending",
+    "Closing Date": "08/03/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
