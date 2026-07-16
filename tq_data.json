@@ -1,27 +1,5 @@
 [
   {
-    "Seller Name": "TONNY CHATMAN",
-    "Service Address": "7443 JENWOOD AVE",
-    "Zip Code": "63136",
-    "Locator": "13G140631",
-    "Quote ID": "546655",
-    "Quote Amount": "$1773.16",
-    "Closing Date": "07/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "LAWATHA SPICER",
-    "Service Address": "1514 ST IVES DR",
-    "Zip Code": "63136",
-    "Locator": "10G110888",
-    "Quote ID": "546517",
-    "Quote Amount": "$82.06",
-    "Closing Date": "07/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "PATRICIA JEFFERSON WHITSON",
     "Service Address": "4408 CHOUTEAU AVE",
     "Zip Code": "63110",
@@ -424,6 +402,17 @@
     "Locator": "08E221466",
     "Quote ID": "547561",
     "Quote Amount": "$4205.55",
+    "Closing Date": "07/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "TERRY L HAYES",
+    "Service Address": "1240 DUNSTON DR",
+    "Zip Code": "63146",
+    "Locator": "16N620804",
+    "Quote ID": "548825",
+    "Quote Amount": "$152.09",
     "Closing Date": "07/27/2026",
     "Stage": "Pending Close",
     "Submitted By": ""
@@ -924,6 +913,28 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "CLEO G ANDERSON",
+    "Service Address": "10593 CLARENDON AVE",
+    "Zip Code": "63114",
+    "Locator": "14M610060",
+    "Quote ID": "548472",
+    "Quote Amount": "$0.00",
+    "Closing Date": "08/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "ROBERT MURRELL",
+    "Service Address": "2136 ESTHER AVE",
+    "Zip Code": "63139",
+    "Locator": "54730001200",
+    "Quote ID": "548812",
+    "Quote Amount": "$3633.27",
+    "Closing Date": "08/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "BALLARD JAMES",
     "Service Address": "8420 ST OLAF DR",
     "Zip Code": "63134",
@@ -957,6 +968,28 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "RITA LAWSON",
+    "Service Address": "10534 ST XAVIER LN",
+    "Zip Code": "63074",
+    "Locator": "13M341493",
+    "Quote ID": "548829",
+    "Quote Amount": "$225.94",
+    "Closing Date": "08/04/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "DEBRA A SCHUMAKER",
+    "Service Address": "3206 H N DAKOTA ST",
+    "Zip Code": "63111",
+    "Locator": "26980000900",
+    "Quote ID": "548818",
+    "Quote Amount": "$2314.24",
+    "Closing Date": "08/04/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "JERMAINE THOMAS",
     "Service Address": "1836 KINGSFORD DR",
     "Zip Code": "63031",
@@ -965,7 +998,7 @@
     "Quote Amount": "$143.01",
     "Closing Date": "08/04/2026",
     "Stage": "Pending Close",
-    "Submitted By": ""
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "KARA KOVERMAN",
@@ -976,7 +1009,7 @@
     "Quote Amount": "$740.18",
     "Closing Date": "08/04/2026",
     "Stage": "Pending Close",
-    "Submitted By": ""
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "WILLIE L RAINEY II",
@@ -987,7 +1020,7 @@
     "Quote Amount": "$758.42",
     "Closing Date": "08/04/2026",
     "Stage": "Pending Close",
-    "Submitted By": ""
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "LUCILLE HAYES",
@@ -1078,17 +1111,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "CLEO G ANDERSON",
-    "Service Address": "10593 CLARENDON AVE",
-    "Zip Code": "63114",
-    "Locator": "14M610060",
-    "Quote ID": "548472",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/02/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "RENELL STEWART",
     "Service Address": "6554 PLYMOUTH AVE",
     "Zip Code": "63130",
@@ -1096,17 +1118,6 @@
     "Quote ID": "548471",
     "Quote Amount": "Pending",
     "Closing Date": "08/02/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ROBERT MURRELL",
-    "Service Address": "2136 ESTHER AVE",
-    "Zip Code": "63139",
-    "Locator": "54730001200",
-    "Quote ID": "548812",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/03/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
