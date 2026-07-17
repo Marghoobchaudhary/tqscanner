@@ -1,27 +1,5 @@
 [
   {
-    "Seller Name": "PATRICIA JEFFERSON WHITSON",
-    "Service Address": "4408 CHOUTEAU AVE",
-    "Zip Code": "63110",
-    "Locator": "51110002100",
-    "Quote ID": "546528",
-    "Quote Amount": "$3381.16",
-    "Closing Date": "07/17/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "RAYMOND BALL",
-    "Service Address": "3942 DOVER PL-63116",
-    "Zip Code": "63116",
-    "Locator": "59710000500",
-    "Quote ID": "546527",
-    "Quote Amount": "$318.01",
-    "Closing Date": "07/17/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "NANNIE DANNER",
     "Service Address": "5974 SUMMIT PL",
     "Zip Code": "63147",
@@ -998,7 +976,7 @@
     "Quote Amount": "$143.01",
     "Closing Date": "08/04/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "KARA KOVERMAN",
@@ -1009,7 +987,7 @@
     "Quote Amount": "$740.18",
     "Closing Date": "08/04/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "WILLIE L RAINEY II",
@@ -1040,6 +1018,17 @@
     "Locator": "30J110912",
     "Quote ID": "548312",
     "Quote Amount": "$4008.71",
+    "Closing Date": "08/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WILLIAM DUEPNER",
+    "Service Address": "14885 OLIVE BLVD-63017",
+    "Zip Code": "63017",
+    "Locator": "17R140125",
+    "Quote ID": "548978",
+    "Quote Amount": "$164.18",
     "Closing Date": "08/05/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1166,6 +1155,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "NIKO OWENS",
+    "Service Address": "110 SEVILLE CT",
+    "Zip Code": "63033",
+    "Locator": "07H610697",
+    "Quote ID": "548981",
+    "Quote Amount": "$221.51",
+    "Closing Date": "08/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MATTHEW & VANESSA ISAACS",
     "Service Address": "1395 ST FRANCOIS ST",
     "Zip Code": "63033",
@@ -1228,6 +1228,17 @@
     "Quote ID": "548701",
     "Quote Amount": "Pending",
     "Closing Date": "08/03/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TARA WHITE & HENRY CAMPBELL",
+    "Service Address": "12515 WOODSTREAM DR",
+    "Zip Code": "63138",
+    "Locator": "07E120221",
+    "Quote ID": "548977",
+    "Quote Amount": "Pending",
+    "Closing Date": "08/05/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
@@ -1360,6 +1371,39 @@
     "Quote ID": "548947",
     "Quote Amount": "Pending",
     "Closing Date": "08/06/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "FRANK LAUMAN",
+    "Service Address": "4004 DOLBIL DR",
+    "Zip Code": "63125",
+    "Locator": "27H540031",
+    "Quote ID": "548979",
+    "Quote Amount": "Pending",
+    "Closing Date": "08/09/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ERICKA JEFFERSON",
+    "Service Address": "3 COLONIAL CT",
+    "Zip Code": "63031",
+    "Locator": "06J140156",
+    "Quote ID": "548982",
+    "Quote Amount": "Pending",
+    "Closing Date": "08/11/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ROBERT WOOD",
+    "Service Address": "3200 FOREST LANE CT",
+    "Zip Code": "63129",
+    "Locator": "35J410576",
+    "Quote ID": "548980",
+    "Quote Amount": "Pending",
+    "Closing Date": "08/12/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
