@@ -1023,6 +1023,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "LUKE NIENKAMP",
+    "Service Address": "3708 COURTOIS ST",
+    "Zip Code": "63123",
+    "Locator": "32960002500",
+    "Quote ID": "548983",
+    "Quote Amount": "$1803.61",
+    "Closing Date": "08/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "WILLIAM DUEPNER",
     "Service Address": "14885 OLIVE BLVD-63017",
     "Zip Code": "63017",
@@ -1051,6 +1062,17 @@
     "Locator": "06J440137",
     "Quote ID": "548972",
     "Quote Amount": "$359.37",
+    "Closing Date": "08/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WILMA WHITE",
+    "Service Address": "1272 BONHEUR DR",
+    "Zip Code": "63146",
+    "Locator": "16O320431",
+    "Quote ID": "548971",
+    "Quote Amount": "$2249.84",
     "Closing Date": "08/05/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1122,6 +1144,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "TAMIEKO QUINN",
+    "Service Address": "4412 BINGHAM AVE",
+    "Zip Code": "63116",
+    "Locator": "58540002000",
+    "Quote ID": "548960",
+    "Quote Amount": "$4314.14",
+    "Closing Date": "08/06/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "RED DOOR LEGACY STL LLC",
     "Service Address": "4508 MORGANFORD RD",
     "Zip Code": "63116",
@@ -1144,6 +1177,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "HASSAN HASKINS",
+    "Service Address": "3144 CHIPPEWA ST",
+    "Zip Code": "63118",
+    "Locator": "16210001400",
+    "Quote ID": "548948",
+    "Quote Amount": "$2323.01",
+    "Closing Date": "08/06/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "GERARD BRAUN",
     "Service Address": "248 AVENUE H ST",
     "Zip Code": "63125",
@@ -1151,6 +1195,17 @@
     "Quote ID": "548191",
     "Quote Amount": "$998.19",
     "Closing Date": "08/06/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "FRANK LAUMAN",
+    "Service Address": "4004 DOLBIL DR",
+    "Zip Code": "63125",
+    "Locator": "27H540031",
+    "Quote ID": "548979",
+    "Quote Amount": "$3120.32",
+    "Closing Date": "08/09/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1254,17 +1309,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "WILMA WHITE",
-    "Service Address": "1272 BONHEUR DR",
-    "Zip Code": "63146",
-    "Locator": "16O320431",
-    "Quote ID": "548971",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/05/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "BDOTREAL ESTATE HOMES LLC",
     "Service Address": "31 WESTDELL DR",
     "Zip Code": "63136",
@@ -1320,17 +1364,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "TAMIEKO QUINN",
-    "Service Address": "4412 BINGHAM AVE",
-    "Zip Code": "63116",
-    "Locator": "58540002000",
-    "Quote ID": "548960",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/06/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "LUH BIG HOMIE ENTERPRISES LLC",
     "Service Address": "8411 HALLS FERRY RD",
     "Zip Code": "63147",
@@ -1353,17 +1386,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "HASSAN HASKINS",
-    "Service Address": "3144 CHIPPEWA ST",
-    "Zip Code": "63118",
-    "Locator": "16210001400",
-    "Quote ID": "548948",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/06/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "DARROLYN ANDERSON",
     "Service Address": "4944 ASHBY AVE",
     "Zip Code": "63115",
@@ -1371,17 +1393,6 @@
     "Quote ID": "548947",
     "Quote Amount": "Pending",
     "Closing Date": "08/06/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "FRANK LAUMAN",
-    "Service Address": "4004 DOLBIL DR",
-    "Zip Code": "63125",
-    "Locator": "27H540031",
-    "Quote ID": "548979",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/09/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
