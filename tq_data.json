@@ -935,6 +935,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "LNJ SERVICES LLC",
+    "Service Address": "8818 KENDALE DR",
+    "Zip Code": "63121",
+    "Locator": "14J130055",
+    "Quote ID": "548701",
+    "Quote Amount": "$0.00",
+    "Closing Date": "08/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "FANNIE L BRATCHER",
     "Service Address": "4528 ADELAIDE AVE",
     "Zip Code": "63115",
@@ -987,7 +998,7 @@
     "Quote Amount": "$740.18",
     "Closing Date": "08/04/2026",
     "Stage": "Pending Close",
-    "Submitted By": ""
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "WILLIE L RAINEY II",
@@ -1095,6 +1106,17 @@
     "Locator": "27G411512",
     "Quote ID": "548968",
     "Quote Amount": "$143.81",
+    "Closing Date": "08/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TRC HOLDINGS STL LLC",
+    "Service Address": "4280 LEE AVE",
+    "Zip Code": "63115",
+    "Locator": "44260401400",
+    "Quote ID": "548965",
+    "Quote Amount": "$0.00",
     "Closing Date": "08/05/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1276,17 +1298,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "LNJ SERVICES LLC",
-    "Service Address": "8818 KENDALE DR",
-    "Zip Code": "63121",
-    "Locator": "14J130055",
-    "Quote ID": "548701",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/03/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "TARA WHITE & HENRY CAMPBELL",
     "Service Address": "12515 WOODSTREAM DR",
     "Zip Code": "63138",
@@ -1314,17 +1325,6 @@
     "Zip Code": "63136",
     "Locator": "11G110832",
     "Quote ID": "548969",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/05/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TRC HOLDINGS STL LLC",
-    "Service Address": "4280 LEE AVE",
-    "Zip Code": "63115",
-    "Locator": "44260401400",
-    "Quote ID": "548965",
     "Quote Amount": "Pending",
     "Closing Date": "08/05/2026",
     "Stage": "In Progress",
