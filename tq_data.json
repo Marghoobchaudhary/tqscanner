@@ -1,60 +1,5 @@
 [
   {
-    "Seller Name": "NANNIE DANNER",
-    "Service Address": "5974 SUMMIT PL",
-    "Zip Code": "63147",
-    "Locator": "58100001500",
-    "Quote ID": "546845",
-    "Quote Amount": "$734.57",
-    "Closing Date": "07/19/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "JOHN RAYFORD",
-    "Service Address": "3859 NEOSHO ST",
-    "Zip Code": "63116",
-    "Locator": "56850002900",
-    "Quote ID": "546844",
-    "Quote Amount": "$1291.52",
-    "Closing Date": "07/19/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "KWAMINA MCMILLER",
-    "Service Address": "12922 COVINGTON GARDENS DR",
-    "Zip Code": "63138",
-    "Locator": "07E430245",
-    "Quote ID": "546651",
-    "Quote Amount": "$5318.37",
-    "Closing Date": "07/19/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "SHELBY PATTERSON",
-    "Service Address": "1362 REALE AVE-63138",
-    "Zip Code": "63138",
-    "Locator": "09E630272",
-    "Quote ID": "547219",
-    "Quote Amount": "$8935.36",
-    "Closing Date": "07/20/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "DANYIELLE BURKS",
-    "Service Address": "4398 VENTURA PLACE DR",
-    "Zip Code": "63128",
-    "Locator": "30K420492",
-    "Quote ID": "547031",
-    "Quote Amount": "$4266.48",
-    "Closing Date": "07/20/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "MICHAEL T ALLEN",
     "Service Address": "10700 LANDSEER DR",
     "Zip Code": "63136",
@@ -998,7 +943,7 @@
     "Quote Amount": "$740.18",
     "Closing Date": "08/04/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "WILLIE L RAINEY II",
@@ -1009,7 +954,7 @@
     "Quote Amount": "$758.42",
     "Closing Date": "08/04/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "LUCILLE HAYES",
@@ -1020,7 +965,7 @@
     "Quote Amount": "$38.02",
     "Closing Date": "08/04/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "MICHAEL FLIEGER",
@@ -1031,7 +976,7 @@
     "Quote Amount": "$4008.71",
     "Closing Date": "08/05/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "LUKE NIENKAMP",
@@ -1042,7 +987,7 @@
     "Quote Amount": "$1803.61",
     "Closing Date": "08/05/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "WILLIAM DUEPNER",
@@ -1210,6 +1155,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MAUREEN S BULLOCK",
+    "Service Address": "333 BELLEZZA DR",
+    "Zip Code": "63021",
+    "Locator": "24R420371",
+    "Quote ID": "549105",
+    "Quote Amount": "$4226.96",
+    "Closing Date": "08/06/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "SAMUEL DUNNING",
     "Service Address": "1104 RENSHAW DR",
     "Zip Code": "63135",
@@ -1250,6 +1206,17 @@
     "Quote ID": "548981",
     "Quote Amount": "$221.51",
     "Closing Date": "08/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "EMERY MORRIS",
+    "Service Address": "5432 BATES ST-63116",
+    "Zip Code": "63116",
+    "Locator": "56810000400",
+    "Quote ID": "549165",
+    "Quote Amount": "$4255.41",
+    "Closing Date": "08/17/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1402,17 +1369,6 @@
     "Zip Code": "63115",
     "Locator": "52610003250",
     "Quote ID": "548947",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/06/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MAUREEN S BULLOCK",
-    "Service Address": "333 BELLEZZA DR",
-    "Zip Code": "63021",
-    "Locator": "24R420371",
-    "Quote ID": "549105",
     "Quote Amount": "Pending",
     "Closing Date": "08/06/2026",
     "Stage": "In Progress",
