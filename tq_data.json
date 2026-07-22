@@ -957,6 +957,28 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "GC MASON PROPERTIES LLC",
+    "Service Address": "259 WILLIAMS BLVD",
+    "Zip Code": "63135",
+    "Locator": "10J231745",
+    "Quote ID": "549431",
+    "Quote Amount": "$1765.55",
+    "Closing Date": "08/10/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "ANDRE HOWARD",
+    "Service Address": "14140 LE SABRE DR",
+    "Zip Code": "63034",
+    "Locator": "06H320494",
+    "Quote ID": "549428",
+    "Quote Amount": "$2471.34",
+    "Closing Date": "08/10/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "PATRICIA A TAYLOR",
     "Service Address": "9870 VICKIE PL",
     "Zip Code": "63136",
@@ -976,7 +998,29 @@
     "Quote Amount": "$1270.76",
     "Closing Date": "08/10/2026",
     "Stage": "Pending Close",
-    "Submitted By": ""
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ERICKA JEFFERSON",
+    "Service Address": "3 COLONIAL CT",
+    "Zip Code": "63031",
+    "Locator": "06J140156",
+    "Quote ID": "548982",
+    "Quote Amount": "$9884.60",
+    "Closing Date": "08/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ROBERT WOOD",
+    "Service Address": "3200 FOREST LANE CT",
+    "Zip Code": "63129",
+    "Locator": "35J410576",
+    "Quote ID": "548980",
+    "Quote Amount": "$10110.38",
+    "Closing Date": "08/12/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "NIKO OWENS",
@@ -987,7 +1031,7 @@
     "Quote Amount": "$221.51",
     "Closing Date": "08/13/2026",
     "Stage": "Pending Close",
-    "Submitted By": ""
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "EMERY MORRIS",
@@ -1155,28 +1199,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "GC MASON PROPERTIES LLC",
-    "Service Address": "259 WILLIAMS BLVD",
-    "Zip Code": "63135",
-    "Locator": "10J231745",
-    "Quote ID": "549431",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/10/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ANDRE HOWARD",
-    "Service Address": "14140 LE SABRE DR",
-    "Zip Code": "63034",
-    "Locator": "06H320494",
-    "Quote ID": "549428",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/10/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "MARY L MCCLENDON",
     "Service Address": "2064 NORTHERNLIMITS DR",
     "Zip Code": "63031",
@@ -1206,28 +1228,6 @@
     "Quote ID": "549442",
     "Quote Amount": "Pending",
     "Closing Date": "08/10/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ERICKA JEFFERSON",
-    "Service Address": "3 COLONIAL CT",
-    "Zip Code": "63031",
-    "Locator": "06J140156",
-    "Quote ID": "548982",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/11/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ROBERT WOOD",
-    "Service Address": "3200 FOREST LANE CT",
-    "Zip Code": "63129",
-    "Locator": "35J410576",
-    "Quote ID": "548980",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/12/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
