@@ -759,12 +759,34 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "TARA WHITE & HENRY CAMPBELL",
+    "Service Address": "12515 WOODSTREAM DR",
+    "Zip Code": "63138",
+    "Locator": "07E120221",
+    "Quote ID": "548977",
+    "Quote Amount": "$8712.69",
+    "Closing Date": "08/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "JONATHAN ALEXANDER DRAINE",
     "Service Address": "1160 S NEW FLORISSANT RD",
     "Zip Code": "63031",
     "Locator": "09J230733",
     "Quote ID": "548974",
     "Quote Amount": "$418.17",
+    "Closing Date": "08/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "SAMUEL & STEPHANIE HENDERSON",
+    "Service Address": "15517 JOST MAIN ST",
+    "Zip Code": "63034",
+    "Locator": "06J640469",
+    "Quote ID": "548973",
+    "Quote Amount": "$5660.73",
     "Closing Date": "08/05/2026",
     "Stage": "Pending Close",
     "Submitted By": ""
@@ -798,6 +820,17 @@
     "Locator": "28H331854",
     "Quote ID": "548970",
     "Quote Amount": "$599.88",
+    "Closing Date": "08/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "BDOTREAL ESTATE HOMES LLC",
+    "Service Address": "31 WESTDELL DR",
+    "Zip Code": "63136",
+    "Locator": "11G110832",
+    "Quote ID": "548969",
+    "Quote Amount": "$0.00",
     "Closing Date": "08/05/2026",
     "Stage": "Pending Close",
     "Submitted By": ""
@@ -853,6 +886,17 @@
     "Locator": "10060001200",
     "Quote ID": "548967",
     "Quote Amount": "$1256.86",
+    "Closing Date": "08/06/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "PERSHING SECURITIES INTL LTD L",
+    "Service Address": "4858 HAMMETT PL",
+    "Zip Code": "63113",
+    "Locator": "44870600900",
+    "Quote ID": "548966",
+    "Quote Amount": "$0.00",
     "Closing Date": "08/06/2026",
     "Stage": "Pending Close",
     "Submitted By": ""
@@ -954,7 +998,7 @@
     "Quote Amount": "$3120.32",
     "Closing Date": "08/09/2026",
     "Stage": "Pending Close",
-    "Submitted By": ""
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "GC MASON PROPERTIES LLC",
@@ -965,7 +1009,7 @@
     "Quote Amount": "$1765.55",
     "Closing Date": "08/10/2026",
     "Stage": "Pending Close",
-    "Submitted By": ""
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "ANDRE HOWARD",
@@ -976,7 +1020,7 @@
     "Quote Amount": "$2471.34",
     "Closing Date": "08/10/2026",
     "Stage": "Pending Close",
-    "Submitted By": ""
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "PATRICIA A TAYLOR",
@@ -987,7 +1031,7 @@
     "Quote Amount": "$2381.43",
     "Closing Date": "08/10/2026",
     "Stage": "Pending Close",
-    "Submitted By": ""
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "JACKIE GILMORE",
@@ -997,6 +1041,50 @@
     "Quote ID": "549440",
     "Quote Amount": "$1270.76",
     "Closing Date": "08/10/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LAWRENCE WALLS",
+    "Service Address": "6340 HONEY BEE CT",
+    "Zip Code": "63033",
+    "Locator": "08F531027",
+    "Quote ID": "549615",
+    "Quote Amount": "$1249.87",
+    "Closing Date": "08/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "RED DOOR LEGACY LLC",
+    "Service Address": "5846 PAGE BLVD",
+    "Zip Code": "63112",
+    "Locator": "38240001200",
+    "Quote ID": "549613",
+    "Quote Amount": "$3861.96",
+    "Closing Date": "08/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SAKARA POLK",
+    "Service Address": "2752 WINTERGREEN DR",
+    "Zip Code": "63033",
+    "Locator": "06H140490",
+    "Quote ID": "549611",
+    "Quote Amount": "$1131.13",
+    "Closing Date": "08/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ALMA E. BEWIG",
+    "Service Address": "1225 CARDINAL LN",
+    "Zip Code": "63031",
+    "Locator": "06K210601",
+    "Quote ID": "549610",
+    "Quote Amount": "$335.51",
+    "Closing Date": "08/11/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1100,46 +1188,13 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "TARA WHITE & HENRY CAMPBELL",
-    "Service Address": "12515 WOODSTREAM DR",
-    "Zip Code": "63138",
-    "Locator": "07E120221",
-    "Quote ID": "548977",
+    "Seller Name": "JOHN D MCWHERTER",
+    "Service Address": "9538 CLOVERHURST DR",
+    "Zip Code": "63123",
+    "Locator": "26J230842",
+    "Quote ID": "549606",
     "Quote Amount": "Pending",
     "Closing Date": "08/05/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SAMUEL & STEPHANIE HENDERSON",
-    "Service Address": "15517 JOST MAIN ST",
-    "Zip Code": "63034",
-    "Locator": "06J640469",
-    "Quote ID": "548973",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/05/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BDOTREAL ESTATE HOMES LLC",
-    "Service Address": "31 WESTDELL DR",
-    "Zip Code": "63136",
-    "Locator": "11G110832",
-    "Quote ID": "548969",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/05/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PERSHING SECURITIES INTL LTD L",
-    "Service Address": "4858 HAMMETT PL",
-    "Zip Code": "63113",
-    "Locator": "44870600900",
-    "Quote ID": "548966",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/06/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
@@ -1228,6 +1283,39 @@
     "Quote ID": "549442",
     "Quote Amount": "Pending",
     "Closing Date": "08/10/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GEORGEIII & TROLEASE LEE",
+    "Service Address": "11855 ROSARY LN",
+    "Zip Code": "63138",
+    "Locator": "08E110641",
+    "Quote ID": "549614",
+    "Quote Amount": "Pending",
+    "Closing Date": "08/11/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KATHY M JOHNSON",
+    "Service Address": "2721 DARLA CT-63136",
+    "Zip Code": "63136",
+    "Locator": "12G220491",
+    "Quote ID": "549612",
+    "Quote Amount": "Pending",
+    "Closing Date": "08/11/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CHARLES BINGHAM",
+    "Service Address": "6344 GRAHAM RD",
+    "Zip Code": "63134",
+    "Locator": "11K621344",
+    "Quote ID": "549608",
+    "Quote Amount": "Pending",
+    "Closing Date": "08/11/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
