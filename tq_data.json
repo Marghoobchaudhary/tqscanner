@@ -1232,6 +1232,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "GEAUNTRICI JOHNSON",
+    "Service Address": "1619 MONTICELLO DR",
+    "Zip Code": "63138",
+    "Locator": "09E140243",
+    "Quote ID": "549727",
+    "Quote Amount": "$2428.44",
+    "Closing Date": "08/12/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CHRISTINA ANDERSON",
+    "Service Address": "3735 RAYMOND AVE",
+    "Zip Code": "63044",
+    "Locator": "12M140152",
+    "Quote ID": "549726",
+    "Quote Amount": "$1423.96",
+    "Closing Date": "08/12/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ANNE M BROWN",
     "Service Address": "7110 WILLOW TREE LN",
     "Zip Code": "63130",
@@ -1254,12 +1276,34 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "SHANICE KELLEY",
+    "Service Address": "6800 MCNAMEE AVE",
+    "Zip Code": "63133",
+    "Locator": "17J640788",
+    "Quote ID": "549720",
+    "Quote Amount": "$1252.22",
+    "Closing Date": "08/12/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "SHELBY PINKSTON",
     "Service Address": "6003 HEEGE RD-63123",
     "Zip Code": "63123",
     "Locator": "25J541257",
     "Quote ID": "549719",
     "Quote Amount": "$100.00",
+    "Closing Date": "08/12/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ERIN SOUCY",
+    "Service Address": "6745 BARTMER AVE",
+    "Zip Code": "63130",
+    "Locator": "17J321612",
+    "Quote ID": "549718",
+    "Quote Amount": "$2751.60",
     "Closing Date": "08/12/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1283,6 +1327,17 @@
     "Quote ID": "548980",
     "Quote Amount": "$10110.38",
     "Closing Date": "08/12/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ALEA DOYEN",
+    "Service Address": "1562 LOUISVILLE AVE",
+    "Zip Code": "63139",
+    "Locator": "46130200600",
+    "Quote ID": "549722",
+    "Quote Amount": "$4405.00",
+    "Closing Date": "08/13/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1353,17 +1408,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "MARY L MCCLENDON",
-    "Service Address": "2064 NORTHERNLIMITS DR",
-    "Zip Code": "63031",
-    "Locator": "06K520612",
-    "Quote ID": "549427",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/10/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "GEORGEIII & TROLEASE LEE",
     "Service Address": "11855 ROSARY LN",
     "Zip Code": "63138",
@@ -1382,61 +1426,6 @@
     "Quote ID": "549612",
     "Quote Amount": "Pending",
     "Closing Date": "08/11/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GEAUNTRICI JOHNSON",
-    "Service Address": "1619 MONTICELLO DR",
-    "Zip Code": "63138",
-    "Locator": "09E140243",
-    "Quote ID": "549727",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/12/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CHRISTINA ANDERSON",
-    "Service Address": "3735 RAYMOND AVE",
-    "Zip Code": "63044",
-    "Locator": "12M140152",
-    "Quote ID": "549726",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/12/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SHANICE KELLEY",
-    "Service Address": "6800 MCNAMEE AVE",
-    "Zip Code": "63133",
-    "Locator": "17J640788",
-    "Quote ID": "549720",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/12/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ERIN SOUCY",
-    "Service Address": "6745 BARTMER AVE",
-    "Zip Code": "63130",
-    "Locator": "17J321612",
-    "Quote ID": "549718",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/12/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ALEA DOYEN",
-    "Service Address": "1562 LOUISVILLE AVE",
-    "Zip Code": "63139",
-    "Locator": "46130200600",
-    "Quote ID": "549722",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/13/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
