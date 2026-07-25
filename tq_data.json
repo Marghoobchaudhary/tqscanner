@@ -1177,6 +1177,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "GEORGEIII & TROLEASE LEE",
+    "Service Address": "11855 ROSARY LN",
+    "Zip Code": "63138",
+    "Locator": "08E110641",
+    "Quote ID": "549614",
+    "Quote Amount": "$10096.83",
+    "Closing Date": "08/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "RED DOOR LEGACY LLC",
     "Service Address": "5846 PAGE BLVD",
     "Zip Code": "63112",
@@ -1353,6 +1364,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MINNIE MORROW",
+    "Service Address": "7312 ESTERBROOK DR",
+    "Zip Code": "63136",
+    "Locator": "14G440095",
+    "Quote ID": "549849",
+    "Quote Amount": "$112.29",
+    "Closing Date": "08/14/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "EMERY MORRIS",
     "Service Address": "5432 BATES ST-63116",
     "Zip Code": "63116",
@@ -1408,17 +1430,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "GEORGEIII & TROLEASE LEE",
-    "Service Address": "11855 ROSARY LN",
-    "Zip Code": "63138",
-    "Locator": "08E110641",
-    "Quote ID": "549614",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/11/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "KATHY M JOHNSON",
     "Service Address": "2721 DARLA CT-63136",
     "Zip Code": "63136",
@@ -1426,6 +1437,28 @@
     "Quote ID": "549612",
     "Quote Amount": "Pending",
     "Closing Date": "08/11/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SALLIE HALL",
+    "Service Address": "5342 NAGEL AVE",
+    "Zip Code": "63109",
+    "Locator": "58270000200",
+    "Quote ID": "549857",
+    "Quote Amount": "Pending",
+    "Closing Date": "08/14/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "AHMAD HINDS",
+    "Service Address": "805 SPRINTERS ROW DR",
+    "Zip Code": "63034",
+    "Locator": "05H230857",
+    "Quote ID": "549832",
+    "Quote Amount": "Pending",
+    "Closing Date": "08/23/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
