@@ -814,6 +814,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JASON GORDON",
+    "Service Address": "14977 CLAYMONT ESTATES DR",
+    "Zip Code": "63017",
+    "Locator": "20S340380",
+    "Quote ID": "550227",
+    "Quote Amount": "$7277.75",
+    "Closing Date": "08/14/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "SALLIE HALL",
     "Service Address": "5342 NAGEL AVE",
     "Zip Code": "63109",
@@ -836,12 +847,34 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "LENA WASHINGTON",
+    "Service Address": "2203 MCLARAN AVE",
+    "Zip Code": "63136",
+    "Locator": "13G340932",
+    "Quote ID": "550237",
+    "Quote Amount": "$9836.38",
+    "Closing Date": "08/17/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "DEMETRIUS LOGAN",
     "Service Address": "10591 CLARENDON AVE",
     "Zip Code": "63114",
     "Locator": "14M610071",
     "Quote ID": "550234",
     "Quote Amount": "$323.15",
+    "Closing Date": "08/17/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PAUL D OR DIANE E MARKS",
+    "Service Address": "2674 BLUE HERON DR",
+    "Zip Code": "63031",
+    "Locator": "06L310380",
+    "Quote ID": "550229",
+    "Quote Amount": "$-500.59",
     "Closing Date": "08/17/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -875,6 +908,17 @@
     "Locator": "52520001500",
     "Quote ID": "550338",
     "Quote Amount": "$3318.88",
+    "Closing Date": "08/18/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "S PHILPOTT & O'BRIEN-PHILPOTT",
+    "Service Address": "123 HIGHVIEW DR",
+    "Zip Code": "63011",
+    "Locator": "22T320372",
+    "Quote ID": "550337",
+    "Quote Amount": "$0.00",
     "Closing Date": "08/18/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1221,6 +1265,83 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JOSHUA CHUMLEY",
+    "Service Address": "5725 HEMPLINE RD",
+    "Zip Code": "63129",
+    "Locator": "32H440513",
+    "Quote ID": "550299",
+    "Quote Amount": "$3595.69",
+    "Closing Date": "08/18/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GO SOCIAL LLC",
+    "Service Address": "12047 LARIMORE RD",
+    "Zip Code": "63138",
+    "Locator": "08D140531",
+    "Quote ID": "550298",
+    "Quote Amount": "$1042.90",
+    "Closing Date": "08/18/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LISA WHEELINGTON",
+    "Service Address": "573 COACH LIGHT LN",
+    "Zip Code": "63042",
+    "Locator": "08L320974",
+    "Quote ID": "550297",
+    "Quote Amount": "$4415.88",
+    "Closing Date": "08/18/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JOHN BANISTER",
+    "Service Address": "1936 GREEN VALLEY DR",
+    "Zip Code": "63136",
+    "Locator": "10G220109",
+    "Quote ID": "550381",
+    "Quote Amount": "$1034.17",
+    "Closing Date": "08/18/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "Trophy Point Spv I LLC",
+    "Service Address": "528 AMES PL",
+    "Zip Code": "63135",
+    "Locator": "11H510783",
+    "Quote ID": "550380",
+    "Quote Amount": "$1631.65",
+    "Closing Date": "08/18/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BRENDA J ADAMS",
+    "Service Address": "6980 LEXINGTON AVE",
+    "Zip Code": "63121",
+    "Locator": "15H240309",
+    "Quote ID": "550379",
+    "Quote Amount": "$3062.42",
+    "Closing Date": "08/18/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MARC RICHARDSON",
+    "Service Address": "3070 HARNESS DR",
+    "Zip Code": "63033",
+    "Locator": "08H230652",
+    "Quote ID": "550378",
+    "Quote Amount": "$336.46",
+    "Closing Date": "08/18/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ALMA J WALLACE-ELBERT",
     "Service Address": "9731 EDGEFIELD DR",
     "Zip Code": "63136",
@@ -1238,6 +1359,17 @@
     "Locator": "27G420927",
     "Quote ID": "550373",
     "Quote Amount": "$983.12",
+    "Closing Date": "08/18/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CHARLENE MC CARROLL",
+    "Service Address": "9201 RIVERWOOD DR",
+    "Zip Code": "63136",
+    "Locator": "13F510066",
+    "Quote ID": "550371",
+    "Quote Amount": "$2102.74",
     "Closing Date": "08/18/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1272,6 +1404,17 @@
     "Quote ID": "550376",
     "Quote Amount": "$93.83",
     "Closing Date": "08/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "AHMAD HINDS",
+    "Service Address": "805 SPRINTERS ROW DR",
+    "Zip Code": "63034",
+    "Locator": "05H230857",
+    "Quote ID": "549832",
+    "Quote Amount": "$145.21",
+    "Closing Date": "08/23/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1331,99 +1474,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "JASON GORDON",
-    "Service Address": "14977 CLAYMONT ESTATES DR",
-    "Zip Code": "63017",
-    "Locator": "20S340380",
-    "Quote ID": "550227",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/14/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "5 SFR 2021 LLC",
-    "Service Address": "2397 GILROSE AVE",
-    "Zip Code": "63114",
-    "Locator": "15K520434",
-    "Quote ID": "550241",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/17/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LENA WASHINGTON",
-    "Service Address": "2203 MCLARAN AVE",
-    "Zip Code": "63136",
-    "Locator": "13G340932",
-    "Quote ID": "550237",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/17/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PAUL D OR DIANE E MARKS",
-    "Service Address": "2674 BLUE HERON DR",
-    "Zip Code": "63031",
-    "Locator": "06L310380",
-    "Quote ID": "550229",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/17/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "VINSAR REALTY LLC",
     "Service Address": "4343 PRAIRIE AVE",
     "Zip Code": "63107",
     "Locator": "33530002400",
     "Quote ID": "550339",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/18/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "S PHILPOTT & O'BRIEN-PHILPOTT",
-    "Service Address": "123 HIGHVIEW DR",
-    "Zip Code": "63011",
-    "Locator": "22T320372",
-    "Quote ID": "550337",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/18/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JOSHUA CHUMLEY",
-    "Service Address": "5725 HEMPLINE RD",
-    "Zip Code": "63129",
-    "Locator": "32H440513",
-    "Quote ID": "550299",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/18/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GO SOCIAL LLC",
-    "Service Address": "12047 LARIMORE RD",
-    "Zip Code": "63138",
-    "Locator": "08D140531",
-    "Quote ID": "550298",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/18/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LISA WHEELINGTON",
-    "Service Address": "573 COACH LIGHT LN",
-    "Zip Code": "63042",
-    "Locator": "08L320974",
-    "Quote ID": "550297",
     "Quote Amount": "Pending",
     "Closing Date": "08/18/2026",
     "Stage": "In Progress",
@@ -1437,28 +1492,6 @@
     "Quote ID": "550377",
     "Quote Amount": "Pending",
     "Closing Date": "08/18/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CHARLENE MC CARROLL",
-    "Service Address": "9201 RIVERWOOD DR",
-    "Zip Code": "63136",
-    "Locator": "13F510066",
-    "Quote ID": "550371",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/18/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "AHMAD HINDS",
-    "Service Address": "805 SPRINTERS ROW DR",
-    "Zip Code": "63034",
-    "Locator": "05H230857",
-    "Quote ID": "549832",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/23/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
