@@ -902,6 +902,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "VINSAR REALTY LLC",
+    "Service Address": "4343 PRAIRIE AVE",
+    "Zip Code": "63107",
+    "Locator": "33530002400",
+    "Quote ID": "550339",
+    "Quote Amount": "$6856.45",
+    "Closing Date": "08/18/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "LIONEL ANTHONY FORD",
     "Service Address": "1008 HORNSBY AVE",
     "Zip Code": "63147",
@@ -1342,6 +1353,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "LEVANDER & SHYROUN RIDGEL",
+    "Service Address": "8317 MCLARAN AVE",
+    "Zip Code": "63136",
+    "Locator": "13G231083",
+    "Quote ID": "550377",
+    "Quote Amount": "$2193.17",
+    "Closing Date": "08/18/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ALMA J WALLACE-ELBERT",
     "Service Address": "9731 EDGEFIELD DR",
     "Zip Code": "63136",
@@ -1408,6 +1430,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "SHEANETHER FORD",
+    "Service Address": "3857 WATERSEDGE DR",
+    "Zip Code": "63034",
+    "Locator": "05J320478",
+    "Quote ID": "550494",
+    "Quote Amount": "$678.77",
+    "Closing Date": "08/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "AISHA GUNN",
+    "Service Address": "4127 CRESTLAND DR",
+    "Zip Code": "63121",
+    "Locator": "15H631422",
+    "Quote ID": "550493",
+    "Quote Amount": "$1241.61",
+    "Closing Date": "08/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "REVISIONS LLC",
     "Service Address": "10117 EARL DR",
     "Zip Code": "63136",
@@ -1425,6 +1469,39 @@
     "Locator": "13L611203",
     "Quote ID": "550491",
     "Quote Amount": "$373.47",
+    "Closing Date": "08/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KENDRIX MATHIS",
+    "Service Address": "331 ST LOUIS AVE",
+    "Zip Code": "63135",
+    "Locator": "12H420784",
+    "Quote ID": "550490",
+    "Quote Amount": "$2054.72",
+    "Closing Date": "08/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ROOSEVELT WILLIAMS",
+    "Service Address": "6990 EDISON AVE",
+    "Zip Code": "63121",
+    "Locator": "15H241803",
+    "Quote ID": "550489",
+    "Quote Amount": "$913.85",
+    "Closing Date": "08/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CHRIS LONG",
+    "Service Address": "3967 FAIRVIEW AVE",
+    "Zip Code": "63116",
+    "Locator": "41380003900",
+    "Quote ID": "550487",
+    "Quote Amount": "$2439.01",
     "Closing Date": "08/19/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1448,6 +1525,17 @@
     "Quote ID": "549832",
     "Quote Amount": "$145.21",
     "Closing Date": "08/23/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KEITH D BARBERO",
+    "Service Address": "3635 BRADSTONE DR",
+    "Zip Code": "63033",
+    "Locator": "08H240262",
+    "Quote ID": "550484",
+    "Quote Amount": "$4666.65",
+    "Closing Date": "08/24/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1507,83 +1595,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "VINSAR REALTY LLC",
-    "Service Address": "4343 PRAIRIE AVE",
-    "Zip Code": "63107",
-    "Locator": "33530002400",
-    "Quote ID": "550339",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/18/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LEVANDER & SHYROUN RIDGEL",
-    "Service Address": "8317 MCLARAN AVE",
-    "Zip Code": "63136",
-    "Locator": "13G231083",
-    "Quote ID": "550377",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/18/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SHEANETHER FORD",
-    "Service Address": "3857 WATERSEDGE DR",
-    "Zip Code": "63034",
-    "Locator": "05J320478",
-    "Quote ID": "550494",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/19/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "AISHA GUNN",
-    "Service Address": "4127 CRESTLAND DR",
-    "Zip Code": "63121",
-    "Locator": "15H631422",
-    "Quote ID": "550493",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/19/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KENDRIX MATHIS",
-    "Service Address": "331 ST LOUIS AVE",
-    "Zip Code": "63135",
-    "Locator": "12H420784",
-    "Quote ID": "550490",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/19/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ROOSEVELT WILLIAMS",
-    "Service Address": "6990 EDISON AVE",
-    "Zip Code": "63121",
-    "Locator": "15H241803",
-    "Quote ID": "550489",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/19/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CHRIS LONG",
-    "Service Address": "3967 FAIRVIEW AVE",
-    "Zip Code": "63116",
-    "Locator": "41380003900",
-    "Quote ID": "550487",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/19/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "GAWAIN T JAMESON",
     "Service Address": "6034 GARESCHE AVE",
     "Zip Code": "63136",
@@ -1602,17 +1613,6 @@
     "Quote ID": "550495",
     "Quote Amount": "Pending",
     "Closing Date": "08/23/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KEITH D BARBERO",
-    "Service Address": "3635 BRADSTONE DR",
-    "Zip Code": "63033",
-    "Locator": "08H240262",
-    "Quote ID": "550484",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/24/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
