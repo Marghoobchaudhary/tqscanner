@@ -1408,6 +1408,39 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "REVISIONS LLC",
+    "Service Address": "10117 EARL DR",
+    "Zip Code": "63136",
+    "Locator": "11F421508",
+    "Quote ID": "550492",
+    "Quote Amount": "$247.09",
+    "Closing Date": "08/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CHRISTIAN PERKINSON",
+    "Service Address": "9707 CORREGIDOR DR",
+    "Zip Code": "63134",
+    "Locator": "13L611203",
+    "Quote ID": "550491",
+    "Quote Amount": "$373.47",
+    "Closing Date": "08/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WILLIE & SARITA PHILLIPS",
+    "Service Address": "4439 ASHLAND AVE",
+    "Zip Code": "63115",
+    "Locator": "44470401900",
+    "Quote ID": "550486",
+    "Quote Amount": "$1369.82",
+    "Closing Date": "08/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "AHMAD HINDS",
     "Service Address": "805 SPRINTERS ROW DR",
     "Zip Code": "63034",
@@ -1492,6 +1525,105 @@
     "Quote ID": "550377",
     "Quote Amount": "Pending",
     "Closing Date": "08/18/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SHEANETHER FORD",
+    "Service Address": "3857 WATERSEDGE DR",
+    "Zip Code": "63034",
+    "Locator": "05J320478",
+    "Quote ID": "550494",
+    "Quote Amount": "Pending",
+    "Closing Date": "08/19/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "AISHA GUNN",
+    "Service Address": "4127 CRESTLAND DR",
+    "Zip Code": "63121",
+    "Locator": "15H631422",
+    "Quote ID": "550493",
+    "Quote Amount": "Pending",
+    "Closing Date": "08/19/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KENDRIX MATHIS",
+    "Service Address": "331 ST LOUIS AVE",
+    "Zip Code": "63135",
+    "Locator": "12H420784",
+    "Quote ID": "550490",
+    "Quote Amount": "Pending",
+    "Closing Date": "08/19/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ROOSEVELT WILLIAMS",
+    "Service Address": "6990 EDISON AVE",
+    "Zip Code": "63121",
+    "Locator": "15H241803",
+    "Quote ID": "550489",
+    "Quote Amount": "Pending",
+    "Closing Date": "08/19/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CHRIS LONG",
+    "Service Address": "3967 FAIRVIEW AVE",
+    "Zip Code": "63116",
+    "Locator": "41380003900",
+    "Quote ID": "550487",
+    "Quote Amount": "Pending",
+    "Closing Date": "08/19/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GAWAIN T JAMESON",
+    "Service Address": "6034 GARESCHE AVE",
+    "Zip Code": "63136",
+    "Locator": "53480000800",
+    "Quote ID": "550485",
+    "Quote Amount": "Pending",
+    "Closing Date": "08/19/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "5 SFR 2021 LLC",
+    "Service Address": "9612 RIDGE AVE-63114",
+    "Zip Code": "63114",
+    "Locator": "15L220298",
+    "Quote ID": "550495",
+    "Quote Amount": "Pending",
+    "Closing Date": "08/23/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KEITH D BARBERO",
+    "Service Address": "3635 BRADSTONE DR",
+    "Zip Code": "63033",
+    "Locator": "08H240262",
+    "Quote ID": "550484",
+    "Quote Amount": "Pending",
+    "Closing Date": "08/24/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "VERNON WALKER",
+    "Service Address": "12848 MEADOWDALE DR",
+    "Zip Code": "63138",
+    "Locator": "07E440992",
+    "Quote ID": "550483",
+    "Quote Amount": "Pending",
+    "Closing Date": "08/26/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
