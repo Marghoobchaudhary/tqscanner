@@ -1,38 +1,5 @@
 [
   {
-    "Seller Name": "SHERIKO WHITE",
-    "Service Address": "1360 MALLARD LN",
-    "Zip Code": "63031",
-    "Locator": "06K140980",
-    "Quote ID": "548314",
-    "Quote Amount": "$636.79",
-    "Closing Date": "07/30/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ROI TURNKEY PROPERTIES LLC",
-    "Service Address": "3805 HARTFORD ST",
-    "Zip Code": "63116",
-    "Locator": "41100002400",
-    "Quote ID": "548313",
-    "Quote Amount": "$1238.97",
-    "Closing Date": "07/30/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MONICA TADLOCK",
-    "Service Address": "614 WEISS AVE",
-    "Zip Code": "63125",
-    "Locator": "27G431550",
-    "Quote ID": "548215",
-    "Quote Amount": "$316.28",
-    "Closing Date": "07/30/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "CLEO G ANDERSON",
     "Service Address": "10593 CLARENDON AVE",
     "Zip Code": "63114",
@@ -1430,6 +1397,39 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "THOMAS GILLIAM",
+    "Service Address": "3417 ST WILLIAMS LN",
+    "Zip Code": "63074",
+    "Locator": "13L110872",
+    "Quote ID": "550552",
+    "Quote Amount": "$616.43",
+    "Closing Date": "08/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ROBERT LEE COLLIER JR",
+    "Service Address": "4570 CARTER AVE",
+    "Zip Code": "63115",
+    "Locator": "44150700400",
+    "Quote ID": "550620",
+    "Quote Amount": "$4354.71",
+    "Closing Date": "08/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ALETHA BUCHANAN",
+    "Service Address": "1115 HORNSBY AVE",
+    "Zip Code": "63147",
+    "Locator": "42880002900",
+    "Quote ID": "550619",
+    "Quote Amount": "$1508.12",
+    "Closing Date": "08/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "SHEANETHER FORD",
     "Service Address": "3857 WATERSEDGE DR",
     "Zip Code": "63034",
@@ -1514,6 +1514,17 @@
     "Quote ID": "550486",
     "Quote Amount": "$1369.82",
     "Closing Date": "08/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "REBECCAH LEHR",
+    "Service Address": "1302 SALTBOX DR",
+    "Zip Code": "63017",
+    "Locator": "18R220383",
+    "Quote ID": "550618",
+    "Quote Amount": "$152.69",
+    "Closing Date": "08/20/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
