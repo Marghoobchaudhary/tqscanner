@@ -390,7 +390,7 @@
     "Zip Code": "63118",
     "Locator": "16140001000",
     "Quote ID": "548953",
-    "Quote Amount": "$7540.59",
+    "Quote Amount": "$8025.21",
     "Closing Date": "08/06/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1518,6 +1518,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MCCULLEY HOMES TOTAL REHAB & R",
+    "Service Address": "6716 ST LOUIS AVE",
+    "Zip Code": "63121",
+    "Locator": "16H540507",
+    "Quote ID": "550623",
+    "Quote Amount": "$4663.22",
+    "Closing Date": "08/20/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "LIV KINGDOM BUILDING FAM REV",
     "Service Address": "6714 ST LOUIS AVE",
     "Zip Code": "63121",
@@ -1557,6 +1568,17 @@
     "Locator": "05H230857",
     "Quote ID": "549832",
     "Quote Amount": "$145.21",
+    "Closing Date": "08/23/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "5 SFR 2021 LLC",
+    "Service Address": "9612 RIDGE AVE-63114",
+    "Zip Code": "63114",
+    "Locator": "15L220298",
+    "Quote ID": "550495",
+    "Quote Amount": "$3915.29",
     "Closing Date": "08/23/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1635,28 +1657,6 @@
     "Quote ID": "550485",
     "Quote Amount": "Pending",
     "Closing Date": "08/19/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MCCULLEY HOMES TOTAL REHAB & R",
-    "Service Address": "6716 ST LOUIS AVE",
-    "Zip Code": "63121",
-    "Locator": "16H540507",
-    "Quote ID": "550623",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/20/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "5 SFR 2021 LLC",
-    "Service Address": "9612 RIDGE AVE-63114",
-    "Zip Code": "63114",
-    "Locator": "15L220298",
-    "Quote ID": "550495",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/23/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
