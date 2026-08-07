@@ -1,16 +1,5 @@
 [
   {
-    "Seller Name": "JOHNSON CARRIE",
-    "Service Address": "3213 CAPEHART DR",
-    "Zip Code": "63121",
-    "Locator": "15H330105",
-    "Quote ID": "550224",
-    "Quote Amount": "$4826.24",
-    "Closing Date": "08/07/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "FRANK LAUMAN",
     "Service Address": "4004 DOLBIL DR",
     "Zip Code": "63125",
@@ -1243,12 +1232,45 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "AUGUSTA BRUCE",
+    "Service Address": "4341 WILCOX AVE",
+    "Zip Code": "63116",
+    "Locator": "55830003400",
+    "Quote ID": "551137",
+    "Quote Amount": "$7022.34",
+    "Closing Date": "08/25/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "GLADYS MANSFIELD",
     "Service Address": "5118 HIGHLAND AVE",
     "Zip Code": "63113",
     "Locator": "45040002900",
     "Quote ID": "551142",
     "Quote Amount": "$1251.73",
+    "Closing Date": "08/26/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DIRK JONES",
+    "Service Address": "7611 ALASKA AVE",
+    "Zip Code": "63111",
+    "Locator": "31040000400",
+    "Quote ID": "551305",
+    "Quote Amount": "$1735.18",
+    "Closing Date": "08/26/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "UPON THIS ROCK HOLINESS CHURCH",
+    "Service Address": "2855 MERAMEC ST",
+    "Zip Code": "63118",
+    "Locator": "26260003200",
+    "Quote ID": "551303",
+    "Quote Amount": "$871.18",
     "Closing Date": "08/26/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1331,6 +1353,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "RAN AND TINA BUBB",
+    "Service Address": "4516 PENNSYLVANIA AVE",
+    "Zip Code": "63111",
+    "Locator": "27190001000",
+    "Quote ID": "551203",
+    "Quote Amount": "$0.00",
+    "Closing Date": "08/26/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "VERNON WALKER",
     "Service Address": "12848 MEADOWDALE DR",
     "Zip Code": "63138",
@@ -1338,6 +1371,28 @@
     "Quote ID": "550483",
     "Quote Amount": "$2910.82",
     "Closing Date": "08/26/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SFG NL VJ ST LOUIS LLC",
+    "Service Address": "8515 PAGE AVE",
+    "Zip Code": "63114",
+    "Locator": "16K630073",
+    "Quote ID": "551302",
+    "Quote Amount": "$301499.31",
+    "Closing Date": "08/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JR, JESSE W SCHROLL",
+    "Service Address": "8445 PAGE AVE",
+    "Zip Code": "63130",
+    "Locator": "16K630073",
+    "Quote ID": "551301",
+    "Quote Amount": "$0.00",
+    "Closing Date": "08/27/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1359,6 +1414,17 @@
     "Locator": "13G120941",
     "Quote ID": "551296",
     "Quote Amount": "$1252.98",
+    "Closing Date": "08/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LEROY HICKS",
+    "Service Address": "9538 CHESTER AVE",
+    "Zip Code": "63114",
+    "Locator": "13L331066",
+    "Quote ID": "551293",
+    "Quote Amount": "$1315.59",
     "Closing Date": "08/27/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1419,17 +1485,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "AUGUSTA BRUCE",
-    "Service Address": "4341 WILCOX AVE",
-    "Zip Code": "63116",
-    "Locator": "55830003400",
-    "Quote ID": "551137",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/25/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "VERCEN & BEULAH G BRANDON",
     "Service Address": "12921 WALNUTWAY TER",
     "Zip Code": "63146",
@@ -1452,39 +1507,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "RAN AND TINA BUBB",
-    "Service Address": "4516 PENNSYLVANIA AVE",
-    "Zip Code": "63111",
-    "Locator": "27190001000",
-    "Quote ID": "551203",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/26/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SFG NL VJ ST LOUIS LLC",
-    "Service Address": "8515 PAGE AVE",
-    "Zip Code": "63114",
-    "Locator": "16K630073",
-    "Quote ID": "551302",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/27/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JR, JESSE W SCHROLL",
-    "Service Address": "8445 PAGE AVE",
-    "Zip Code": "63130",
-    "Locator": "16K630073",
-    "Quote ID": "551301",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/27/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "KATHERINE GALMORE",
     "Service Address": "3701 HARTFORD ST",
     "Zip Code": "63116",
@@ -1492,28 +1514,6 @@
     "Quote ID": "551299",
     "Quote Amount": "Pending",
     "Closing Date": "08/27/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LEROY HICKS",
-    "Service Address": "9538 CHESTER AVE",
-    "Zip Code": "63114",
-    "Locator": "13L331066",
-    "Quote ID": "551293",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/27/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SUGAR TREE HOMES ASSOC",
-    "Service Address": "2433 FOREST SHADOWS DR",
-    "Zip Code": "63136",
-    "Locator": "09F131024",
-    "Quote ID": "551290",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/02/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
