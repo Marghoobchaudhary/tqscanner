@@ -132,6 +132,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "KATHY M JOHNSON",
+    "Service Address": "2721 DARLA CT-63136",
+    "Zip Code": "63136",
+    "Locator": "12G220491",
+    "Quote ID": "549612",
+    "Quote Amount": "$2684.77",
+    "Closing Date": "08/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "SAKARA POLK",
     "Service Address": "2752 WINTERGREEN DR",
     "Zip Code": "63033",
@@ -1276,6 +1287,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "VERCEN & BEULAH G BRANDON",
+    "Service Address": "12921 WALNUTWAY TER",
+    "Zip Code": "63146",
+    "Locator": "15P140639",
+    "Quote ID": "551298",
+    "Quote Amount": "$8813.82",
+    "Closing Date": "08/26/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "JOANNE MISHKIN",
     "Service Address": "8010 STANFORD AVE",
     "Zip Code": "63130",
@@ -1326,6 +1348,17 @@
     "Locator": "06J520350",
     "Quote ID": "551288",
     "Quote Amount": "$332.29",
+    "Closing Date": "08/26/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WILLIAM E JONES",
+    "Service Address": "10733 HALLSTEAD DR",
+    "Zip Code": "63136",
+    "Locator": "10G610351",
+    "Quote ID": "551287",
+    "Quote Amount": "$7759.98",
     "Closing Date": "08/26/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1392,6 +1425,17 @@
     "Locator": "16K630073",
     "Quote ID": "551301",
     "Quote Amount": "$0.00",
+    "Closing Date": "08/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KATHERINE GALMORE",
+    "Service Address": "3701 HARTFORD ST",
+    "Zip Code": "63116",
+    "Locator": "21020004300",
+    "Quote ID": "551299",
+    "Quote Amount": "$23937.72",
     "Closing Date": "08/27/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1474,44 +1518,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "KATHY M JOHNSON",
-    "Service Address": "2721 DARLA CT-63136",
+    "Seller Name": "NYRITA HONEYCUTT",
+    "Service Address": "2468 SHANNON AVE",
     "Zip Code": "63136",
-    "Locator": "12G220491",
-    "Quote ID": "549612",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/11/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "VERCEN & BEULAH G BRANDON",
-    "Service Address": "12921 WALNUTWAY TER",
-    "Zip Code": "63146",
-    "Locator": "15P140639",
-    "Quote ID": "551298",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/26/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "WILLIAM E JONES",
-    "Service Address": "10733 HALLSTEAD DR",
-    "Zip Code": "63136",
-    "Locator": "10G610351",
-    "Quote ID": "551287",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/26/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KATHERINE GALMORE",
-    "Service Address": "3701 HARTFORD ST",
-    "Zip Code": "63116",
-    "Locator": "21020004300",
-    "Quote ID": "551299",
+    "Locator": "12G320115",
+    "Quote ID": "551437",
     "Quote Amount": "Pending",
     "Closing Date": "08/27/2026",
     "Stage": "In Progress",
