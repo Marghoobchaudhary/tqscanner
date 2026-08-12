@@ -1,115 +1,5 @@
 [
   {
-    "Seller Name": "TRC PARK AVENUE PARTNERS LLC",
-    "Service Address": "2326 PARK AVE",
-    "Zip Code": "63104",
-    "Locator": "21450000700",
-    "Quote ID": "549619",
-    "Quote Amount": "$412.61",
-    "Closing Date": "08/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "VIRGINIA WEBER",
-    "Service Address": "43 OAK HILL DR",
-    "Zip Code": "63021",
-    "Locator": "23T610476",
-    "Quote ID": "549618",
-    "Quote Amount": "$3321.60",
-    "Closing Date": "08/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LAWRENCE WALLS",
-    "Service Address": "6340 HONEY BEE CT",
-    "Zip Code": "63033",
-    "Locator": "08F531027",
-    "Quote ID": "549615",
-    "Quote Amount": "$1249.87",
-    "Closing Date": "08/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GEORGEIII & TROLEASE LEE",
-    "Service Address": "11855 ROSARY LN",
-    "Zip Code": "63138",
-    "Locator": "08E110641",
-    "Quote ID": "549614",
-    "Quote Amount": "$10096.83",
-    "Closing Date": "08/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RED DOOR LEGACY LLC",
-    "Service Address": "5846 PAGE BLVD",
-    "Zip Code": "63112",
-    "Locator": "38240001200",
-    "Quote ID": "549613",
-    "Quote Amount": "$3861.96",
-    "Closing Date": "08/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KATHY M JOHNSON",
-    "Service Address": "2721 DARLA CT-63136",
-    "Zip Code": "63136",
-    "Locator": "12G220491",
-    "Quote ID": "549612",
-    "Quote Amount": "$2684.77",
-    "Closing Date": "08/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SAKARA POLK",
-    "Service Address": "2752 WINTERGREEN DR",
-    "Zip Code": "63033",
-    "Locator": "06H140490",
-    "Quote ID": "549611",
-    "Quote Amount": "$1131.13",
-    "Closing Date": "08/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ALMA E. BEWIG",
-    "Service Address": "1225 CARDINAL LN",
-    "Zip Code": "63031",
-    "Locator": "06K210601",
-    "Quote ID": "549610",
-    "Quote Amount": "$335.51",
-    "Closing Date": "08/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CHARLES BINGHAM",
-    "Service Address": "6344 GRAHAM RD",
-    "Zip Code": "63134",
-    "Locator": "11K621344",
-    "Quote ID": "549608",
-    "Quote Amount": "$2115.18",
-    "Closing Date": "08/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ERICKA JEFFERSON",
-    "Service Address": "3 COLONIAL CT",
-    "Zip Code": "63031",
-    "Locator": "06J140156",
-    "Quote ID": "548982",
-    "Quote Amount": "$9884.60",
-    "Closing Date": "08/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "GEAUNTRICI JOHNSON",
     "Service Address": "1619 MONTICELLO DR",
     "Zip Code": "63138",
@@ -1496,6 +1386,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MARCELLA PITTMON",
+    "Service Address": "1830 DUNNIDEER DR",
+    "Zip Code": "63136",
+    "Locator": "11G220979",
+    "Quote ID": "551736",
+    "Quote Amount": "$851.20",
+    "Closing Date": "08/31/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TAMARA HARRIS",
+    "Service Address": "5209 IDAHO AVE",
+    "Zip Code": "63111",
+    "Locator": "28150001800",
+    "Quote ID": "551206",
+    "Quote Amount": "$6491.27",
+    "Closing Date": "09/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MATTHEW & VANESSA ISAACS",
     "Service Address": "1395 ST FRANCOIS ST",
     "Zip Code": "63033",
@@ -1536,17 +1448,6 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TAMARA HARRIS",
-    "Service Address": "5209 IDAHO AVE",
-    "Zip Code": "63111",
-    "Locator": "28150001800",
-    "Quote ID": "551206",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/03/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
