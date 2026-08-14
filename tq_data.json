@@ -858,6 +858,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "CASSANDRA ROGERS",
+    "Service Address": "8579 PARTRIDGE AVE",
+    "Zip Code": "63147",
+    "Locator": "42440402300",
+    "Quote ID": "551828",
+    "Quote Amount": "$3180.35",
+    "Closing Date": "08/24/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "TRAECY A WARFORD",
     "Service Address": "1100 SANSU LN-63031",
     "Zip Code": "63031",
@@ -1397,6 +1408,83 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "KIEMANI COLEMAN",
+    "Service Address": "305 KRAUSS ST",
+    "Zip Code": "63111",
+    "Locator": "30020000650",
+    "Quote ID": "551970",
+    "Quote Amount": "$1120.70",
+    "Closing Date": "09/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KINGDOM PROPERTY DEVELOPMENT",
+    "Service Address": "8 HORTENSE PL",
+    "Zip Code": "63108",
+    "Locator": "38800002500",
+    "Quote ID": "551968",
+    "Quote Amount": "$52.97",
+    "Closing Date": "09/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MICHAEL BENDER",
+    "Service Address": "2211 JULES ST",
+    "Zip Code": "63104",
+    "Locator": "13850002000",
+    "Quote ID": "551967",
+    "Quote Amount": "$2889.34",
+    "Closing Date": "09/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MICHAEL BENDER",
+    "Service Address": "2209 JULES ST",
+    "Zip Code": "63104",
+    "Locator": "13850002000",
+    "Quote ID": "551966",
+    "Quote Amount": "$240.23",
+    "Closing Date": "09/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ARTHUR REALTY VI LLC",
+    "Service Address": "3518 CALIFORNIA AVE",
+    "Zip Code": "63118",
+    "Locator": "15700000800",
+    "Quote ID": "551962",
+    "Quote Amount": "$1048.06",
+    "Closing Date": "09/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "AP COLLECTIONS LLC",
+    "Service Address": "1740 GRAPE AVE",
+    "Zip Code": "63147",
+    "Locator": "61460000600",
+    "Quote ID": "551960",
+    "Quote Amount": "$763.70",
+    "Closing Date": "09/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ELENA HUDDLESTON",
+    "Service Address": "10866 MERCER CT",
+    "Zip Code": "63074",
+    "Locator": "13M220103",
+    "Quote ID": "551957",
+    "Quote Amount": "$1170.64",
+    "Closing Date": "09/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "TAMARA HARRIS",
     "Service Address": "5209 IDAHO AVE",
     "Zip Code": "63111",
@@ -1540,22 +1628,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "CASSANDRA ROGERS",
-    "Service Address": "8579 PARTRIDGE AVE",
-    "Zip Code": "63147",
-    "Locator": "42440402300",
-    "Quote ID": "551828",
-    "Quote Amount": "Pending",
-    "Closing Date": "08/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ELENA HUDDLESTON",
-    "Service Address": "10866 MERCER CT",
-    "Zip Code": "63074",
-    "Locator": "13M220103",
-    "Quote ID": "551957",
+    "Seller Name": "HOWARD EQUITY LLC",
+    "Service Address": "3520 CALIFORNIA AVE",
+    "Zip Code": "63118",
+    "Locator": "15700000800",
+    "Quote ID": "551963",
     "Quote Amount": "Pending",
     "Closing Date": "09/02/2026",
     "Stage": "In Progress",
