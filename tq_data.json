@@ -616,17 +616,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "KIMBERLY BARNES",
-    "Service Address": "4224 RIVER OAKS DR",
-    "Zip Code": "63034",
-    "Locator": "06H340250",
-    "Quote ID": "550376",
-    "Quote Amount": "$93.83",
-    "Closing Date": "08/19/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "THOMAS GILLIAM",
     "Service Address": "3417 ST WILLIAMS LN",
     "Zip Code": "63074",
@@ -1734,6 +1723,28 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GINA TAPHORN",
+    "Service Address": "18050 DEER HAVEN DR",
+    "Zip Code": "63038",
+    "Locator": "21V330226",
+    "Quote ID": "552144",
+    "Quote Amount": "Pending",
+    "Closing Date": "09/10/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ZYLOTES CARTER",
+    "Service Address": "8611 HENRY ST-63136",
+    "Zip Code": "63136",
+    "Locator": "13G330380",
+    "Quote ID": "552141",
+    "Quote Amount": "Pending",
+    "Closing Date": "09/13/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
