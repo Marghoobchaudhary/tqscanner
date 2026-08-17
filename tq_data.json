@@ -1,104 +1,5 @@
 [
   {
-    "Seller Name": "ALEA DOYEN",
-    "Service Address": "1562 LOUISVILLE AVE",
-    "Zip Code": "63139",
-    "Locator": "46130200600",
-    "Quote ID": "549722",
-    "Quote Amount": "$4405.00",
-    "Closing Date": "08/13/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "NIKO OWENS",
-    "Service Address": "110 SEVILLE CT",
-    "Zip Code": "63033",
-    "Locator": "07H610697",
-    "Quote ID": "548981",
-    "Quote Amount": "$221.51",
-    "Closing Date": "08/13/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JASON GORDON",
-    "Service Address": "14977 CLAYMONT ESTATES DR",
-    "Zip Code": "63017",
-    "Locator": "20S340380",
-    "Quote ID": "550227",
-    "Quote Amount": "$7277.75",
-    "Closing Date": "08/14/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SALLIE HALL",
-    "Service Address": "5342 NAGEL AVE",
-    "Zip Code": "63109",
-    "Locator": "58270000200",
-    "Quote ID": "549857",
-    "Quote Amount": "$3384.00",
-    "Closing Date": "08/14/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MINNIE MORROW",
-    "Service Address": "7312 ESTERBROOK DR",
-    "Zip Code": "63136",
-    "Locator": "14G440095",
-    "Quote ID": "549849",
-    "Quote Amount": "$112.29",
-    "Closing Date": "08/14/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LENA WASHINGTON",
-    "Service Address": "2203 MCLARAN AVE",
-    "Zip Code": "63136",
-    "Locator": "13G340932",
-    "Quote ID": "550237",
-    "Quote Amount": "$9836.38",
-    "Closing Date": "08/17/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DEMETRIUS LOGAN",
-    "Service Address": "10591 CLARENDON AVE",
-    "Zip Code": "63114",
-    "Locator": "14M610071",
-    "Quote ID": "550234",
-    "Quote Amount": "$323.15",
-    "Closing Date": "08/17/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PAUL D OR DIANE E MARKS",
-    "Service Address": "2674 BLUE HERON DR",
-    "Zip Code": "63031",
-    "Locator": "06L310380",
-    "Quote ID": "550229",
-    "Quote Amount": "$-500.59",
-    "Closing Date": "08/17/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "EMERY MORRIS",
-    "Service Address": "5432 BATES ST-63116",
-    "Zip Code": "63116",
-    "Locator": "56810000400",
-    "Quote ID": "549165",
-    "Quote Amount": "$4255.41",
-    "Closing Date": "08/17/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "STL GROWTH DEVELOPMENT LLC",
     "Service Address": "812 E TAYLOR AVE",
     "Zip Code": "63147",
@@ -1694,6 +1595,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "GINA TAPHORN",
+    "Service Address": "18050 DEER HAVEN DR",
+    "Zip Code": "63038",
+    "Locator": "21V330226",
+    "Quote ID": "552144",
+    "Quote Amount": "$221.48",
+    "Closing Date": "09/10/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MATTHEW & VANESSA ISAACS",
     "Service Address": "1395 ST FRANCOIS ST",
     "Zip Code": "63033",
@@ -1734,6 +1646,28 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ADAM WILCOX",
+    "Service Address": "4640 TIEMANN AVE",
+    "Zip Code": "63123",
+    "Locator": "25H221453",
+    "Quote ID": "552172",
+    "Quote Amount": "Pending",
+    "Closing Date": "09/03/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ZYLOTES CARTER",
+    "Service Address": "8611 HENRY ST-63136",
+    "Zip Code": "63136",
+    "Locator": "13G330380",
+    "Quote ID": "552141",
+    "Quote Amount": "Pending",
+    "Closing Date": "09/13/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
