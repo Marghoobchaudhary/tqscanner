@@ -814,6 +814,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ERIN RANDALL",
+    "Service Address": "2218 ALBERTA ST",
+    "Zip Code": "63118",
+    "Locator": "25630000700",
+    "Quote ID": "552635",
+    "Quote Amount": "$3012.00",
+    "Closing Date": "09/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "GERALD ROBINSON",
     "Service Address": "2703 ABERDEEN DR",
     "Zip Code": "63033",
@@ -1023,6 +1034,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ZYLOTES CARTER",
+    "Service Address": "8611 HENRY ST-63136",
+    "Zip Code": "63136",
+    "Locator": "13G330380",
+    "Quote ID": "552141",
+    "Quote Amount": "$8572.71",
+    "Closing Date": "09/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "RICHARD BUSIEK",
     "Service Address": "1478 FRIAR TUCK LN",
     "Zip Code": "63125",
@@ -1100,13 +1122,35 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "ZYLOTES CARTER",
-    "Service Address": "8611 HENRY ST-63136",
-    "Zip Code": "63136",
-    "Locator": "13G330380",
-    "Quote ID": "552141",
+    "Seller Name": "JEFFREY EISENHOFFER",
+    "Service Address": "9824 ALLENDALE DR",
+    "Zip Code": "63123",
+    "Locator": "27J640996",
+    "Quote ID": "552638",
     "Quote Amount": "Pending",
-    "Closing Date": "09/13/2026",
+    "Closing Date": "09/08/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "STEVIE & REBECCA BOWEN",
+    "Service Address": "5921 HELEN AVE-63134",
+    "Zip Code": "63134",
+    "Locator": "12K641398",
+    "Quote ID": "552637",
+    "Quote Amount": "Pending",
+    "Closing Date": "09/08/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KENNETH TATE",
+    "Service Address": "835 HARLAN AVE",
+    "Zip Code": "63147",
+    "Locator": "63480002900",
+    "Quote ID": "552636",
+    "Quote Amount": "Pending",
+    "Closing Date": "09/08/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
