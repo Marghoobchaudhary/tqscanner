@@ -1,71 +1,5 @@
 [
   {
-    "Seller Name": "MCCULLEY HOMES TOTAL REHAB & R",
-    "Service Address": "6716 ST LOUIS AVE",
-    "Zip Code": "63121",
-    "Locator": "16H540507",
-    "Quote ID": "550623",
-    "Quote Amount": "$4663.22",
-    "Closing Date": "08/20/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LIV KINGDOM BUILDING FAM REV",
-    "Service Address": "6714 ST LOUIS AVE",
-    "Zip Code": "63121",
-    "Locator": "16H540507",
-    "Quote ID": "550622",
-    "Quote Amount": "$1999.91",
-    "Closing Date": "08/20/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BHPH HOMES LLC",
-    "Service Address": "4324 W FLORISSANT AVE",
-    "Zip Code": "63115",
-    "Locator": "35540002700",
-    "Quote ID": "550621",
-    "Quote Amount": "$1605.11",
-    "Closing Date": "08/20/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "REBECCAH LEHR",
-    "Service Address": "1302 SALTBOX DR",
-    "Zip Code": "63017",
-    "Locator": "18R220383",
-    "Quote ID": "550618",
-    "Quote Amount": "$152.69",
-    "Closing Date": "08/20/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MELISSA BYRNE",
-    "Service Address": "98 BUCKLEY MEADOWS DR",
-    "Zip Code": "63125",
-    "Locator": "28H140014",
-    "Quote ID": "550803",
-    "Quote Amount": "$6730.80",
-    "Closing Date": "08/20/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DANIEL LERITZ",
-    "Service Address": "1 CRICKET LN",
-    "Zip Code": "63144",
-    "Locator": "20L620142",
-    "Quote ID": "550802",
-    "Quote Amount": "$95.00",
-    "Closing Date": "08/20/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "AHMAD HINDS",
     "Service Address": "805 SPRINTERS ROW DR",
     "Zip Code": "63034",
@@ -1272,6 +1206,17 @@
     "Quote ID": "552476",
     "Quote Amount": "$3183.18",
     "Closing Date": "09/16/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PATRICK PRATHER",
+    "Service Address": "9431 BRISTOL AVE",
+    "Zip Code": "63114",
+    "Locator": "14L620664",
+    "Quote ID": "552925",
+    "Quote Amount": "$759.03",
+    "Closing Date": "09/20/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
