@@ -770,6 +770,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ANTHONY CORTEZ",
+    "Service Address": "2776 DAWNVIEW DR",
+    "Zip Code": "63031",
+    "Locator": "06J420359",
+    "Quote ID": "553232",
+    "Quote Amount": "$-328.68",
+    "Closing Date": "09/14/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "KOUROSH DAWOODI",
     "Service Address": "3112 CHIPPEWA ST",
     "Zip Code": "63118",
@@ -792,6 +803,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JOHN & KATHRYN KSIR",
+    "Service Address": "2927 CORAM DR-63129",
+    "Zip Code": "63129",
+    "Locator": "34J211024",
+    "Quote ID": "553381",
+    "Quote Amount": "$-457.03",
+    "Closing Date": "09/15/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "GARRETT RYAN",
     "Service Address": "1070 NORTH PARK LN",
     "Zip Code": "63031",
@@ -809,6 +831,17 @@
     "Locator": "13G540453",
     "Quote ID": "553379",
     "Quote Amount": "$3745.36",
+    "Closing Date": "09/15/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TOPSTONE INV STL 1 LLC",
+    "Service Address": "113 CHAMBERS RD",
+    "Zip Code": "63137",
+    "Locator": "11D110233",
+    "Quote ID": "553378",
+    "Quote Amount": "$0.00",
     "Closing Date": "09/15/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -880,6 +913,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ETHEL SIMMS",
+    "Service Address": "5085 DURANT AVE",
+    "Zip Code": "63115",
+    "Locator": "57400003600",
+    "Quote ID": "553536",
+    "Quote Amount": "$15375.67",
+    "Closing Date": "09/16/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "FREDDIE JACKSON",
     "Service Address": "4515 RED BUD AVE",
     "Zip Code": "63115",
@@ -897,6 +941,28 @@
     "Locator": "56830401700",
     "Quote ID": "553534",
     "Quote Amount": "$989.13",
+    "Closing Date": "09/16/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TYRONE VAN HOESEN",
+    "Service Address": "2113 DOGTOWN WALK",
+    "Zip Code": "63139",
+    "Locator": "46230600110",
+    "Quote ID": "553533",
+    "Quote Amount": "$5389.40",
+    "Closing Date": "09/16/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LEAP PROPERTIES LLC",
+    "Service Address": "4270 ST LOUIS AVE",
+    "Zip Code": "63115",
+    "Locator": "36730000500",
+    "Quote ID": "553532",
+    "Quote Amount": "$5321.89",
     "Closing Date": "09/16/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -968,6 +1034,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "GEORGE SCHMELTER",
+    "Service Address": "1268 PEQUENO LN",
+    "Zip Code": "63026",
+    "Locator": "29Q620597",
+    "Quote ID": "553666",
+    "Quote Amount": "$2659.05",
+    "Closing Date": "09/17/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "KIMMLEY TANKINS",
     "Service Address": "4424 ROSEWOOD AVE",
     "Zip Code": "63120",
@@ -996,6 +1073,17 @@
     "Locator": "33940000500",
     "Quote ID": "553633",
     "Quote Amount": "$2844.24",
+    "Closing Date": "09/17/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MATT J WHITE",
+    "Service Address": "4454 TAFT AVE",
+    "Zip Code": "63116",
+    "Locator": "55700000600",
+    "Quote ID": "553630",
+    "Quote Amount": "$6062.76",
     "Closing Date": "09/17/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1144,17 +1232,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "ANTHONY CORTEZ",
-    "Service Address": "2776 DAWNVIEW DR",
-    "Zip Code": "63031",
-    "Locator": "06J420359",
-    "Quote ID": "553232",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/14/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "EDWARD MITCHELL",
     "Service Address": "3002 S COMPTON AVE",
     "Zip Code": "63118",
@@ -1162,83 +1239,6 @@
     "Quote ID": "553149",
     "Quote Amount": "Pending",
     "Closing Date": "09/15/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JOHN & KATHRYN KSIR",
-    "Service Address": "2927 CORAM DR-63129",
-    "Zip Code": "63129",
-    "Locator": "34J211024",
-    "Quote ID": "553381",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/15/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TOPSTONE INV STL 1 LLC",
-    "Service Address": "113 CHAMBERS RD",
-    "Zip Code": "63137",
-    "Locator": "11D110233",
-    "Quote ID": "553378",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/15/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ETHEL SIMMS",
-    "Service Address": "5085 DURANT AVE",
-    "Zip Code": "63115",
-    "Locator": "57400003600",
-    "Quote ID": "553536",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/16/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TYRONE VAN HOESEN",
-    "Service Address": "2113 DOGTOWN WALK",
-    "Zip Code": "63139",
-    "Locator": "46230600110",
-    "Quote ID": "553533",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/16/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LEAP PROPERTIES LLC",
-    "Service Address": "4270 ST LOUIS AVE",
-    "Zip Code": "63115",
-    "Locator": "36730000500",
-    "Quote ID": "553532",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/16/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GEORGE SCHMELTER",
-    "Service Address": "1268 PEQUENO LN",
-    "Zip Code": "63026",
-    "Locator": "29Q620597",
-    "Quote ID": "553666",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/17/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MATT J WHITE",
-    "Service Address": "4454 TAFT AVE",
-    "Zip Code": "63116",
-    "Locator": "55700000600",
-    "Quote ID": "553630",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/17/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
