@@ -1,27 +1,5 @@
 [
   {
-    "Seller Name": "NIASHA D WEST",
-    "Service Address": "4656 DR MARTIN LUTHER KING DR",
-    "Zip Code": "63113",
-    "Locator": "37750400400",
-    "Quote ID": "551585",
-    "Quote Amount": "$11737.74",
-    "Closing Date": "08/30/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DERON SANDERS REALTY LLC",
-    "Service Address": "2121 E ADELAIDE AVE",
-    "Zip Code": "63107",
-    "Locator": "35420002000",
-    "Quote ID": "551584",
-    "Quote Amount": "$4413.05",
-    "Closing Date": "08/30/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "JACOB CHILDERS",
     "Service Address": "657 BEATRICE AVE",
     "Zip Code": "63125",
@@ -1034,6 +1012,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "DANNY W NELSON",
+    "Service Address": "9122 ARGYLE AVE",
+    "Zip Code": "63114",
+    "Locator": "14K110816",
+    "Quote ID": "553670",
+    "Quote Amount": "$1026.13",
+    "Closing Date": "09/20/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "FONTAINE KEOGH",
+    "Service Address": "2324 BRISTOW AVE",
+    "Zip Code": "63114",
+    "Locator": "15K610403",
+    "Quote ID": "553626",
+    "Quote Amount": "$1199.24",
+    "Closing Date": "09/20/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "PATRICK PRATHER",
     "Service Address": "9431 BRISTOL AVE",
     "Zip Code": "63114",
@@ -1239,17 +1239,6 @@
     "Quote ID": "553630",
     "Quote Amount": "Pending",
     "Closing Date": "09/17/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "FONTAINE KEOGH",
-    "Service Address": "2324 BRISTOW AVE",
-    "Zip Code": "63114",
-    "Locator": "15K610403",
-    "Quote ID": "553626",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/20/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
