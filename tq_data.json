@@ -429,17 +429,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "GERALD ROBINSON",
-    "Service Address": "2703 ABERDEEN DR",
-    "Zip Code": "63033",
-    "Locator": "06H140940",
-    "Quote ID": "552475",
-    "Quote Amount": "$734.61",
-    "Closing Date": "09/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "GLASGOW GARDEN 1 LLC",
     "Service Address": "103 SHEPLEY DR",
     "Zip Code": "63137",
@@ -1133,6 +1122,94 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "QLM ENTERPRISES LLC",
+    "Service Address": "2814 LYNDHURST AVE",
+    "Zip Code": "63114",
+    "Locator": "15J441246",
+    "Quote ID": "553837",
+    "Quote Amount": "$134.98",
+    "Closing Date": "09/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TANNER GROUP LLC",
+    "Service Address": "402 S DADE AVE",
+    "Zip Code": "63135",
+    "Locator": "12J330693",
+    "Quote ID": "553835",
+    "Quote Amount": "$28.50",
+    "Closing Date": "09/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "QLM ENTERPRISES LLC",
+    "Service Address": "308 DAY DR",
+    "Zip Code": "63135",
+    "Locator": "11H610104",
+    "Quote ID": "553834",
+    "Quote Amount": "$1075.68",
+    "Closing Date": "09/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "QLM ENTERPRISES LLC",
+    "Service Address": "2124 MONKS HOLLOW DR",
+    "Zip Code": "63031",
+    "Locator": "05K311183",
+    "Quote ID": "553833",
+    "Quote Amount": "$72.75",
+    "Closing Date": "09/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "QLM ENTERPRISES LLC",
+    "Service Address": "4713 FLETCHER ST",
+    "Zip Code": "63121",
+    "Locator": "14G111993",
+    "Quote ID": "553832",
+    "Quote Amount": "$1242.89",
+    "Closing Date": "09/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "QLM ENTERPRISES LLC",
+    "Service Address": "5100 GREER AVE",
+    "Zip Code": "63115",
+    "Locator": "52300400700",
+    "Quote ID": "553831",
+    "Quote Amount": "$81.30",
+    "Closing Date": "09/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "QLM ENTERPRISES LLC",
+    "Service Address": "4682 POPE AVE",
+    "Zip Code": "63115",
+    "Locator": "35540002600",
+    "Quote ID": "553830",
+    "Quote Amount": "$2883.78",
+    "Closing Date": "09/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TANNER GROUP LLC",
+    "Service Address": "3959 GREER AVE",
+    "Zip Code": "63107",
+    "Locator": "51870003700",
+    "Quote ID": "553829",
+    "Quote Amount": "$2579.86",
+    "Closing Date": "09/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "SHIRLEY WALLER",
     "Service Address": "769 WATERFALL DR",
     "Zip Code": "63034",
@@ -1239,6 +1316,17 @@
     "Quote ID": "553149",
     "Quote Amount": "Pending",
     "Closing Date": "09/15/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "QLM ENTERPRISES LLC",
+    "Service Address": "3441 OAKDALE AVE",
+    "Zip Code": "63121",
+    "Locator": "15H320461",
+    "Quote ID": "553836",
+    "Quote Amount": "Pending",
+    "Closing Date": "09/21/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
