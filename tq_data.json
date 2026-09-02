@@ -1100,6 +1100,39 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JUDITH BEISHIR",
+    "Service Address": "465 BURNCOATE DR",
+    "Zip Code": "63129",
+    "Locator": "31H240259",
+    "Quote ID": "554002",
+    "Quote Amount": "$1131.84",
+    "Closing Date": "09/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "HOLLY BECKETT",
+    "Service Address": "9016 ROSEMARY AVE",
+    "Zip Code": "63123",
+    "Locator": "25H110409",
+    "Quote ID": "554001",
+    "Quote Amount": "$140.22",
+    "Closing Date": "09/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "VIRGINIA WARD",
+    "Service Address": "5741 GOENER AVE",
+    "Zip Code": "63116",
+    "Locator": "58750001900",
+    "Quote ID": "553999",
+    "Quote Amount": "$1616.17",
+    "Closing Date": "09/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "GRADY BROWN",
     "Service Address": "1592 SADDLEGATE CT",
     "Zip Code": "63033",
@@ -1217,6 +1250,17 @@
     "Quote ID": "553836",
     "Quote Amount": "Pending",
     "Closing Date": "09/21/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JAMES GARRET",
+    "Service Address": "5821 GOENER AVE",
+    "Zip Code": "63116",
+    "Locator": "60632201600",
+    "Quote ID": "554000",
+    "Quote Amount": "Pending",
+    "Closing Date": "09/22/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
