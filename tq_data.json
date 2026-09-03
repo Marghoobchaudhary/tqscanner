@@ -1001,6 +1001,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MARVIN MCSWAIN",
+    "Service Address": "1490 MOELLERING DR",
+    "Zip Code": "63031",
+    "Locator": "07K421075",
+    "Quote ID": "554135",
+    "Quote Amount": "$13273.29",
+    "Closing Date": "09/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "HENRY BROOKS",
     "Service Address": "2912 MAYWOOD AVE",
     "Zip Code": "63121",
@@ -1067,6 +1078,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "REVISIONS LLC",
+    "Service Address": "10112 LORD DR",
+    "Zip Code": "63136",
+    "Locator": "11F421526",
+    "Quote ID": "554129",
+    "Quote Amount": "$0.00",
+    "Closing Date": "09/23/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "BARBARA HEGER",
     "Service Address": "324 IMPERIAL LN",
     "Zip Code": "63026",
@@ -1084,6 +1106,17 @@
     "Locator": "08H620488",
     "Quote ID": "554127",
     "Quote Amount": "$833.50",
+    "Closing Date": "09/23/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "FREDERICK TATE",
+    "Service Address": "5859 COTE BRILLIANTE AVE",
+    "Zip Code": "63112",
+    "Locator": "49920005200",
+    "Quote ID": "554059",
+    "Quote Amount": "$3057.62",
     "Closing Date": "09/23/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1144,6 +1177,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MICHAEL SLOAN",
+    "Service Address": "15489 JOST ESTATES DR",
+    "Zip Code": "63034",
+    "Locator": "06H430296",
+    "Quote ID": "554133",
+    "Quote Amount": "$3737.24",
+    "Closing Date": "09/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MATTHEW & VANESSA ISAACS",
     "Service Address": "1395 ST FRANCOIS ST",
     "Zip Code": "63033",
@@ -1188,50 +1232,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "STACEY S WEHRLE",
-    "Service Address": "18 BERKLEY LN",
-    "Zip Code": "63124",
-    "Locator": "18K110225",
-    "Quote ID": "554136",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/22/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MARVIN MCSWAIN",
-    "Service Address": "1490 MOELLERING DR",
-    "Zip Code": "63031",
-    "Locator": "07K421075",
-    "Quote ID": "554135",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/22/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "REVISIONS LLC",
-    "Service Address": "10112 LORD DR",
-    "Zip Code": "63136",
-    "Locator": "11F421526",
-    "Quote ID": "554129",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/23/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "FREDERICK TATE",
-    "Service Address": "5859 COTE BRILLIANTE AVE",
-    "Zip Code": "63112",
-    "Locator": "49920005200",
-    "Quote ID": "554059",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/23/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "BOBBIE JONES",
     "Service Address": "3905 MCCARRON CT",
     "Zip Code": "63034",
@@ -1250,17 +1250,6 @@
     "Quote ID": "554132",
     "Quote Amount": "Pending",
     "Closing Date": "09/28/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MICHAEL SLOAN",
-    "Service Address": "15489 JOST ESTATES DR",
-    "Zip Code": "63034",
-    "Locator": "06H430296",
-    "Quote ID": "554133",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/29/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
