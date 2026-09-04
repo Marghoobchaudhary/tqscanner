@@ -1177,6 +1177,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "BOBBIE JONES",
+    "Service Address": "3905 MCCARRON CT",
+    "Zip Code": "63034",
+    "Locator": "04J320170",
+    "Quote ID": "554131",
+    "Quote Amount": "$7658.09",
+    "Closing Date": "09/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MATTHEW & ASHLEY HERCULES",
+    "Service Address": "2911 MERAMAR DR",
+    "Zip Code": "63129",
+    "Locator": "35J530113",
+    "Quote ID": "554132",
+    "Quote Amount": "$5577.57",
+    "Closing Date": "09/28/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MICHAEL SLOAN",
     "Service Address": "15489 JOST ESTATES DR",
     "Zip Code": "63034",
@@ -1228,28 +1250,6 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BOBBIE JONES",
-    "Service Address": "3905 MCCARRON CT",
-    "Zip Code": "63034",
-    "Locator": "04J320170",
-    "Quote ID": "554131",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/27/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MATTHEW & ASHLEY HERCULES",
-    "Service Address": "2911 MERAMAR DR",
-    "Zip Code": "63129",
-    "Locator": "35J530113",
-    "Quote ID": "554132",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/28/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
