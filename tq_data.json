@@ -1012,6 +1012,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ROBERT CHARLES MCCAULEY",
+    "Service Address": "3347 SIMS AVE",
+    "Zip Code": "63074",
+    "Locator": "13L210165",
+    "Quote ID": "554402",
+    "Quote Amount": "$2376.83",
+    "Closing Date": "09/24/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PRECISION COATS LLC",
+    "Service Address": "2020 KINGSGATE DR",
+    "Zip Code": "63138",
+    "Locator": "09F630073",
+    "Quote ID": "554401",
+    "Quote Amount": "$2237.79",
+    "Closing Date": "09/24/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "DENNIS LEIGHTON",
     "Service Address": "2810 PARKER RD",
     "Zip Code": "63033",
@@ -1051,6 +1073,17 @@
     "Locator": "08H530541",
     "Quote ID": "554397",
     "Quote Amount": "$474.67",
+    "Closing Date": "09/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MILLIONAIRE ENTERPRISE LLC",
+    "Service Address": "5463 HODIAMONT AVE",
+    "Zip Code": "63136",
+    "Locator": "14G242293",
+    "Quote ID": "554396",
+    "Quote Amount": "$1785.76",
     "Closing Date": "09/27/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1129,39 +1162,6 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ROBERT CHARLES MCCAULEY",
-    "Service Address": "3347 SIMS AVE",
-    "Zip Code": "63074",
-    "Locator": "13L210165",
-    "Quote ID": "554402",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PRECISION COATS LLC",
-    "Service Address": "2020 KINGSGATE DR",
-    "Zip Code": "63138",
-    "Locator": "09F630073",
-    "Quote ID": "554401",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MILLIONAIRE ENTERPRISE LLC",
-    "Service Address": "5463 HODIAMONT AVE",
-    "Zip Code": "63136",
-    "Locator": "14G242293",
-    "Quote ID": "554396",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/27/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
