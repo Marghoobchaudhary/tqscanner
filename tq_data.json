@@ -1,170 +1,5 @@
 [
   {
-    "Seller Name": "EDWARD & MARY LUKACINA",
-    "Service Address": "10841 ST XAVIER LN",
-    "Zip Code": "63074",
-    "Locator": "13M240417",
-    "Quote ID": "552484",
-    "Quote Amount": "$4194.39",
-    "Closing Date": "09/07/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "NGUYEN VIOLETTE",
-    "Service Address": "13 DEER CREEK WOODS",
-    "Zip Code": "63124",
-    "Locator": "20L330061",
-    "Quote ID": "552483",
-    "Quote Amount": "$260.03",
-    "Closing Date": "09/07/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LEDORIS LANE",
-    "Service Address": "1158 BELRUE AVE",
-    "Zip Code": "63130",
-    "Locator": "17H132075",
-    "Quote ID": "552482",
-    "Quote Amount": "$476.06",
-    "Closing Date": "09/07/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ALAN UHLMANSIEK",
-    "Service Address": "5137 LODE AVE",
-    "Zip Code": "63123",
-    "Locator": "25J620996",
-    "Quote ID": "552481",
-    "Quote Amount": "$194.91",
-    "Closing Date": "09/07/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TIMOTHY DRESCH",
-    "Service Address": "5416 BLOW ST",
-    "Zip Code": "63109",
-    "Locator": "53350001600",
-    "Quote ID": "552309",
-    "Quote Amount": "$911.56",
-    "Closing Date": "09/07/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CHRISTOPHER PARKER",
-    "Service Address": "9832 VENTURA DR",
-    "Zip Code": "63136",
-    "Locator": "11G310683",
-    "Quote ID": "552685",
-    "Quote Amount": "$961.82",
-    "Closing Date": "09/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "FREDERICK & DIONNE WATSON",
-    "Service Address": "9957 BOX ELDER CT",
-    "Zip Code": "63123",
-    "Locator": "27J530347",
-    "Quote ID": "552644",
-    "Quote Amount": "$582.49",
-    "Closing Date": "09/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "I AND INVESTMENT LLC",
-    "Service Address": "10025 MONARCH DR",
-    "Zip Code": "63136",
-    "Locator": "11F130824",
-    "Quote ID": "552643",
-    "Quote Amount": "$1447.76",
-    "Closing Date": "09/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "I INVESTMENT LLC",
-    "Service Address": "9627 PERCH DR",
-    "Zip Code": "63136",
-    "Locator": "12G430380",
-    "Quote ID": "552642",
-    "Quote Amount": "$929.49",
-    "Closing Date": "09/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JEAN LUC DECOSTER",
-    "Service Address": "824 CUMBERLAND DR",
-    "Zip Code": "63125",
-    "Locator": "27H330764",
-    "Quote ID": "552640",
-    "Quote Amount": "$559.62",
-    "Closing Date": "09/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PAUL RUTLEDGE",
-    "Service Address": "8475 MACKENZIE RD",
-    "Zip Code": "63123",
-    "Locator": "25J230935",
-    "Quote ID": "552639",
-    "Quote Amount": "$2629.38",
-    "Closing Date": "09/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JEFFREY EISENHOFFER",
-    "Service Address": "9824 ALLENDALE DR",
-    "Zip Code": "63123",
-    "Locator": "27J640996",
-    "Quote ID": "552638",
-    "Quote Amount": "$4230.92",
-    "Closing Date": "09/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "STEVIE & REBECCA BOWEN",
-    "Service Address": "5921 HELEN AVE-63134",
-    "Zip Code": "63134",
-    "Locator": "12K641398",
-    "Quote ID": "552637",
-    "Quote Amount": "$2643.09",
-    "Closing Date": "09/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KENNETH TATE",
-    "Service Address": "835 HARLAN AVE",
-    "Zip Code": "63147",
-    "Locator": "63480002900",
-    "Quote ID": "552636",
-    "Quote Amount": "$0.00",
-    "Closing Date": "09/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ERIN RANDALL",
-    "Service Address": "2218 ALBERTA ST",
-    "Zip Code": "63118",
-    "Locator": "25630000700",
-    "Quote ID": "552635",
-    "Quote Amount": "$3012.00",
-    "Closing Date": "09/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "GLASGOW GARDEN 1 LLC",
     "Service Address": "103 SHEPLEY DR",
     "Zip Code": "63137",
@@ -1195,6 +1030,17 @@
     "Quote ID": "553637",
     "Quote Amount": "$6815.23",
     "Closing Date": "09/26/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SAMUEL HAIGHT",
+    "Service Address": "4229 38TH ST",
+    "Zip Code": "63116",
+    "Locator": "26420002300",
+    "Quote ID": "554410",
+    "Quote Amount": "$942.70",
+    "Closing Date": "09/27/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
