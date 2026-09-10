@@ -1012,6 +1012,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ERIC LATHAM",
+    "Service Address": "3814 MELSTONE CT",
+    "Zip Code": "63034",
+    "Locator": "04J230343",
+    "Quote ID": "554758",
+    "Quote Amount": "$1251.25",
+    "Closing Date": "09/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "BETTY S HILL",
     "Service Address": "5042 ALABAMA AVE",
     "Zip Code": "63111",
@@ -1074,6 +1085,39 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PATRICK JOHNSON",
+    "Service Address": "7020 CLAREMORE DR",
+    "Zip Code": "63121",
+    "Locator": "15H230061",
+    "Quote ID": "554757",
+    "Quote Amount": "Pending",
+    "Closing Date": "09/29/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TOMMIE L GILKEY",
+    "Service Address": "6145 SHERRY AVE",
+    "Zip Code": "63136",
+    "Locator": "48870003500",
+    "Quote ID": "554751",
+    "Quote Amount": "Pending",
+    "Closing Date": "09/29/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BRIAN & STACEY GELDMACHER",
+    "Service Address": "5844 BRIDLEFORD LN",
+    "Zip Code": "63129",
+    "Locator": "32K440205",
+    "Quote ID": "554759",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/09/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
