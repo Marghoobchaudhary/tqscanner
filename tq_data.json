@@ -957,6 +957,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "PATRICK JOHNSON",
+    "Service Address": "7020 CLAREMORE DR",
+    "Zip Code": "63121",
+    "Locator": "15H230061",
+    "Quote ID": "554757",
+    "Quote Amount": "$2046.61",
+    "Closing Date": "09/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "BETTY S HILL",
     "Service Address": "5042 ALABAMA AVE",
     "Zip Code": "63111",
@@ -1118,17 +1129,6 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PATRICK JOHNSON",
-    "Service Address": "7020 CLAREMORE DR",
-    "Zip Code": "63121",
-    "Locator": "15H230061",
-    "Quote ID": "554757",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/29/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
