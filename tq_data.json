@@ -979,6 +979,39 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "CARL ZEY",
+    "Service Address": "804 SHERWICK TER",
+    "Zip Code": "63021",
+    "Locator": "24Q530141",
+    "Quote ID": "554885",
+    "Quote Amount": "$270.00",
+    "Closing Date": "09/30/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JOANN CLAY",
+    "Service Address": "78 BELLERIVE ACRES ST",
+    "Zip Code": "63121",
+    "Locator": "14J240781",
+    "Quote ID": "554884",
+    "Quote Amount": "$284.20",
+    "Closing Date": "09/30/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "STEPHEN & LAUREN LESHE",
+    "Service Address": "1002 POLO DOWNS DR",
+    "Zip Code": "63017",
+    "Locator": "20Q120267",
+    "Quote ID": "554883",
+    "Quote Amount": "$1031.26",
+    "Closing Date": "09/30/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MATTHEW & VANESSA ISAACS",
     "Service Address": "1395 ST FRANCOIS ST",
     "Zip Code": "63033",
@@ -1041,6 +1074,50 @@
     "Quote ID": "554751",
     "Quote Amount": "Pending",
     "Closing Date": "09/29/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TOPSTONE INV STL 1 LLC",
+    "Service Address": "5223 BEACON AVE",
+    "Zip Code": "63120",
+    "Locator": "55310004000",
+    "Quote ID": "554888",
+    "Quote Amount": "Pending",
+    "Closing Date": "09/30/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ANTOINE MEEKS",
+    "Service Address": "2105 PALM ST",
+    "Zip Code": "63107",
+    "Locator": "11590001000",
+    "Quote ID": "554886",
+    "Quote Amount": "Pending",
+    "Closing Date": "09/30/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MARLIN THOMPSON",
+    "Service Address": "3811 COLONIAL AVE",
+    "Zip Code": "63121",
+    "Locator": "15H630087",
+    "Quote ID": "554882",
+    "Quote Amount": "Pending",
+    "Closing Date": "09/30/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CURTIS WASHINGTON",
+    "Service Address": "2301 HALLWOOD DR",
+    "Zip Code": "63136",
+    "Locator": "10G341301",
+    "Quote ID": "554881",
+    "Quote Amount": "Pending",
+    "Closing Date": "09/30/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
