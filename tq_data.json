@@ -913,6 +913,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "CS GATEWAY LLC",
+    "Service Address": "1 S MEMORIAL DR",
+    "Zip Code": "63102",
+    "Locator": "00840000300",
+    "Quote ID": "555095",
+    "Quote Amount": "$915.32",
+    "Closing Date": "09/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "NEWSTEAD/MCPHERSON LLC",
     "Service Address": "342 N NEWSTEAD AVE",
     "Zip Code": "63108",
@@ -987,7 +998,7 @@
     "Quote Amount": "$131.01",
     "Closing Date": "09/29/2026",
     "Stage": "Pending Close",
-    "Submitted By": ""
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "ERIC LATHAM",
@@ -1089,6 +1100,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "BRAINCHILD HOLDINGS LLC",
+    "Service Address": "2838 PENNSYLVANIA AVE",
+    "Zip Code": "63118",
+    "Locator": "14270000750",
+    "Quote ID": "554893",
+    "Quote Amount": "$0.00",
+    "Closing Date": "09/30/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "CHRISTOPHER CLEMONS",
     "Service Address": "5032 ALASKA AVE",
     "Zip Code": "63111",
@@ -1133,6 +1155,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "TOPSTONE INV STL 1 LLC",
+    "Service Address": "5223 BEACON AVE",
+    "Zip Code": "63120",
+    "Locator": "55310004000",
+    "Quote ID": "554888",
+    "Quote Amount": "$0.00",
+    "Closing Date": "09/30/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ANTOINE MEEKS",
+    "Service Address": "2105 PALM ST",
+    "Zip Code": "63107",
+    "Locator": "11590001000",
+    "Quote ID": "554886",
+    "Quote Amount": "$0.00",
+    "Closing Date": "09/30/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "CARL ZEY",
     "Service Address": "804 SHERWICK TER",
     "Zip Code": "63021",
@@ -1161,6 +1205,17 @@
     "Locator": "20Q120267",
     "Quote ID": "554883",
     "Quote Amount": "$1031.26",
+    "Closing Date": "09/30/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MARLIN THOMPSON",
+    "Service Address": "3811 COLONIAL AVE",
+    "Zip Code": "63121",
+    "Locator": "15H630087",
+    "Quote ID": "554882",
+    "Quote Amount": "$3660.76",
     "Closing Date": "09/30/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1217,61 +1272,6 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BRAINCHILD HOLDINGS LLC",
-    "Service Address": "2838 PENNSYLVANIA AVE",
-    "Zip Code": "63118",
-    "Locator": "14270000750",
-    "Quote ID": "554893",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/30/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TOPSTONE INV STL 1 LLC",
-    "Service Address": "5223 BEACON AVE",
-    "Zip Code": "63120",
-    "Locator": "55310004000",
-    "Quote ID": "554888",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/30/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ANTOINE MEEKS",
-    "Service Address": "2105 PALM ST",
-    "Zip Code": "63107",
-    "Locator": "11590001000",
-    "Quote ID": "554886",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/30/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MARLIN THOMPSON",
-    "Service Address": "3811 COLONIAL AVE",
-    "Zip Code": "63121",
-    "Locator": "15H630087",
-    "Quote ID": "554882",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/30/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CURTIS WASHINGTON",
-    "Service Address": "2301 HALLWOOD DR",
-    "Zip Code": "63136",
-    "Locator": "10G341301",
-    "Quote ID": "554881",
-    "Quote Amount": "Pending",
-    "Closing Date": "09/30/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
