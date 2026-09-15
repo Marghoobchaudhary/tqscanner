@@ -1221,6 +1221,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "BHPH HOMES LLC",
+    "Service Address": "2728 PASTEUR AVE",
+    "Zip Code": "63114",
+    "Locator": "14L340304",
+    "Quote ID": "555200",
+    "Quote Amount": "$617.03",
+    "Closing Date": "10/01/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "IDELLA WEATHERSBY",
+    "Service Address": "4830 CHALFONT RD",
+    "Zip Code": "63033",
+    "Locator": "08G220715",
+    "Quote ID": "555025",
+    "Quote Amount": "$1877.13",
+    "Closing Date": "10/01/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MARIAN HARRIS",
     "Service Address": "11388 FOX HALL LN",
     "Zip Code": "63136",
@@ -1228,6 +1250,17 @@
     "Quote ID": "555024",
     "Quote Amount": "$2551.55",
     "Closing Date": "10/01/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "QLM ENTERPRISES LLC",
+    "Service Address": "353 GOETZ AVE-63125",
+    "Zip Code": "63125",
+    "Locator": "27G411512",
+    "Quote ID": "555198",
+    "Quote Amount": "$143.81",
+    "Closing Date": "10/02/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1276,13 +1309,13 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "IDELLA WEATHERSBY",
-    "Service Address": "4830 CHALFONT RD",
-    "Zip Code": "63033",
-    "Locator": "08G220715",
-    "Quote ID": "555025",
+    "Seller Name": "RASHAWN TROTTER",
+    "Service Address": "720 ERSKINE AVE",
+    "Zip Code": "63125",
+    "Locator": "26G111727",
+    "Quote ID": "555199",
     "Quote Amount": "Pending",
-    "Closing Date": "10/01/2026",
+    "Closing Date": "10/02/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
