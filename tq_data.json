@@ -1100,12 +1100,45 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "SHAWN HARRELL",
+    "Service Address": "1235 CLARA AVE",
+    "Zip Code": "63112",
+    "Locator": "38150802100",
+    "Quote ID": "555350",
+    "Quote Amount": "$4662.11",
+    "Closing Date": "10/04/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WILLIE A FOOTE",
+    "Service Address": "1226 GRUNER PL",
+    "Zip Code": "63133",
+    "Locator": "17H430744",
+    "Quote ID": "555385",
+    "Quote Amount": "$1211.40",
+    "Closing Date": "10/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "SUNG AHN",
     "Service Address": "14001 EAGLE MANOR CT",
     "Zip Code": "63017",
     "Locator": "16R340427",
     "Quote ID": "555355",
     "Quote Amount": "$233.97",
+    "Closing Date": "10/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CAROLYN TOWLES",
+    "Service Address": "1739 GRAFTON DR",
+    "Zip Code": "63136",
+    "Locator": "10G530042",
+    "Quote ID": "555354",
+    "Quote Amount": "$1545.37",
     "Closing Date": "10/05/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1199,22 +1232,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "SHAWN HARRELL",
-    "Service Address": "1235 CLARA AVE",
-    "Zip Code": "63112",
-    "Locator": "38150802100",
-    "Quote ID": "555350",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/04/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CAROLYN TOWLES",
-    "Service Address": "1739 GRAFTON DR",
+    "Seller Name": "QUIANA NEELY",
+    "Service Address": "10229 ROYAL DR-63136",
     "Zip Code": "63136",
-    "Locator": "10G530042",
-    "Quote ID": "555354",
+    "Locator": "11F530866",
+    "Quote ID": "555387",
     "Quote Amount": "Pending",
     "Closing Date": "10/05/2026",
     "Stage": "In Progress",
