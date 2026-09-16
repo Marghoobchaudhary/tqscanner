@@ -616,6 +616,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "COLLEEN WILKINS",
+    "Service Address": "3327 DIX AVE",
+    "Zip Code": "63114",
+    "Locator": "14L641201",
+    "Quote ID": "555353",
+    "Quote Amount": "$1143.52",
+    "Closing Date": "09/28/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "DEWAYNE CRANNICK",
     "Service Address": "12364 SANTA MARIA DR",
     "Zip Code": "63138",
@@ -987,7 +998,7 @@
     "Quote Amount": "$0.00",
     "Closing Date": "09/30/2026",
     "Stage": "Pending Close",
-    "Submitted By": ""
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "CARL ZEY",
@@ -1078,6 +1089,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "TRAVIS M WATSON YUDORA &",
+    "Service Address": "5087 CATES AVE",
+    "Zip Code": "63108",
+    "Locator": "48400005350",
+    "Quote ID": "555351",
+    "Quote Amount": "$2957.42",
+    "Closing Date": "10/04/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SUNG AHN",
+    "Service Address": "14001 EAGLE MANOR CT",
+    "Zip Code": "63017",
+    "Locator": "16R340427",
+    "Quote ID": "555355",
+    "Quote Amount": "$233.97",
+    "Closing Date": "10/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ROBERT GIPSON",
     "Service Address": "12172 JERRIES LN",
     "Zip Code": "63033",
@@ -1151,6 +1184,39 @@
     "Quote ID": "555199",
     "Quote Amount": "Pending",
     "Closing Date": "10/02/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JAMES SALLIS",
+    "Service Address": "3911 EILER ST-63116",
+    "Zip Code": "63116",
+    "Locator": "57920002300",
+    "Quote ID": "555352",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/04/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SHAWN HARRELL",
+    "Service Address": "1235 CLARA AVE",
+    "Zip Code": "63112",
+    "Locator": "38150802100",
+    "Quote ID": "555350",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/04/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CAROLYN TOWLES",
+    "Service Address": "1739 GRAFTON DR",
+    "Zip Code": "63136",
+    "Locator": "10G530042",
+    "Quote ID": "555354",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/05/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
