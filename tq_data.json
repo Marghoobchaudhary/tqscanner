@@ -66,17 +66,6 @@
     "Submitted By": ""
   },
   {
-    "Seller Name": "LEAP PROPERTIES LLC",
-    "Service Address": "4270 ST LOUIS AVE",
-    "Zip Code": "63115",
-    "Locator": "36730000500",
-    "Quote ID": "553532",
-    "Quote Amount": "$5321.99",
-    "Closing Date": "09/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "TONY ROBINSON",
     "Service Address": "10206 LILAC AVE-63137",
     "Zip Code": "63137",
@@ -998,7 +987,7 @@
     "Quote Amount": "$270.00",
     "Closing Date": "09/30/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "JOANN CLAY",
@@ -1129,6 +1118,50 @@
     "Quote ID": "555354",
     "Quote Amount": "$1545.37",
     "Closing Date": "10/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "NICHOLE DEMPSTER",
+    "Service Address": "421 BLUFF MEADOW DR",
+    "Zip Code": "63021",
+    "Locator": "24T440274",
+    "Quote ID": "555494",
+    "Quote Amount": "$2853.20",
+    "Closing Date": "10/06/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GEORGE & MELENA CHISOLM",
+    "Service Address": "7624 LYNN AVE",
+    "Zip Code": "63130",
+    "Locator": "16K320499",
+    "Quote ID": "555493",
+    "Quote Amount": "$2509.49",
+    "Closing Date": "10/06/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PALACIOS ENTERPRISE LLC",
+    "Service Address": "7355 BALSON AVE",
+    "Zip Code": "63130",
+    "Locator": "17J121005",
+    "Quote ID": "555492",
+    "Quote Amount": "$1408.30",
+    "Closing Date": "10/06/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WATERMAN CONDOMINIUM ASSOC",
+    "Service Address": "5507 WATERMAN BLVD",
+    "Zip Code": "63112",
+    "Locator": "38751806010",
+    "Quote ID": "555491",
+    "Quote Amount": "$219.67",
+    "Closing Date": "10/06/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
