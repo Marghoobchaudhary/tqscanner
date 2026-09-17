@@ -1,192 +1,5 @@
 [
   {
-    "Seller Name": "JEREMEY J HILL",
-    "Service Address": "7111 GROVELAND DR",
-    "Zip Code": "63121",
-    "Locator": "14H340767",
-    "Quote ID": "553189",
-    "Quote Amount": "$199.91",
-    "Closing Date": "09/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "KEY PROPERTIES & INVESTMENTS",
-    "Service Address": "3545 NEBRASKA AVE",
-    "Zip Code": "63118",
-    "Locator": "15750003200",
-    "Quote ID": "553537",
-    "Quote Amount": "$889.34",
-    "Closing Date": "09/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "ETHEL SIMMS",
-    "Service Address": "5085 DURANT AVE",
-    "Zip Code": "63115",
-    "Locator": "57400003600",
-    "Quote ID": "553536",
-    "Quote Amount": "$15375.67",
-    "Closing Date": "09/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "FREDDIE JACKSON",
-    "Service Address": "4515 RED BUD AVE",
-    "Zip Code": "63115",
-    "Locator": "35510004100",
-    "Quote ID": "553535",
-    "Quote Amount": "$3386.36",
-    "Closing Date": "09/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "DYLAN BRACKEN",
-    "Service Address": "3747 NEOSHO ST",
-    "Zip Code": "63116",
-    "Locator": "56830401700",
-    "Quote ID": "553534",
-    "Quote Amount": "$989.13",
-    "Closing Date": "09/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "TYRONE VAN HOESEN",
-    "Service Address": "2113 DOGTOWN WALK",
-    "Zip Code": "63139",
-    "Locator": "46230600110",
-    "Quote ID": "553533",
-    "Quote Amount": "$5389.40",
-    "Closing Date": "09/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "TONY ROBINSON",
-    "Service Address": "10206 LILAC AVE-63137",
-    "Zip Code": "63137",
-    "Locator": "11E520204",
-    "Quote ID": "553529",
-    "Quote Amount": "$3055.59",
-    "Closing Date": "09/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "THOMAS H WALDSCHMIDT",
-    "Service Address": "748 EDWIN AVE-63122",
-    "Zip Code": "63122",
-    "Locator": "23L411420",
-    "Quote ID": "553528",
-    "Quote Amount": "$2503.81",
-    "Closing Date": "09/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "EDDIE HAWTHORNE",
-    "Service Address": "8336 OSBORN DR",
-    "Zip Code": "63136",
-    "Locator": "13G420470",
-    "Quote ID": "553527",
-    "Quote Amount": "$916.43",
-    "Closing Date": "09/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "JONATHAN VAN HECKE",
-    "Service Address": "521 WINSTON DR",
-    "Zip Code": "63125",
-    "Locator": "28H311430",
-    "Quote ID": "553526",
-    "Quote Amount": "$889.07",
-    "Closing Date": "09/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "QUINITA J BRUCE",
-    "Service Address": "1010 HENTSCHEL PL",
-    "Zip Code": "63135",
-    "Locator": "10J310431",
-    "Quote ID": "553525",
-    "Quote Amount": "$3069.36",
-    "Closing Date": "09/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "LAUREN TWENHAFEL",
-    "Service Address": "5054 PARKER AVE",
-    "Zip Code": "63139",
-    "Locator": "60760000100",
-    "Quote ID": "552476",
-    "Quote Amount": "$3183.18",
-    "Closing Date": "09/16/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "GEORGE SCHMELTER",
-    "Service Address": "1268 PEQUENO LN",
-    "Zip Code": "63026",
-    "Locator": "29Q620597",
-    "Quote ID": "553666",
-    "Quote Amount": "$2659.05",
-    "Closing Date": "09/17/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "KIMMLEY TANKINS",
-    "Service Address": "4424 ROSEWOOD AVE",
-    "Zip Code": "63120",
-    "Locator": "15G511552",
-    "Quote ID": "553665",
-    "Quote Amount": "$311.75",
-    "Closing Date": "09/17/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "PACS LLC",
-    "Service Address": "8516 CHURCH RD",
-    "Zip Code": "63147",
-    "Locator": "52090003500",
-    "Quote ID": "553635",
-    "Quote Amount": "$1552.40",
-    "Closing Date": "09/17/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "MATT J WHITE",
-    "Service Address": "4454 TAFT AVE",
-    "Zip Code": "63116",
-    "Locator": "55700000600",
-    "Quote ID": "553630",
-    "Quote Amount": "$6062.76",
-    "Closing Date": "09/17/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "SHERRY JONES",
-    "Service Address": "15659 DEBRIDGE WAY",
-    "Zip Code": "63034",
-    "Locator": "04H220183",
-    "Quote ID": "553625",
-    "Quote Amount": "$240.76",
-    "Closing Date": "09/17/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "PARKER GILLILAND",
     "Service Address": "5473 ENRIGHT AVE",
     "Zip Code": "63112",
@@ -998,7 +811,7 @@
     "Quote Amount": "$284.20",
     "Closing Date": "09/30/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "STEPHEN & LAUREN LESHE",
@@ -1009,7 +822,7 @@
     "Quote Amount": "$1031.26",
     "Closing Date": "09/30/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "MARLIN THOMPSON",
@@ -1020,7 +833,7 @@
     "Quote Amount": "$3660.76",
     "Closing Date": "09/30/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "BHPH HOMES LLC",
@@ -1031,7 +844,7 @@
     "Quote Amount": "$617.03",
     "Closing Date": "10/01/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "IDELLA WEATHERSBY",
@@ -1042,7 +855,7 @@
     "Quote Amount": "$1877.13",
     "Closing Date": "10/01/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "MARIAN HARRIS",
@@ -1053,7 +866,18 @@
     "Quote Amount": "$2551.55",
     "Closing Date": "10/01/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "RASHAWN TROTTER",
+    "Service Address": "720 ERSKINE AVE",
+    "Zip Code": "63125",
+    "Locator": "26G111727",
+    "Quote ID": "555199",
+    "Quote Amount": "$0.00",
+    "Closing Date": "10/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
   },
   {
     "Seller Name": "QLM ENTERPRISES LLC",
@@ -1064,7 +888,18 @@
     "Quote Amount": "$143.81",
     "Closing Date": "10/02/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "JAMES SALLIS",
+    "Service Address": "3911 EILER ST-63116",
+    "Zip Code": "63116",
+    "Locator": "57920002300",
+    "Quote ID": "555352",
+    "Quote Amount": "$5092.71",
+    "Closing Date": "10/04/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
   },
   {
     "Seller Name": "TRAVIS M WATSON YUDORA &",
@@ -1075,7 +910,7 @@
     "Quote Amount": "$2957.42",
     "Closing Date": "10/04/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "SHAWN HARRELL",
@@ -1086,7 +921,18 @@
     "Quote Amount": "$4662.11",
     "Closing Date": "10/04/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "QUIANA NEELY",
+    "Service Address": "10229 ROYAL DR-63136",
+    "Zip Code": "63136",
+    "Locator": "11F530866",
+    "Quote ID": "555387",
+    "Quote Amount": "$13229.96",
+    "Closing Date": "10/05/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
   },
   {
     "Seller Name": "WILLIE A FOOTE",
@@ -1097,7 +943,7 @@
     "Quote Amount": "$1211.40",
     "Closing Date": "10/05/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "SUNG AHN",
@@ -1108,7 +954,7 @@
     "Quote Amount": "$233.97",
     "Closing Date": "10/05/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "CAROLYN TOWLES",
@@ -1119,7 +965,7 @@
     "Quote Amount": "$1545.37",
     "Closing Date": "10/05/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "NICHOLE DEMPSTER",
@@ -1130,7 +976,7 @@
     "Quote Amount": "$2853.20",
     "Closing Date": "10/06/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "GEORGE & MELENA CHISOLM",
@@ -1141,7 +987,7 @@
     "Quote Amount": "$2509.49",
     "Closing Date": "10/06/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "PALACIOS ENTERPRISE LLC",
@@ -1232,35 +1078,46 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "RASHAWN TROTTER",
-    "Service Address": "720 ERSKINE AVE",
-    "Zip Code": "63125",
-    "Locator": "26G111727",
-    "Quote ID": "555199",
+    "Seller Name": "ROBERT DUNSE II",
+    "Service Address": "2711 WYOMING ST",
+    "Zip Code": "63118",
+    "Locator": "17590003650",
+    "Quote ID": "555645",
     "Quote Amount": "Pending",
-    "Closing Date": "10/02/2026",
+    "Closing Date": "10/07/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "JAMES SALLIS",
-    "Service Address": "3911 EILER ST-63116",
-    "Zip Code": "63116",
-    "Locator": "57920002300",
-    "Quote ID": "555352",
+    "Seller Name": "COTINA NELSON",
+    "Service Address": "1312 S 13TH ST",
+    "Zip Code": "63104",
+    "Locator": "04750001640",
+    "Quote ID": "555635",
     "Quote Amount": "Pending",
-    "Closing Date": "10/04/2026",
+    "Closing Date": "10/07/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "QUIANA NEELY",
-    "Service Address": "10229 ROYAL DR-63136",
-    "Zip Code": "63136",
-    "Locator": "11F530866",
-    "Quote ID": "555387",
+    "Seller Name": "BRIDGETTE M STRAWBRIDGE",
+    "Service Address": "1144 HOWELL ST",
+    "Zip Code": "63147",
+    "Locator": "54330001000",
+    "Quote ID": "555613",
     "Quote Amount": "Pending",
-    "Closing Date": "10/05/2026",
+    "Closing Date": "10/07/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "NICOLE JOHNSON",
+    "Service Address": "306 LITHIA AVE",
+    "Zip Code": "63119",
+    "Locator": "22L621530",
+    "Quote ID": "555604",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/07/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
