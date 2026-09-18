@@ -1023,6 +1023,61 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "RACHEL SALAMONE",
+    "Service Address": "158 E DONALDSON DR",
+    "Zip Code": "63129",
+    "Locator": "30H240113",
+    "Quote ID": "555699",
+    "Quote Amount": "$95.07",
+    "Closing Date": "10/07/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JAMIE D VOTAW",
+    "Service Address": "8909 W PENDLETON AVE",
+    "Zip Code": "63144",
+    "Locator": "21K120848",
+    "Quote ID": "555685",
+    "Quote Amount": "$227.22",
+    "Closing Date": "10/07/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KATHLEEN MCNEAL",
+    "Service Address": "15310 GOLDEN RAIN DR",
+    "Zip Code": "63017",
+    "Locator": "20S510286",
+    "Quote ID": "555654",
+    "Quote Amount": "$1171.58",
+    "Closing Date": "10/07/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ROBERT DUNSE II",
+    "Service Address": "2711 WYOMING ST",
+    "Zip Code": "63118",
+    "Locator": "17590003650",
+    "Quote ID": "555645",
+    "Quote Amount": "$3076.44",
+    "Closing Date": "10/07/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LAVELL CARADINE JR",
+    "Service Address": "5125 DELCASTLE DR",
+    "Zip Code": "63034",
+    "Locator": "06G240911",
+    "Quote ID": "555704",
+    "Quote Amount": "$4536.99",
+    "Closing Date": "10/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "BRIAN & STACEY GELDMACHER",
     "Service Address": "5844 BRIDLEFORD LN",
     "Zip Code": "63129",
@@ -1078,11 +1133,55 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "ROBERT DUNSE II",
-    "Service Address": "2711 WYOMING ST",
-    "Zip Code": "63118",
-    "Locator": "17590003650",
-    "Quote ID": "555645",
+    "Seller Name": "RACHEL & GEOFFERY MUSGRAVE",
+    "Service Address": "4708 MATTIS RD",
+    "Zip Code": "63128",
+    "Locator": "29L320676",
+    "Quote ID": "555708",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/07/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "EIKERENKOETTER",
+    "Service Address": "3030 WELLINGTON DR",
+    "Zip Code": "63033",
+    "Locator": "06J320204",
+    "Quote ID": "555701",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/07/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DOROTHY L FULLER",
+    "Service Address": "12118 BECKFORD ESTATES DR",
+    "Zip Code": "63043",
+    "Locator": "12O140329",
+    "Quote ID": "555697",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/07/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "AFTON N DETJEN",
+    "Service Address": "7408 WAYNE AVE",
+    "Zip Code": "63130",
+    "Locator": "16J120841",
+    "Quote ID": "555694",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/07/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CANDICE L GILLESPIE",
+    "Service Address": "451 WILDWOOD PKY",
+    "Zip Code": "63011",
+    "Locator": "21R510071",
+    "Quote ID": "555673",
     "Quote Amount": "Pending",
     "Closing Date": "10/07/2026",
     "Stage": "In Progress",
@@ -1118,6 +1217,50 @@
     "Quote ID": "555604",
     "Quote Amount": "Pending",
     "Closing Date": "10/07/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DANIEL AND DIANA WINTRODE",
+    "Service Address": "880 MARK TWAIN DR",
+    "Zip Code": "63031",
+    "Locator": "07K621219",
+    "Quote ID": "555703",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/08/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DARA JEAN DAUGHERTY",
+    "Service Address": "8626 ROSALIE AVE",
+    "Zip Code": "63144",
+    "Locator": "21K630523",
+    "Quote ID": "555707",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/13/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GAIL A AMAN",
+    "Service Address": "9093 BOBB AVE",
+    "Zip Code": "63114",
+    "Locator": "13K141086",
+    "Quote ID": "555706",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/14/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "RAFAEL GUTHRIE",
+    "Service Address": "560 COACHWAY LN",
+    "Zip Code": "63042",
+    "Locator": "08K130291",
+    "Quote ID": "555705",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/15/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
