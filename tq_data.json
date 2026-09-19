@@ -1166,6 +1166,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "DELORES A SCHMID",
+    "Service Address": "1029 SANDERS DR",
+    "Zip Code": "63126",
+    "Locator": "24L211254",
+    "Quote ID": "555818",
+    "Quote Amount": "$143.35",
+    "Closing Date": "10/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CHRISTOPHER SOUZA",
+    "Service Address": "10810 HOBDAY AVE",
+    "Zip Code": "63074",
+    "Locator": "14M540077",
+    "Quote ID": "555817",
+    "Quote Amount": "$651.30",
+    "Closing Date": "10/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "LAVELL CARADINE JR",
     "Service Address": "5125 DELCASTLE DR",
     "Zip Code": "63034",
@@ -1327,6 +1349,17 @@
     "Quote ID": "555604",
     "Quote Amount": "Pending",
     "Closing Date": "10/07/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "APOGEE REALTY SOLUTIONS LLC",
+    "Service Address": "6053 HANCOCK AVE",
+    "Zip Code": "63134",
+    "Locator": "11J111624",
+    "Quote ID": "555819",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/08/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
