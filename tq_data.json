@@ -1,49 +1,5 @@
 [
   {
-    "Seller Name": "PARKER GILLILAND",
-    "Service Address": "5473 ENRIGHT AVE",
-    "Zip Code": "63112",
-    "Locator": "54840002900",
-    "Quote ID": "553864",
-    "Quote Amount": "$2847.00",
-    "Closing Date": "09/20/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "DANNY W NELSON",
-    "Service Address": "9122 ARGYLE AVE",
-    "Zip Code": "63114",
-    "Locator": "14K110816",
-    "Quote ID": "553670",
-    "Quote Amount": "$1026.13",
-    "Closing Date": "09/20/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "FONTAINE KEOGH",
-    "Service Address": "2324 BRISTOW AVE",
-    "Zip Code": "63114",
-    "Locator": "15K610403",
-    "Quote ID": "553626",
-    "Quote Amount": "$1199.24",
-    "Closing Date": "09/20/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "PATRICK PRATHER",
-    "Service Address": "9431 BRISTOL AVE",
-    "Zip Code": "63114",
-    "Locator": "14L620664",
-    "Quote ID": "552925",
-    "Quote Amount": "$759.03",
-    "Closing Date": "09/20/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "RICKEY WILLIAMS",
     "Service Address": "11135 OLD HALLS FERRY RD",
     "Zip Code": "63136",
@@ -998,7 +954,7 @@
     "Quote Amount": "$2853.20",
     "Closing Date": "10/06/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "GEORGE & MELENA CHISOLM",
@@ -1009,7 +965,7 @@
     "Quote Amount": "$2509.49",
     "Closing Date": "10/06/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "PALACIOS ENTERPRISE LLC",
@@ -1020,7 +976,7 @@
     "Quote Amount": "$1408.30",
     "Closing Date": "10/06/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "WATERMAN CONDOMINIUM ASSOC",
@@ -1031,7 +987,7 @@
     "Quote Amount": "$219.67",
     "Closing Date": "10/06/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "ROBERT GIPSON",
@@ -1217,6 +1173,17 @@
     "Quote ID": "554759",
     "Quote Amount": "$6191.16",
     "Closing Date": "10/09/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KIMBERLY LEFFERT",
+    "Service Address": "210 STRAIGHTOAK CT",
+    "Zip Code": "63021",
+    "Locator": "24R120080",
+    "Quote ID": "555821",
+    "Quote Amount": "$1149.10",
+    "Closing Date": "10/12/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
