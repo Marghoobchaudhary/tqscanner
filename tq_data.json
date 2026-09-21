@@ -748,17 +748,6 @@
     "Submitted By": ""
   },
   {
-    "Seller Name": "CARL ZEY",
-    "Service Address": "804 SHERWICK TER",
-    "Zip Code": "63021",
-    "Locator": "24Q530141",
-    "Quote ID": "554885",
-    "Quote Amount": "$270.00",
-    "Closing Date": "09/30/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "JOANN CLAY",
     "Service Address": "78 BELLERIVE ACRES ST",
     "Zip Code": "63121",
@@ -930,6 +919,17 @@
     "Locator": "41510000150",
     "Quote ID": "555761",
     "Quote Amount": "$89.55",
+    "Closing Date": "10/06/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "MISTY WILLIAMS",
+    "Service Address": "4324 GRACE AVE",
+    "Zip Code": "63116",
+    "Locator": "26870000200",
+    "Quote ID": "555760",
+    "Quote Amount": "$9434.57",
     "Closing Date": "10/06/2026",
     "Stage": "Pending Close",
     "Submitted By": ""
@@ -1122,6 +1122,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "NICOLE JOHNSON",
+    "Service Address": "306 LITHIA AVE",
+    "Zip Code": "63119",
+    "Locator": "22L621530",
+    "Quote ID": "555604",
+    "Quote Amount": "$6280.49",
+    "Closing Date": "10/07/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "APOGEE REALTY SOLUTIONS LLC",
+    "Service Address": "6053 HANCOCK AVE",
+    "Zip Code": "63134",
+    "Locator": "11J111624",
+    "Quote ID": "555819",
+    "Quote Amount": "$1943.96",
+    "Closing Date": "10/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "DELORES A SCHMID",
     "Service Address": "1029 SANDERS DR",
     "Zip Code": "63126",
@@ -1272,61 +1294,6 @@
     "Quote ID": "555764",
     "Quote Amount": "Pending",
     "Closing Date": "10/06/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MISTY WILLIAMS",
-    "Service Address": "4324 GRACE AVE",
-    "Zip Code": "63116",
-    "Locator": "26870000200",
-    "Quote ID": "555760",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/06/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LAWRENCE & FRANCES TAYLOR",
-    "Service Address": "6124 GARESCHE AVE",
-    "Zip Code": "63136",
-    "Locator": "48860001100",
-    "Quote ID": "555751",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/06/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "AFTON N DETJEN",
-    "Service Address": "7408 WAYNE AVE",
-    "Zip Code": "63130",
-    "Locator": "16J120841",
-    "Quote ID": "555694",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/07/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "NICOLE JOHNSON",
-    "Service Address": "306 LITHIA AVE",
-    "Zip Code": "63119",
-    "Locator": "22L621530",
-    "Quote ID": "555604",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/07/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "APOGEE REALTY SOLUTIONS LLC",
-    "Service Address": "6053 HANCOCK AVE",
-    "Zip Code": "63134",
-    "Locator": "11J111624",
-    "Quote ID": "555819",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/08/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
