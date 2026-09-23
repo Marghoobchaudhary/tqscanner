@@ -957,12 +957,34 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "LINDA GIBILTERRA",
+    "Service Address": "285 ST REGIS LN",
+    "Zip Code": "63031",
+    "Locator": "09J540658",
+    "Quote ID": "556145",
+    "Quote Amount": "$1155.52",
+    "Closing Date": "10/12/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "JAMES TYLER STANLEY",
     "Service Address": "9406 CRESTWOOD MANOR DR",
     "Zip Code": "63126",
     "Locator": "26L610150",
     "Quote ID": "556144",
     "Quote Amount": "$240.57",
+    "Closing Date": "10/12/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "PATRICIA A TAYLOR",
+    "Service Address": "9870 VICKIE PL",
+    "Zip Code": "63136",
+    "Locator": "11G140385",
+    "Quote ID": "556143",
+    "Quote Amount": "$2487.07",
     "Closing Date": "10/12/2026",
     "Stage": "Pending Close",
     "Submitted By": ""
@@ -976,7 +998,7 @@
     "Quote Amount": "$134.85",
     "Closing Date": "10/12/2026",
     "Stage": "Pending Close",
-    "Submitted By": ""
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "EDIS SUBASIC",
@@ -987,7 +1009,18 @@
     "Quote Amount": "$262.07",
     "Closing Date": "10/12/2026",
     "Stage": "Pending Close",
-    "Submitted By": ""
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "FATJON TOSHKOLLARI",
+    "Service Address": "821 COUNTRY STONE DR",
+    "Zip Code": "63021",
+    "Locator": "24P410185",
+    "Quote ID": "556140",
+    "Quote Amount": "$1169.12",
+    "Closing Date": "10/12/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "KIMBERLY LEFFERT",
@@ -1089,35 +1122,13 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "LINDA GIBILTERRA",
-    "Service Address": "285 ST REGIS LN",
-    "Zip Code": "63031",
-    "Locator": "09J540658",
-    "Quote ID": "556145",
+    "Seller Name": "JOSEPH HALL JR",
+    "Service Address": "11303 LARIMORE RD",
+    "Zip Code": "63138",
+    "Locator": "09E220884",
+    "Quote ID": "556237",
     "Quote Amount": "Pending",
-    "Closing Date": "10/12/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PATRICIA A TAYLOR",
-    "Service Address": "9870 VICKIE PL",
-    "Zip Code": "63136",
-    "Locator": "11G140385",
-    "Quote ID": "556143",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/12/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "FATJON TOSHKOLLARI",
-    "Service Address": "821 COUNTRY STONE DR",
-    "Zip Code": "63021",
-    "Locator": "24P410185",
-    "Quote ID": "556140",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/12/2026",
+    "Closing Date": "10/13/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
