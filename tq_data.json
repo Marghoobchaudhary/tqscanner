@@ -1,71 +1,5 @@
 [
   {
-    "Seller Name": "REVISIONS LLC",
-    "Service Address": "10112 LORD DR",
-    "Zip Code": "63136",
-    "Locator": "11F421526",
-    "Quote ID": "554129",
-    "Quote Amount": "$0.00",
-    "Closing Date": "09/23/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "BARBARA HEGER",
-    "Service Address": "324 IMPERIAL LN",
-    "Zip Code": "63026",
-    "Locator": "27O610125",
-    "Quote ID": "554128",
-    "Quote Amount": "$32.58",
-    "Closing Date": "09/23/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "DAVIDRA SMITH",
-    "Service Address": "7 VAN CREST LN",
-    "Zip Code": "63033",
-    "Locator": "08H620488",
-    "Quote ID": "554127",
-    "Quote Amount": "$833.50",
-    "Closing Date": "09/23/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "FREDERICK TATE",
-    "Service Address": "5859 COTE BRILLIANTE AVE",
-    "Zip Code": "63112",
-    "Locator": "49920005200",
-    "Quote ID": "554059",
-    "Quote Amount": "$3057.62",
-    "Closing Date": "09/23/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "GRADY BROWN",
-    "Service Address": "1592 SADDLEGATE CT",
-    "Zip Code": "63033",
-    "Locator": "09H531334",
-    "Quote ID": "553531",
-    "Quote Amount": "$58.14",
-    "Closing Date": "09/23/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "ROI TURNKEY PROPERTIES LLC",
-    "Service Address": "4273 JUNIATA ST",
-    "Zip Code": "63116",
-    "Locator": "50620004500",
-    "Quote ID": "553234",
-    "Quote Amount": "$1651.04",
-    "Closing Date": "09/23/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "BRIAN EDWARDS",
     "Service Address": "3456 GINGER DR",
     "Zip Code": "63114",
@@ -998,7 +932,7 @@
     "Quote Amount": "$4536.99",
     "Closing Date": "10/08/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "DANIEL AND DIANA WINTRODE",
@@ -1009,7 +943,7 @@
     "Quote Amount": "$4082.64",
     "Closing Date": "10/08/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "BRIAN & STACEY GELDMACHER",
@@ -1020,7 +954,40 @@
     "Quote Amount": "$6191.16",
     "Closing Date": "10/09/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "JAMES TYLER STANLEY",
+    "Service Address": "9406 CRESTWOOD MANOR DR",
+    "Zip Code": "63126",
+    "Locator": "26L610150",
+    "Quote ID": "556144",
+    "Quote Amount": "$240.57",
+    "Closing Date": "10/12/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "MICHAEL ROEDEL",
+    "Service Address": "704 VANDERVILLE DR",
+    "Zip Code": "63026",
+    "Locator": "28P510333",
+    "Quote ID": "556142",
+    "Quote Amount": "$134.85",
+    "Closing Date": "10/12/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "EDIS SUBASIC",
+    "Service Address": "3050 ARMONA DR",
+    "Zip Code": "63129",
+    "Locator": "34J120461",
+    "Quote ID": "556141",
+    "Quote Amount": "$262.07",
+    "Closing Date": "10/12/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
   },
   {
     "Seller Name": "KIMBERLY LEFFERT",
@@ -1118,6 +1085,39 @@
     "Quote ID": "555764",
     "Quote Amount": "Pending",
     "Closing Date": "10/06/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LINDA GIBILTERRA",
+    "Service Address": "285 ST REGIS LN",
+    "Zip Code": "63031",
+    "Locator": "09J540658",
+    "Quote ID": "556145",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/12/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PATRICIA A TAYLOR",
+    "Service Address": "9870 VICKIE PL",
+    "Zip Code": "63136",
+    "Locator": "11G140385",
+    "Quote ID": "556143",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/12/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "FATJON TOSHKOLLARI",
+    "Service Address": "821 COUNTRY STONE DR",
+    "Zip Code": "63021",
+    "Locator": "24P410185",
+    "Quote ID": "556140",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/12/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
