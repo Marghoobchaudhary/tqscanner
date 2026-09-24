@@ -1,71 +1,5 @@
 [
   {
-    "Seller Name": "BRIAN EDWARDS",
-    "Service Address": "3456 GINGER DR",
-    "Zip Code": "63114",
-    "Locator": "14K630390",
-    "Quote ID": "553211",
-    "Quote Amount": "$155.94",
-    "Closing Date": "09/24/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "STEVE BROWN",
-    "Service Address": "1229 ADDISON DR",
-    "Zip Code": "63137",
-    "Locator": "11F640783",
-    "Quote ID": "553198",
-    "Quote Amount": "$1037.40",
-    "Closing Date": "09/24/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "SHARON BAGBY",
-    "Service Address": "1221 SUTTER AVE",
-    "Zip Code": "63133",
-    "Locator": "17H420110",
-    "Quote ID": "554403",
-    "Quote Amount": "$2842.43",
-    "Closing Date": "09/24/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "ROBERT CHARLES MCCAULEY",
-    "Service Address": "3347 SIMS AVE",
-    "Zip Code": "63074",
-    "Locator": "13L210165",
-    "Quote ID": "554402",
-    "Quote Amount": "$2376.83",
-    "Closing Date": "09/24/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "PRECISION COATS LLC",
-    "Service Address": "2020 KINGSGATE DR",
-    "Zip Code": "63138",
-    "Locator": "09F630073",
-    "Quote ID": "554401",
-    "Quote Amount": "$2237.79",
-    "Closing Date": "09/24/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "DENNIS LEIGHTON",
-    "Service Address": "2810 PARKER RD",
-    "Zip Code": "63033",
-    "Locator": "08H420288",
-    "Quote ID": "554400",
-    "Quote Amount": "$144.23",
-    "Closing Date": "09/24/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "JENNIFER DOYLE",
     "Service Address": "4628 VIRGINIA AVE",
     "Zip Code": "63111",
@@ -998,7 +932,7 @@
     "Quote Amount": "$2487.07",
     "Closing Date": "10/12/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "MICHAEL ROEDEL",
@@ -1009,7 +943,7 @@
     "Quote Amount": "$134.85",
     "Closing Date": "10/12/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "EDIS SUBASIC",
@@ -1020,7 +954,7 @@
     "Quote Amount": "$262.07",
     "Closing Date": "10/12/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "FATJON TOSHKOLLARI",
@@ -1031,7 +965,7 @@
     "Quote Amount": "$1169.12",
     "Closing Date": "10/12/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "KIMBERLY LEFFERT",
@@ -1041,6 +975,28 @@
     "Quote ID": "555821",
     "Quote Amount": "$1149.10",
     "Closing Date": "10/12/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "LNJ PIZZA LLC",
+    "Service Address": "825 HORNSBY AVE",
+    "Zip Code": "63147",
+    "Locator": "54490003000",
+    "Quote ID": "556322",
+    "Quote Amount": "$810.86",
+    "Closing Date": "10/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
+    "Seller Name": "LNJ PIZZA LLC",
+    "Service Address": "150 SHEPLEY DR",
+    "Zip Code": "63137",
+    "Locator": "11D420608",
+    "Quote ID": "556320",
+    "Quote Amount": "$993.76",
+    "Closing Date": "10/13/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1206,6 +1162,17 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PATRICK BAKER",
+    "Service Address": "9232 WABADAY AVE",
+    "Zip Code": "63114",
+    "Locator": "15L340682",
+    "Quote ID": "556321",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/13/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
