@@ -671,6 +671,17 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "CHARLES SMITH",
+    "Service Address": "1024 HORNSBY AVE",
+    "Zip Code": "63147",
+    "Locator": "52520001000",
+    "Quote ID": "555764",
+    "Quote Amount": "$2835.70",
+    "Closing Date": "10/06/2026",
+    "Stage": "Pending Close",
+    "Submitted By": ""
+  },
+  {
     "Seller Name": "PHUONG LE",
     "Service Address": "4164 HUMPHREY ST",
     "Zip Code": "63116",
@@ -987,7 +998,7 @@
     "Quote Amount": "$2487.07",
     "Closing Date": "10/12/2026",
     "Stage": "Pending Close",
-    "Submitted By": ""
+    "Submitted By": "Cary Cary"
   },
   {
     "Seller Name": "MICHAEL ROEDEL",
@@ -1030,6 +1041,94 @@
     "Quote ID": "555821",
     "Quote Amount": "$1149.10",
     "Closing Date": "10/12/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PARK SOUTH PROPERTIES LLC",
+    "Service Address": "4551 SWAN AVE",
+    "Zip Code": "63110",
+    "Locator": "50470003500",
+    "Quote ID": "556317",
+    "Quote Amount": "$469.61",
+    "Closing Date": "10/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PARK SOUTH PROPERTIES LLC",
+    "Service Address": "4549 SWAN AVE",
+    "Zip Code": "63110",
+    "Locator": "50470003500",
+    "Quote ID": "556316",
+    "Quote Amount": "$469.61",
+    "Closing Date": "10/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PARK SOUTH PROPERTIES LLC",
+    "Service Address": "4203 SWAN AVE",
+    "Zip Code": "63110",
+    "Locator": "39720002000",
+    "Quote ID": "556315",
+    "Quote Amount": "$224.91",
+    "Closing Date": "10/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PARK SOUTH PROPERTIES LLC",
+    "Service Address": "4545 SWAN AVE",
+    "Zip Code": "63110",
+    "Locator": "50470003400",
+    "Quote ID": "556314",
+    "Quote Amount": "$569.87",
+    "Closing Date": "10/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PARK SOUTH PROPERTIES LLC",
+    "Service Address": "4539 SWAN AVE",
+    "Zip Code": "63110",
+    "Locator": "50470003200",
+    "Quote ID": "556313",
+    "Quote Amount": "$469.61",
+    "Closing Date": "10/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PARK SOUTH PROPERTIES LLC",
+    "Service Address": "4537 SWAN AVE",
+    "Zip Code": "63110",
+    "Locator": "50470003200",
+    "Quote ID": "556312",
+    "Quote Amount": "$469.61",
+    "Closing Date": "10/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PARK SOUTH PROPERTIES LLC",
+    "Service Address": "4553 SWAN AVE",
+    "Zip Code": "63110",
+    "Locator": "50470003600",
+    "Quote ID": "556311",
+    "Quote Amount": "$501.53",
+    "Closing Date": "10/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PARK SOUTH PROPERTIES LLC",
+    "Service Address": "4555 SWAN AVE",
+    "Zip Code": "63110",
+    "Locator": "50470003600",
+    "Quote ID": "556310",
+    "Quote Amount": "$501.53",
+    "Closing Date": "10/13/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1111,13 +1210,24 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "CHARLES SMITH",
-    "Service Address": "1024 HORNSBY AVE",
-    "Zip Code": "63147",
-    "Locator": "52520001000",
-    "Quote ID": "555764",
+    "Seller Name": "LASHEBA SPENCER",
+    "Service Address": "4727 BESSIE CT",
+    "Zip Code": "63115",
+    "Locator": "44040202200",
+    "Quote ID": "556319",
     "Quote Amount": "Pending",
-    "Closing Date": "10/06/2026",
+    "Closing Date": "10/13/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DUSTIN SNODGRASS",
+    "Service Address": "5148 COLOGNE AVE",
+    "Zip Code": "63116",
+    "Locator": "54810000300",
+    "Quote ID": "556318",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/13/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
