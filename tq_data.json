@@ -990,12 +990,45 @@
     "Submitted By": ""
   },
   {
+    "Seller Name": "PATRICK BAKER",
+    "Service Address": "9232 WABADAY AVE",
+    "Zip Code": "63114",
+    "Locator": "15L340682",
+    "Quote ID": "556321",
+    "Quote Amount": "$4332.72",
+    "Closing Date": "10/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "LNJ PIZZA LLC",
     "Service Address": "150 SHEPLEY DR",
     "Zip Code": "63137",
     "Locator": "11D420608",
     "Quote ID": "556320",
     "Quote Amount": "$993.76",
+    "Closing Date": "10/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LASHEBA SPENCER",
+    "Service Address": "4727 BESSIE CT",
+    "Zip Code": "63115",
+    "Locator": "44040202200",
+    "Quote ID": "556319",
+    "Quote Amount": "$2114.19",
+    "Closing Date": "10/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DUSTIN SNODGRASS",
+    "Service Address": "5148 COLOGNE AVE",
+    "Zip Code": "63116",
+    "Locator": "54810000300",
+    "Quote ID": "556318",
+    "Quote Amount": "$4363.78",
     "Closing Date": "10/13/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1162,39 +1195,6 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PATRICK BAKER",
-    "Service Address": "9232 WABADAY AVE",
-    "Zip Code": "63114",
-    "Locator": "15L340682",
-    "Quote ID": "556321",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/13/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LASHEBA SPENCER",
-    "Service Address": "4727 BESSIE CT",
-    "Zip Code": "63115",
-    "Locator": "44040202200",
-    "Quote ID": "556319",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/13/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DUSTIN SNODGRASS",
-    "Service Address": "5148 COLOGNE AVE",
-    "Zip Code": "63116",
-    "Locator": "54810000300",
-    "Quote ID": "556318",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/13/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
