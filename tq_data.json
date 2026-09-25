@@ -1122,6 +1122,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JOSEPH HALL JR",
+    "Service Address": "11303 LARIMORE RD",
+    "Zip Code": "63138",
+    "Locator": "09E220884",
+    "Quote ID": "556237",
+    "Quote Amount": "$8179.81",
+    "Closing Date": "10/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "DARA JEAN DAUGHERTY",
     "Service Address": "8626 ROSALIE AVE",
     "Zip Code": "63144",
@@ -1129,6 +1140,28 @@
     "Quote ID": "555707",
     "Quote Amount": "$1840.20",
     "Closing Date": "10/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LUCAS GAMLIN",
+    "Service Address": "6450 OAKLAND AVE",
+    "Zip Code": "63139",
+    "Locator": "45940300600",
+    "Quote ID": "556439",
+    "Quote Amount": "$327.04",
+    "Closing Date": "10/14/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DOGWOOD HOMES LLC",
+    "Service Address": "3719 MINNESOTA AVE",
+    "Zip Code": "63118",
+    "Locator": "16250002100",
+    "Quote ID": "556438",
+    "Quote Amount": "$516.60",
+    "Closing Date": "10/14/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1173,6 +1206,17 @@
     "Quote ID": "555706",
     "Quote Amount": "$2033.34",
     "Closing Date": "10/14/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DEVONTA BLEDSOE",
+    "Service Address": "1316 HENDRICK DR",
+    "Zip Code": "63135",
+    "Locator": "10H340055",
+    "Quote ID": "556437",
+    "Quote Amount": "$6648.44",
+    "Closing Date": "10/15/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1232,17 +1276,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "JOSEPH HALL JR",
-    "Service Address": "11303 LARIMORE RD",
-    "Zip Code": "63138",
-    "Locator": "09E220884",
-    "Quote ID": "556237",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/13/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "DEBRA JONES",
     "Service Address": "1540 MOORE PL",
     "Zip Code": "63130",
@@ -1250,17 +1283,6 @@
     "Quote ID": "556433",
     "Quote Amount": "Pending",
     "Closing Date": "10/14/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DEVONTA BLEDSOE",
-    "Service Address": "1316 HENDRICK DR",
-    "Zip Code": "63135",
-    "Locator": "10H340055",
-    "Quote ID": "556437",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/15/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
