@@ -1144,6 +1144,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JAMES BOYD",
+    "Service Address": "1436 GRANVILLE PL",
+    "Zip Code": "63112",
+    "Locator": "38060801450",
+    "Quote ID": "556471",
+    "Quote Amount": "$597.04",
+    "Closing Date": "10/14/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WASHINGTON NEAL",
+    "Service Address": "1438 GRANVILLE PL",
+    "Zip Code": "63112",
+    "Locator": "38060801450",
+    "Quote ID": "556470",
+    "Quote Amount": "$0.00",
+    "Closing Date": "10/14/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "LUCAS GAMLIN",
     "Service Address": "6450 OAKLAND AVE",
     "Zip Code": "63139",
@@ -1206,6 +1228,17 @@
     "Quote ID": "555706",
     "Quote Amount": "$2033.34",
     "Closing Date": "10/14/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "HASSAN LLC",
+    "Service Address": "4438 ENRIGHT AVE",
+    "Zip Code": "63108",
+    "Locator": "45730001100",
+    "Quote ID": "556458",
+    "Quote Amount": "$0.00",
+    "Closing Date": "10/15/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
