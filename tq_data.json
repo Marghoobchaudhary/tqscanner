@@ -1133,6 +1133,39 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JOSEPH AND CRYSTAL BRADLEY",
+    "Service Address": "1481 PARTRIDGE AVE",
+    "Zip Code": "63130",
+    "Locator": "17J541074",
+    "Quote ID": "556436",
+    "Quote Amount": "$363.48",
+    "Closing Date": "10/14/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "EBBIE ADAMS",
+    "Service Address": "200 HENQUIN DR",
+    "Zip Code": "63135",
+    "Locator": "11J240104",
+    "Quote ID": "556430",
+    "Quote Amount": "$662.51",
+    "Closing Date": "10/14/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ROBERT GIBSON",
+    "Service Address": "6650 MAURICE AVE",
+    "Zip Code": "63139",
+    "Locator": "47690000200",
+    "Quote ID": "556424",
+    "Quote Amount": "$1611.09",
+    "Closing Date": "10/14/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "GAIL A AMAN",
     "Service Address": "9093 BOBB AVE",
     "Zip Code": "63114",
@@ -1206,6 +1239,28 @@
     "Quote ID": "556237",
     "Quote Amount": "Pending",
     "Closing Date": "10/13/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DEBRA JONES",
+    "Service Address": "1540 MOORE PL",
+    "Zip Code": "63130",
+    "Locator": "16J140353",
+    "Quote ID": "556433",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/14/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DEVONTA BLEDSOE",
+    "Service Address": "1316 HENDRICK DR",
+    "Zip Code": "63135",
+    "Locator": "10H340055",
+    "Quote ID": "556437",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/15/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
