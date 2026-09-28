@@ -1,181 +1,5 @@
 [
   {
-    "Seller Name": "JENNIFER DOYLE",
-    "Service Address": "4628 VIRGINIA AVE",
-    "Zip Code": "63111",
-    "Locator": "27410002810",
-    "Quote ID": "553637",
-    "Quote Amount": "$6815.23",
-    "Closing Date": "09/26/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "SAMUEL HAIGHT",
-    "Service Address": "4229 38TH ST",
-    "Zip Code": "63116",
-    "Locator": "26420002300",
-    "Quote ID": "554410",
-    "Quote Amount": "$942.70",
-    "Closing Date": "09/27/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "SHANNON SIMMS",
-    "Service Address": "1460 STALLION DR",
-    "Zip Code": "63033",
-    "Locator": "08H530541",
-    "Quote ID": "554397",
-    "Quote Amount": "$474.67",
-    "Closing Date": "09/27/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "MILLIONAIRE ENTERPRISE LLC",
-    "Service Address": "5463 HODIAMONT AVE",
-    "Zip Code": "63136",
-    "Locator": "14G242293",
-    "Quote ID": "554396",
-    "Quote Amount": "$1785.76",
-    "Closing Date": "09/27/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "BOBBIE JONES",
-    "Service Address": "3905 MCCARRON CT",
-    "Zip Code": "63034",
-    "Locator": "04J320170",
-    "Quote ID": "554131",
-    "Quote Amount": "$7658.09",
-    "Closing Date": "09/27/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "COLLEEN WILKINS",
-    "Service Address": "3327 DIX AVE",
-    "Zip Code": "63114",
-    "Locator": "14L641201",
-    "Quote ID": "555353",
-    "Quote Amount": "$1143.52",
-    "Closing Date": "09/28/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "DEWAYNE CRANNICK",
-    "Service Address": "12364 SANTA MARIA DR",
-    "Zip Code": "63138",
-    "Locator": "08E630062",
-    "Quote ID": "554538",
-    "Quote Amount": "$141.20",
-    "Closing Date": "09/28/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "TIFFANY JOHNSON",
-    "Service Address": "2327 SHIRLEY AVE",
-    "Zip Code": "63136",
-    "Locator": "13G331334",
-    "Quote ID": "554537",
-    "Quote Amount": "$1035.66",
-    "Closing Date": "09/28/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "THOMAS NGUYEN",
-    "Service Address": "4321 FATIMA DR",
-    "Zip Code": "63123",
-    "Locator": "26H510880",
-    "Quote ID": "554536",
-    "Quote Amount": "$1886.32",
-    "Closing Date": "09/28/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "CEPEDA WHITESIDE",
-    "Service Address": "3956 BIRKEMEIER DR",
-    "Zip Code": "63034",
-    "Locator": "05H110283",
-    "Quote ID": "554531",
-    "Quote Amount": "$1947.40",
-    "Closing Date": "09/28/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "ALICIA SMITH",
-    "Service Address": "1707 CHAMPLIN DR",
-    "Zip Code": "63136",
-    "Locator": "11G440960",
-    "Quote ID": "554530",
-    "Quote Amount": "$1779.59",
-    "Closing Date": "09/28/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "SEAN GATHRIGHT",
-    "Service Address": "1038 WILLMANN CT",
-    "Zip Code": "63135",
-    "Locator": "12H120118",
-    "Quote ID": "554529",
-    "Quote Amount": "$888.04",
-    "Closing Date": "09/28/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "BROWN DIAMOND EQUITY IN",
-    "Service Address": "2728 TEXAS AVE",
-    "Zip Code": "63118",
-    "Locator": "20700000150",
-    "Quote ID": "554528",
-    "Quote Amount": "$198.40",
-    "Closing Date": "09/28/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "JAMES ROSS SR",
-    "Service Address": "2015 NORTH POINTE LN",
-    "Zip Code": "63031",
-    "Locator": "06K320434",
-    "Quote ID": "554525",
-    "Quote Amount": "$1471.31",
-    "Closing Date": "09/28/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "QLM ENTERPRISES LLC",
-    "Service Address": "7143 THEODORE AVE",
-    "Zip Code": "63136",
-    "Locator": "14G140768",
-    "Quote ID": "554519",
-    "Quote Amount": "$73.59",
-    "Closing Date": "09/28/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
-    "Seller Name": "MATTHEW & ASHLEY HERCULES",
-    "Service Address": "2911 MERAMAR DR",
-    "Zip Code": "63129",
-    "Locator": "35J530113",
-    "Quote ID": "554132",
-    "Quote Amount": "$5577.57",
-    "Closing Date": "09/28/2026",
-    "Stage": "Pending Close",
-    "Submitted By": ""
-  },
-  {
     "Seller Name": "CS GATEWAY LLC",
     "Service Address": "1 S MEMORIAL DR",
     "Zip Code": "63102",
@@ -998,7 +822,7 @@
     "Quote Amount": "$4332.72",
     "Closing Date": "10/13/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "LNJ PIZZA LLC",
@@ -1009,7 +833,7 @@
     "Quote Amount": "$993.76",
     "Closing Date": "10/13/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "LASHEBA SPENCER",
@@ -1020,7 +844,7 @@
     "Quote Amount": "$2114.19",
     "Closing Date": "10/13/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "DUSTIN SNODGRASS",
@@ -1031,7 +855,7 @@
     "Quote Amount": "$4363.78",
     "Closing Date": "10/13/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "PARK SOUTH PROPERTIES LLC",
@@ -1042,7 +866,7 @@
     "Quote Amount": "$469.61",
     "Closing Date": "10/13/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "PARK SOUTH PROPERTIES LLC",
@@ -1053,7 +877,7 @@
     "Quote Amount": "$469.61",
     "Closing Date": "10/13/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "PARK SOUTH PROPERTIES LLC",
@@ -1064,7 +888,7 @@
     "Quote Amount": "$224.91",
     "Closing Date": "10/13/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "PARK SOUTH PROPERTIES LLC",
@@ -1075,7 +899,7 @@
     "Quote Amount": "$569.87",
     "Closing Date": "10/13/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "PARK SOUTH PROPERTIES LLC",
@@ -1086,7 +910,7 @@
     "Quote Amount": "$469.61",
     "Closing Date": "10/13/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "PARK SOUTH PROPERTIES LLC",
@@ -1097,7 +921,7 @@
     "Quote Amount": "$469.61",
     "Closing Date": "10/13/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "PARK SOUTH PROPERTIES LLC",
@@ -1108,7 +932,7 @@
     "Quote Amount": "$501.53",
     "Closing Date": "10/13/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "PARK SOUTH PROPERTIES LLC",
@@ -1119,7 +943,7 @@
     "Quote Amount": "$501.53",
     "Closing Date": "10/13/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "JOSEPH HALL JR",
@@ -1130,7 +954,7 @@
     "Quote Amount": "$8179.81",
     "Closing Date": "10/13/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "DARA JEAN DAUGHERTY",
@@ -1141,7 +965,7 @@
     "Quote Amount": "$1840.20",
     "Closing Date": "10/13/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "JAMES BOYD",
@@ -1152,7 +976,7 @@
     "Quote Amount": "$597.04",
     "Closing Date": "10/14/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "WASHINGTON NEAL",
@@ -1163,7 +987,7 @@
     "Quote Amount": "$0.00",
     "Closing Date": "10/14/2026",
     "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
+    "Submitted By": ""
   },
   {
     "Seller Name": "LUCAS GAMLIN",
