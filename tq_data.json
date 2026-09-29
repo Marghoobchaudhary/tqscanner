@@ -1089,6 +1089,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MO PLATINUM PROPERTIES LLC",
+    "Service Address": "419 CAMERON RD",
+    "Zip Code": "63137",
+    "Locator": "11E620054",
+    "Quote ID": "556676",
+    "Quote Amount": "$710.13",
+    "Closing Date": "10/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LARRY LEE-BEY",
+    "Service Address": "10104 JETT DR",
+    "Zip Code": "63136",
+    "Locator": "11G420281",
+    "Quote ID": "556660",
+    "Quote Amount": "$1600.04",
+    "Closing Date": "10/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MATTHEW & VANESSA ISAACS",
     "Service Address": "1395 ST FRANCOIS ST",
     "Zip Code": "63033",
@@ -1140,6 +1162,39 @@
     "Quote ID": "556433",
     "Quote Amount": "Pending",
     "Closing Date": "10/14/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TASHA BROWN",
+    "Service Address": "6719 JULIAN AVE",
+    "Zip Code": "63130",
+    "Locator": "17H410733",
+    "Quote ID": "556675",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/19/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DAVID CRAYTON",
+    "Service Address": "10714 OLD HALLS FERRY RD",
+    "Zip Code": "63136",
+    "Locator": "10G610294",
+    "Quote ID": "556669",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/19/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WAYNE WHITFIELD",
+    "Service Address": "2030 VALENCIA DR",
+    "Zip Code": "63033",
+    "Locator": "07H240728",
+    "Quote ID": "556664",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/19/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
