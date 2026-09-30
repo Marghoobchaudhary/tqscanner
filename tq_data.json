@@ -1,27 +1,5 @@
 [
   {
-    "Seller Name": "TOPSTONE INV STL 1 LLC",
-    "Service Address": "3618 MARCUS AVE",
-    "Zip Code": "63115",
-    "Locator": "44501502700",
-    "Quote ID": "555027",
-    "Quote Amount": "$1440.84",
-    "Closing Date": "09/30/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TOPSTONE INV STL 1 LLC",
-    "Service Address": "909 NASSAU DR",
-    "Zip Code": "63147",
-    "Locator": "63620004700",
-    "Quote ID": "555026",
-    "Quote Amount": "$1432.86",
-    "Closing Date": "09/30/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "D ANDRE HOOD",
     "Service Address": "5953 NORTH POINTE BLVD",
     "Zip Code": "63147",
@@ -1001,6 +979,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "SUNSET PARK CONDO",
+    "Service Address": "1901 HIGH SUN DR",
+    "Zip Code": "63031",
+    "Locator": "06K521350",
+    "Quote ID": "556824",
+    "Quote Amount": "$553.40",
+    "Closing Date": "10/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LAJUAN MASON",
+    "Service Address": "4649 LEDUC ST",
+    "Zip Code": "63113",
+    "Locator": "44730000900",
+    "Quote ID": "556822",
+    "Quote Amount": "$2188.66",
+    "Closing Date": "10/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MATTHEW & VANESSA ISAACS",
     "Service Address": "1395 ST FRANCOIS ST",
     "Zip Code": "63033",
@@ -1083,6 +1083,17 @@
     "Zip Code": "63136",
     "Locator": "10G610294",
     "Quote ID": "556669",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/19/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PAUL GILBERT",
+    "Service Address": "5979 WANDA AVE",
+    "Zip Code": "63116",
+    "Locator": "58760001800",
+    "Quote ID": "556823",
     "Quote Amount": "Pending",
     "Closing Date": "10/19/2026",
     "Stage": "In Progress",
