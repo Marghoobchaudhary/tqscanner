@@ -913,6 +913,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "CRYSTAL S JONES",
+    "Service Address": "5237 THRUSH AVE",
+    "Zip Code": "63120",
+    "Locator": "51200002900",
+    "Quote ID": "556821",
+    "Quote Amount": "$11786.42",
+    "Closing Date": "10/18/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ALETHA BUCHANAN",
     "Service Address": "1115 HORNSBY AVE",
     "Zip Code": "63147",
@@ -990,6 +1001,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JEFFERY M EVERS",
+    "Service Address": "545 LYNN HAVEN LN",
+    "Zip Code": "63042",
+    "Locator": "08L320237",
+    "Quote ID": "556970",
+    "Quote Amount": "$923.39",
+    "Closing Date": "10/20/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GERALD HUDSON",
+    "Service Address": "1911 VINITA DR",
+    "Zip Code": "63114",
+    "Locator": "16J430775",
+    "Quote ID": "556973",
+    "Quote Amount": "$764.99",
+    "Closing Date": "10/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MATTHEW & VANESSA ISAACS",
     "Service Address": "1395 ST FRANCOIS ST",
     "Zip Code": "63033",
@@ -1045,17 +1078,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "CRYSTAL S JONES",
-    "Service Address": "5237 THRUSH AVE",
-    "Zip Code": "63120",
-    "Locator": "51200002900",
-    "Quote ID": "556821",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/18/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "JORAM NIYONSABA GRACE &",
     "Service Address": "4355 GERMANIA ST",
     "Zip Code": "63116",
@@ -1085,6 +1107,39 @@
     "Quote ID": "556823",
     "Quote Amount": "Pending",
     "Closing Date": "10/19/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WILLIE JOHNSON",
+    "Service Address": "1740 SADDLESPUR LN",
+    "Zip Code": "63033",
+    "Locator": "07J320623",
+    "Quote ID": "556972",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/20/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "RON GOTTSCHALK",
+    "Service Address": "1265 DEL REY DR",
+    "Zip Code": "63031",
+    "Locator": "07K511264",
+    "Quote ID": "556971",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/20/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PALOMAR PROPERTIES LLC",
+    "Service Address": "4303 S GRAND BLVD-63111",
+    "Zip Code": "63111",
+    "Locator": "26870001000",
+    "Quote ID": "556969",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/20/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
