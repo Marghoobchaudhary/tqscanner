@@ -66,17 +66,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "SUNG AHN",
-    "Service Address": "14001 EAGLE MANOR CT",
-    "Zip Code": "63017",
-    "Locator": "16R340427",
-    "Quote ID": "555355",
-    "Quote Amount": "$233.97",
-    "Closing Date": "10/05/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "CAROLYN TOWLES",
     "Service Address": "1739 GRAFTON DR",
     "Zip Code": "63136",
@@ -847,6 +836,39 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "RANDY KROTZ",
+    "Service Address": "507 SHADOWRIDGE DR",
+    "Zip Code": "63011",
+    "Locator": "22U130363",
+    "Quote ID": "557048",
+    "Quote Amount": "$286.83",
+    "Closing Date": "10/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TIMOTHY KELLY",
+    "Service Address": "6421 ALABAMA AVE",
+    "Zip Code": "63111",
+    "Locator": "29660001700",
+    "Quote ID": "557031",
+    "Quote Amount": "$4275.71",
+    "Closing Date": "10/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WILLIE G WREEN",
+    "Service Address": "5742 PARK LN",
+    "Zip Code": "63147",
+    "Locator": "57990004600",
+    "Quote ID": "557018",
+    "Quote Amount": "$3703.67",
+    "Closing Date": "10/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "GERALD HUDSON",
     "Service Address": "1911 VINITA DR",
     "Zip Code": "63114",
@@ -964,6 +986,28 @@
     "Quote ID": "556969",
     "Quote Amount": "Pending",
     "Closing Date": "10/20/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MICHELLE KELLER",
+    "Service Address": "175 RANCHMOOR TRL",
+    "Zip Code": "63011",
+    "Locator": "22T310551",
+    "Quote ID": "557103",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/21/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WILLIAM PETTY",
+    "Service Address": "4620 38TH ST",
+    "Zip Code": "63116",
+    "Locator": "56830402400",
+    "Quote ID": "557034",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/22/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
