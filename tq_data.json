@@ -836,6 +836,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "BRIAN GRANDBERRY",
+    "Service Address": "1624 FAHRPARK CT",
+    "Zip Code": "63146",
+    "Locator": "16O631290",
+    "Quote ID": "557111",
+    "Quote Amount": "$1141.06",
+    "Closing Date": "10/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SHANNA BUNN",
+    "Service Address": "4407 EMINENCE BLVD",
+    "Zip Code": "63134",
+    "Locator": "13K530833",
+    "Quote ID": "557109",
+    "Quote Amount": "$789.95",
+    "Closing Date": "10/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "RANDY KROTZ",
     "Service Address": "507 SHADOWRIDGE DR",
     "Zip Code": "63011",
@@ -876,6 +898,28 @@
     "Quote ID": "556973",
     "Quote Amount": "$764.99",
     "Closing Date": "10/21/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CHARLES JOHNSON",
+    "Service Address": "1236 KROEGER DR",
+    "Zip Code": "63135",
+    "Locator": "11H610443",
+    "Quote ID": "557117",
+    "Quote Amount": "$197.33",
+    "Closing Date": "10/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "EARNEST WILLIAMS",
+    "Service Address": "3603 AV DE PARIS DR",
+    "Zip Code": "63034",
+    "Locator": "05H210929",
+    "Quote ID": "557114",
+    "Quote Amount": "$387.71",
+    "Closing Date": "10/26/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -997,6 +1041,28 @@
     "Quote ID": "557103",
     "Quote Amount": "Pending",
     "Closing Date": "10/21/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DANIELLE KEEL-COLLINS",
+    "Service Address": "1565 BAY MEADOWS DR",
+    "Zip Code": "63033",
+    "Locator": "08H531069",
+    "Quote ID": "557116",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/22/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "RYAN MCGOWAN",
+    "Service Address": "323 RASCH CT-63021",
+    "Zip Code": "63021",
+    "Locator": "23R410647",
+    "Quote ID": "557113",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/22/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
