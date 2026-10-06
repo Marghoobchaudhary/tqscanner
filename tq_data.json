@@ -121,17 +121,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "EIKERENKOETTER",
-    "Service Address": "3030 WELLINGTON DR",
-    "Zip Code": "63033",
-    "Locator": "06J320204",
-    "Quote ID": "555701",
-    "Quote Amount": "$935.96",
-    "Closing Date": "10/07/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "DOROTHY L FULLER",
     "Service Address": "12118 BECKFORD ESTATES DR",
     "Zip Code": "63043",
@@ -704,6 +693,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "DAVID CRAYTON",
+    "Service Address": "10714 OLD HALLS FERRY RD",
+    "Zip Code": "63136",
+    "Locator": "10G610294",
+    "Quote ID": "556669",
+    "Quote Amount": "$3061.66",
+    "Closing Date": "10/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "WAYNE WHITFIELD",
     "Service Address": "2030 VALENCIA DR",
     "Zip Code": "63033",
@@ -759,6 +759,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "WILLIE JOHNSON",
+    "Service Address": "1740 SADDLESPUR LN",
+    "Zip Code": "63033",
+    "Locator": "07J320623",
+    "Quote ID": "556972",
+    "Quote Amount": "$3556.56",
+    "Closing Date": "10/20/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "RON GOTTSCHALK",
     "Service Address": "1265 DEL REY DR",
     "Zip Code": "63031",
@@ -776,6 +787,17 @@
     "Locator": "08L320237",
     "Quote ID": "556970",
     "Quote Amount": "$923.39",
+    "Closing Date": "10/20/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PALOMAR PROPERTIES LLC",
+    "Service Address": "4303 S GRAND BLVD-63111",
+    "Zip Code": "63111",
+    "Locator": "26870001000",
+    "Quote ID": "556969",
+    "Quote Amount": "$5450.91",
     "Closing Date": "10/20/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -902,6 +924,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "WILLIAM PETTY",
+    "Service Address": "4620 38TH ST",
+    "Zip Code": "63116",
+    "Locator": "56830402400",
+    "Quote ID": "557034",
+    "Quote Amount": "$6112.39",
+    "Closing Date": "10/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ALMA M MCDONALD",
     "Service Address": "2360 ORIOLE DR",
     "Zip Code": "63033",
@@ -968,6 +1001,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "STEVEN J LANG",
+    "Service Address": "3001 QUIET LN-63114",
+    "Zip Code": "63114",
+    "Locator": "14L331090",
+    "Quote ID": "557228",
+    "Quote Amount": "$9819.68",
+    "Closing Date": "11/01/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MATTHEW & VANESSA ISAACS",
     "Service Address": "1395 ST FRANCOIS ST",
     "Zip Code": "63033",
@@ -1023,55 +1067,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "DAVID CRAYTON",
-    "Service Address": "10714 OLD HALLS FERRY RD",
-    "Zip Code": "63136",
-    "Locator": "10G610294",
-    "Quote ID": "556669",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/19/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "WILLIE JOHNSON",
-    "Service Address": "1740 SADDLESPUR LN",
-    "Zip Code": "63033",
-    "Locator": "07J320623",
-    "Quote ID": "556972",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/20/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PALOMAR PROPERTIES LLC",
-    "Service Address": "4303 S GRAND BLVD-63111",
-    "Zip Code": "63111",
-    "Locator": "26870001000",
-    "Quote ID": "556969",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/20/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "DANIELLE KEEL-COLLINS",
     "Service Address": "1565 BAY MEADOWS DR",
     "Zip Code": "63033",
     "Locator": "08H531069",
     "Quote ID": "557116",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/22/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "WILLIAM PETTY",
-    "Service Address": "4620 38TH ST",
-    "Zip Code": "63116",
-    "Locator": "56830402400",
-    "Quote ID": "557034",
     "Quote Amount": "Pending",
     "Closing Date": "10/22/2026",
     "Stage": "In Progress",
@@ -1085,17 +1085,6 @@
     "Quote ID": "557380",
     "Quote Amount": "Pending",
     "Closing Date": "10/25/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "STEVEN J LANG",
-    "Service Address": "3001 QUIET LN-63114",
-    "Zip Code": "63114",
-    "Locator": "14L331090",
-    "Quote ID": "557228",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/01/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
