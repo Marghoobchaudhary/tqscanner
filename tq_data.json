@@ -660,6 +660,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JORAM NIYONSABA GRACE &",
+    "Service Address": "4355 GERMANIA ST",
+    "Zip Code": "63116",
+    "Locator": "63740001000",
+    "Quote ID": "556684",
+    "Quote Amount": "$2945.66",
+    "Closing Date": "10/18/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ALETHA BUCHANAN",
     "Service Address": "1115 HORNSBY AVE",
     "Zip Code": "63147",
@@ -891,6 +902,39 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ALMA M MCDONALD",
+    "Service Address": "2360 ORIOLE DR",
+    "Zip Code": "63033",
+    "Locator": "07J330688",
+    "Quote ID": "557383",
+    "Quote Amount": "$157.56",
+    "Closing Date": "10/25/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SHELBY VOMUND",
+    "Service Address": "5 FLAMINGO DR",
+    "Zip Code": "63042",
+    "Locator": "09K440612",
+    "Quote ID": "557381",
+    "Quote Amount": "$2576.95",
+    "Closing Date": "10/25/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TIMOTHY SMITH",
+    "Service Address": "6106 WESTMINSTER PL",
+    "Zip Code": "63112",
+    "Locator": "54190002500",
+    "Quote ID": "557378",
+    "Quote Amount": "$280.83",
+    "Closing Date": "10/25/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "KIMBERLY HART",
     "Service Address": "10310 TANNER DR",
     "Zip Code": "63136",
@@ -968,17 +1012,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "JORAM NIYONSABA GRACE &",
-    "Service Address": "4355 GERMANIA ST",
-    "Zip Code": "63116",
-    "Locator": "63740001000",
-    "Quote ID": "556684",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/18/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "DAVID CRAYTON",
     "Service Address": "10714 OLD HALLS FERRY RD",
     "Zip Code": "63136",
@@ -1030,6 +1063,28 @@
     "Quote ID": "557034",
     "Quote Amount": "Pending",
     "Closing Date": "10/22/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KATHY M JOHNSON",
+    "Service Address": "6925 STRATFORD AVE",
+    "Zip Code": "63121",
+    "Locator": "15G440856",
+    "Quote ID": "557380",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/25/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BRICK BY BRICK CONSULTIN LLC",
+    "Service Address": "5139 MAPLE AVE",
+    "Zip Code": "63113",
+    "Locator": "51490003700",
+    "Quote ID": "557379",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/25/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
