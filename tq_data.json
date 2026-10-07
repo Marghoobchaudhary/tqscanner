@@ -1,104 +1,5 @@
 [
   {
-    "Seller Name": "CHARLES SMITH",
-    "Service Address": "1024 HORNSBY AVE",
-    "Zip Code": "63147",
-    "Locator": "52520001000",
-    "Quote ID": "555764",
-    "Quote Amount": "$2835.70",
-    "Closing Date": "10/06/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PHUONG LE",
-    "Service Address": "4164 HUMPHREY ST",
-    "Zip Code": "63116",
-    "Locator": "41510000150",
-    "Quote ID": "555761",
-    "Quote Amount": "$89.55",
-    "Closing Date": "10/06/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MISTY WILLIAMS",
-    "Service Address": "4324 GRACE AVE",
-    "Zip Code": "63116",
-    "Locator": "26870000200",
-    "Quote ID": "555760",
-    "Quote Amount": "$9434.57",
-    "Closing Date": "10/06/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "NICO PROPERTIES LLC",
-    "Service Address": "4334 WEST BELLE PL",
-    "Zip Code": "63108",
-    "Locator": "45710001300",
-    "Quote ID": "555744",
-    "Quote Amount": "$4353.12",
-    "Closing Date": "10/06/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "NICHOLE DEMPSTER",
-    "Service Address": "421 BLUFF MEADOW DR",
-    "Zip Code": "63021",
-    "Locator": "24T440274",
-    "Quote ID": "555494",
-    "Quote Amount": "$2853.20",
-    "Closing Date": "10/06/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GEORGE & MELENA CHISOLM",
-    "Service Address": "7624 LYNN AVE",
-    "Zip Code": "63130",
-    "Locator": "16K320499",
-    "Quote ID": "555493",
-    "Quote Amount": "$2509.49",
-    "Closing Date": "10/06/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PALACIOS ENTERPRISE LLC",
-    "Service Address": "7355 BALSON AVE",
-    "Zip Code": "63130",
-    "Locator": "17J121005",
-    "Quote ID": "555492",
-    "Quote Amount": "$1408.30",
-    "Closing Date": "10/06/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "WATERMAN CONDOMINIUM ASSOC",
-    "Service Address": "5507 WATERMAN BLVD",
-    "Zip Code": "63112",
-    "Locator": "38751806010",
-    "Quote ID": "555491",
-    "Quote Amount": "$219.67",
-    "Closing Date": "10/06/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ROBERT GIPSON",
-    "Service Address": "12172 JERRIES LN",
-    "Zip Code": "63033",
-    "Locator": "08F440101",
-    "Quote ID": "555247",
-    "Quote Amount": "$28.50",
-    "Closing Date": "10/06/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "WALTER SIMS",
     "Service Address": "3974 RANDALL ST",
     "Zip Code": "63116",
@@ -1085,6 +986,17 @@
     "Quote ID": "557380",
     "Quote Amount": "Pending",
     "Closing Date": "10/25/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GARY COOPER",
+    "Service Address": "948 HANNA VALLEY ESTATES DR",
+    "Zip Code": "63021",
+    "Locator": "24Q231271",
+    "Quote ID": "557584",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/27/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
