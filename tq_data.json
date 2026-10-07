@@ -1,115 +1,5 @@
 [
   {
-    "Seller Name": "WALTER SIMS",
-    "Service Address": "3974 RANDALL ST",
-    "Zip Code": "63116",
-    "Locator": "50710000900",
-    "Quote ID": "555713",
-    "Quote Amount": "$1773.11",
-    "Closing Date": "10/07/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RACHEL & GEOFFERY MUSGRAVE",
-    "Service Address": "4708 MATTIS RD",
-    "Zip Code": "63128",
-    "Locator": "29L320676",
-    "Quote ID": "555708",
-    "Quote Amount": "$3632.01",
-    "Closing Date": "10/07/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DOROTHY L FULLER",
-    "Service Address": "12118 BECKFORD ESTATES DR",
-    "Zip Code": "63043",
-    "Locator": "12O140329",
-    "Quote ID": "555697",
-    "Quote Amount": "$711.84",
-    "Closing Date": "10/07/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JAMIE D VOTAW",
-    "Service Address": "8909 W PENDLETON AVE",
-    "Zip Code": "63144",
-    "Locator": "21K120848",
-    "Quote ID": "555685",
-    "Quote Amount": "$227.22",
-    "Closing Date": "10/07/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CANDICE L GILLESPIE",
-    "Service Address": "451 WILDWOOD PKY",
-    "Zip Code": "63011",
-    "Locator": "21R510071",
-    "Quote ID": "555673",
-    "Quote Amount": "$3394.25",
-    "Closing Date": "10/07/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KATHLEEN MCNEAL",
-    "Service Address": "15310 GOLDEN RAIN DR",
-    "Zip Code": "63017",
-    "Locator": "20S510286",
-    "Quote ID": "555654",
-    "Quote Amount": "$1171.58",
-    "Closing Date": "10/07/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ROBERT DUNSE II",
-    "Service Address": "2711 WYOMING ST",
-    "Zip Code": "63118",
-    "Locator": "17590003650",
-    "Quote ID": "555645",
-    "Quote Amount": "$3076.44",
-    "Closing Date": "10/07/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "COTINA NELSON",
-    "Service Address": "1312 S 13TH ST",
-    "Zip Code": "63104",
-    "Locator": "04750001640",
-    "Quote ID": "555635",
-    "Quote Amount": "$7034.29",
-    "Closing Date": "10/07/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BRIDGETTE M STRAWBRIDGE",
-    "Service Address": "1144 HOWELL ST",
-    "Zip Code": "63147",
-    "Locator": "54330001000",
-    "Quote ID": "555613",
-    "Quote Amount": "$1776.96",
-    "Closing Date": "10/07/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "NICOLE JOHNSON",
-    "Service Address": "306 LITHIA AVE",
-    "Zip Code": "63119",
-    "Locator": "22L621530",
-    "Quote ID": "555604",
-    "Quote Amount": "$6280.49",
-    "Closing Date": "10/07/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "APOGEE REALTY SOLUTIONS LLC",
     "Service Address": "6053 HANCOCK AVE",
     "Zip Code": "63134",
@@ -887,6 +777,17 @@
     "Quote ID": "557236",
     "Quote Amount": "$4066.49",
     "Closing Date": "10/25/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CHRISTOPHER SPIRO",
+    "Service Address": "9816 ZENITH DR",
+    "Zip Code": "63123",
+    "Locator": "27J631877",
+    "Quote ID": "557586",
+    "Quote Amount": "$829.09",
+    "Closing Date": "10/26/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
