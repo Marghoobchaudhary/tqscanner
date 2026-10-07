@@ -748,6 +748,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "KATHY M JOHNSON",
+    "Service Address": "6925 STRATFORD AVE",
+    "Zip Code": "63121",
+    "Locator": "15G440856",
+    "Quote ID": "557380",
+    "Quote Amount": "$10024.96",
+    "Closing Date": "10/25/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "BRICK BY BRICK CONSULTIN LLC",
     "Service Address": "5139 MAPLE AVE",
     "Zip Code": "63113",
@@ -799,6 +810,28 @@
     "Quote ID": "557114",
     "Quote Amount": "$387.71",
     "Closing Date": "10/26/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "VONDA PEETE",
+    "Service Address": "1222 ORCHID AVE",
+    "Zip Code": "63147",
+    "Locator": "42860600400",
+    "Quote ID": "557638",
+    "Quote Amount": "$1635.35",
+    "Closing Date": "10/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GARY COOPER",
+    "Service Address": "948 HANNA VALLEY ESTATES DR",
+    "Zip Code": "63021",
+    "Locator": "24Q231271",
+    "Quote ID": "557584",
+    "Quote Amount": "$7397.46",
+    "Closing Date": "10/27/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -876,28 +909,6 @@
     "Quote ID": "557116",
     "Quote Amount": "Pending",
     "Closing Date": "10/22/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KATHY M JOHNSON",
-    "Service Address": "6925 STRATFORD AVE",
-    "Zip Code": "63121",
-    "Locator": "15G440856",
-    "Quote ID": "557380",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/25/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GARY COOPER",
-    "Service Address": "948 HANNA VALLEY ESTATES DR",
-    "Zip Code": "63021",
-    "Locator": "24Q231271",
-    "Quote ID": "557584",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/27/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
