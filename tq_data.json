@@ -99,17 +99,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "MICHAEL ROEDEL",
-    "Service Address": "704 VANDERVILLE DR",
-    "Zip Code": "63026",
-    "Locator": "28P510333",
-    "Quote ID": "556142",
-    "Quote Amount": "$134.85",
-    "Closing Date": "10/12/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "EDIS SUBASIC",
     "Service Address": "3050 ARMONA DR",
     "Zip Code": "63129",
@@ -358,17 +347,6 @@
     "Locator": "17J541074",
     "Quote ID": "556436",
     "Quote Amount": "$363.48",
-    "Closing Date": "10/14/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DEBRA JONES",
-    "Service Address": "1540 MOORE PL",
-    "Zip Code": "63130",
-    "Locator": "16J140353",
-    "Quote ID": "556433",
-    "Quote Amount": "$10608.85",
     "Closing Date": "10/14/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -880,6 +858,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "FELICIA HOLMES",
+    "Service Address": "1247 SELLS AVE",
+    "Zip Code": "63147",
+    "Locator": "42470201600",
+    "Quote ID": "557732",
+    "Quote Amount": "$0.00",
+    "Closing Date": "10/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "STEVEN J LANG",
     "Service Address": "3001 QUIET LN-63114",
     "Zip Code": "63114",
@@ -951,17 +940,6 @@
     "Zip Code": "63118",
     "Locator": "16450000100",
     "Quote ID": "557734",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/27/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "FELICIA HOLMES",
-    "Service Address": "1247 SELLS AVE",
-    "Zip Code": "63147",
-    "Locator": "42470201600",
-    "Quote ID": "557732",
     "Quote Amount": "Pending",
     "Closing Date": "10/27/2026",
     "Stage": "In Progress",
