@@ -363,6 +363,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "DEBRA JONES",
+    "Service Address": "1540 MOORE PL",
+    "Zip Code": "63130",
+    "Locator": "16J140353",
+    "Quote ID": "556433",
+    "Quote Amount": "$10608.85",
+    "Closing Date": "10/14/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "EBBIE ADAMS",
     "Service Address": "200 HENQUIN DR",
     "Zip Code": "63135",
@@ -869,17 +880,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "GARY COOPER",
-    "Service Address": "948 HANNA VALLEY ESTATES DR",
-    "Zip Code": "63021",
-    "Locator": "24Q231271",
-    "Quote ID": "557584",
-    "Quote Amount": "$7397.46",
-    "Closing Date": "10/27/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "STEVEN J LANG",
     "Service Address": "3001 QUIET LN-63114",
     "Zip Code": "63114",
@@ -931,17 +931,6 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DEBRA JONES",
-    "Service Address": "1540 MOORE PL",
-    "Zip Code": "63130",
-    "Locator": "16J140353",
-    "Quote ID": "556433",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/14/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
