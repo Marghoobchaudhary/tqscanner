@@ -825,6 +825,50 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "SUSIE W PERSON",
+    "Service Address": "2831 COLONIAL AVE",
+    "Zip Code": "63121",
+    "Locator": "15H210609",
+    "Quote ID": "557738",
+    "Quote Amount": "$327.17",
+    "Closing Date": "10/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SOLSTAZE LLC",
+    "Service Address": "2529 LESLIE AVE",
+    "Zip Code": "63114",
+    "Locator": "14L210331",
+    "Quote ID": "557737",
+    "Quote Amount": "$1065.71",
+    "Closing Date": "10/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CHARLES & DEBORAH ALLEN",
+    "Service Address": "135 MEADOWLARK DR",
+    "Zip Code": "63146",
+    "Locator": "16M130252",
+    "Quote ID": "557736",
+    "Quote Amount": "$165.42",
+    "Closing Date": "10/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JANELLE L MANNING",
+    "Service Address": "339 GAGE DR",
+    "Zip Code": "63135",
+    "Locator": "12G410416",
+    "Quote ID": "557735",
+    "Quote Amount": "$2038.70",
+    "Closing Date": "10/27/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "GARY COOPER",
     "Service Address": "948 HANNA VALLEY ESTATES DR",
     "Zip Code": "63021",
@@ -909,6 +953,28 @@
     "Quote ID": "557116",
     "Quote Amount": "Pending",
     "Closing Date": "10/22/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JULIO CESAR PALACIOS",
+    "Service Address": "3844 OHIO AVE",
+    "Zip Code": "63118",
+    "Locator": "16450000100",
+    "Quote ID": "557734",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/27/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "FELICIA HOLMES",
+    "Service Address": "1247 SELLS AVE",
+    "Zip Code": "63147",
+    "Locator": "42470201600",
+    "Quote ID": "557732",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/27/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
