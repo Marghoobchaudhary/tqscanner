@@ -825,12 +825,34 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "CHRIS LONG",
+    "Service Address": "5139 WABADA AVE",
+    "Zip Code": "63113",
+    "Locator": "45040005000",
+    "Quote ID": "557898",
+    "Quote Amount": "$2875.84",
+    "Closing Date": "10/28/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "UMWB3 LLC",
     "Service Address": "7007 ROBBINS AVE",
     "Zip Code": "63133",
     "Locator": "16J311117",
     "Quote ID": "557895",
     "Quote Amount": "$718.47",
+    "Closing Date": "10/28/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ZAREEF FAWAZ",
+    "Service Address": "9217 EDNA ST",
+    "Zip Code": "63137",
+    "Locator": "13F610331",
+    "Quote ID": "557894",
+    "Quote Amount": "$758.65",
     "Closing Date": "10/28/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -973,28 +995,6 @@
     "Zip Code": "63116",
     "Locator": "50620004400",
     "Quote ID": "557900",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/28/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CHRIS LONG",
-    "Service Address": "5139 WABADA AVE",
-    "Zip Code": "63113",
-    "Locator": "45040005000",
-    "Quote ID": "557898",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/28/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ZAREEF FAWAZ",
-    "Service Address": "9217 EDNA ST",
-    "Zip Code": "63137",
-    "Locator": "13F610331",
-    "Quote ID": "557894",
     "Quote Amount": "Pending",
     "Closing Date": "10/28/2026",
     "Stage": "In Progress",
