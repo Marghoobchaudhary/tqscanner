@@ -1,60 +1,5 @@
 [
   {
-    "Seller Name": "APOGEE REALTY SOLUTIONS LLC",
-    "Service Address": "6053 HANCOCK AVE",
-    "Zip Code": "63134",
-    "Locator": "11J111624",
-    "Quote ID": "555819",
-    "Quote Amount": "$1943.96",
-    "Closing Date": "10/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DELORES A SCHMID",
-    "Service Address": "1029 SANDERS DR",
-    "Zip Code": "63126",
-    "Locator": "24L211254",
-    "Quote ID": "555818",
-    "Quote Amount": "$143.35",
-    "Closing Date": "10/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CHRISTOPHER SOUZA",
-    "Service Address": "10810 HOBDAY AVE",
-    "Zip Code": "63074",
-    "Locator": "14M540077",
-    "Quote ID": "555817",
-    "Quote Amount": "$651.30",
-    "Closing Date": "10/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LAVELL CARADINE JR",
-    "Service Address": "5125 DELCASTLE DR",
-    "Zip Code": "63034",
-    "Locator": "06G240911",
-    "Quote ID": "555704",
-    "Quote Amount": "$4536.99",
-    "Closing Date": "10/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DANIEL AND DIANA WINTRODE",
-    "Service Address": "880 MARK TWAIN DR",
-    "Zip Code": "63031",
-    "Locator": "07K621219",
-    "Quote ID": "555703",
-    "Quote Amount": "$4082.64",
-    "Closing Date": "10/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "BRIAN & STACEY GELDMACHER",
     "Service Address": "5844 BRIDLEFORD LN",
     "Zip Code": "63129",
@@ -869,6 +814,83 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "EDWARD CLARK",
+    "Service Address": "3737 W UPTON ST",
+    "Zip Code": "63116",
+    "Locator": "32750002300",
+    "Quote ID": "557899",
+    "Quote Amount": "$229.56",
+    "Closing Date": "10/28/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "UMWB3 LLC",
+    "Service Address": "7007 ROBBINS AVE",
+    "Zip Code": "63133",
+    "Locator": "16J311117",
+    "Quote ID": "557895",
+    "Quote Amount": "$718.47",
+    "Closing Date": "10/28/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "STEVEN KEY",
+    "Service Address": "4436 GORDON AVE",
+    "Zip Code": "63134",
+    "Locator": "12K110021",
+    "Quote ID": "557893",
+    "Quote Amount": "$463.33",
+    "Closing Date": "10/28/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ANGELA BARTOSZKIEWICZ",
+    "Service Address": "1360 FOX RUN DR",
+    "Zip Code": "63033",
+    "Locator": "08J631100",
+    "Quote ID": "557892",
+    "Quote Amount": "$412.93",
+    "Closing Date": "10/28/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LEE ANDERSON",
+    "Service Address": "1565 CANTER DR",
+    "Zip Code": "63033",
+    "Locator": "07H110032",
+    "Quote ID": "557890",
+    "Quote Amount": "$112.60",
+    "Closing Date": "10/28/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GEORGE BUCKNER",
+    "Service Address": "334 DUNGATE DR",
+    "Zip Code": "63017",
+    "Locator": "18R630397",
+    "Quote ID": "557888",
+    "Quote Amount": "$811.32",
+    "Closing Date": "10/28/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PATRICIA E GREEN",
+    "Service Address": "1546 FONTANA DR",
+    "Zip Code": "63146",
+    "Locator": "16O440708",
+    "Quote ID": "557884",
+    "Quote Amount": "$4692.72",
+    "Closing Date": "10/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "STEVEN J LANG",
     "Service Address": "3001 QUIET LN-63114",
     "Zip Code": "63114",
@@ -942,6 +964,72 @@
     "Quote ID": "557734",
     "Quote Amount": "Pending",
     "Closing Date": "10/27/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ANDREW STROHMEYER",
+    "Service Address": "4269 JUNIATA ST",
+    "Zip Code": "63116",
+    "Locator": "50620004400",
+    "Quote ID": "557900",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/28/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CHRIS LONG",
+    "Service Address": "5139 WABADA AVE",
+    "Zip Code": "63113",
+    "Locator": "45040005000",
+    "Quote ID": "557898",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/28/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ZAREEF FAWAZ",
+    "Service Address": "9217 EDNA ST",
+    "Zip Code": "63137",
+    "Locator": "13F610331",
+    "Quote ID": "557894",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/28/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WEBB SUPPLY GROUP LLC",
+    "Service Address": "2107 ERICK AVE",
+    "Zip Code": "63121",
+    "Locator": "16H630077",
+    "Quote ID": "557887",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/28/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "AERIEL DIXON",
+    "Service Address": "290 PUEBLO DR",
+    "Zip Code": "63033",
+    "Locator": "09H530366",
+    "Quote ID": "557896",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/29/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "AHMAD HINDS",
+    "Service Address": "805 SPRINTERS ROW DR",
+    "Zip Code": "63034",
+    "Locator": "05H230857",
+    "Quote ID": "557897",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/07/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
