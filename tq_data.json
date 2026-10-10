@@ -1,16 +1,5 @@
 [
   {
-    "Seller Name": "BRIAN & STACEY GELDMACHER",
-    "Service Address": "5844 BRIDLEFORD LN",
-    "Zip Code": "63129",
-    "Locator": "32K440205",
-    "Quote ID": "554759",
-    "Quote Amount": "$6191.16",
-    "Closing Date": "10/09/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "LINDA GIBILTERRA",
     "Service Address": "285 ST REGIS LN",
     "Zip Code": "63031",
@@ -924,6 +913,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MICHAEL & KATHERINE J PROBST",
+    "Service Address": "5474 JANET AVE",
+    "Zip Code": "63136",
+    "Locator": "14G522254",
+    "Quote ID": "558015",
+    "Quote Amount": "$499.12",
+    "Closing Date": "10/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "STEVEN J LANG",
     "Service Address": "3001 QUIET LN-63114",
     "Zip Code": "63114",
@@ -1008,6 +1008,17 @@
     "Quote ID": "557900",
     "Quote Amount": "Pending",
     "Closing Date": "10/28/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TSJ HOLDINGS LLC",
+    "Service Address": "5929 WATERMAN BLVD",
+    "Zip Code": "63112",
+    "Locator": "55090003000",
+    "Quote ID": "558014",
+    "Quote Amount": "Pending",
+    "Closing Date": "10/29/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
