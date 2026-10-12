@@ -1,71 +1,5 @@
 [
   {
-    "Seller Name": "LINDA GIBILTERRA",
-    "Service Address": "285 ST REGIS LN",
-    "Zip Code": "63031",
-    "Locator": "09J540658",
-    "Quote ID": "556145",
-    "Quote Amount": "$1155.52",
-    "Closing Date": "10/12/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JAMES TYLER STANLEY",
-    "Service Address": "9406 CRESTWOOD MANOR DR",
-    "Zip Code": "63126",
-    "Locator": "26L610150",
-    "Quote ID": "556144",
-    "Quote Amount": "$240.57",
-    "Closing Date": "10/12/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PATRICIA A TAYLOR",
-    "Service Address": "9870 VICKIE PL",
-    "Zip Code": "63136",
-    "Locator": "11G140385",
-    "Quote ID": "556143",
-    "Quote Amount": "$2487.07",
-    "Closing Date": "10/12/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "EDIS SUBASIC",
-    "Service Address": "3050 ARMONA DR",
-    "Zip Code": "63129",
-    "Locator": "34J120461",
-    "Quote ID": "556141",
-    "Quote Amount": "$262.07",
-    "Closing Date": "10/12/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "FATJON TOSHKOLLARI",
-    "Service Address": "821 COUNTRY STONE DR",
-    "Zip Code": "63021",
-    "Locator": "24P410185",
-    "Quote ID": "556140",
-    "Quote Amount": "$1169.12",
-    "Closing Date": "10/12/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KIMBERLY LEFFERT",
-    "Service Address": "210 STRAIGHTOAK CT",
-    "Zip Code": "63021",
-    "Locator": "24R120080",
-    "Quote ID": "555821",
-    "Quote Amount": "$1149.10",
-    "Closing Date": "10/12/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "LNJ PIZZA LLC",
     "Service Address": "825 HORNSBY AVE",
     "Zip Code": "63147",
@@ -924,6 +858,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "TSJ HOLDINGS LLC",
+    "Service Address": "5929 WATERMAN BLVD",
+    "Zip Code": "63112",
+    "Locator": "55090003000",
+    "Quote ID": "558014",
+    "Quote Amount": "$3884.68",
+    "Closing Date": "10/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MARK AND SUSAN STRAUTMANN",
+    "Service Address": "12646 WHISPERING HILLS LN",
+    "Zip Code": "63146",
+    "Locator": "16O410387",
+    "Quote ID": "558020",
+    "Quote Amount": "$229.22",
+    "Closing Date": "11/01/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "STEVEN J LANG",
     "Service Address": "3001 QUIET LN-63114",
     "Zip Code": "63114",
@@ -1008,17 +964,6 @@
     "Quote ID": "557900",
     "Quote Amount": "Pending",
     "Closing Date": "10/28/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TSJ HOLDINGS LLC",
-    "Service Address": "5929 WATERMAN BLVD",
-    "Zip Code": "63112",
-    "Locator": "55090003000",
-    "Quote ID": "558014",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/29/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
