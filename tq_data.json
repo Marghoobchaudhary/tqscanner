@@ -275,6 +275,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "DANIELLE KEEL-COLLINS",
+    "Service Address": "1565 BAY MEADOWS DR",
+    "Zip Code": "63033",
+    "Locator": "08H531069",
+    "Quote ID": "557116",
+    "Quote Amount": "$2280.70",
+    "Closing Date": "10/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "AMANDA COBB",
     "Service Address": "963 WESTGLEN DR",
     "Zip Code": "63126",
@@ -638,6 +649,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "CHRISTINA HERRING",
+    "Service Address": "1465 VERLENE DR",
+    "Zip Code": "63031",
+    "Locator": "06K311052",
+    "Quote ID": "558248",
+    "Quote Amount": "$1823.40",
+    "Closing Date": "11/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JEFFREY BROWN KAREN &",
+    "Service Address": "8505 ELGIN AVE-63123",
+    "Zip Code": "63123",
+    "Locator": "25J610029",
+    "Quote ID": "558247",
+    "Quote Amount": "$998.80",
+    "Closing Date": "11/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ARMETHEUS JONES",
     "Service Address": "10404 PRESLEY RD",
     "Zip Code": "63137",
@@ -656,6 +689,50 @@
     "Quote ID": "558245",
     "Quote Amount": "$553.66",
     "Closing Date": "11/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WILLIAM C YOUNG",
+    "Service Address": "6420 EVERGREEN BLVD",
+    "Zip Code": "63134",
+    "Locator": "11J430088",
+    "Quote ID": "558365",
+    "Quote Amount": "$88.65",
+    "Closing Date": "11/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JOANN WOOLDRIDGE",
+    "Service Address": "10216 TAPPAN DR",
+    "Zip Code": "63137",
+    "Locator": "11E430062",
+    "Quote ID": "558345",
+    "Quote Amount": "$767.99",
+    "Closing Date": "11/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DOUGLAS & DORIS KIRBY",
+    "Service Address": "12404 MERRICK DR",
+    "Zip Code": "63146",
+    "Locator": "16O530122",
+    "Quote ID": "558341",
+    "Quote Amount": "$595.48",
+    "Closing Date": "11/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "HAROLD PAUL",
+    "Service Address": "13203 WINDYGATE LN",
+    "Zip Code": "63146",
+    "Locator": "14P210030",
+    "Quote ID": "558340",
+    "Quote Amount": "$1093.20",
+    "Closing Date": "11/03/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -715,17 +792,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "DANIELLE KEEL-COLLINS",
-    "Service Address": "1565 BAY MEADOWS DR",
-    "Zip Code": "63033",
-    "Locator": "08H531069",
-    "Quote ID": "557116",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/22/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "JULIO CESAR PALACIOS",
     "Service Address": "3844 OHIO AVE",
     "Zip Code": "63118",
@@ -781,24 +847,24 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "CHRISTINA HERRING",
-    "Service Address": "1465 VERLENE DR",
-    "Zip Code": "63031",
-    "Locator": "06K311052",
-    "Quote ID": "558248",
+    "Seller Name": "DOROTHY THOMAS",
+    "Service Address": "1019 CRETE DR-63137",
+    "Zip Code": "63137",
+    "Locator": "11E411692",
+    "Quote ID": "558356",
     "Quote Amount": "Pending",
-    "Closing Date": "11/02/2026",
+    "Closing Date": "11/03/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "JEFFREY BROWN KAREN &",
-    "Service Address": "8505 ELGIN AVE-63123",
-    "Zip Code": "63123",
-    "Locator": "25J610029",
-    "Quote ID": "558247",
+    "Seller Name": "JASON R ZARKER",
+    "Service Address": "926 N ELM AVE-63119",
+    "Zip Code": "63119",
+    "Locator": "22K440947",
+    "Quote ID": "558307",
     "Quote Amount": "Pending",
-    "Closing Date": "11/02/2026",
+    "Closing Date": "11/03/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
