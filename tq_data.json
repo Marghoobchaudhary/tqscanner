@@ -693,6 +693,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "VANESSA WILLIAMS",
+    "Service Address": "4 ST MARTHA CT",
+    "Zip Code": "63031",
+    "Locator": "09J330295",
+    "Quote ID": "558416",
+    "Quote Amount": "$727.36",
+    "Closing Date": "11/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "WILLIAM C YOUNG",
     "Service Address": "6420 EVERGREEN BLVD",
     "Zip Code": "63134",
@@ -843,6 +854,39 @@
     "Quote ID": "558099",
     "Quote Amount": "Pending",
     "Closing Date": "11/01/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ANISSA M GILLESPIE",
+    "Service Address": "2454 STONEY END CT",
+    "Zip Code": "63031",
+    "Locator": "06K540094",
+    "Quote ID": "558415",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/03/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JORDAN & OLIVIA GARRETT",
+    "Service Address": "10415 ROSCOMMON DR",
+    "Zip Code": "63123",
+    "Locator": "27K530874",
+    "Quote ID": "558414",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/03/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "STEFANIE WALLACE",
+    "Service Address": "1170 MAJESTIC DR",
+    "Zip Code": "63026",
+    "Locator": "28Q640561",
+    "Quote ID": "558413",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/03/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
