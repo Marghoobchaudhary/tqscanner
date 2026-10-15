@@ -308,17 +308,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "RYAN MCGOWAN",
-    "Service Address": "323 RASCH CT-63021",
-    "Zip Code": "63021",
-    "Locator": "23R410647",
-    "Quote ID": "557113",
-    "Quote Amount": "$1768.96",
-    "Closing Date": "10/22/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "WILLIAM PETTY",
     "Service Address": "4620 38TH ST",
     "Zip Code": "63116",
@@ -854,6 +843,17 @@
     "Quote ID": "558099",
     "Quote Amount": "Pending",
     "Closing Date": "11/01/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JUANITA JONES",
+    "Service Address": "721 N ELM AVE-63119",
+    "Zip Code": "63119",
+    "Locator": "22K431963",
+    "Quote ID": "558417",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/03/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
