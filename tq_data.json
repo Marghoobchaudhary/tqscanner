@@ -286,6 +286,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ANDREW STROHMEYER",
+    "Service Address": "4269 JUNIATA ST",
+    "Zip Code": "63116",
+    "Locator": "50620004400",
+    "Quote ID": "557900",
+    "Quote Amount": "$4310.30",
+    "Closing Date": "10/28/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "EDWARD CLARK",
     "Service Address": "3737 W UPTON ST",
     "Zip Code": "63116",
@@ -413,6 +424,17 @@
     "Locator": "55090003000",
     "Quote ID": "558014",
     "Quote Amount": "$3884.68",
+    "Closing Date": "10/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "AERIEL DIXON",
+    "Service Address": "290 PUEBLO DR",
+    "Zip Code": "63033",
+    "Locator": "09H530366",
+    "Quote ID": "557896",
+    "Quote Amount": "$2739.35",
     "Closing Date": "10/29/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -803,12 +825,34 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "RENELL STEWART",
+    "Service Address": "6554 PLYMOUTH AVE",
+    "Zip Code": "63130",
+    "Locator": "17H132350",
+    "Quote ID": "558874",
+    "Quote Amount": "$2725.86",
+    "Closing Date": "11/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ANGEL SANTIAGO",
     "Service Address": "3529 BELAIRE PL",
     "Zip Code": "63121",
     "Locator": "15H331773",
     "Quote ID": "558873",
     "Quote Amount": "$223.46",
+    "Closing Date": "11/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SCOTT A BARTHELMASS",
+    "Service Address": "810 W WOODBINE AVE",
+    "Zip Code": "63122",
+    "Locator": "24N520220",
+    "Quote ID": "558872",
+    "Quote Amount": "$1382.38",
     "Closing Date": "11/08/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -832,6 +876,17 @@
     "Quote ID": "558865",
     "Quote Amount": "$115.91",
     "Closing Date": "11/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CANDICE EVANS",
+    "Service Address": "3709 ST KEVIN PARK DR",
+    "Zip Code": "63074",
+    "Locator": "13M631178",
+    "Quote ID": "558943",
+    "Quote Amount": "$2046.37",
+    "Closing Date": "11/18/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -876,28 +931,6 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ANDREW STROHMEYER",
-    "Service Address": "4269 JUNIATA ST",
-    "Zip Code": "63116",
-    "Locator": "50620004400",
-    "Quote ID": "557900",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/28/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "AERIEL DIXON",
-    "Service Address": "290 PUEBLO DR",
-    "Zip Code": "63033",
-    "Locator": "09H530366",
-    "Quote ID": "557896",
-    "Quote Amount": "Pending",
-    "Closing Date": "10/29/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
@@ -1017,28 +1050,6 @@
     "Zip Code": "63114",
     "Locator": "14K430013",
     "Quote ID": "558875",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/08/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RENELL STEWART",
-    "Service Address": "6554 PLYMOUTH AVE",
-    "Zip Code": "63130",
-    "Locator": "17H132350",
-    "Quote ID": "558874",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/08/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SCOTT A BARTHELMASS",
-    "Service Address": "810 W WOODBINE AVE",
-    "Zip Code": "63122",
-    "Locator": "24N520220",
-    "Quote ID": "558872",
     "Quote Amount": "Pending",
     "Closing Date": "11/08/2026",
     "Stage": "In Progress",
