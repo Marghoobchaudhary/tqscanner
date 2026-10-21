@@ -1,71 +1,5 @@
 [
   {
-    "Seller Name": "BRIAN GRANDBERRY",
-    "Service Address": "1624 FAHRPARK CT",
-    "Zip Code": "63146",
-    "Locator": "16O631290",
-    "Quote ID": "557111",
-    "Quote Amount": "$1141.06",
-    "Closing Date": "10/21/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SHANNA BUNN",
-    "Service Address": "4407 EMINENCE BLVD",
-    "Zip Code": "63134",
-    "Locator": "13K530833",
-    "Quote ID": "557109",
-    "Quote Amount": "$789.95",
-    "Closing Date": "10/21/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RANDY KROTZ",
-    "Service Address": "507 SHADOWRIDGE DR",
-    "Zip Code": "63011",
-    "Locator": "22U130363",
-    "Quote ID": "557048",
-    "Quote Amount": "$286.83",
-    "Closing Date": "10/21/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TIMOTHY KELLY",
-    "Service Address": "6421 ALABAMA AVE",
-    "Zip Code": "63111",
-    "Locator": "29660001700",
-    "Quote ID": "557031",
-    "Quote Amount": "$4275.71",
-    "Closing Date": "10/21/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "WILLIE G WREEN",
-    "Service Address": "5742 PARK LN",
-    "Zip Code": "63147",
-    "Locator": "57990004600",
-    "Quote ID": "557018",
-    "Quote Amount": "$3703.67",
-    "Closing Date": "10/21/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GERALD HUDSON",
-    "Service Address": "1911 VINITA DR",
-    "Zip Code": "63114",
-    "Locator": "16J430775",
-    "Quote ID": "556973",
-    "Quote Amount": "$764.99",
-    "Closing Date": "10/21/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "CHARLES JOHNSON",
     "Service Address": "1236 KROEGER DR",
     "Zip Code": "63135",
@@ -891,6 +825,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "SCOTT CORRIGAN",
+    "Service Address": "4660 VILLA KNOLL DR",
+    "Zip Code": "63128",
+    "Locator": "30K530544",
+    "Quote ID": "559022",
+    "Quote Amount": "$459.75",
+    "Closing Date": "11/09/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LATASCHA WALKER",
+    "Service Address": "2180 GRANTS PKY",
+    "Zip Code": "63031",
+    "Locator": "06J110269",
+    "Quote ID": "559021",
+    "Quote Amount": "$389.67",
+    "Closing Date": "11/09/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "CANDICE EVANS",
     "Service Address": "3709 ST KEVIN PARK DR",
     "Zip Code": "63074",
@@ -1096,6 +1052,28 @@
     "Quote ID": "558756",
     "Quote Amount": "Pending",
     "Closing Date": "11/08/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WILLIE & FRANCINE EDWARDS",
+    "Service Address": "1816 MINNEFORD DR",
+    "Zip Code": "63136",
+    "Locator": "10G241247",
+    "Quote ID": "559023",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/09/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DAVID W BARTHEL",
+    "Service Address": "1109 STORMYOAK DR",
+    "Zip Code": "63021",
+    "Locator": "24R210482",
+    "Quote ID": "559020",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/09/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
