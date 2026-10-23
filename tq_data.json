@@ -539,17 +539,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "RICHARD A KONSEWICZ",
-    "Service Address": "3647 KOELN AVE",
-    "Zip Code": "63116",
-    "Locator": "32770002700",
-    "Quote ID": "558524",
-    "Quote Amount": "$191.11",
-    "Closing Date": "11/04/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "NAYELITH L GAMA",
     "Service Address": "4443 ITASKA ST",
     "Zip Code": "63116",
@@ -946,6 +935,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MATT BYRD",
+    "Service Address": "2727 DAWNVIEW DR",
+    "Zip Code": "63031",
+    "Locator": "06J420128",
+    "Quote ID": "559268",
+    "Quote Amount": "$3288.40",
+    "Closing Date": "11/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "WILLIE TURNER",
     "Service Address": "728 COACH LIGHT LN",
     "Zip Code": "63042",
@@ -974,6 +974,28 @@
     "Locator": "16N230726",
     "Quote ID": "559218",
     "Quote Amount": "$1889.13",
+    "Closing Date": "11/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "YVETTE THOMAS",
+    "Service Address": "862 RIVERVIEW BLVD",
+    "Zip Code": "63147",
+    "Locator": "63640001300",
+    "Quote ID": "559213",
+    "Quote Amount": "$7176.87",
+    "Closing Date": "11/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "NORMA L ANDRADE",
+    "Service Address": "4354 POTOMAC ST",
+    "Zip Code": "63116",
+    "Locator": "59660000400",
+    "Quote ID": "559209",
+    "Quote Amount": "$4828.43",
     "Closing Date": "11/11/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1018,6 +1040,17 @@
     "Locator": "12O220409",
     "Quote ID": "559255",
     "Quote Amount": "$3424.64",
+    "Closing Date": "11/12/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "HOMETURN INNOVATIONS LLC",
+    "Service Address": "6806 ARDALE DR",
+    "Zip Code": "63123",
+    "Locator": "25J130396",
+    "Quote ID": "559253",
+    "Quote Amount": "$1149.01",
     "Closing Date": "11/12/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1129,50 +1162,6 @@
     "Quote ID": "558761",
     "Quote Amount": "Pending",
     "Closing Date": "11/08/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MATT BYRD",
-    "Service Address": "2727 DAWNVIEW DR",
-    "Zip Code": "63031",
-    "Locator": "06J420128",
-    "Quote ID": "559268",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/11/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "YVETTE THOMAS",
-    "Service Address": "862 RIVERVIEW BLVD",
-    "Zip Code": "63147",
-    "Locator": "63640001300",
-    "Quote ID": "559213",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/11/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "NORMA L ANDRADE",
-    "Service Address": "4354 POTOMAC ST",
-    "Zip Code": "63116",
-    "Locator": "59660000400",
-    "Quote ID": "559209",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/11/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "HOMETURN INNOVATIONS LLC",
-    "Service Address": "6806 ARDALE DR",
-    "Zip Code": "63123",
-    "Locator": "25J130396",
-    "Quote ID": "559253",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/12/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
