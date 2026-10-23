@@ -924,6 +924,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "TOPSTONE INV STL 1 LLC",
+    "Service Address": "4317 DRYDEN AVE",
+    "Zip Code": "63115",
+    "Locator": "44150701400",
+    "Quote ID": "559277",
+    "Quote Amount": "$1968.73",
+    "Closing Date": "11/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SHEANEATHER FORD",
+    "Service Address": "3857 WATERSEDGE DR",
+    "Zip Code": "63034",
+    "Locator": "05J320478",
+    "Quote ID": "559272",
+    "Quote Amount": "$521.25",
+    "Closing Date": "11/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "WILLIE TURNER",
     "Service Address": "728 COACH LIGHT LN",
     "Zip Code": "63042",
@@ -942,6 +964,28 @@
     "Quote ID": "559223",
     "Quote Amount": "$304.02",
     "Closing Date": "11/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KENNETH MC CLENDON",
+    "Service Address": "1334 MIRANDY CT",
+    "Zip Code": "63146",
+    "Locator": "16N230726",
+    "Quote ID": "559218",
+    "Quote Amount": "$1889.13",
+    "Closing Date": "11/11/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MICHELLE CRUTCHER",
+    "Service Address": "9832 VICKSBURG SIEGE CT",
+    "Zip Code": "63123",
+    "Locator": "26K230221",
+    "Quote ID": "559262",
+    "Quote Amount": "$2979.18",
+    "Closing Date": "11/12/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -968,6 +1012,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JESSICA SUMNER",
+    "Service Address": "2687 BENNINGTON PL",
+    "Zip Code": "63043",
+    "Locator": "12O220409",
+    "Quote ID": "559255",
+    "Quote Amount": "$3424.64",
+    "Closing Date": "11/12/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KAREN ANDERSON",
+    "Service Address": "13604 MASON OAKS LN",
+    "Zip Code": "63131",
+    "Locator": "22P220465",
+    "Quote ID": "559250",
+    "Quote Amount": "$1385.46",
+    "Closing Date": "11/12/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "DENNIS BOST",
     "Service Address": "1433 COMET DR-63137",
     "Zip Code": "63137",
@@ -986,6 +1052,17 @@
     "Quote ID": "558943",
     "Quote Amount": "$2046.37",
     "Closing Date": "11/18/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WILLIAM & JENNIFER RANDLE",
+    "Service Address": "9921 FONDA DR-63137",
+    "Zip Code": "63137",
+    "Locator": "11F330363",
+    "Quote ID": "559275",
+    "Quote Amount": "$1272.54",
+    "Closing Date": "11/19/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1056,33 +1133,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "SHEANEATHER FORD",
-    "Service Address": "3857 WATERSEDGE DR",
-    "Zip Code": "63034",
-    "Locator": "05J320478",
-    "Quote ID": "559272",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/11/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "MATT BYRD",
     "Service Address": "2727 DAWNVIEW DR",
     "Zip Code": "63031",
     "Locator": "06J420128",
     "Quote ID": "559268",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/11/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KENNETH MC CLENDON",
-    "Service Address": "1334 MIRANDY CT",
-    "Zip Code": "63146",
-    "Locator": "16N230726",
-    "Quote ID": "559218",
     "Quote Amount": "Pending",
     "Closing Date": "11/11/2026",
     "Stage": "In Progress",
@@ -1111,44 +1166,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "MICHELLE CRUTCHER",
-    "Service Address": "9832 VICKSBURG SIEGE CT",
-    "Zip Code": "63123",
-    "Locator": "26K230221",
-    "Quote ID": "559262",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/12/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JESSICA SUMNER",
-    "Service Address": "2687 BENNINGTON PL",
-    "Zip Code": "63043",
-    "Locator": "12O220409",
-    "Quote ID": "559255",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/12/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "HOMETURN INNOVATIONS LLC",
     "Service Address": "6806 ARDALE DR",
     "Zip Code": "63123",
     "Locator": "25J130396",
     "Quote ID": "559253",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/12/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KAREN ANDERSON",
-    "Service Address": "13604 MASON OAKS LN",
-    "Zip Code": "63131",
-    "Locator": "22P220465",
-    "Quote ID": "559250",
     "Quote Amount": "Pending",
     "Closing Date": "11/12/2026",
     "Stage": "In Progress",
@@ -1162,17 +1184,6 @@
     "Quote ID": "559276",
     "Quote Amount": "Pending",
     "Closing Date": "11/18/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "WILLIAM & JENNIFER RANDLE",
-    "Service Address": "9921 FONDA DR-63137",
-    "Zip Code": "63137",
-    "Locator": "11F330363",
-    "Quote ID": "559275",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/19/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
