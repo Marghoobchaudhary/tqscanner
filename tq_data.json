@@ -1078,6 +1078,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "BOBBIE JONES",
+    "Service Address": "3905 MCCARRON CT",
+    "Zip Code": "63034",
+    "Locator": "04J320170",
+    "Quote ID": "559276",
+    "Quote Amount": "$7845.86",
+    "Closing Date": "11/18/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "CANDICE EVANS",
     "Service Address": "3709 ST KEVIN PARK DR",
     "Zip Code": "63074",
@@ -1162,17 +1173,6 @@
     "Quote ID": "558761",
     "Quote Amount": "Pending",
     "Closing Date": "11/08/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BOBBIE JONES",
-    "Service Address": "3905 MCCARRON CT",
-    "Zip Code": "63034",
-    "Locator": "04J320170",
-    "Quote ID": "559276",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/18/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
