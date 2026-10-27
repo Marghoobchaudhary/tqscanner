@@ -451,6 +451,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "RONALD W SCHERER",
+    "Service Address": "7901 MINNESOTA AVE",
+    "Zip Code": "63111",
+    "Locator": "31450000200",
+    "Quote ID": "558557",
+    "Quote Amount": "$8422.09",
+    "Closing Date": "11/04/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "NAYELITH L GAMA",
     "Service Address": "4443 ITASKA ST",
     "Zip Code": "63116",
@@ -759,6 +770,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "NURSES TOUCH RESIDENTIAL CARE",
+    "Service Address": "2754 BACON ST-63106",
+    "Zip Code": "63106",
+    "Locator": "18940000900",
+    "Quote ID": "558761",
+    "Quote Amount": "$6644.06",
+    "Closing Date": "11/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "EVERGREEN SERIES HOLDINGS",
     "Service Address": "3718 BAMBERGER AVE",
     "Zip Code": "63116",
@@ -979,6 +1001,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ARTHUR AND TAMMY WILLIAMS",
+    "Service Address": "12947 BROADRIDGE LN",
+    "Zip Code": "63033",
+    "Locator": "07G310376",
+    "Quote ID": "559497",
+    "Quote Amount": "$96.34",
+    "Closing Date": "11/15/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "RUTH M FECHTER",
+    "Service Address": "14016 CALCUTTA DR",
+    "Zip Code": "63017",
+    "Locator": "17Q140292",
+    "Quote ID": "559496",
+    "Quote Amount": "$97.76",
+    "Closing Date": "11/15/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "DENNIS BOST",
     "Service Address": "1433 COMET DR-63137",
     "Zip Code": "63137",
@@ -1067,24 +1111,13 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "RONALD W SCHERER",
-    "Service Address": "7901 MINNESOTA AVE",
-    "Zip Code": "63111",
-    "Locator": "31450000200",
-    "Quote ID": "558557",
+    "Seller Name": "SARAH STUDENT",
+    "Service Address": "250 HUMES LN-63031",
+    "Zip Code": "63031",
+    "Locator": "07J510187",
+    "Quote ID": "559495",
     "Quote Amount": "Pending",
-    "Closing Date": "11/04/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "NURSES TOUCH RESIDENTIAL CARE",
-    "Service Address": "2754 BACON ST-63106",
-    "Zip Code": "63106",
-    "Locator": "18940000900",
-    "Quote ID": "558761",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/08/2026",
+    "Closing Date": "11/15/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
