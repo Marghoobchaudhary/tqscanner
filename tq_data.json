@@ -451,17 +451,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "ANN DONOHUE",
-    "Service Address": "4415 NEOSHO ST",
-    "Zip Code": "63116",
-    "Locator": "55430003000",
-    "Quote ID": "558493",
-    "Quote Amount": "$2000.66",
-    "Closing Date": "11/04/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "DARIUS EUGENE & JACQUE JONES",
     "Service Address": "4721 GENEVIEVE AVE",
     "Zip Code": "63120",
@@ -935,6 +924,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "BENJAMIN AND SHIRLEY REED",
+    "Service Address": "5638 PARK LN",
+    "Zip Code": "63136",
+    "Locator": "57830000700",
+    "Quote ID": "559516",
+    "Quote Amount": "$687.91",
+    "Closing Date": "11/15/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "LATANYA PATRICK",
     "Service Address": "3878 MARINE AVE",
     "Zip Code": "63118",
@@ -964,6 +964,50 @@
     "Quote ID": "559496",
     "Quote Amount": "$97.76",
     "Closing Date": "11/15/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "STANLEY GERALD SMITH",
+    "Service Address": "2245 W WEDGWOOD DR",
+    "Zip Code": "63033",
+    "Locator": "06J320963",
+    "Quote ID": "559571",
+    "Quote Amount": "$976.76",
+    "Closing Date": "11/17/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JESSE WILLIAMS",
+    "Service Address": "7001 HEEGE RD",
+    "Zip Code": "63123",
+    "Locator": "24K320221",
+    "Quote ID": "559569",
+    "Quote Amount": "$402.58",
+    "Closing Date": "11/17/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "WILLIAM BIESIADA",
+    "Service Address": "11808 WEXFORD PLACE DR",
+    "Zip Code": "63043",
+    "Locator": "13N130757",
+    "Quote ID": "559561",
+    "Quote Amount": "$205.91",
+    "Closing Date": "11/17/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "EVERLEAN WILLIAMS",
+    "Service Address": "2906 SAINT VINCENT AVE",
+    "Zip Code": "63104",
+    "Locator": "21540003300",
+    "Quote ID": "559558",
+    "Quote Amount": "$337.80",
+    "Closing Date": "11/17/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
