@@ -1,71 +1,5 @@
 [
   {
-    "Seller Name": "VONDA PEETE",
-    "Service Address": "1222 ORCHID AVE",
-    "Zip Code": "63147",
-    "Locator": "42860600400",
-    "Quote ID": "557638",
-    "Quote Amount": "$1635.35",
-    "Closing Date": "10/27/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SUSIE W PERSON",
-    "Service Address": "2831 COLONIAL AVE",
-    "Zip Code": "63121",
-    "Locator": "15H210609",
-    "Quote ID": "557738",
-    "Quote Amount": "$327.17",
-    "Closing Date": "10/27/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SOLSTAZE LLC",
-    "Service Address": "2529 LESLIE AVE",
-    "Zip Code": "63114",
-    "Locator": "14L210331",
-    "Quote ID": "557737",
-    "Quote Amount": "$1065.71",
-    "Closing Date": "10/27/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JANELLE L MANNING",
-    "Service Address": "339 GAGE DR",
-    "Zip Code": "63135",
-    "Locator": "12G410416",
-    "Quote ID": "557735",
-    "Quote Amount": "$2038.70",
-    "Closing Date": "10/27/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JULIO CESAR PALACIOS",
-    "Service Address": "3844 OHIO AVE",
-    "Zip Code": "63118",
-    "Locator": "16450000100",
-    "Quote ID": "557734",
-    "Quote Amount": "$5451.34",
-    "Closing Date": "10/27/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "FELICIA HOLMES",
-    "Service Address": "1247 SELLS AVE",
-    "Zip Code": "63147",
-    "Locator": "42470201600",
-    "Quote ID": "557732",
-    "Quote Amount": "$0.00",
-    "Closing Date": "10/27/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "ANDREW STROHMEYER",
     "Service Address": "4269 JUNIATA ST",
     "Zip Code": "63116",
@@ -997,6 +931,17 @@
     "Quote ID": "559250",
     "Quote Amount": "$1385.46",
     "Closing Date": "11/12/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LATANYA PATRICK",
+    "Service Address": "3878 MARINE AVE",
+    "Zip Code": "63118",
+    "Locator": "17620000100",
+    "Quote ID": "559498",
+    "Quote Amount": "$1134.06",
+    "Closing Date": "11/15/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
