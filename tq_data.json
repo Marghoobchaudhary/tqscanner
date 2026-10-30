@@ -869,6 +869,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "DAVID JACKSON",
+    "Service Address": "5124 MAFFITT AVE",
+    "Zip Code": "63113",
+    "Locator": "45020502100",
+    "Quote ID": "559839",
+    "Quote Amount": "$2167.25",
+    "Closing Date": "11/17/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "RONALD BUMPUS",
     "Service Address": "6154 W PARK AVE",
     "Zip Code": "63139",
@@ -1067,6 +1078,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ERIC JACOBSON",
+    "Service Address": "245 RUE ST DENIS ST",
+    "Zip Code": "63031",
+    "Locator": "08J430130",
+    "Quote ID": "559854",
+    "Quote Amount": "$4521.30",
+    "Closing Date": "11/18/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "BARBARA C BROOKS",
     "Service Address": "4334 EDGEWOOD BLVD",
     "Zip Code": "63121",
@@ -1199,17 +1221,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "DAVID JACKSON",
-    "Service Address": "5124 MAFFITT AVE",
-    "Zip Code": "63113",
-    "Locator": "45020502100",
-    "Quote ID": "559839",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/17/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "NICOLE JOHNSON",
     "Service Address": "306 LITHIA AVE",
     "Zip Code": "63119",
@@ -1226,17 +1237,6 @@
     "Zip Code": "63121",
     "Locator": "14H440665",
     "Quote ID": "559827",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/18/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ERIC JACOBSON",
-    "Service Address": "245 RUE ST DENIS ST",
-    "Zip Code": "63031",
-    "Locator": "08J430130",
-    "Quote ID": "559854",
     "Quote Amount": "Pending",
     "Closing Date": "11/18/2026",
     "Stage": "In Progress",
