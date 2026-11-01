@@ -1,49 +1,5 @@
 [
   {
-    "Seller Name": "ANTHONY QUINTANA",
-    "Service Address": "4707 MINNESOTA AVE",
-    "Zip Code": "63111",
-    "Locator": "27590002400",
-    "Quote ID": "558102",
-    "Quote Amount": "$3337.40",
-    "Closing Date": "11/01/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PATRICK JOHNSON",
-    "Service Address": "7020 CLAREMORE DR",
-    "Zip Code": "63121",
-    "Locator": "15H230061",
-    "Quote ID": "558099",
-    "Quote Amount": "$2116.09",
-    "Closing Date": "11/01/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MARK AND SUSAN STRAUTMANN",
-    "Service Address": "12646 WHISPERING HILLS LN",
-    "Zip Code": "63146",
-    "Locator": "16O410387",
-    "Quote ID": "558020",
-    "Quote Amount": "$229.22",
-    "Closing Date": "11/01/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "STEVEN J LANG",
-    "Service Address": "3001 QUIET LN-63114",
-    "Zip Code": "63114",
-    "Locator": "14L331090",
-    "Quote ID": "557228",
-    "Quote Amount": "$9819.68",
-    "Closing Date": "11/01/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "CHRISTINA HERRING",
     "Service Address": "1465 VERLENE DR",
     "Zip Code": "63031",
@@ -1184,6 +1140,17 @@
     "Quote ID": "559275",
     "Quote Amount": "$1272.54",
     "Closing Date": "11/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MELVEAN MAYO",
+    "Service Address": "3522 MISSOURI AVE",
+    "Zip Code": "63118",
+    "Locator": "15560000600",
+    "Quote ID": "560000",
+    "Quote Amount": "$801.28",
+    "Closing Date": "11/22/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
