@@ -1,49 +1,5 @@
 [
   {
-    "Seller Name": "CHRISTINA HERRING",
-    "Service Address": "1465 VERLENE DR",
-    "Zip Code": "63031",
-    "Locator": "06K311052",
-    "Quote ID": "558248",
-    "Quote Amount": "$1823.40",
-    "Closing Date": "11/02/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JEFFREY BROWN KAREN &",
-    "Service Address": "8505 ELGIN AVE-63123",
-    "Zip Code": "63123",
-    "Locator": "25J610029",
-    "Quote ID": "558247",
-    "Quote Amount": "$998.80",
-    "Closing Date": "11/02/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ARMETHEUS JONES",
-    "Service Address": "10404 PRESLEY RD",
-    "Zip Code": "63137",
-    "Locator": "11D411297",
-    "Quote ID": "558246",
-    "Quote Amount": "$338.21",
-    "Closing Date": "11/02/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "5 PATORAL FAMILY TRUST",
-    "Service Address": "5 PASTORAL CT",
-    "Zip Code": "63033",
-    "Locator": "08H310365",
-    "Quote ID": "558245",
-    "Quote Amount": "$553.66",
-    "Closing Date": "11/02/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "JUANITA JONES",
     "Service Address": "721 N ELM AVE-63119",
     "Zip Code": "63119",
@@ -924,6 +880,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "NICOLE JOHNSON",
+    "Service Address": "306 LITHIA AVE",
+    "Zip Code": "63119",
+    "Locator": "22L621530",
+    "Quote ID": "559836",
+    "Quote Amount": "$6348.51",
+    "Closing Date": "11/18/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ALISHA LOVE KNOX",
     "Service Address": "57 MOSELLE CT",
     "Zip Code": "63031",
@@ -952,6 +919,17 @@
     "Locator": "11E430062",
     "Quote ID": "559828",
     "Quote Amount": "$828.21",
+    "Closing Date": "11/18/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CLEOPHUS JEROME SNEED JR",
+    "Service Address": "7828 CONTOUR DR",
+    "Zip Code": "63121",
+    "Locator": "14H440665",
+    "Quote ID": "559827",
+    "Quote Amount": "$3404.48",
     "Closing Date": "11/18/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1133,6 +1111,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JOHNATHA STALLWORTH KATRINA &",
+    "Service Address": "6849 FINCHDALE CT",
+    "Zip Code": "63033",
+    "Locator": "07F630301",
+    "Quote ID": "559846",
+    "Quote Amount": "$5502.21",
+    "Closing Date": "11/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "WILLIAM & JENNIFER RANDLE",
     "Service Address": "9921 FONDA DR-63137",
     "Zip Code": "63137",
@@ -1144,6 +1133,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "3211 PORTIS AVE INDUSTRIES LLC",
+    "Service Address": "3211 PORTIS AVE",
+    "Zip Code": "63116",
+    "Locator": "52790000400",
+    "Quote ID": "560047",
+    "Quote Amount": "$3545.76",
+    "Closing Date": "11/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MLRS PROPERTIES LLC",
+    "Service Address": "4567 ARLINGTON AVE",
+    "Zip Code": "63120",
+    "Locator": "55620002000",
+    "Quote ID": "560037",
+    "Quote Amount": "$2141.71",
+    "Closing Date": "11/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MELVEAN MAYO",
     "Service Address": "3522 MISSOURI AVE",
     "Zip Code": "63118",
@@ -1151,6 +1162,39 @@
     "Quote ID": "560000",
     "Quote Amount": "$801.28",
     "Closing Date": "11/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ROYALTY ENTERPRISES LLC",
+    "Service Address": "3701 KOSSUTH AVE",
+    "Zip Code": "63107",
+    "Locator": "19290002650",
+    "Quote ID": "560006",
+    "Quote Amount": "$43364.39",
+    "Closing Date": "12/01/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JOSEPH SCHRAMPF",
+    "Service Address": "6726 HANCOCK AVE",
+    "Zip Code": "63139",
+    "Locator": "47700001600",
+    "Quote ID": "560005",
+    "Quote Amount": "$2787.55",
+    "Closing Date": "12/01/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "PAUL BECK",
+    "Service Address": "2045 BLENDON PL",
+    "Zip Code": "63143",
+    "Locator": "48290401200",
+    "Quote ID": "560004",
+    "Quote Amount": "$8833.91",
+    "Closing Date": "12/01/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1210,35 +1254,57 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "NICOLE JOHNSON",
-    "Service Address": "306 LITHIA AVE",
-    "Zip Code": "63119",
-    "Locator": "22L621530",
-    "Quote ID": "559836",
+    "Seller Name": "MARK STOUT",
+    "Service Address": "3 STORKWAY CT",
+    "Zip Code": "63031",
+    "Locator": "07K431249",
+    "Quote ID": "560115",
     "Quote Amount": "Pending",
-    "Closing Date": "11/18/2026",
+    "Closing Date": "11/22/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "CLEOPHUS JEROME SNEED JR",
-    "Service Address": "7828 CONTOUR DR",
-    "Zip Code": "63121",
-    "Locator": "14H440665",
-    "Quote ID": "559827",
+    "Seller Name": "KENNETH MURER AIMEE &",
+    "Service Address": "453 PINE BEND DR",
+    "Zip Code": "63005",
+    "Locator": "19W330255",
+    "Quote ID": "560105",
     "Quote Amount": "Pending",
-    "Closing Date": "11/18/2026",
+    "Closing Date": "11/22/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "JOHNATHA STALLWORTH KATRINA &",
-    "Service Address": "6849 FINCHDALE CT",
-    "Zip Code": "63033",
-    "Locator": "07F630301",
-    "Quote ID": "559846",
+    "Seller Name": "MARK HUSE",
+    "Service Address": "131 W ETTA AVE",
+    "Zip Code": "63125",
+    "Locator": "27G131801",
+    "Quote ID": "560087",
     "Quote Amount": "Pending",
-    "Closing Date": "11/19/2026",
+    "Closing Date": "11/22/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ANTHONY NUNLEY",
+    "Service Address": "8536 CONCORD PL",
+    "Zip Code": "63147",
+    "Locator": "56370001900",
+    "Quote ID": "560042",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/22/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ROYALTY ENTERPRISES LLC",
+    "Service Address": "3719 KOSSUTH AVE",
+    "Zip Code": "63107",
+    "Locator": "19290003150",
+    "Quote ID": "560007",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/01/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
