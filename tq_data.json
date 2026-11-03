@@ -1,126 +1,5 @@
 [
   {
-    "Seller Name": "JUANITA JONES",
-    "Service Address": "721 N ELM AVE-63119",
-    "Zip Code": "63119",
-    "Locator": "22K431963",
-    "Quote ID": "558417",
-    "Quote Amount": "$2383.43",
-    "Closing Date": "11/03/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "VANESSA WILLIAMS",
-    "Service Address": "4 ST MARTHA CT",
-    "Zip Code": "63031",
-    "Locator": "09J330295",
-    "Quote ID": "558416",
-    "Quote Amount": "$727.36",
-    "Closing Date": "11/03/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ANISSA M GILLESPIE",
-    "Service Address": "2454 STONEY END CT",
-    "Zip Code": "63031",
-    "Locator": "06K540094",
-    "Quote ID": "558415",
-    "Quote Amount": "$1964.72",
-    "Closing Date": "11/03/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JORDAN & OLIVIA GARRETT",
-    "Service Address": "10415 ROSCOMMON DR",
-    "Zip Code": "63123",
-    "Locator": "27K530874",
-    "Quote ID": "558414",
-    "Quote Amount": "$2303.08",
-    "Closing Date": "11/03/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "STEFANIE WALLACE",
-    "Service Address": "1170 MAJESTIC DR",
-    "Zip Code": "63026",
-    "Locator": "28Q640561",
-    "Quote ID": "558413",
-    "Quote Amount": "$1379.18",
-    "Closing Date": "11/03/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "WILLIAM C YOUNG",
-    "Service Address": "6420 EVERGREEN BLVD",
-    "Zip Code": "63134",
-    "Locator": "11J430088",
-    "Quote ID": "558365",
-    "Quote Amount": "$88.65",
-    "Closing Date": "11/03/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DOROTHY THOMAS",
-    "Service Address": "1019 CRETE DR-63137",
-    "Zip Code": "63137",
-    "Locator": "11E411692",
-    "Quote ID": "558356",
-    "Quote Amount": "$626.09",
-    "Closing Date": "11/03/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DOUGLAS & DORIS KIRBY",
-    "Service Address": "12404 MERRICK DR",
-    "Zip Code": "63146",
-    "Locator": "16O530122",
-    "Quote ID": "558341",
-    "Quote Amount": "$595.48",
-    "Closing Date": "11/03/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "HAROLD PAUL",
-    "Service Address": "13203 WINDYGATE LN",
-    "Zip Code": "63146",
-    "Locator": "14P210030",
-    "Quote ID": "558340",
-    "Quote Amount": "$1093.20",
-    "Closing Date": "11/03/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JASON R ZARKER",
-    "Service Address": "926 N ELM AVE-63119",
-    "Zip Code": "63119",
-    "Locator": "22K440947",
-    "Quote ID": "558307",
-    "Quote Amount": "$4626.77",
-    "Closing Date": "11/03/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ANNIE EWING",
-    "Service Address": "6500 CREST AVE-63130",
-    "Zip Code": "63130",
-    "Locator": "17H122021",
-    "Quote ID": "558153",
-    "Quote Amount": "$476.08",
-    "Closing Date": "11/03/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "TRS, SHARDAY PLAIR",
     "Service Address": "7246 STOLLE ST",
     "Zip Code": "63116",
@@ -1111,17 +990,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "JOHNATHA STALLWORTH KATRINA &",
-    "Service Address": "6849 FINCHDALE CT",
-    "Zip Code": "63033",
-    "Locator": "07F630301",
-    "Quote ID": "559846",
-    "Quote Amount": "$5502.21",
-    "Closing Date": "11/19/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "WILLIAM & JENNIFER RANDLE",
     "Service Address": "9921 FONDA DR-63137",
     "Zip Code": "63137",
@@ -1129,6 +997,17 @@
     "Quote ID": "559275",
     "Quote Amount": "$1272.54",
     "Closing Date": "11/19/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ST LOUIS REDEVELOPMENT COMPANY",
+    "Service Address": "9544 WINKLER DR",
+    "Zip Code": "63136",
+    "Locator": "12G630580",
+    "Quote ID": "560198",
+    "Quote Amount": "$157.07",
+    "Closing Date": "11/22/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1316,6 +1195,17 @@
     "Quote ID": "560007",
     "Quote Amount": "Pending",
     "Closing Date": "12/01/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "RODERICK GREEN",
+    "Service Address": "3535 CALIFORNIA AVE",
+    "Zip Code": "63118",
+    "Locator": "15710001950",
+    "Quote ID": "560197",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/02/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
