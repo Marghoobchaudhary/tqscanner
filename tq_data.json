@@ -1133,12 +1133,56 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MARK STOUT",
+    "Service Address": "3 STORKWAY CT",
+    "Zip Code": "63031",
+    "Locator": "07K431249",
+    "Quote ID": "560115",
+    "Quote Amount": "$3880.31",
+    "Closing Date": "11/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KENNETH MURER AIMEE &",
+    "Service Address": "453 PINE BEND DR",
+    "Zip Code": "63005",
+    "Locator": "19W330255",
+    "Quote ID": "560105",
+    "Quote Amount": "$3351.36",
+    "Closing Date": "11/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MARK HUSE",
+    "Service Address": "131 W ETTA AVE",
+    "Zip Code": "63125",
+    "Locator": "27G131801",
+    "Quote ID": "560087",
+    "Quote Amount": "$3951.43",
+    "Closing Date": "11/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "3211 PORTIS AVE INDUSTRIES LLC",
     "Service Address": "3211 PORTIS AVE",
     "Zip Code": "63116",
     "Locator": "52790000400",
     "Quote ID": "560047",
     "Quote Amount": "$3545.76",
+    "Closing Date": "11/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ANTHONY NUNLEY",
+    "Service Address": "8536 CONCORD PL",
+    "Zip Code": "63147",
+    "Locator": "56370001900",
+    "Quote ID": "560042",
+    "Quote Amount": "$1815.96",
     "Closing Date": "11/22/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1162,6 +1206,17 @@
     "Quote ID": "560000",
     "Quote Amount": "$801.28",
     "Closing Date": "11/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "GEORGE SCHWABLE",
+    "Service Address": "720 LEMAY FERRY RD",
+    "Zip Code": "63125",
+    "Locator": "26G110782",
+    "Quote ID": "560118",
+    "Quote Amount": "$8436.05",
+    "Closing Date": "11/23/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1250,50 +1305,6 @@
     "Quote ID": "559359",
     "Quote Amount": "Pending",
     "Closing Date": "11/15/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MARK STOUT",
-    "Service Address": "3 STORKWAY CT",
-    "Zip Code": "63031",
-    "Locator": "07K431249",
-    "Quote ID": "560115",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/22/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KENNETH MURER AIMEE &",
-    "Service Address": "453 PINE BEND DR",
-    "Zip Code": "63005",
-    "Locator": "19W330255",
-    "Quote ID": "560105",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/22/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MARK HUSE",
-    "Service Address": "131 W ETTA AVE",
-    "Zip Code": "63125",
-    "Locator": "27G131801",
-    "Quote ID": "560087",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/22/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ANTHONY NUNLEY",
-    "Service Address": "8536 CONCORD PL",
-    "Zip Code": "63147",
-    "Locator": "56370001900",
-    "Quote ID": "560042",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/22/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
