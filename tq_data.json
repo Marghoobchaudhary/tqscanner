@@ -1101,6 +1101,17 @@
   },
   {
     "Seller Name": "ROYALTY ENTERPRISES LLC",
+    "Service Address": "3719 KOSSUTH AVE",
+    "Zip Code": "63107",
+    "Locator": "19290003150",
+    "Quote ID": "560007",
+    "Quote Amount": "$11174.96",
+    "Closing Date": "12/01/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ROYALTY ENTERPRISES LLC",
     "Service Address": "3701 KOSSUTH AVE",
     "Zip Code": "63107",
     "Locator": "19290002650",
@@ -1184,17 +1195,6 @@
     "Quote ID": "559359",
     "Quote Amount": "Pending",
     "Closing Date": "11/15/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ROYALTY ENTERPRISES LLC",
-    "Service Address": "3719 KOSSUTH AVE",
-    "Zip Code": "63107",
-    "Locator": "19290003150",
-    "Quote ID": "560007",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/01/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
