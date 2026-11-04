@@ -1,93 +1,5 @@
 [
   {
-    "Seller Name": "TRS, SHARDAY PLAIR",
-    "Service Address": "7246 STOLLE ST",
-    "Zip Code": "63116",
-    "Locator": "59910002200",
-    "Quote ID": "558558",
-    "Quote Amount": "$1126.63",
-    "Closing Date": "11/04/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RONALD W SCHERER",
-    "Service Address": "7901 MINNESOTA AVE",
-    "Zip Code": "63111",
-    "Locator": "31450000200",
-    "Quote ID": "558557",
-    "Quote Amount": "$8422.09",
-    "Closing Date": "11/04/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "NAYELITH L GAMA",
-    "Service Address": "4443 ITASKA ST",
-    "Zip Code": "63116",
-    "Locator": "55450004000",
-    "Quote ID": "558521",
-    "Quote Amount": "$2008.51",
-    "Closing Date": "11/04/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KIM MEECEY",
-    "Service Address": "4411 WALLACE ST",
-    "Zip Code": "63116",
-    "Locator": "55460002900",
-    "Quote ID": "558516",
-    "Quote Amount": "$911.96",
-    "Closing Date": "11/04/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JIM & LINDA O'HARA",
-    "Service Address": "5204 GRACE AVE",
-    "Zip Code": "63116",
-    "Locator": "47120001100",
-    "Quote ID": "558508",
-    "Quote Amount": "$878.47",
-    "Closing Date": "11/04/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JAMES C & EARLENE WEBB",
-    "Service Address": "3835 FINNEY AVE",
-    "Zip Code": "63113",
-    "Locator": "37380005100",
-    "Quote ID": "558504",
-    "Quote Amount": "$964.36",
-    "Closing Date": "11/04/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "PRESERVATION GROUP LLC",
-    "Service Address": "4503 ARCO AVE",
-    "Zip Code": "63110",
-    "Locator": "50420002700",
-    "Quote ID": "558499",
-    "Quote Amount": "$1310.28",
-    "Closing Date": "11/04/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DARIUS EUGENE & JACQUE JONES",
-    "Service Address": "4721 GENEVIEVE AVE",
-    "Zip Code": "63120",
-    "Locator": "56720104900",
-    "Quote ID": "558487",
-    "Quote Amount": "$1741.51",
-    "Closing Date": "11/04/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "QASIM M. BAJWA & NUZHAT NISAR",
     "Service Address": "104 COUNTRY CREEK CT",
     "Zip Code": "63011",
@@ -1085,6 +997,50 @@
     "Quote ID": "560000",
     "Quote Amount": "$801.28",
     "Closing Date": "11/22/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "QLM ENTERPRISES LLC",
+    "Service Address": "6655 COVENTRY DR",
+    "Zip Code": "63033",
+    "Locator": "08F540113",
+    "Quote ID": "560354",
+    "Quote Amount": "$1052.75",
+    "Closing Date": "11/23/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "QLM ENTERPRISES LLC",
+    "Service Address": "13935 OLD HALLS FERRY RD",
+    "Zip Code": "63034",
+    "Locator": "07G430201",
+    "Quote ID": "560353",
+    "Quote Amount": "$763.90",
+    "Closing Date": "11/23/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DEMETRIUS OWENS",
+    "Service Address": "6 SANDRINGHAM LN",
+    "Zip Code": "63135",
+    "Locator": "11H440613",
+    "Quote ID": "560352",
+    "Quote Amount": "$1685.36",
+    "Closing Date": "11/23/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SARAH MURRAY",
+    "Service Address": "233 HILLSDALE DR",
+    "Zip Code": "63011",
+    "Locator": "22S140171",
+    "Quote ID": "560351",
+    "Quote Amount": "$733.66",
+    "Closing Date": "11/23/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
