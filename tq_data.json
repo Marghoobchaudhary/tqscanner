@@ -1,181 +1,5 @@
 [
   {
-    "Seller Name": "AHMAD HINDS",
-    "Service Address": "805 SPRINTERS ROW DR",
-    "Zip Code": "63034",
-    "Locator": "05H230857",
-    "Quote ID": "557897",
-    "Quote Amount": "$145.21",
-    "Closing Date": "11/07/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RAHMAN WATSON",
-    "Service Address": "4260 CHERRY WOOD TRAIL DR",
-    "Zip Code": "63034",
-    "Locator": "05H330074",
-    "Quote ID": "558878",
-    "Quote Amount": "$7123.47",
-    "Closing Date": "11/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CARL V GARRETT",
-    "Service Address": "10361 NASHUA DR",
-    "Zip Code": "63136",
-    "Locator": "10G121448",
-    "Quote ID": "558876",
-    "Quote Amount": "$2154.62",
-    "Closing Date": "11/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MDW INVESTMENTS & CONSULTING",
-    "Service Address": "9325 LATROBE CT",
-    "Zip Code": "63114",
-    "Locator": "14K430013",
-    "Quote ID": "558875",
-    "Quote Amount": "$2339.64",
-    "Closing Date": "11/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RENELL STEWART",
-    "Service Address": "6554 PLYMOUTH AVE",
-    "Zip Code": "63130",
-    "Locator": "17H132350",
-    "Quote ID": "558874",
-    "Quote Amount": "$2725.86",
-    "Closing Date": "11/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SCOTT A BARTHELMASS",
-    "Service Address": "810 W WOODBINE AVE",
-    "Zip Code": "63122",
-    "Locator": "24N520220",
-    "Quote ID": "558872",
-    "Quote Amount": "$1382.38",
-    "Closing Date": "11/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RACQUEL S BROWN",
-    "Service Address": "13029 KINSLEY HEIGHTS DR",
-    "Zip Code": "63033",
-    "Locator": "07G240543",
-    "Quote ID": "558867",
-    "Quote Amount": "$3312.97",
-    "Closing Date": "11/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "RUTH BANKS TRUST",
-    "Service Address": "10025 KNOLLCREST CT",
-    "Zip Code": "63136",
-    "Locator": "11G140899",
-    "Quote ID": "558866",
-    "Quote Amount": "$72.29",
-    "Closing Date": "11/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DAN E REGELEAN",
-    "Service Address": "718 VILLA CAPRI CT",
-    "Zip Code": "63132",
-    "Locator": "17L330542",
-    "Quote ID": "558865",
-    "Quote Amount": "$115.91",
-    "Closing Date": "11/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "NURSES TOUCH RESIDENTIAL CARE",
-    "Service Address": "2754 BACON ST-63106",
-    "Zip Code": "63106",
-    "Locator": "18940000900",
-    "Quote ID": "558761",
-    "Quote Amount": "$6644.06",
-    "Closing Date": "11/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "EVERGREEN SERIES HOLDINGS",
-    "Service Address": "3718 BAMBERGER AVE",
-    "Zip Code": "63116",
-    "Locator": "56240000700",
-    "Quote ID": "558758",
-    "Quote Amount": "$4847.39",
-    "Closing Date": "11/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MICHAEL FAYNE",
-    "Service Address": "4525 CHOUTEAU AVE",
-    "Zip Code": "63110",
-    "Locator": "52330001300",
-    "Quote ID": "558756",
-    "Quote Amount": "$2091.36",
-    "Closing Date": "11/08/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "WILLIE & FRANCINE EDWARDS",
-    "Service Address": "1816 MINNEFORD DR",
-    "Zip Code": "63136",
-    "Locator": "10G241247",
-    "Quote ID": "559023",
-    "Quote Amount": "$9168.85",
-    "Closing Date": "11/09/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SCOTT CORRIGAN",
-    "Service Address": "4660 VILLA KNOLL DR",
-    "Zip Code": "63128",
-    "Locator": "30K530544",
-    "Quote ID": "559022",
-    "Quote Amount": "$459.75",
-    "Closing Date": "11/09/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LATASCHA WALKER",
-    "Service Address": "2180 GRANTS PKY",
-    "Zip Code": "63031",
-    "Locator": "06J110269",
-    "Quote ID": "559021",
-    "Quote Amount": "$389.67",
-    "Closing Date": "11/09/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DAVID W BARTHEL",
-    "Service Address": "1109 STORMYOAK DR",
-    "Zip Code": "63021",
-    "Locator": "24R210482",
-    "Quote ID": "559020",
-    "Quote Amount": "$6765.39",
-    "Closing Date": "11/09/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "TOPSTONE INV STL 1 LLC",
     "Service Address": "4317 DRYDEN AVE",
     "Zip Code": "63115",
@@ -924,6 +748,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "VIRGIA WATKINS",
+    "Service Address": "4023 BUGLE BEND DR",
+    "Zip Code": "63034",
+    "Locator": "05H110847",
+    "Quote ID": "560990",
+    "Quote Amount": "$168.32",
+    "Closing Date": "11/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JAMES SMITH",
+    "Service Address": "4064 PORTLAND RIDGE DR",
+    "Zip Code": "63034",
+    "Locator": "06G410475",
+    "Quote ID": "560989",
+    "Quote Amount": "$587.49",
+    "Closing Date": "11/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "GARY & PAULETTE JOHNSON",
     "Service Address": "9420 ECHO LN",
     "Zip Code": "63114",
@@ -1023,17 +869,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "ARAM ISTEPHAN",
-    "Service Address": "2695 MCKELVEY RD",
-    "Zip Code": "63043",
-    "Locator": "12O310393",
-    "Quote ID": "530816",
-    "Quote Amount": "Pending",
-    "Closing Date": "02/17/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "KAYLA RILEY",
     "Service Address": "224 AVENUE H ST",
     "Zip Code": "63125",
@@ -1063,6 +898,17 @@
     "Quote ID": "559359",
     "Quote Amount": "Pending",
     "Closing Date": "11/15/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DANIEL & COURTNEY DENTON",
+    "Service Address": "7313 SUMMERVIEW MANOR LN",
+    "Zip Code": "63129",
+    "Locator": "35J511183",
+    "Quote ID": "560991",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/29/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
