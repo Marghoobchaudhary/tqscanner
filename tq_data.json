@@ -748,6 +748,50 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "CONTINENTAL REAL ESTATE INVEST",
+    "Service Address": "3640 PENNSYLVANIA AVE",
+    "Zip Code": "63118",
+    "Locator": "16300000700",
+    "Quote ID": "560996",
+    "Quote Amount": "$1657.73",
+    "Closing Date": "11/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CONTINENTAL REAL ESTATE INVEST",
+    "Service Address": "3638 PENNSYLVANIA AVE",
+    "Zip Code": "63118",
+    "Locator": "16300000700",
+    "Quote ID": "560995",
+    "Quote Amount": "$1686.08",
+    "Closing Date": "11/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CONTINENTAL REAL ESTATE INVEST",
+    "Service Address": "3636 PENNSYLVANIA AVE",
+    "Zip Code": "63118",
+    "Locator": "16300000700",
+    "Quote ID": "560994",
+    "Quote Amount": "$1656.14",
+    "Closing Date": "11/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DANIEL & COURTNEY DENTON",
+    "Service Address": "7313 SUMMERVIEW MANOR LN",
+    "Zip Code": "63129",
+    "Locator": "35J511183",
+    "Quote ID": "560991",
+    "Quote Amount": "$3224.23",
+    "Closing Date": "11/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "VIRGIA WATKINS",
     "Service Address": "4023 BUGLE BEND DR",
     "Zip Code": "63034",
@@ -777,6 +821,17 @@
     "Quote ID": "560599",
     "Quote Amount": "$80.81",
     "Closing Date": "11/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DOROTHY SMITH",
+    "Service Address": "259 ALMA DR",
+    "Zip Code": "63042",
+    "Locator": "09K540448",
+    "Quote ID": "560992",
+    "Quote Amount": "$99.46",
+    "Closing Date": "11/30/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -902,11 +957,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "DANIEL & COURTNEY DENTON",
-    "Service Address": "7313 SUMMERVIEW MANOR LN",
-    "Zip Code": "63129",
-    "Locator": "35J511183",
-    "Quote ID": "560991",
+    "Seller Name": "JOANN MORRIS",
+    "Service Address": "4040 COOK AVE",
+    "Zip Code": "63113",
+    "Locator": "37420000820",
+    "Quote ID": "560993",
     "Quote Amount": "Pending",
     "Closing Date": "11/29/2026",
     "Stage": "In Progress",
@@ -931,6 +986,17 @@
     "Quote ID": "560652",
     "Quote Amount": "Pending",
     "Closing Date": "12/03/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DIANA LEWIS",
+    "Service Address": "1357 SWITZER AVE",
+    "Zip Code": "63147",
+    "Locator": "42460004850",
+    "Quote ID": "560997",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/09/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
