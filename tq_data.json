@@ -1,93 +1,5 @@
 [
   {
-    "Seller Name": "TOPSTONE INV STL 1 LLC",
-    "Service Address": "4317 DRYDEN AVE",
-    "Zip Code": "63115",
-    "Locator": "44150701400",
-    "Quote ID": "559277",
-    "Quote Amount": "$1968.73",
-    "Closing Date": "11/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SHEANEATHER FORD",
-    "Service Address": "3857 WATERSEDGE DR",
-    "Zip Code": "63034",
-    "Locator": "05J320478",
-    "Quote ID": "559272",
-    "Quote Amount": "$521.25",
-    "Closing Date": "11/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MATT BYRD",
-    "Service Address": "2727 DAWNVIEW DR",
-    "Zip Code": "63031",
-    "Locator": "06J420128",
-    "Quote ID": "559268",
-    "Quote Amount": "$3288.40",
-    "Closing Date": "11/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "WILLIE TURNER",
-    "Service Address": "728 COACH LIGHT LN",
-    "Zip Code": "63042",
-    "Locator": "08L330061",
-    "Quote ID": "559266",
-    "Quote Amount": "$704.35",
-    "Closing Date": "11/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "M JO & TIFFANI M BLACKMORE",
-    "Service Address": "2235 BARCELONA DR",
-    "Zip Code": "63033",
-    "Locator": "07H520705",
-    "Quote ID": "559223",
-    "Quote Amount": "$304.02",
-    "Closing Date": "11/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KENNETH MC CLENDON",
-    "Service Address": "1334 MIRANDY CT",
-    "Zip Code": "63146",
-    "Locator": "16N230726",
-    "Quote ID": "559218",
-    "Quote Amount": "$1889.13",
-    "Closing Date": "11/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "YVETTE THOMAS",
-    "Service Address": "862 RIVERVIEW BLVD",
-    "Zip Code": "63147",
-    "Locator": "63640001300",
-    "Quote ID": "559213",
-    "Quote Amount": "$7176.87",
-    "Closing Date": "11/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "NORMA L ANDRADE",
-    "Service Address": "4354 POTOMAC ST",
-    "Zip Code": "63116",
-    "Locator": "59660000400",
-    "Quote ID": "559209",
-    "Quote Amount": "$4828.43",
-    "Closing Date": "11/11/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "MICHELLE CRUTCHER",
     "Service Address": "9832 VICKSBURG SIEGE CT",
     "Zip Code": "63123",
@@ -836,6 +748,72 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JACQUELYN PAGE",
+    "Service Address": "5332 PRIORYBROOK RD",
+    "Zip Code": "63033",
+    "Locator": "09G640071",
+    "Quote ID": "561139",
+    "Quote Amount": "$169.70",
+    "Closing Date": "11/30/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "NICOLETTE ET AL J/T DELAROCHE",
+    "Service Address": "3253 BRIDGERIDGE DR",
+    "Zip Code": "63125",
+    "Locator": "29H120075",
+    "Quote ID": "561138",
+    "Quote Amount": "$627.98",
+    "Closing Date": "11/30/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ANISSA AND BYRON MOORE",
+    "Service Address": "1205 ST FRANCOIS ST",
+    "Zip Code": "63031",
+    "Locator": "08J240412",
+    "Quote ID": "561137",
+    "Quote Amount": "$1539.15",
+    "Closing Date": "11/30/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MATTHEW CALAC",
+    "Service Address": "10917 COSMOS DR",
+    "Zip Code": "63123",
+    "Locator": "26K110992",
+    "Quote ID": "561136",
+    "Quote Amount": "$3599.60",
+    "Closing Date": "11/30/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DENNIS LEIGHTON",
+    "Service Address": "2810 PARKER RD",
+    "Zip Code": "63033",
+    "Locator": "08H420288",
+    "Quote ID": "561133",
+    "Quote Amount": "$272.89",
+    "Closing Date": "11/30/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JEFFERY SCHRADER",
+    "Service Address": "9122 DELPHINE AVE",
+    "Zip Code": "63114",
+    "Locator": "14K130955",
+    "Quote ID": "561131",
+    "Quote Amount": "$197.71",
+    "Closing Date": "11/30/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "DOROTHY SMITH",
     "Service Address": "259 ALMA DR",
     "Zip Code": "63042",
@@ -843,6 +821,17 @@
     "Quote ID": "560992",
     "Quote Amount": "$99.46",
     "Closing Date": "11/30/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KYLE GONZALEZ",
+    "Service Address": "4362 OSCEOLA ST",
+    "Zip Code": "63116",
+    "Locator": "55750000400",
+    "Quote ID": "561143",
+    "Quote Amount": "$1460.50",
+    "Closing Date": "12/01/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -986,6 +975,50 @@
     "Quote ID": "559359",
     "Quote Amount": "Pending",
     "Closing Date": "11/15/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ANTHONY MCMULLEN",
+    "Service Address": "315 N LACLEDE STATION RD",
+    "Zip Code": "63119",
+    "Locator": "22J111165",
+    "Quote ID": "561135",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/30/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "THERESA WILLIAMS",
+    "Service Address": "11884 HIDDEN LAKE DR",
+    "Zip Code": "63138",
+    "Locator": "08E110762",
+    "Quote ID": "561134",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/30/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "HELEN JACKSON",
+    "Service Address": "1514 OAK GROVE AVE",
+    "Zip Code": "63133",
+    "Locator": "16H240243",
+    "Quote ID": "561132",
+    "Quote Amount": "Pending",
+    "Closing Date": "11/30/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DOBBYS DWELLINGS LLC",
+    "Service Address": "4127 W LEXINGTON AVE",
+    "Zip Code": "63115",
+    "Locator": "44410801700",
+    "Quote ID": "561141",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/01/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
