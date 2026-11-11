@@ -781,6 +781,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JOANN MORRIS",
+    "Service Address": "4040 COOK AVE",
+    "Zip Code": "63113",
+    "Locator": "37420000820",
+    "Quote ID": "560993",
+    "Quote Amount": "$6870.19",
+    "Closing Date": "11/29/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "DANIEL & COURTNEY DENTON",
     "Service Address": "7313 SUMMERVIEW MANOR LN",
     "Zip Code": "63129",
@@ -891,6 +902,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MATTHEW & ASHLEY HERCULES",
+    "Service Address": "2911 MERAMAR DR",
+    "Zip Code": "63129",
+    "Locator": "35J530113",
+    "Quote ID": "560645",
+    "Quote Amount": "$5577.57",
+    "Closing Date": "12/02/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "RODERICK GREEN",
     "Service Address": "3535 CALIFORNIA AVE",
     "Zip Code": "63118",
@@ -908,6 +930,17 @@
     "Locator": "27H331163",
     "Quote ID": "560700",
     "Quote Amount": "$5328.66",
+    "Closing Date": "12/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LETITIA FLOWERS",
+    "Service Address": "2460 CHURCHILL DOWNS DR",
+    "Zip Code": "63033",
+    "Locator": "08J620308",
+    "Quote ID": "560652",
+    "Quote Amount": "$6488.07",
     "Closing Date": "12/03/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -953,39 +986,6 @@
     "Quote ID": "559359",
     "Quote Amount": "Pending",
     "Closing Date": "11/15/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JOANN MORRIS",
-    "Service Address": "4040 COOK AVE",
-    "Zip Code": "63113",
-    "Locator": "37420000820",
-    "Quote ID": "560993",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/29/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MATTHEW & ASHLEY HERCULES",
-    "Service Address": "2911 MERAMAR DR",
-    "Zip Code": "63129",
-    "Locator": "35J530113",
-    "Quote ID": "560645",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/02/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LETITIA FLOWERS",
-    "Service Address": "2460 CHURCHILL DOWNS DR",
-    "Zip Code": "63033",
-    "Locator": "08J620308",
-    "Quote ID": "560652",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/03/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
