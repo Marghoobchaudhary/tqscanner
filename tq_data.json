@@ -121,6 +121,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "TYRONE D MARTIN",
+    "Service Address": "4815 CALVIN AVE",
+    "Zip Code": "63115",
+    "Locator": "43910203300",
+    "Quote ID": "559359",
+    "Quote Amount": "$10808.78",
+    "Closing Date": "11/15/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "MARK GORDON",
     "Service Address": "6370 GLENMORE AVE",
     "Zip Code": "63121",
@@ -770,23 +781,23 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "ANISSA AND BYRON MOORE",
-    "Service Address": "1205 ST FRANCOIS ST",
-    "Zip Code": "63031",
-    "Locator": "08J240412",
-    "Quote ID": "561137",
-    "Quote Amount": "$1539.15",
-    "Closing Date": "11/30/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "MATTHEW CALAC",
     "Service Address": "10917 COSMOS DR",
     "Zip Code": "63123",
     "Locator": "26K110992",
     "Quote ID": "561136",
     "Quote Amount": "$3599.60",
+    "Closing Date": "11/30/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "THERESA WILLIAMS",
+    "Service Address": "11884 HIDDEN LAKE DR",
+    "Zip Code": "63138",
+    "Locator": "08E110762",
+    "Quote ID": "561134",
+    "Quote Amount": "$2163.83",
     "Closing Date": "11/30/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -869,6 +880,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "KRISTI HIGGINS",
+    "Service Address": "400 RANCH DR-63011",
+    "Zip Code": "63011",
+    "Locator": "22R330577",
+    "Quote ID": "561196",
+    "Quote Amount": "$1391.84",
+    "Closing Date": "12/01/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "KYLE GONZALEZ",
     "Service Address": "4362 OSCEOLA ST",
     "Zip Code": "63116",
@@ -931,6 +953,17 @@
     "Quote ID": "560004",
     "Quote Amount": "$8833.91",
     "Closing Date": "12/01/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "VERNON L POSTLEWAIT",
+    "Service Address": "822 REED AVE",
+    "Zip Code": "63125",
+    "Locator": "27H641707",
+    "Quote ID": "561241",
+    "Quote Amount": "$1067.61",
+    "Closing Date": "12/02/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1023,33 +1056,11 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "TYRONE D MARTIN",
-    "Service Address": "4815 CALVIN AVE",
-    "Zip Code": "63115",
-    "Locator": "43910203300",
-    "Quote ID": "559359",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/15/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "ANTHONY MCMULLEN",
     "Service Address": "315 N LACLEDE STATION RD",
     "Zip Code": "63119",
     "Locator": "22J111165",
     "Quote ID": "561135",
-    "Quote Amount": "Pending",
-    "Closing Date": "11/30/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "THERESA WILLIAMS",
-    "Service Address": "11884 HIDDEN LAKE DR",
-    "Zip Code": "63138",
-    "Locator": "08E110762",
-    "Quote ID": "561134",
     "Quote Amount": "Pending",
     "Closing Date": "11/30/2026",
     "Stage": "In Progress",
@@ -1094,17 +1105,6 @@
     "Zip Code": "63121",
     "Locator": "14H530810",
     "Quote ID": "561198",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/01/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KRISTI HIGGINS",
-    "Service Address": "400 RANCH DR-63011",
-    "Zip Code": "63011",
-    "Locator": "22R330577",
-    "Quote ID": "561196",
     "Quote Amount": "Pending",
     "Closing Date": "12/01/2026",
     "Stage": "In Progress",
