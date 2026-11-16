@@ -1,82 +1,5 @@
 [
   {
-    "Seller Name": "MICHELLE CRUTCHER",
-    "Service Address": "9832 VICKSBURG SIEGE CT",
-    "Zip Code": "63123",
-    "Locator": "26K230221",
-    "Quote ID": "559262",
-    "Quote Amount": "$2979.18",
-    "Closing Date": "11/12/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "EFRAIN RICO HURTADO",
-    "Service Address": "3443 ASHBY RD-63074",
-    "Zip Code": "63074",
-    "Locator": "13M340911",
-    "Quote ID": "559261",
-    "Quote Amount": "$220.65",
-    "Closing Date": "11/12/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JOSEPH MURPHY",
-    "Service Address": "414 HARDING AVE",
-    "Zip Code": "63043",
-    "Locator": "14N440251",
-    "Quote ID": "559258",
-    "Quote Amount": "$531.20",
-    "Closing Date": "11/12/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JESSICA SUMNER",
-    "Service Address": "2687 BENNINGTON PL",
-    "Zip Code": "63043",
-    "Locator": "12O220409",
-    "Quote ID": "559255",
-    "Quote Amount": "$3424.64",
-    "Closing Date": "11/12/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "HOMETURN INNOVATIONS LLC",
-    "Service Address": "6806 ARDALE DR",
-    "Zip Code": "63123",
-    "Locator": "25J130396",
-    "Quote ID": "559253",
-    "Quote Amount": "$1149.01",
-    "Closing Date": "11/12/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KAREN ANDERSON",
-    "Service Address": "13604 MASON OAKS LN",
-    "Zip Code": "63131",
-    "Locator": "22P220465",
-    "Quote ID": "559250",
-    "Quote Amount": "$1385.46",
-    "Closing Date": "11/12/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BENJAMIN AND SHIRLEY REED",
-    "Service Address": "5638 PARK LN",
-    "Zip Code": "63136",
-    "Locator": "57830000700",
-    "Quote ID": "559516",
-    "Quote Amount": "$687.91",
-    "Closing Date": "11/15/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "LATANYA PATRICK",
     "Service Address": "3878 MARINE AVE",
     "Zip Code": "63118",
@@ -1265,6 +1188,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "L CROWLEY",
+    "Service Address": "1655 CROWDER DR",
+    "Zip Code": "63031",
+    "Locator": "07K620548",
+    "Quote ID": "561431",
+    "Quote Amount": "$1040.89",
+    "Closing Date": "12/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ERICA RUSAN",
     "Service Address": "6 CORNFLOWER CT",
     "Zip Code": "63033",
@@ -1371,6 +1305,28 @@
     "Quote ID": "531267",
     "Quote Amount": "Pending",
     "Closing Date": "02/24/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LAMAR HART",
+    "Service Address": "2605 SHIRLEY AVE",
+    "Zip Code": "63136",
+    "Locator": "13G520929",
+    "Quote ID": "561430",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/03/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CARROLLTON VILLAGE APTS",
+    "Service Address": "4143 GALLATIN LN APT A",
+    "Zip Code": "63044",
+    "Locator": "11N530333",
+    "Quote ID": "561310",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/07/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
