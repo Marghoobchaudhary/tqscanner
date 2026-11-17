@@ -1232,6 +1232,61 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JD SFR 2021 LLC",
+    "Service Address": "315 TESTON DR",
+    "Zip Code": "63135",
+    "Locator": "11H140744",
+    "Quote ID": "561575",
+    "Quote Amount": "$57.41",
+    "Closing Date": "12/06/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JAMES ADCOCK",
+    "Service Address": "13205 OLD JAMESTOWN RD",
+    "Zip Code": "63033",
+    "Locator": "07G340065",
+    "Quote ID": "561574",
+    "Quote Amount": "$17.68",
+    "Closing Date": "12/06/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "TEFIORNE FITZGERALD",
+    "Service Address": "5012 PAGE BLVD",
+    "Zip Code": "63113",
+    "Locator": "51530002000",
+    "Quote ID": "561571",
+    "Quote Amount": "$1988.72",
+    "Closing Date": "12/06/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "VIBRANT BLUE REALTY",
+    "Service Address": "3225 GRAVOIS AVE",
+    "Zip Code": "63118",
+    "Locator": "15000001500",
+    "Quote ID": "561569",
+    "Quote Amount": "$2433.95",
+    "Closing Date": "12/06/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "VIBRANT BLUE REALTY",
+    "Service Address": "3229 GRAVOIS AVE",
+    "Zip Code": "63118",
+    "Locator": "15000001600",
+    "Quote ID": "561567",
+    "Quote Amount": "$2433.95",
+    "Closing Date": "12/06/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "CARROLLTON VILLAGE APTS",
     "Service Address": "4143 GALLATIN LN APT A",
     "Zip Code": "63044",
@@ -1327,6 +1382,61 @@
     "Quote ID": "561430",
     "Quote Amount": "Pending",
     "Closing Date": "12/03/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "SCOTT A BARTHELMASS",
+    "Service Address": "806 W WOODBINE AVE",
+    "Zip Code": "63122",
+    "Locator": "24N520202",
+    "Quote ID": "561577",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/06/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "RISE UP INVESTMENTS LLC",
+    "Service Address": "785 PEBBLE LN",
+    "Zip Code": "63033",
+    "Locator": "09J640165",
+    "Quote ID": "561576",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/06/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CHRISTOPHER LOVE",
+    "Service Address": "8329 JACKSON AVE",
+    "Zip Code": "63114",
+    "Locator": "16K640922",
+    "Quote ID": "561573",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/06/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "EMILY & ANDREW REEVES",
+    "Service Address": "925 ERSKINE AVE",
+    "Zip Code": "63125",
+    "Locator": "27H621741",
+    "Quote ID": "561572",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/06/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BYRON J MILLER",
+    "Service Address": "8511 DRURY LN",
+    "Zip Code": "63147",
+    "Locator": "43330203700",
+    "Quote ID": "561570",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/06/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
