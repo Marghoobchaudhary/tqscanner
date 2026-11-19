@@ -231,17 +231,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "VIRGIA WATKINS",
-    "Service Address": "4023 BUGLE BEND DR",
-    "Zip Code": "63034",
-    "Locator": "05H110847",
-    "Quote ID": "560990",
-    "Quote Amount": "$168.32",
-    "Closing Date": "11/29/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "JAMES SMITH",
     "Service Address": "4064 PORTLAND RIDGE DR",
     "Zip Code": "63034",
@@ -1013,11 +1002,44 @@
   },
   {
     "Seller Name": "ST LOUIS 3 2022 LLC",
+    "Service Address": "1815 CEDAR GLEN DR",
+    "Zip Code": "63114",
+    "Locator": "16L530697",
+    "Quote ID": "561677",
+    "Quote Amount": "$5344.74",
+    "Closing Date": "12/07/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ST LOUIS 3 2022 LLC",
     "Service Address": "9715 CEDAR GLEN DR",
     "Zip Code": "63114",
     "Locator": "15L211924",
     "Quote ID": "561676",
     "Quote Amount": "$2770.92",
+    "Closing Date": "12/07/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ST LOUIS 3 2022 LLC",
+    "Service Address": "9707 CEDAR GLEN DR",
+    "Zip Code": "63114",
+    "Locator": "15L211924",
+    "Quote ID": "561675",
+    "Quote Amount": "$16627.68",
+    "Closing Date": "12/07/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ST LOUIS 3 2022 LLC",
+    "Service Address": "9633 CEDAR GLEN DR",
+    "Zip Code": "63114",
+    "Locator": "15L211924",
+    "Quote ID": "561673",
+    "Quote Amount": "$19273.78",
     "Closing Date": "12/07/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1166,6 +1188,39 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "MARGARET GIPSON",
+    "Service Address": "1245 YAQUI DR-63031",
+    "Zip Code": "63031",
+    "Locator": "08K410175",
+    "Quote ID": "561930",
+    "Quote Amount": "$71.66",
+    "Closing Date": "12/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "MAURNICE TIPTON",
+    "Service Address": "80 BELLERIVE ACRES ST",
+    "Zip Code": "63121",
+    "Locator": "14J240770",
+    "Quote ID": "561929",
+    "Quote Amount": "$287.84",
+    "Closing Date": "12/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JONATHAN FRANCZYK",
+    "Service Address": "2536 CIRCLE DR",
+    "Zip Code": "63143",
+    "Locator": "21J420363",
+    "Quote ID": "561913",
+    "Quote Amount": "$1913.54",
+    "Closing Date": "12/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "LAVINA FIELDS",
     "Service Address": "14521 ARPENT CT",
     "Zip Code": "63034",
@@ -1173,6 +1228,17 @@
     "Quote ID": "561733",
     "Quote Amount": "$647.54",
     "Closing Date": "12/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "RYAN, DESMOND T WILLIAM GREEN",
+    "Service Address": "4856 FARLIN AVE",
+    "Zip Code": "63115",
+    "Locator": "43890101200",
+    "Quote ID": "561935",
+    "Quote Amount": "$2577.19",
+    "Closing Date": "12/09/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1195,6 +1261,17 @@
     "Quote ID": "560997",
     "Quote Amount": "$10296.64",
     "Closing Date": "12/09/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BETTY S HILL",
+    "Service Address": "5042 ALABAMA AVE",
+    "Zip Code": "63111",
+    "Locator": "28060000200",
+    "Quote ID": "561936",
+    "Quote Amount": "$2004.28",
+    "Closing Date": "12/10/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1299,43 +1376,10 @@
   },
   {
     "Seller Name": "ST LOUIS 3 2022 LLC",
-    "Service Address": "1815 CEDAR GLEN DR",
-    "Zip Code": "63114",
-    "Locator": "16L530697",
-    "Quote ID": "561677",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/07/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ST LOUIS 3 2022 LLC",
-    "Service Address": "9707 CEDAR GLEN DR",
-    "Zip Code": "63114",
-    "Locator": "15L211924",
-    "Quote ID": "561675",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/07/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ST LOUIS 3 2022 LLC",
     "Service Address": "9701 CEDAR GLEN DR",
     "Zip Code": "63114",
     "Locator": "15L211924",
     "Quote ID": "561674",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/07/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ST LOUIS 3 2022 LLC",
-    "Service Address": "9633 CEDAR GLEN DR",
-    "Zip Code": "63114",
-    "Locator": "15L211924",
-    "Quote ID": "561673",
     "Quote Amount": "Pending",
     "Closing Date": "12/07/2026",
     "Stage": "In Progress",
@@ -1375,6 +1419,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "CONNIE L GOOCH",
+    "Service Address": "1713 DELLWOOD CT",
+    "Zip Code": "63136",
+    "Locator": "11G211335",
+    "Quote ID": "561903",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/08/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "DORNAY MOODY",
     "Service Address": "4537 NATURAL BRIDGE AVE",
     "Zip Code": "63115",
@@ -1404,6 +1459,39 @@
     "Quote ID": "561736",
     "Quote Amount": "Pending",
     "Closing Date": "12/08/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CORNELIOUS JORDAN",
+    "Service Address": "5567 HEBERT ST",
+    "Zip Code": "63120",
+    "Locator": "59310004200",
+    "Quote ID": "561934",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/09/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BRAD MCKINNEY",
+    "Service Address": "8636 GOODFELLOW BLVD",
+    "Zip Code": "63147",
+    "Locator": "43280200900",
+    "Quote ID": "561933",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/09/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KALINDA PEARSON",
+    "Service Address": "4108 OREGON AVE",
+    "Zip Code": "63118",
+    "Locator": "26250001300",
+    "Quote ID": "561932",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/09/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
