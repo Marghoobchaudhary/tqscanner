@@ -1,38 +1,5 @@
 [
   {
-    "Seller Name": "LINDA ZANGARA",
-    "Service Address": "7521 HAYWOOD DR",
-    "Zip Code": "63133",
-    "Locator": "16J520393",
-    "Quote ID": "559998",
-    "Quote Amount": "$218.31",
-    "Closing Date": "11/19/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "STL GROWTH DEVELOPMENT LLC",
-    "Service Address": "812 E TAYLOR AVE",
-    "Zip Code": "63147",
-    "Locator": "43980000501",
-    "Quote ID": "559997",
-    "Quote Amount": "$2485.67",
-    "Closing Date": "11/19/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "WILLIAM & JENNIFER RANDLE",
-    "Service Address": "9921 FONDA DR-63137",
-    "Zip Code": "63137",
-    "Locator": "11F330363",
-    "Quote ID": "559275",
-    "Quote Amount": "$1272.54",
-    "Closing Date": "11/19/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "ST LOUIS REDEVELOPMENT COMPANY",
     "Service Address": "9544 WINKLER DR",
     "Zip Code": "63136",
@@ -759,6 +726,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "AMBER MOSS",
+    "Service Address": "9163 RAMONA AVE",
+    "Zip Code": "63121",
+    "Locator": "14K640069",
+    "Quote ID": "561731",
+    "Quote Amount": "$1920.35",
+    "Closing Date": "12/03/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "L CROWLEY",
     "Service Address": "1655 CROWDER DR",
     "Zip Code": "63031",
@@ -1166,6 +1144,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "ANGELIA BEATTIE",
+    "Service Address": "2679 IRONDALE DR",
+    "Zip Code": "63129",
+    "Locator": "31J640928",
+    "Quote ID": "561746",
+    "Quote Amount": "$2039.51",
+    "Closing Date": "12/07/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "KYLE RICE",
     "Service Address": "1478 FLORA DEL DR",
     "Zip Code": "63026",
@@ -1232,12 +1221,34 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "SHARON HUSON",
+    "Service Address": "9918 LARK AVE",
+    "Zip Code": "63125",
+    "Locator": "28H641100",
+    "Quote ID": "561986",
+    "Quote Amount": "$530.61",
+    "Closing Date": "12/09/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "RYAN, DESMOND T WILLIAM GREEN",
     "Service Address": "4856 FARLIN AVE",
     "Zip Code": "63115",
     "Locator": "43890101200",
     "Quote ID": "561935",
     "Quote Amount": "$2577.19",
+    "Closing Date": "12/09/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "KALINDA PEARSON",
+    "Service Address": "4108 OREGON AVE",
+    "Zip Code": "63118",
+    "Locator": "26250001300",
+    "Quote ID": "561932",
+    "Quote Amount": "$4157.12",
     "Closing Date": "12/09/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1331,17 +1342,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "AMBER MOSS",
-    "Service Address": "9163 RAMONA AVE",
-    "Zip Code": "63121",
-    "Locator": "14K640069",
-    "Quote ID": "561731",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/03/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "ST LOUIS 3 2022 LLC",
     "Service Address": "9700 CEDAR GLEN DR",
     "Zip Code": "63114",
@@ -1408,17 +1408,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "ANGELIA BEATTIE",
-    "Service Address": "2679 IRONDALE DR",
-    "Zip Code": "63129",
-    "Locator": "31J640928",
-    "Quote ID": "561746",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/07/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "CONNIE L GOOCH",
     "Service Address": "1713 DELLWOOD CT",
     "Zip Code": "63136",
@@ -1463,6 +1452,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "JOSEPH E KRULL",
+    "Service Address": "1215 TELEGRAPH RD",
+    "Zip Code": "63125",
+    "Locator": "27H331516",
+    "Quote ID": "561975",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/09/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "CORNELIOUS JORDAN",
     "Service Address": "5567 HEBERT ST",
     "Zip Code": "63120",
@@ -1479,17 +1479,6 @@
     "Zip Code": "63147",
     "Locator": "43280200900",
     "Quote ID": "561933",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/09/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KALINDA PEARSON",
-    "Service Address": "4108 OREGON AVE",
-    "Zip Code": "63118",
-    "Locator": "26250001300",
-    "Quote ID": "561932",
     "Quote Amount": "Pending",
     "Closing Date": "12/09/2026",
     "Stage": "In Progress",
