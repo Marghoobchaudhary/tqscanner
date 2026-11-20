@@ -1221,6 +1221,50 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "CONNIE L GOOCH",
+    "Service Address": "1713 DELLWOOD CT",
+    "Zip Code": "63136",
+    "Locator": "11G211335",
+    "Quote ID": "561903",
+    "Quote Amount": "$8880.47",
+    "Closing Date": "12/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DORNAY MOODY",
+    "Service Address": "4537 NATURAL BRIDGE AVE",
+    "Zip Code": "63115",
+    "Locator": "44090202900",
+    "Quote ID": "561738",
+    "Quote Amount": "$10223.49",
+    "Closing Date": "12/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LOIS SYKES",
+    "Service Address": "1605 N 18TH ST",
+    "Zip Code": "63106",
+    "Locator": "23360001700",
+    "Quote ID": "561737",
+    "Quote Amount": "$16048.78",
+    "Closing Date": "12/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ROBT L OFFICER",
+    "Service Address": "1607 N 18TH ST",
+    "Zip Code": "63106",
+    "Locator": "23360001700",
+    "Quote ID": "561736",
+    "Quote Amount": "$0.00",
+    "Closing Date": "12/08/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "LAVINA FIELDS",
     "Service Address": "14521 ARPENT CT",
     "Zip Code": "63034",
@@ -1271,6 +1315,28 @@
     "Locator": "43890101200",
     "Quote ID": "561935",
     "Quote Amount": "$2577.19",
+    "Closing Date": "12/09/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CORNELIOUS JORDAN",
+    "Service Address": "5567 HEBERT ST",
+    "Zip Code": "63120",
+    "Locator": "59310004200",
+    "Quote ID": "561934",
+    "Quote Amount": "$9019.82",
+    "Closing Date": "12/09/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "BRAD MCKINNEY",
+    "Service Address": "8636 GOODFELLOW BLVD",
+    "Zip Code": "63147",
+    "Locator": "43280200900",
+    "Quote ID": "561933",
+    "Quote Amount": "$0.00",
     "Closing Date": "12/09/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1441,50 +1507,6 @@
     "Submitted By": "Cary Cary"
   },
   {
-    "Seller Name": "CONNIE L GOOCH",
-    "Service Address": "1713 DELLWOOD CT",
-    "Zip Code": "63136",
-    "Locator": "11G211335",
-    "Quote ID": "561903",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/08/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DORNAY MOODY",
-    "Service Address": "4537 NATURAL BRIDGE AVE",
-    "Zip Code": "63115",
-    "Locator": "44090202900",
-    "Quote ID": "561738",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/08/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LOIS SYKES",
-    "Service Address": "1605 N 18TH ST",
-    "Zip Code": "63106",
-    "Locator": "23360001700",
-    "Quote ID": "561737",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/08/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ROBT L OFFICER",
-    "Service Address": "1607 N 18TH ST",
-    "Zip Code": "63106",
-    "Locator": "23360001700",
-    "Quote ID": "561736",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/08/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "THOMAS SPIRO",
     "Service Address": "7215 CREVELING DR",
     "Zip Code": "63130",
@@ -1501,28 +1523,6 @@
     "Zip Code": "63125",
     "Locator": "27H331516",
     "Quote ID": "561975",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/09/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CORNELIOUS JORDAN",
-    "Service Address": "5567 HEBERT ST",
-    "Zip Code": "63120",
-    "Locator": "59310004200",
-    "Quote ID": "561934",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/09/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "BRAD MCKINNEY",
-    "Service Address": "8636 GOODFELLOW BLVD",
-    "Zip Code": "63147",
-    "Locator": "43280200900",
-    "Quote ID": "561933",
     "Quote Amount": "Pending",
     "Closing Date": "12/09/2026",
     "Stage": "In Progress",
