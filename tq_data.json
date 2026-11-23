@@ -1276,6 +1276,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "THOMAS SPIRO",
+    "Service Address": "7215 CREVELING DR",
+    "Zip Code": "63130",
+    "Locator": "18J510516",
+    "Quote ID": "562031",
+    "Quote Amount": "$2071.49",
+    "Closing Date": "12/09/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "ANDREW GRIFFIN",
     "Service Address": "7623 MISSION VALLEY DR",
     "Zip Code": "63123",
@@ -1304,6 +1315,17 @@
     "Locator": "28H641100",
     "Quote ID": "561986",
     "Quote Amount": "$530.61",
+    "Closing Date": "12/09/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "JOSEPH E KRULL",
+    "Service Address": "1215 TELEGRAPH RD",
+    "Zip Code": "63125",
+    "Locator": "27H331516",
+    "Quote ID": "561975",
+    "Quote Amount": "$906.80",
     "Closing Date": "12/09/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
@@ -1408,6 +1430,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "TOLEN & CHAQWANNA- BUCKINGHAM",
+    "Service Address": "6763 CHILHAM DR",
+    "Zip Code": "63033",
+    "Locator": "07F610293",
+    "Quote ID": "562036",
+    "Quote Amount": "$9117.97",
+    "Closing Date": "12/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "CONSTANCE SUSAN D WATKINS",
+    "Service Address": "4900 PATRICIA RIDGE DR",
+    "Zip Code": "63033",
+    "Locator": "09G540092",
+    "Quote ID": "562095",
+    "Quote Amount": "$7642.52",
+    "Closing Date": "12/15/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "BRIAN MONTGOMERY",
     "Service Address": "17059 CAMBURY LN",
     "Zip Code": "63040",
@@ -1426,6 +1470,17 @@
     "Quote ID": "561580",
     "Quote Amount": "$7477.87",
     "Closing Date": "12/16/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "DAVID BREWER",
+    "Service Address": "9513 ALDO DR",
+    "Zip Code": "63123",
+    "Locator": "26J241402",
+    "Quote ID": "562101",
+    "Quote Amount": "$2649.42",
+    "Closing Date": "12/17/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1503,61 +1558,6 @@
     "Quote ID": "561671",
     "Quote Amount": "Pending",
     "Closing Date": "12/07/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "THOMAS SPIRO",
-    "Service Address": "7215 CREVELING DR",
-    "Zip Code": "63130",
-    "Locator": "18J510516",
-    "Quote ID": "562031",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/09/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "JOSEPH E KRULL",
-    "Service Address": "1215 TELEGRAPH RD",
-    "Zip Code": "63125",
-    "Locator": "27H331516",
-    "Quote ID": "561975",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/09/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "TOLEN & CHAQWANNA- BUCKINGHAM",
-    "Service Address": "6763 CHILHAM DR",
-    "Zip Code": "63033",
-    "Locator": "07F610293",
-    "Quote ID": "562036",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/13/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "CONSTANCE SUSAN D WATKINS",
-    "Service Address": "4900 PATRICIA RIDGE DR",
-    "Zip Code": "63033",
-    "Locator": "09G540092",
-    "Quote ID": "562095",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/15/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DAVID BREWER",
-    "Service Address": "9513 ALDO DR",
-    "Zip Code": "63123",
-    "Locator": "26J241402",
-    "Quote ID": "562101",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/17/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
