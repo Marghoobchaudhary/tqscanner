@@ -1,148 +1,5 @@
 [
   {
-    "Seller Name": "ST LOUIS REDEVELOPMENT COMPANY",
-    "Service Address": "9544 WINKLER DR",
-    "Zip Code": "63136",
-    "Locator": "12G630580",
-    "Quote ID": "560198",
-    "Quote Amount": "$157.07",
-    "Closing Date": "11/22/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MARK STOUT",
-    "Service Address": "3 STORKWAY CT",
-    "Zip Code": "63031",
-    "Locator": "07K431249",
-    "Quote ID": "560115",
-    "Quote Amount": "$3880.31",
-    "Closing Date": "11/22/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "KENNETH MURER AIMEE &",
-    "Service Address": "453 PINE BEND DR",
-    "Zip Code": "63005",
-    "Locator": "19W330255",
-    "Quote ID": "560105",
-    "Quote Amount": "$3351.36",
-    "Closing Date": "11/22/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MARK HUSE",
-    "Service Address": "131 W ETTA AVE",
-    "Zip Code": "63125",
-    "Locator": "27G131801",
-    "Quote ID": "560087",
-    "Quote Amount": "$3951.43",
-    "Closing Date": "11/22/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "3211 PORTIS AVE INDUSTRIES LLC",
-    "Service Address": "3211 PORTIS AVE",
-    "Zip Code": "63116",
-    "Locator": "52790000400",
-    "Quote ID": "560047",
-    "Quote Amount": "$3545.76",
-    "Closing Date": "11/22/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "ANTHONY NUNLEY",
-    "Service Address": "8536 CONCORD PL",
-    "Zip Code": "63147",
-    "Locator": "56370001900",
-    "Quote ID": "560042",
-    "Quote Amount": "$1815.96",
-    "Closing Date": "11/22/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MLRS PROPERTIES LLC",
-    "Service Address": "4567 ARLINGTON AVE",
-    "Zip Code": "63120",
-    "Locator": "55620002000",
-    "Quote ID": "560037",
-    "Quote Amount": "$2141.71",
-    "Closing Date": "11/22/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "MELVEAN MAYO",
-    "Service Address": "3522 MISSOURI AVE",
-    "Zip Code": "63118",
-    "Locator": "15560000600",
-    "Quote ID": "560000",
-    "Quote Amount": "$801.28",
-    "Closing Date": "11/22/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "QLM ENTERPRISES LLC",
-    "Service Address": "6655 COVENTRY DR",
-    "Zip Code": "63033",
-    "Locator": "08F540113",
-    "Quote ID": "560354",
-    "Quote Amount": "$1052.75",
-    "Closing Date": "11/23/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "QLM ENTERPRISES LLC",
-    "Service Address": "13935 OLD HALLS FERRY RD",
-    "Zip Code": "63034",
-    "Locator": "07G430201",
-    "Quote ID": "560353",
-    "Quote Amount": "$763.90",
-    "Closing Date": "11/23/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "DEMETRIUS OWENS",
-    "Service Address": "6 SANDRINGHAM LN",
-    "Zip Code": "63135",
-    "Locator": "11H440613",
-    "Quote ID": "560352",
-    "Quote Amount": "$1685.36",
-    "Closing Date": "11/23/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "SARAH MURRAY",
-    "Service Address": "233 HILLSDALE DR",
-    "Zip Code": "63011",
-    "Locator": "22S140171",
-    "Quote ID": "560351",
-    "Quote Amount": "$733.66",
-    "Closing Date": "11/23/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "GEORGE SCHWABLE",
-    "Service Address": "720 LEMAY FERRY RD",
-    "Zip Code": "63125",
-    "Locator": "26G110782",
-    "Quote ID": "560118",
-    "Quote Amount": "$8436.05",
-    "Closing Date": "11/23/2026",
-    "Stage": "Pending Close",
-    "Submitted By": "Cary Cary"
-  },
-  {
     "Seller Name": "CONTINENTAL REAL ESTATE INVEST",
     "Service Address": "3640 PENNSYLVANIA AVE",
     "Zip Code": "63118",
@@ -1276,6 +1133,17 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "PATSY EAST",
+    "Service Address": "2123 ALFRED AVE",
+    "Zip Code": "63110",
+    "Locator": "59010002000",
+    "Quote ID": "562407",
+    "Quote Amount": "$1016.86",
+    "Closing Date": "12/09/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "THOMAS SPIRO",
     "Service Address": "7215 CREVELING DR",
     "Zip Code": "63130",
@@ -1430,6 +1298,28 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "G W SCHWOERER",
+    "Service Address": "4600 WEBER RD-63123",
+    "Zip Code": "63123",
+    "Locator": "26H440600",
+    "Quote ID": "562405",
+    "Quote Amount": "$1099.17",
+    "Closing Date": "12/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "FERRARIO SUSAN LOEHR ALLEN &",
+    "Service Address": "1812 LAFAYETTE AVE",
+    "Zip Code": "63104",
+    "Locator": "13310501700",
+    "Quote ID": "562375",
+    "Quote Amount": "$350.51",
+    "Closing Date": "12/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "TOLEN & CHAQWANNA- BUCKINGHAM",
     "Service Address": "6763 CHILHAM DR",
     "Zip Code": "63033",
@@ -1558,6 +1448,50 @@
     "Quote ID": "561671",
     "Quote Amount": "Pending",
     "Closing Date": "12/07/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "LEVI JOHNSON",
+    "Service Address": "10255 PANNELL DR",
+    "Zip Code": "63136",
+    "Locator": "11F431435",
+    "Quote ID": "562404",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/13/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "VIBRANT BLUE REALTY LLC",
+    "Service Address": "2134 E ALICE AVE",
+    "Zip Code": "63107",
+    "Locator": "35440000500",
+    "Quote ID": "562403",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/13/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "VIBRANT BLUE REALTY LLC",
+    "Service Address": "4435 RED BUD AVE",
+    "Zip Code": "63115",
+    "Locator": "35630001900",
+    "Quote ID": "562401",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/13/2026",
+    "Stage": "In Progress",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "ROBERT T GAMMON JR",
+    "Service Address": "4858 OLDENBURG AVE",
+    "Zip Code": "63123",
+    "Locator": "25H510818",
+    "Quote ID": "562369",
+    "Quote Amount": "Pending",
+    "Closing Date": "12/22/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   }
