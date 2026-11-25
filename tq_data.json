@@ -1309,6 +1309,39 @@
     "Submitted By": "Cary Cary"
   },
   {
+    "Seller Name": "LEVI JOHNSON",
+    "Service Address": "10255 PANNELL DR",
+    "Zip Code": "63136",
+    "Locator": "11F431435",
+    "Quote ID": "562404",
+    "Quote Amount": "$2369.76",
+    "Closing Date": "12/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "VIBRANT BLUE REALTY LLC",
+    "Service Address": "2134 E ALICE AVE",
+    "Zip Code": "63107",
+    "Locator": "35440000500",
+    "Quote ID": "562403",
+    "Quote Amount": "$0.00",
+    "Closing Date": "12/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "VIBRANT BLUE REALTY LLC",
+    "Service Address": "4435 RED BUD AVE",
+    "Zip Code": "63115",
+    "Locator": "35630001900",
+    "Quote ID": "562401",
+    "Quote Amount": "$4173.57",
+    "Closing Date": "12/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
     "Seller Name": "FERRARIO SUSAN LOEHR ALLEN &",
     "Service Address": "1812 LAFAYETTE AVE",
     "Zip Code": "63104",
@@ -1327,6 +1360,17 @@
     "Quote ID": "562036",
     "Quote Amount": "$9117.97",
     "Closing Date": "12/13/2026",
+    "Stage": "Pending Close",
+    "Submitted By": "Cary Cary"
+  },
+  {
+    "Seller Name": "STL ACQUISITION 1 LLC",
+    "Service Address": "345 CAMERON RD",
+    "Zip Code": "63137",
+    "Locator": "11E620212",
+    "Quote ID": "562408",
+    "Quote Amount": "$995.94",
+    "Closing Date": "12/14/2026",
     "Stage": "Pending Close",
     "Submitted By": "Cary Cary"
   },
@@ -1448,39 +1492,6 @@
     "Quote ID": "561671",
     "Quote Amount": "Pending",
     "Closing Date": "12/07/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "LEVI JOHNSON",
-    "Service Address": "10255 PANNELL DR",
-    "Zip Code": "63136",
-    "Locator": "11F431435",
-    "Quote ID": "562404",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/13/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "VIBRANT BLUE REALTY LLC",
-    "Service Address": "2134 E ALICE AVE",
-    "Zip Code": "63107",
-    "Locator": "35440000500",
-    "Quote ID": "562403",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/13/2026",
-    "Stage": "In Progress",
-    "Submitted By": "Cary Cary"
-  },
-  {
-    "Seller Name": "VIBRANT BLUE REALTY LLC",
-    "Service Address": "4435 RED BUD AVE",
-    "Zip Code": "63115",
-    "Locator": "35630001900",
-    "Quote ID": "562401",
-    "Quote Amount": "Pending",
-    "Closing Date": "12/13/2026",
     "Stage": "In Progress",
     "Submitted By": "Cary Cary"
   },
